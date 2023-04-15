@@ -1,1 +1,9 @@
 .svn
+.idea
+
+debian/files
+debian/flands.debhelper.log
+debian/flands.substvars
+debian/debhelper-build-stamp
+debian/flands
+debian/.debhelper
