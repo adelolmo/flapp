@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="771">
+	You stumble through the haze towards double doors of black
+	wood with huge copper rivets. They look like the doors of a
+	tomb. A tomb seen from the inside. To open the doors and
+	escape, you must
+	<difficulty ability="magic" level="15">
+		make a MAGIC roll at a Difficulty of 15
+	</difficulty>.
+	<outcomes>
+		<success section="99"/>
+		<failure section="723"/>
+	</outcomes>
+</section>

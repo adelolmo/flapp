@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="64">
+	<p>
+		You are restored to life at the Temple of Nagil in Wheatfields. Your Stamina is back to its normal score. The possessions and cash you were carrying at the time of your death are lost - <lose item="*" shards="*">cross them off</lose> your Adventure Sheet. Also remember to delete the entry in the Resurrection box now it has been used.
+	</p>
+	<p>
+		&#8216;Like fresh corn that grows after the burning of the stubble,&#8217; declares the high priest, &#8216;so also are Nagil&#8217;s followers restored to life eternal.&#8217;
+	</p>
+	<p>
+		You leave the temple and drink deeply from a fountain in the town square. <goto section="71"/>.
+	</p>
+</section>

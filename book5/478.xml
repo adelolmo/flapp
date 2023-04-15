@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="478">
+	<p>You are travelling across the wild countryside of Old Harkuna.</p>
+	<p><random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-5" section="258">Gypsies of Old Harkuna</outcome>
+		<outcome range="6-7" section="211">No event</outcome>
+		<outcome range="8-12" section="25">An unbidden visitation</outcome>
+	</outcomes>
+</section>

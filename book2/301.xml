@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="301" tag="temple">
+	<if god="Alvir and Valmir">
+		<tick codeword="2.301.1" hidden="t"/>
+	</if>
+	<else>
+		<lose codeword="2.301.1" hidden="t"/>
+	</else>
+	The temple of Alvir and Valmir is a great pillared edifice of
+	blazing white marble on the esplanade looking out over the bay.
+	The twin gods are responsible for storms at sea. In the nave of
+	the temple, a mural depicts them as fishers hauling up the souls
+	of the drowned in their nets.
+	<outcomes>
+		<outcome codeword="2.301.1" section="269">If an initiate</outcome>
+		<outcome section="292">If not an initiate</outcome>
+	</outcomes>
+</section>

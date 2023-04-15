@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="282">
+	<p>
+		Your men are overwhelmed and you are forced to surrender. You are disarmed, beaten savagely, and brought before Avar Hordeth. He is sitting in his cabin, nursing a nasty head wound. He eyes you grimly, wincing as one of his crew tends to his injuries.
+	</p>
+	<p>
+		&#8216;You blasted heap of stinking dung!&#8217; he roars. &#8216;I would kill you except that I&#8217;ve got a better idea.&#8217;
+	</p>
+	<p>
+		You are too weak to put up much of a fight. His men seize you, clap you in irons and throw you into the brig. You can hardly believe your misfortune - of all the people to meet on the high seas!
+	</p>
+	<p>
+		Avar Hordeth takes all the money and items you were carrying. <lose item="*" shards="*">Cross them off</lose> your Adventure Sheet. He also seizes your ship - <lose ship="?">cross that off</lose> as well.
+	</p>
+	<p>
+		&#8216;That should make up for what you did to me, matey!&#8217; says Hordeth.
+	</p>
+	<p>
+		You are taken to Yarimura, where Hordeth sells you to the city&#8217;s small navy. You are put to work as a galley slave, condemned to row under the lash. <goto section="222"/>.
+	</p>
+</section>

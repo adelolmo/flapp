@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="143">
+	<if codeword="Bounty">
+		If you have the codeword Bounty,
+		<lose codeword="Bounty">delete it</lose> and
+		<goto section="601"/>.
+	</if>
+	If not, <goto section="625"/>.
+</section>

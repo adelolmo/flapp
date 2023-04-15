@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="337">
+	Caught in a sudden downpour, you find shelter under the eaves
+	of a small shrine. When the sun emerges from behind the clouds
+	at last, it floods the wet fields with dazzling golden light. It is a
+	scene of breathtaking beauty. No wonder that the people of
+	Akatsurai revere all the gods of nature that surround them.
+	<choices>
+		<choice section="398">Go north to the forest</choice>
+		<choice section="221">Go south to the coast</choice>
+		<choice section="378">Go west towards Sakkaku</choice>
+		<choice section="672">Go east over the Moku River</choice>
+	</choices>
+</section>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="132">
+	You play the flute like never before. The king and the queen are enchanted by the haunting melodies you are able to coax from the enchanted flute. Unfortunately, you have played too well. The king puts you under a spell, so that you find you cannot stop. <difficulty ability="sanctity" level="11"/>.
+	<outcomes>
+		<success section="413"/>
+		<failure section="307"/>
+	</outcomes>
+</section>

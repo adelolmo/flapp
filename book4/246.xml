@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="246">
+	<p>
+		It is not a pleasant experience standing with the nomads as they watch their captive die. You know that to show distaste, however, would grievously offend them - and you have no desire to join the wretched man as he writhes and gasps towards his inevitable end.
+	</p>
+	<p>
+		The warriors give you jerky from their saddlebags, washed down with gulps of strong, sour kvass. <rest stamina="1">Recover 1 Stamina point</rest> if injured and,
+		<if profession="wayfarer">
+			if you are a Wayfarer,
+			<gain ability="charisma" amount="1">
+				gain 1 point of CHARISMA
+			</gain>
+			for learning a little of the strange nomadic customs.
+		</if>
+	</p>
+	<p>
+		Their victim dies at last. The nomads give a grunt of approval, jump into their saddles and ride off.
+	</p>
+	<p><goto section="52"/>.</p>
+</section>

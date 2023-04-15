@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="368" image="368.jpg">
+	<p>
+		<tick codeword="3.368.Unpaid" hidden="t"/>
+		The college library contains thousands of dusty tomes. Few of them have been properly catalogued.
+	</p>
+	<p>
+		&#8216;There&#8217;s something written about just about anything you could mention,&#8217; says the librarian, sweeping his hand along the stacks.
+	</p>
+	<p>
+		You peer towards the end of the room - except that it hasn&#8217;t got one. &#8216;Er ... the stacks look as if they go on for ever.&#8217; you say.
+	</p>
+	<p>The librarian nods. &#8216;They do. It&#8217;s a simple infinity spell.&#8217;</p>
+	<p>
+		<if shards="50">
+			<group force="t">
+				<text>Pay your library fees of 50 Shards</text>
+				<lose shards="50"/>
+			</group>
+			and then
+			<difficulty ability="magic" level="15">
+				make a MAGIC roll at a Difficulty of 15
+			</difficulty>
+			to see if you can find the book you&#8217;re after.
+		</if>
+	</p>
+	<outcomes>
+		<success section="386"/>
+		<choice section="607" box="3.368.Unpaid">
+			Failed MAGIC roll or unable to pay fees
+		</choice>
+	</outcomes>
+</section>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="417">
+	Sir Parpulax is of such obviously good character that everyone is
+	prepared to vouch for him. He suggests that perhaps it is you
+	who are the traitor.
+	<if title="Paladin of Ravayne">
+		If you have the title Paladin of Ravayne,
+		<goto section="492"/>.
+	</if>
+	<else>If not, <goto section="319"/>.</else>
+</section>

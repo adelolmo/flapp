@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="221">
+	<p>
+		There is
+		<buy cargo="spices" quantity="1" shards="0">
+			1 Cargo Unit of spices
+		</buy>
+		in the ship&#8217;s hold, which you can take if you have room for it. (You can, of course, jettison existing cargo to make room for it if you wish.)
+	</p>
+	<p>
+		The first mate reports finding no sign of life aboard the ship. &#8216;Looks like she was abandoned all of a sudden, captain,&#8217; he says. &#8216;We found a couple of things you might want.&#8217;
+	</p>
+	<p>
+		He hands you a
+		<item name="mariner's ruttier"><b>mariner&#8217;s ruttier</b></item>
+		and a <item name="smoulder fish"/>.
+		Note these items down if you want to keep them, then
+		<goto section="118"/>.
+	</p>
+</section>

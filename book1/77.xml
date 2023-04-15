@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="77">
+	<p>
+		<if god="Maka"><set var="cost" value="30"/></if>
+		<else><set var="cost" value="75"/></else>
+		&#8216;It is fortunate we have a Chosen One of Maka at this temple,&#8217; says the high priestess. &#8216;Only the Chosen Ones have the goddess-given powers to cure the afflicted!&#8217;
+	</p>
+	<p>
+		It costs 75 Shards - only 30 if you are an initiate of Maka - to be cured of a poison or a disease.
+		<if shards="cost">
+			Make any necessary payment and
+			<group>
+				<text>delete the disease or poison</text>
+				<lose shards="cost"/>
+				<lose disease="?"/>
+			</group>, and its effects, from your Adventure Sheet.
+		</if>
+		<goto section="141"/>.
+	</p>
+</section>

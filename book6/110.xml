@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="110">
+	<p>
+		Your prayers are answered; Akugenda&#8217;s vengeful ghost is snuffed out leaving only a wisp of brown smoke and the acrid smell of ozone.
+	</p>
+	<p>
+		Kiyomori looks at his men, most of whom are crouching back in terror, and then at you, standing boldly with your hand upraised to ward off evil.
+	</p>
+	<p>&#8216;Come down to my villa,&#8217; he says. &#8216;We&#8217;ll have supper.&#8217;</p>
+	<p>
+		You spend a pleasant evening dining on the veranda, which gives a majestic view out to sea. You have done well for yourself making friends with Kiyomori; he is the most powerful man in the country.
+	</p>
+	<p>
+		<tick codeword="Fleet">Get the codeword Fleet</tick>
+		and <goto section="362"/>.
+	</p>
+</section>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="403">
+	<p>
+		The ship plunges on as though hauled by sea demons. Indeed, some of your crew even claim to have caught glimpses of such creatures, which they say resemble giant horses with manes of green froth plunging neck-deep through the sea.
+	</p>
+	<p>
+		<random dice="2">
+			<adjust ship="barque" amount="-1"/>
+			<adjust ship="galleon" amount="1"/>
+		</random>.
+		Subtract 1 from the result if your ship is a barque; add 1 if she is a galleon.
+	</p>
+	<outcomes>
+		<outcome range="1-6" section="486">Abandon ship!</outcome>
+		<outcome range="7-13" section="468">The tempest passes</outcome>
+	</outcomes>
+</section>

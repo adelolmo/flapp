@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="767">
+	<p>
+		A troll emerges from behind a rock, casting his net to entangle you. His three heads converse on the topic of how you should be cooked:
+	</p>
+	<p>&#8216;Boiled!&#8217; declares the head with lurid red eyes.</p>
+	<p>&#8216;Pah! Stewed,&#8217; asserts the head with tusks.</p>
+	<p>&#8216;Roasted, surely?&#8217; suggests the smallest head.</p>
+	<choices>
+		<choice section="575">Join in the discussion</choice>
+		<choice section="647">Try to free yourself</choice>
+	</choices>
+</section>

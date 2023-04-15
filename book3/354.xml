@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="354">
+	The approaching vessel announces her hostile intent by hoisting
+	the baleful red pennant of the Reavers. Her oars give her a good
+	burst of speed over short distances, and she is soon bearing down
+	on you.
+	<choices>
+		<choice section="324">Make a run for it</choice>
+		<choice section="306">Parley</choice>
+		<choice section="286">Fight it out</choice>
+	</choices>
+</section>

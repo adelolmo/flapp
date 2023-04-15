@@ -1,0 +1,16 @@
+<section name="Melmoth the Outcast" profession="Wayfarer">
+	<p>
+		You were cast out of your homeland for something that no civilized country would regard as a crime.  Now you have dedicated yourself to roaming the world in search of a more tolerant people to settle among.  Perhaps you will find an end to your quest in Uttaku?
+	</p>
+	<p>
+		You can play as Melmoth, or as a wayfarer with a different name (enter it in the 'Name' field). To begin your adventure, <goto section="1" force="f"/>.
+	</p>
+	<p>For another profession, choose from the following:</p>
+	<choices>
+		<choice section="Nakir">Warrior</choice>
+		<choice section="Jadhak">Mage</choice>
+		<choice section="Anathema">Priest</choice>
+		<choice section="Domisellus">Troubadour</choice>
+		<choice section="Shen">Rogue</choice>
+	</choices>
+</section>

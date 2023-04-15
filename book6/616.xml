@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="616">
+	<p>
+		You counter the scholar&#8217;s illusion with magic of your own, erupting out of the painted screen amid flooding tendrils of smoke. He reels back, covering his face with his sleeve, and retaliates by sending out a glowing web of energy to ensnare your wits.
+	</p>
+	<p>
+		<difficulty ability="magic" level="16">
+			Make a MAGIC roll at a Difficulty of 16
+		</difficulty>.
+	</p>
+	<outcomes>
+		<success section="637"/>
+		<failure section="658"/>
+	</outcomes>
+</section>

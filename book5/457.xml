@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="457">
+	Since the release of the High King, Lake Rimewater has begun to thaw, and the price of rime ice has rocketed. The Ice Bazaar is running low on stock. Every satchel of <b>rime ice</b> you have will be bought for <sell item="rime ice" shards="350">350 Shards</sell>. <goto section="444"/>.
+</section>

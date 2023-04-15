@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="659">
+	<p>
+		You realise that you have absolute no chance of bringing the dead back to life. You simply have no idea what to do.
+	</p>
+	<p>
+		The lady says through gritted teeth, 'So, you claim to be a wizard, yet you are unable to bring my son back from the dead.'
+	</p>
+	<p>
+		She summons the Soulwatch, and demands that you are cast into the Red Garden.
+	</p>
+	<p>
+		<if title="blue skin|Masked Lord|Masked Lady">
+			If you have blue skin or the title Masked Lord or Masked Lady, <goto section="513"/>.
+		</if>
+		Otherwise, <goto section="470"/>.
+	</p>
+</section>

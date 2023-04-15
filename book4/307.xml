@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="307">
+	<if codeword="Dead">
+		If you have the codeword Dead, <goto section="565"/> immediately
+	</if>.
+	<if codeword="Divest">
+		If not, but you have the codeword Divest, <goto section="589"/>.
+	</if>
+	If you have neither codeword, <goto section="543"/>.
+</section>

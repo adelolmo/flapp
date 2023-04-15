@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="281">
+	<p>
+		You step through an arched door into a glasshouse that leads to a veranda overlooking the Garden of Exotic Fragrances.
+	</p>
+	<p>
+		A man dressed in ornate blue and green robes is directing a number of servants in the arts of looking after plants and creatures of the garden. Two of the butterfly lizards perch nearby, munching lazily on a large, fat roden they are sharing.
+	</p>
+	<p>
+		The Master of Nightingales comes over to speak with you. He wears a mask fashioned like a bird's head. He looks a little comical, because he has a long, flowing white beard that hangs down from behind his mask.
+	</p>
+	<p>
+		<if codeword="Elegant">If you have the codeword Elegant, <goto section="663"/>.</if> If not, <goto section="602"/>.
+	</p>
+</section>

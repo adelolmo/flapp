@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="333">
+<!-- a tricky section, because it contains an optional ability roll.
+     Even after the user has rolled, they can choose one of the other options.
+     I could separate this choice to roll into another sub-section, but for now
+     I'll leave at as is and see if anyone complains. -->
+     
+	<p>
+		You are beside the Rese River, which divides Old Harkuna from Golnir.
+		A barge here conveys passengers over to the east bank of the Rese and
+		the town of Marmorek, in Golnir, at a cost of 1 Shard.
+		<if book="2">
+		Alternatively you can swim across by
+		    <difficulty ability="scouting" level="12" force="f">
+		        making a SCOUTING roll at a Difficulty of 12
+		    </difficulty>. (The current is strong, and the water icy cold.)
+		</if>
+		Or you can head into Old Harkuna.
+	</p>
+	<choices>
+	        <success book="2" section="167"/>
+	        <failure section="64"/>
+		<choice book="2" section="167" shards="1">Pay</choice>
+		<choice section="17">Go north-west toward Spatterdash</choice>
+		<choice section="478">Head south-west into the country</choice>
+		<choice section="111">Follow the river south</choice>
+	</choices>
+</section>

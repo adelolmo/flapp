@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="638">
+	<p>
+		The instant you open it, you are blasted by a hideous faerie curse. Note you are suffering from the
+		<curse name="Curse of Vulnerability">
+			<effect ability="defence" bonus="-3"/>
+		</curse>.
+		Subtract 3 from your Defence until you can find a way to lift the curse. Inside the chest, however, you find a
+		<item name="scroll of Ebron"/>,
+		a <tool name="flute" ability="charisma" bonus="1"/> and a
+		<item name="potion of healing">
+			<effect type="use" uses="1" verb="Drink" description="+5 Stamina">
+				<desc>+5 Stamina</desc>
+				<rest stamina="5"/>
+			</effect>
+		</item>
+		which can be used at any time, once only, to restore up to 5 lost Stamina points.
+	</p>
+	<p><goto section="346"/>.</p>
+</section>

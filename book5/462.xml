@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="462">
+	<p>
+		You are set to work as an attendant in the Garden of Exotic Fragrances in the Spider Palace itself, high above the city. Servants are expected to remain hidden out of sight until called for, and you learn much about how to go unnoticed.
+	</p>
+	<p>
+		<training ability="thievery">Roll two dice</training>. If the result is higher than your THIEVERY rating, you can add one to that rating.
+	</p>
+	<p>
+		The refuse of the lords and ladies of the palace is disposed of through chutes. The rubbish is dumped into the slum quarters of the city below (where the poor scavenge what they can get from the rubbish).
+	</p>
+	<p>
+		One night, an old Uttakin courtier you are attending dies suddenly of natural causes! You get the chance to rob his room, and sneak down the rubbish chute.
+	</p>
+	<p><difficulty ability="thievery" level="14"/>.</p>
+	<outcomes>
+		<success section="96"/>
+		<failure section="208"/>
+	</outcomes>
+</section>

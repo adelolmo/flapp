@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="459">
+	<p>
+		Lauria is sleeping like an innocent babe. She barely murmurs in her sleep as you toss her over your shoulder and carry her down to the docks. There you find an Uttakin slaver who is delighted to buy her off you for <gain shards="150"/>. &#8216;She has very white skin,&#8217; he says appreciatively.
+	</p>
+	<p>You nod. &#8216;And a black heart.&#8217;</p>
+	<p>
+		<lose codeword="Anger">Lose the codeword Anger</lose>
+		and
+		<tick codeword="Civil">get the codeword Civil</tick>
+		in its place. Then <goto section="100"/>.
+	</p>
+</section>

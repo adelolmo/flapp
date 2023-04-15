@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="647" image="647.jpg">
+	Hundred-headed hydras arise from the sea on all sides. Hissing
+	venomously, they lash out to seize men from the decks.
+	<random dice="2">
+		<adjust crew="poor" amount="-2"/>
+		<adjust crew="good" amount="1"/>
+		<adjust crew="excellent" amount="2"/>
+	</random>;
+	add 2 if your crew quality is excellent, add 1 if it is good, and subtract 2 if it is poor.
+	<outcomes>
+		<outcome range="0-3">
+			Everyone is killed; <goto section="123"/>
+		</outcome>
+		<outcome range="4-6">
+			You alone survive; <goto section="700"/>
+		</outcome>
+		<outcome range="7-9">
+			Many losses;
+			<lose crew="3">reduce Crew Quality to poor</lose>
+			and <goto section="118"/>
+		</outcome>
+		<outcome range="10+">
+			The hydras are driven off; <goto section="448"/>
+		</outcome>
+	</outcomes>
+</section>

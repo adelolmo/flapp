@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="520">
+	The road leads in only one direction: east, to the capital. Few
+	travellers care to venture over the Chu River into the gobIin-infested
+	countryside of Oni Province.
+	<choices>
+		<choice section="500">Take the road to the capital</choice>
+		<choice section="378">Go north cross-country</choice>
+		<choice section="594">Go west across the Chu</choice>
+	</choices>
+</section>

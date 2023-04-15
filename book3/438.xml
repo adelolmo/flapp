@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="438">
+	You arrive at the coast to see your own ship riding at anchor. A
+	gang of pirates armed with whips are forcing your own sailors to
+	equip her as a war vessel. Your blood boils at the thought of the
+	Reavers using your ship for their own ends.
+	<choices>
+		<choice section="603">Charge in to rescue your men</choice>
+		<choice section="655">Reconnoitre the island first</choice>
+	</choices>
+</section>

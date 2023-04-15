@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="403" boxes="1">
+	<p>
+		<if ticks="1">
+			If there is a tick in the box, <goto section="229"/> immediately.
+		</if>
+		If not, <tick/> and read on.
+	</p>
+	<p>
+		You dump the head of Amcha One-Eye on the guildmaster&#8217;s desk. He stares at it in horror for a moment and then a look of joy crosses his features.
+	</p>
+	<p>
+		&#8216;At last! We are rid of that scourge of commerce! Well done, well done indeed!&#8217;
+	</p>
+	<p>
+		<lose item="Amcha's head">Cross <b>Amcha&#8217;s head</b> off</lose> your Adventure Sheet. The guildmaster pays for you to have special training. You can choose which area you would like to improve - you
+		<gain ability="?" amount="1">gain one point</gain> on one attribute of your choice (for example, +1 COMBAT).
+	</p>
+	<p>
+		When you are ready, you return to the city. &#8216;Come back anytime,&#8217; yells the guildmaster as you go. <goto section="100"/>.
+	</p>
+</section>

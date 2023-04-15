@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="541">
+	<p>
+		You stand firm, resolute in your faith. The phantom figure shrinks back, cowed by your divine power.
+	</p>
+	<p>
+		&#8216;I only seek to perform my allotted task, for am I not the Sentinel of the Empire?&#8217; it moans, suddenly contrite under your divinely inspired gaze.
+	</p>
+	<p>
+		&#8216;The Shadar empire sank beneath the seas of time a thousand years ago, and you should have gone with it,&#8217; you reply.
+	</p>
+	<p>
+		The phantom seems to hesitate, and then says, &#8216;I see that it is true. Perhaps, at last, I can rest.&#8217;
+	</p>
+	<p>
+		With that, it fades away with a ghostly wail. Instantly, the cold, green flames wink out, and you are left alone in the ruined tower.
+	</p>
+	<p>
+		Amid the debris you find an old banner, emblazoned with a golden sun, and a green gem worth 100 Shards. <tick codeword="Dispel"/> and note the <item name="banner of the Shadar"/>, and <gain shards="100"/> on your Adventure Sheet.
+	</p>
+	<p>You go back the way you came. <goto section="92"/>.</p>
+</section>

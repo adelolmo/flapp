@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="484">
+	<p>
+		You easily deflect the force of the flames, and make it look as if you have been engulfed in the righteous fires of retribution at the same time. The audience applaud your convincing act and the Conjuror of Amusements is pleased. You suffer minor burns, however: <lose stamina="1"/>.
+	</p>
+	<p>
+		Later, the conjuror rewards you by teaching you a few magical techniques - <training ability="magic">roll two dice</training> and if the result is higher than your MAGIC rating you can add one to that rating.
+	</p>
+	<p>
+		<!-- This is made tricky by the order -->
+		Your act has also enhanced your reputation in court circles. Turn to <b>401</b> and
+		<tick name="UttakuStatus" count="1">add 1 to your Status points</tick>
+		in the box provided. Then make a choice
+		<goto section="401">from there</goto>.
+	</p>
+</section>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="731">
+	<p>
+		They retaliate by hurling spells to distort the weather. The sky turns to the colour of burning pitch. Waves lash the sides of your ship. &#8216;Merciful gods!&#8217; cries the mate. &#8216;This is no natural storm. We&#8217;ve had it, skipper!&#8217;
+	</p>
+	<p>
+		To counter the wizards&#8217; spells, you must
+		<difficulty ability="magic" level="16">
+			make a MAGIC roll at a Difficulty of 16
+		</difficulty>.
+	</p>
+	<outcomes>
+		<success section="776"/>
+		<failure section="459"/>
+	</outcomes>
+</section>

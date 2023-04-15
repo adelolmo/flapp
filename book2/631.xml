@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="631">
+	<p>
+		<lose item="fishing hook">Cross the <b>fishing hook</b> off</lose>
+		your Adventure Sheet.
+	</p>
+	<p>
+		The hunters are so relieved at not having to face their wives empty-handed that they spend the rest of the morning teaching you how to fish. Try to roll higher than your current SCOUTING score on
+		<training ability="scouting" dice="2">two dice</training>, and if you succeed you can increase your SCOUTING by 1.
+	</p>
+	<p>You bid the hunters farewell. <goto section="371"/>.</p>
+</section>

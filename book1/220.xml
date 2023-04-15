@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="220" tag="temple">
+	<p>
+		The temple of Alvir and Valmir is built like an upside-down galleon. Alvir and Valmir are brother and sister, King and Queen of the Land beneath the Waves, masters of the sea. Their servants and soldiers are the souls of the drowned, and when seas are rough and storm-tossed, sailors say that Alvir and Valmir are arguing again.
+	</p>
+	<p>
+		<if codeword="Anchor">
+			If you have the codeword Anchor, <goto section="531"/>.
+		</if>
+	</p>
+	<p>
+		Otherwise, you notice a sign on the temple door, which says: &#8216;Wanted: brave adventurer - apply to the high priest.&#8217;
+		<tick codeword="StillInYellowport" hidden="t"/>
+	</p>
+	<choices>
+		<choice section="294">Become an initiate</choice>
+		<choice section="624">Renounce worship</choice>
+		<choice section="448">Seek a blessing</choice>
+		<choice section="411">Talk to the high priest</choice>
+		<choice section="10">Leave the temple</choice>
+	</choices>
+</section>

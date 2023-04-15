@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="670">
+	<p>
+		<lose codeword="BladeSeven" hidden="true"/>
+		Wood represents precision, care and a love of the natural world. While you have the sword of wood with you, raise your SCOUTING by 2. Note the
+		<weapon name="sword of wood">
+			<effect type="aura" ability="scouting" bonus="2"/>
+		</weapon>
+		on your Adventure Sheet.
+	</p>
+	<p>You swim back to shore. <goto section="268"/>.</p>
+</section>

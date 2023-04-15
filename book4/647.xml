@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="647" image="647.jpg">
+	<p>
+		Throughout a short day the sun has hovered in the west like a guttering candle, throwing long deep gullies of shadow across the bleak landscape. Now it dips lower, grazing the horizon, and frost starts to speckle the ground.
+	</p>
+	<p>
+		In the gathering twilight you see a band of nomads about four hundred strong. They ride on beasts that at a distance resemble bulls, but as they get closer you see their muzzles are like broad hairy parodies of human faces.
+	</p>
+	<p>
+		The outriders dismount, glaring at you. You see the nomads&#8217; distrust of strangers in their eyes. They plant themselves between you and their wagons. Then, jabbing the ground with their spears, they start to chant a shrill song.
+	</p>
+	<p>
+		&#8216;We are making the koa-kaon - the ceremony of marking the borders of our camp site,&#8217; growls one of them. &#8216;Begone, outlander!&#8217;
+	</p>
+	<p>
+		To convince them to let you remain with them during the night you must
+		<if profession="wayfarer" not="t">
+			<difficulty ability="charisma" level="15" force="f"/>
+		</if>
+		<else>
+			<text/>(or
+			<difficulty ability="charisma" level="13" force="f">Difficulty 13</difficulty> if you are a Wayfarer
+		</else>).
+	</p>
+	<outcomes>
+		<success section="474"/>
+		<choice section="595">Failed CHARISMA roll (or don't try)</choice>
+	</outcomes>
+</section>

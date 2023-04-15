@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="387">
+	<p>
+		You are enrolled in the janissaries, a battalion in the Uttakin army composed entirely of slave warriors. You are trained as a scout. <training ability="scouting"/>. If the result is higher than your SCOUTING rating, then you can add one to that rating.
+	</p>
+	<p>
+		That summer, a large warband of steppe nomads cross the mountains to raid Uttaku. The janissaries are dispatched along with several regiments of mercenaries to deal with the threat. You are sent on a mission to scout out the enemy positions.
+	</p>
+	<p><difficulty ability="scouting" level="14"/>.</p>
+	<outcomes>
+		<success section="476"/>
+		<failure section="665"/>
+	</outcomes>
+</section>

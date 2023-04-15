@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="66">
+	<p>
+		The armoury in Castle Ravayne resounds with the clamour of hammers on anvils. The artisans here provide arms and armour for the greatest knights of Golnir. You can buy top-quality equipment, or sell anything you do not need:	</p>
+	<market>
+		<header type="armour"/>
+		<armour name="leather" bonus="1" buy="50" sell="45"/>
+		<armour name="ring mail" bonus="2" buy="100" sell="90"/>
+		<armour name="chain mail" bonus="3" buy="200" sell="180"/>
+		<armour name="splint armour" bonus="4" buy="400" sell="360"/>
+		<armour name="plate armour" bonus="5" buy="800" sell="720"/>
+		<armour name="heavy plate" bonus="6" buy="1600" sell="1440"/>
+
+		<header type="weapon"/>
+		<weapon bonus="0" buy="50" sell="40"/>
+		<weapon bonus="1" buy="250" sell="200"/>
+		<weapon bonus="2" buy="500" sell="400"/>
+		<weapon bonus="3" buy="1000" sell="800"/>
+	</market>
+	<p>
+		When you have finished any business you want to do here in the armoury, <goto section="315"/>.
+	</p>
+</section>

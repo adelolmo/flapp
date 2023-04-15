@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="243">
+	You are in Banshu District, the heart of Akatsurai, where the
+	land climbs slowly towards the great Urushi Range.
+	<choices>
+		<choice section="195">Join the road to the north</choice>
+		<choice section="359">Venture into the mountains</choice>
+		<choice section="124">Visit the Clearwater Shrine</choice>
+		<choice section="438">Go east</choice>
+	</choices>
+</section>
+

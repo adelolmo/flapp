@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="255">
+	<p>
+		<if codeword="Erebus|Evade">If you have have the codeword Erebus or Evade (or both), <goto section="16"/> immediately.</if> If not, read on.
+	</p>
+	<p>
+		You are taken to the slave pits of Aku. But the master of minions, the overseer of the slaves, recognises you are a lord of the Court of Hidden Faces, favoured by the king. You are instantly released and receive a grovelling apology.
+	</p>
+	<p><goto section="444"/>.</p>
+</section>

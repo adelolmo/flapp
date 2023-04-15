@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="653">
+	You are travelling across the green countryside of Old Harkuna. Nearby is the ancient castle of the High King.
+	<choices>
+		<choice section="61">Visit the High King's Seat</choice>
+		<choice section="574">Leave the area</choice>
+	</choices>
+</section>

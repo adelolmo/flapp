@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="565">
+	<p>
+		Since Avar Hordeth's unfortunate demise at sea, his villa has fallen to rack and ruin. Everything valuable has been looted.
+	</p>
+	<p><goto section="280"/>.</p>
+</section>

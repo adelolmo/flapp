@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="366">
+	<p>You find him tending to the finest of the riding beasts.</p>
+	<p>
+		&#8216;These are the fineitri, which means cousins in our tongue,&#8217; he says. &#8216;From them we get fur to make rope, hides for our tents, bone for our bows and meat to fill our bellies.&#8217;
+	</p>
+	<p>You gaze into the strange, sad, half-human face of the beast.</p>
+	<p>&#8216;They are your cattle, then?&#8217;</p>
+	<p>
+		He gives a snort. &#8216;Much more than cattle, as those who do not wander understand the term. We respect the fineitri and must slay them only according to a sacred ritual that ensures the beast&#8217;s spirit goes safely on to the next world. According to our myths, the first fineitri and the first man were brothers.&#8217;
+	</p>
+	<p>
+		With some effort you stifle a yawn. The rigours of the day are catching up with you. Making your apologies to the chief, you go off to find a place to sleep. <goto section="394"/>.
+	</p>
+</section>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="225">
+	You find a cave, with piles of human bones outside it. However, it is quite empty without signs of habitation - the beast that lived here is dead or departed. You make your way back down to Blessed Springs. <goto section="510"/>.
+</section>

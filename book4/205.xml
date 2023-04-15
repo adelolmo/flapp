@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="205">
+	A merchant from Golnir is prepared to take you to Imperial Chambara but you need <i>Lords of the Rising Sun</i> to travel there.
+	<if book="6">
+		If you have, <lose shards="65">cross off the 65 Shards</lose> and turn to <goto book="6" section="79"/>.
+	</if>
+	If not, <goto section="141"/>.
+</section>

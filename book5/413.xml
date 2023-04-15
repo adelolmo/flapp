@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="413">
+	<p>
+		As soon as you walk into the Hall of Heroes, Misgee, chained though he is, throws himself on the floor and cries out, 'Help, help! This one's in league with Grindel! He has returned to slay us all!'
+	</p>
+	<p>
+		With oaths and curses the farmers and adventurers leap up, drawing swords and readying pitchforks. Bylewyn Buskle eyes you through hooded eyelids and reaches for an iron mace he keeps under the bar.
+	</p>
+	<p>'Kill the traitor!' he shouts.</p>
+	<p>
+		You had best talk fast to get yourself out of this one, and persuade them that Buskle is the only traitor round here.
+	</p>
+	<p><difficulty ability="charisma" level="13"/>.</p>
+	<outcomes>
+		<success section="671"/>
+		<failure section="521"/>
+	</outcomes>
+</section>

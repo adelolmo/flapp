@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="548">
+	<p>
+		The armoury is run by the Thunderhead Clan, whose members maintain a proud tradition stretching back five hundred years. They will not make a suit of armour for just anybody. You have to convince them you are worthy by paying
+		<lose shards="50" price="x"/> and
+		<difficulty ability="charisma" level="21" flag="x">
+			making a CHARISMA roll at a Difficulty of 21<adjust codeword="Fuchsia" amount="2"/>
+			<adjust codeword="Fleet" amount="2"/>
+			<adjust codeword="Frog" amount="2"/>
+		</difficulty>.
+		You can add 2 to the dice roll for having each of these codewords: <i>Fuchsia</i>, <i>Fleet</i> and <i>Frog</i>.
+		<success>
+			If you&#8217;re accepted you can buy one suit of armour only at the following prices.
+		</success>
+	</p>
+	<market sell="f">
+		<armour name="leather" bonus="1" buy="25"/>
+		<armour name="ring mail" bonus="2" buy="75"/>
+		<armour name="chain mail" bonus="3" buy="150"/>
+		<armour name="splint armour" bonus="4" buy="280"/>
+		<armour name="plate armour" bonus="5" buy="600"/>
+	</market>
+	<p>When you have finished your business here, <goto section="572"/>.</p>
+</section>

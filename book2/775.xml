@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="775">
+	<p>
+		Throwing open the door, you shiver as a gust of wind blows cold drizzle in your face. &#8216;Well, hurry up and enter, then!&#8217; you call out irritably.
+	</p>
+	<p>
+		&#8216;Thank you,&#8217; says a tall gentleman in a cloak. He sweeps past you into the room, showing a smile with rather too many sharp white teeth, and waits for you to close the door.
+	</p>
+	<p>
+		You have a nasty feeling about this. You cannot reach your belongings (including armour and weapons) because the stranger is standing between you and the hearth.
+	</p>
+	<choices>
+		<choice section="387">Run out into the night</choice>
+		<choice section="412">Go back to bed</choice>
+	</choices>
+</section>

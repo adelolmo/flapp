@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="257">
+	You find a cliff where the crevices give off metallic glints. You can gather as many
+	<item name="silver nugget" quantity="12"><b>silver nuggets</b></item>
+	as you can carry (a maximum of twelve, if you have no
+	other possessions). When you are ready to descend the mountain,
+	<goto section="275"/>.
+</section>

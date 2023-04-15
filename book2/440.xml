@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="440">
+	<p>
+		<set var="lights" item="?" tags="light" value="matches"/>
+		<set var="candles" item="?" tags="light,useonce" value="matches"/>
+		<if var="candles" equals="lights">
+			<lose item="?" tags="light,useonce">
+				Cross off the <b>candle</b>
+			</lose>
+			if you&#8217;re using it, as it can be used only once.
+		</if>
+		Exploring the castle, you find a library containing many dusty tomes. There is a tingle of sorcery in the stale air. If you want to read a book,
+		<random dice="2" force="f"/>:
+	</p>
+	<outcomes>
+		<outcome range="2-5" section="529"/>
+		<outcome range="6-8" section="554"/>
+		<outcome range="9-12" section="579"/>
+	</outcomes>
+	<p>When you are ready to leave, <goto section="314"/>.</p>
+</section>

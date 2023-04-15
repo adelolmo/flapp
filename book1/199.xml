@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="199" boxes="1">
+	<p>
+		<if ticks="1">
+			If there is a tick in the box, <goto section="634"/> immediately.
+		</if>
+		If not, <tick/>, and read on.
+	</p>
+	<p>
+		A strange, vaguely humanoid shape, flickering with energy, soars down to attack you. You must fight.
+	</p>
+	<fight name="Storm Demon" combat="3" defence="6" stamina="8"/>
+	<p>
+		If you win, it fades away, leaving a clear blue jewel, worth <gain shards="200"/>. Note the money on your sheet directly.
+	</p>
+	<p>
+		If you lose, it&#8217;s the end of you, unless you have a <resurrection>resurrection deal</resurrection>.
+		If you still live, there&#8217;s nothing else up here, so you climb down again. <goto section="658"/>.
+	</p>
+</section>

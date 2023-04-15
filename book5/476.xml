@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="476">
+	You discover the nomad raiders as they prepare to sack a nearby village.
+	<choices>
+		<choice section="607">Return to the army and make your report</choice>
+		<choice section="355">Use this chance to escape</choice>
+	</choices>
+</section>

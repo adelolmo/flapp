@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="403">
+	<p>
+		The chief mage lives in a ramshackle building on the edge of town. He is a kindly old man, rheumy eyed but keen of brain, called Runciman.
+	</p>
+	<p>
+		<if codeword="Dove">
+			If you have the codeword Dove, <goto section="395"/> immediately.
+		</if>
+		If not, read on.
+	</p>
+	<p>
+		The job of chief mage is mostly ceremonial, and isn&#8217;t taken that seriously in the City of Mystery, but he still has to carry out certain tasks. At the sight of you, he visibly brightens.
+	</p>
+	<p>
+		&#8216;Aha!&#8217; he exclaims. &#8216;You look like a capable young adventurer. We&#8217;ve need of someone like you.&#8217;
+	</p>
+	<p>
+		He explains that the mages of the Isle of Mystery are researching the arcane arts of the Shadar, an ancient race that ruled Harkuna thousands of years ago. They want you to find the Runestone, a Shadar stone stela carved with sigils.
+	</p>
+	<p>
+		&#8216;Make a copy of the runes, and bring it to me,&#8217; says Runciman. &#8216;In return, we can help you improve your magical knowledge. The Runestone is known to be somewhere on the steppes.&#8217;
+	</p>
+	<p>
+		If you take up the quest, <tick codeword="Draw" force="f"/>. When you are ready, you leave. <goto section="274"/>.
+	</p>
+</section>

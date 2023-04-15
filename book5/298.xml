@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="298">
+	<p>
+		You come to a deserted crossroads. A single gibbet with a grinning white skeleton swings in the wind here with a rusty squeaking.
+	</p>
+	<p>
+		<if codeword="Ectoplasm">
+			If you have the codeword Ectoplasm, note this paragraph number down and <goto section="356"/>.
+		</if>
+		If not, nothing happens. <goto section="358"/>.
+	</p>
+</section>

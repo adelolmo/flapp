@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="73">
+	<p>
+		<lose codeword="3.73.1" hidden="t"/>
+		Luckily they are drunk to the point of staggering, and you can fight one after the other instead of all at once.
+	</p>
+	<fight name="First Mutineer" combat="6" defence="9" stamina="9"/>
+	<fight name="Second Mutineer" combat="5" defence="7" stamina="5"/>
+	<fight name="Third Mutineer" combat="5" defence="7" stamina="6"/>
+	<p>
+		<flee>
+			If you try to run off you will be struck with a final flurry of blows inflicting <lose stamina="2d">2-12 Stamina points</lose> (the score of two dice).
+			<if dead="f"><tick codeword="3.73.1" hidden="t"/></if>
+		</flee>
+	</p>
+	<choices>
+		<choice box="3.73.1" section="44">Beat a retreat</choice>
+		<choice section="16">Stay and win</choice>
+	</choices>
+</section>

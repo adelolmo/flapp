@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="786">
+	<p>
+		The militiamen seize you. &#8216;I can&#8217;t believe it!&#8217; gasps their sergeant in disgust. &#8216;What&#8217;s the world coming to when murderers openly wander about the countryside showing off their handiwork?&#8217;
+	</p>
+	<p>
+		You appeal to the severed head to explain, but it chooses to keep its opinions to itself. The militiamen are now convinced you are mad as well as evil. You will have a hard time convincing them otherwise. Try to
+		<difficulty ability="charisma" level="16">
+			make a CHARISMA roll at a Difficulty of 16
+		</difficulty>.
+	</p>
+	<outcomes>
+		<success section="483"/>
+		<failure section="458"/>
+	</outcomes>
+</section>

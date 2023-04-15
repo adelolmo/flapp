@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="623">
+	You witness a group of soldiers executing a criminal by means of
+	an old ordeal called the Blood Eagle. This involves cutting open
+	the chest and draping the lungs back over the shoulders like gory
+	wings. It takes the victim quite some time to die. You find the
+	spectacle so salutary that you
+	<lose ability="thievery" amount="1">
+		lose 1 from your THIEVERY score
+	</lose>.
+	<goto section="223"/>.
+</section>

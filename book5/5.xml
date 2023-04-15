@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="5">
+	<p>
+		You reach an area of the wood where small clumps of ice-berries hang from crystal branches - they look like clear blue marbles. Tiny creatures sit among the branches sucking the juice from the berries and throwing the skins on to the ground. You pay little heed to this until three particularly noisy ones start chirruping and throwing the berry skins at you. You tell them to stop and they sit staring at you, sniffing the air with a look of disgust on their tiny white faces. They are skirits - a common frost sprite, relatively harmless but divilishly mischievous. They are no more than eight inches tall, with pointed features, spindly limbs and long thin fingers. The only useful thing about skirits is that they know everything that happens in the woods and forests they live in.
+	</p>
+	<choices>
+		<choice section="47">Carry on your way</choice>
+		<choice section="62">Ask them for information</choice>
+	</choices>
+</section>

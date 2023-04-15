@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="706">
+	The easternmost shore of Akatsurai. Beyond lies only the
+	limitless cobalt expanse of the Unbounded Ocean, where each
+	morning the sun is reborn from the underworld and begins a
+	new day&#8217;s dying.
+	<choices>
+		<choice section="446">Go north along the coast</choice>
+		<choice section="174">Go south to Kumo Province</choice>
+		<choice section="674">Go west towards Kaiju</choice>
+		<choice section="245">Go up into the mountains</choice>
+	</choices>
+</section>

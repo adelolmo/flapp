@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="329">
+	You search high and low, but the stolen items are nowhere to
+	be found.
+	<lose shards="*" item="*">
+		Cross all cash and possessions off
+	</lose>
+	your Adventure Sheet, then <goto section="154"/>.
+</section>

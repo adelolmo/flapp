@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="134">
+	<p>'Bah! Worthless rogue!' cries the masked noble.</p>
+	<p>
+		The group leaves, with the young noble insisting to his lady friend that you were afraid to fight him, rather than being short of cash.
+	</p>
+	<p><goto section="101"/>.</p>
+</section>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="247">
+	You are sailing along the north coast of Yodoshi, largest of the
+	Akatsurese islands. &#8216;Where shall I set our course?&#8217; asks the first
+	mate.
+	<choices>
+		<choice section="268">Put into Narai harbour</choice>
+		<choice section="100">Head west</choice>
+		<choice section="684">Head east</choice>
+	</choices>
+</section>

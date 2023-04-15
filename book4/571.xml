@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="571">
+	<p>
+		The knight has fallen and lies there barely moaning. With luck he will live. His feline mount gives you a smouldering sidelong look, growls, and slinks away.
+	</p>
+	<p>
+		You can take the knight&#8217;s <weapon name="sword" bonus="2"/> and his <armour name="heavy plate" bonus="6"/>.
+	</p>
+	<p>
+		The way is clear, but your men haven&#8217;t the courage to accompany you further.
+	</p>
+	<p>&#8216;We&#8217;ll guard your back, skipper,&#8217; says the bosun lamely.</p>
+	<choices>
+		<choice section="191">Return to the ship</choice>
+		<choice section="467">Press on alone</choice>
+	</choices>
+</section>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="79">
+	<p>
+		During the day, you undertake several wrestling bouts.
+		<random dice="3">
+			<adjust ability="combat" modifier="noweapon"/>
+		</random>, and add your COMBAT rating (not including any item bonuses, obviously).
+	</p>
+	<outcomes>
+		<outcome range="3-9">
+			Lose <lose shards="50"/> and
+			<lose stamina="1d">1-6 points of Stamina</lose>
+		</outcome>
+		<outcome range="10-15">
+			Lose <lose shards="25"/>
+		</outcome>
+		<outcome range="16-17">
+			Win <gain shards="25"/>
+		</outcome>
+		<outcome range="18+">
+			Win <gain shards="50"/>, lose
+			<lose stamina="1d">1-6 points of Stamina</lose>
+		</outcome>
+	</outcomes>
+	<p>When you are ready, you leave the bazaar. <goto section="444"/>.</p>
+</section>

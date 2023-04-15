@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="91">
+	<p>
+		The gleam that comes suddenly into her eyes, combined with the sweat glistening on her throat, makes her look feverish and wild. &#8216;The goddesses will ensure your account is settled,&#8217; she says before sinking wearily back on the divan.
+	</p>
+	<p>
+		<tick special="difficultyCurse" hidden="t"/>
+		You leave the temple under a curse. From now on you can use only one die when making any ability roll. This curse will last until you visit the temple of the Three Fortunes in Metriciens, whereupon it will be lifted. Note above the Abilities box on your Adventure Sheet: &#8216;Use one die for ability rolls until Three Fortunes temple visited in Metriciens.&#8217;
+	</p>
+	<p>Now <goto section="44"/>.</p>
+</section>

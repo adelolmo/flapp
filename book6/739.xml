@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="739">
+	The Sovereign is gravely ill. His doctors do not expect him to
+	last the night.
+	<if item="royal sceptre">
+		If you possess a <b>royal sceptre</b> and are prepared to offer it to save his life, <goto section="65"/>.
+	</if>
+	Otherwise, <goto section="114"/>.
+</section>

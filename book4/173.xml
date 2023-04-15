@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="173" boxes="1">
+	<p>
+		<if ticks="1">
+			If there is a tick in the box, <goto section="631"/> immediately.
+		</if>
+		If not, <tick/>, and read on.
+	</p>
+	<p>
+		Your lookout spots a drifting piece of sodden timber. Clinging to it is a man; he is holding on to the wood with the last of his strength. His face is bearded and scarred, and he is missing one ear. You know that captured pirates are often punished in this way. The man is, or certainly was, a pirate.
+	</p>
+	<p>'Huh,' grunts your first mate. 'Once a pirate, always a pirate.'</p>
+	<choices>
+		<choice section="74">Pick him up</choice>
+		<choice section="236">Leave the pirate to his fate and sail on</choice>
+	</choices>
+</section>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="725">
+	<p>
+		You find seven simpletons weeping beside a stream. &#8216;Oh woe!&#8217; cries one. &#8216;Our friend is missing - we think he&#8217;s drowned.&#8217;
+	</p>
+	<p>&#8216;You think he&#8217;s drowned? You don&#8217;t know for sure?&#8217;</p>
+	<p>
+		&#8216;We only noticed him missing when it was time for us to go home. We counted ourselves to check if we were all here, but even though seven left this morning, now there are but six.&#8217; He counts his friends: &#8216;One, two, three, four, five, six. You see?&#8217;
+	</p>
+	<p>You point out that he&#8217;s forgotten to count himself.</p>
+	<p>
+		&#8216;So no one drowned at all!&#8217; they say, brightening up. &#8216;How can we ever repay you?&#8217;
+	</p>
+	<p>&#8216;For what?&#8217;</p>
+	<p>&#8216;Why, for saving our poor drowned friend.&#8217;</p>
+	<p>
+		You cannot help laughing at their idiocy. This is a story you can dine on for weeks.
+		<training ability="charisma"/>. If the total is higher than your CHARISMA score, increase your CHARISMA score by 1. Then <goto section="265"/>.
+	</p>
+</section>

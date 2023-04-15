@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="120">
+	<p>
+		&#8216;Have you heard?&#8217; says an excited youth as he goes by. &#8216;The chancellor&#8217;s men have caught that villainous wizard Akugenda the Unseen. They&#8217;re going to try and execute him at Shingen, but I&#8217;ll bet he&#8217;s got a few tricks up his sleeve yet.&#8217;
+	</p>
+	<p>
+		&#8216;Shingen is a long way off,&#8217; you reply, unimpressed. &#8216;The news might be out of date, and Akugenda already a year in his grave.&#8217;
+	</p>
+	<p>He shrugs and walks off. <goto section="396"/>.</p>
+</section>

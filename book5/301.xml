@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="301">
+	<p>
+		The Master of the Documents of Fable is waiting for you in a veritable rage. 'By Ebron, you're a shirker - get writing, now! There are only a few weeks left until the Grand Telling!'
+	</p>
+	<p>
+		You explain about the treasure map, and the ice dragon. 'Hmm, interesting, there's no doubt. Well, at least you can write it up!' says the master, somewhat mollified. You hurry on with the story of your exploits. <tick name="EpistleWeeks" count="1">Add 1 to the running total of weeks</tick> spent on the book.
+	</p>
+	<p>
+		One day, you are taking a well-earned break in the Garden of Exotic Fragrances when a strange, glowing ball of energy appears in the air. It opens out into an inter-dimensional doorway between the many planes of existence. Out of it step three figures: a bald man with mad, staring eyes, wearing a suit of steel armour and a belt hung with many magical items; a hawk-nosed wizard in red robes, with a pet demon; and a huge, hulking warrior holding a sword that burns with crimson fire.
+	</p>
+	<p>'This isn't right,' says the wizard looking around.</p>
+	<p>
+		The bald man raises his eyes to the heavens and mutters something unintelligible; the warrior appears to be talking to his sword. They turn around, step back through the magic portal and disappear. But the portal remains hanging in the air. Looking through, you can see a dark chamber on the other side, heaped with chests of coins and gems, suits of armour, swords and all manner of magical weapons.
+	</p>
+	<choices>
+		<choice section="205">Take a chance and leap through</choice>
+		<choice section="249">Return to the archive and write</choice>
+	</choices>
+</section>

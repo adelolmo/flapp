@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="601">
+	<p>
+		You settle down in the common room for a drink. There is a familiar face at the next table. It is one of the brigands who robbed you! With a cry of rage, you give him a hearty blow with the bottom of your tankard.
+	</p>
+	<fight name="Brigand" combat="4" defence="5" stamina="2"/>
+	<p>
+		You ought to be able to beat him after getting the first blow. Assuming you win, you can take the <gain shards="25"/> he has on him. Then you had better leave before the militiamen turn up and start asking questions. <goto section="189"/>.
+	</p>
+</section>

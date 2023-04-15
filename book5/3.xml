@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="3">
+	<p>
+		You step forward bravely, and call out a challenge. The door slams open, and out steps a huge, man-shaped reptilian beast. Its scaly skin is a greenish hue, and its hands end in massive, iron-hard talons. The face is like that of a lizard, with coal-black eyes, and a red crest running from the top of his head, all the way down his back and along the heavily muscled tail.
+	</p>
+	<p>
+		'By Ebron's snot!' bellows Grindel in a booming voice. 'Not another god-cursed would-be hero. Why do you people keep coming here time after time. What is it with you hairy, ugly little monkey-people!' Grindel picks up a tree trunk by the door, and hefts it like a mace. He glares at you. 'Come on then, though we don't have to fight, you know.'
+	</p>
+	<choices>
+		<choice section="409">Attack him</choice>
+		<choice section="650">Ask him why he keeps eating people</choice>
+	</choices>
+</section>

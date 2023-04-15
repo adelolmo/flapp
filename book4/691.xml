@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="691" image="691.jpg">
+	<p>
+		You pass the <b>witch&#8217;s hand</b> and the <b>parrot fungus</b> across the table to Bakhan.
+		<group>
+			<text>Cross them off</text>
+			<lose item="witch's hand"/>
+			<lose item="parrot fungus"/>
+		</group> your Adventure Sheet. Bakhan hisses in delight, and shuffles out of the room. Some hours later, a woman with ice-blue eyes, and long black hair, serene and beautiful, walks in.
+	</p>
+	<p>
+		&#8216;I am Bakhan,&#8217; she says in a voice like honey. &#8216;I cannot thank you enough. Bring me some selenium ore, and I will fashion you a gift as a token of my gratitude.&#8217;
+	</p>
+	<p><tick codeword="Drake">Acquire the codeword Drake</tick>.</p>
+	<p>
+		<if item="selenium ore">
+			If you have some <b>selenium ore</b>, <goto section="259"/>.
+		</if>
+		If not, you leave. <goto section="10"/>.
+	</p>
+</section>

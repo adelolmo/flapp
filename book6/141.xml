@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="141">
+	You only succeed in frightening the creatures away. With
+	disgruntled squawks they fling themselves off the tower and go
+	flapping heavily off into the woods.
+	<choices>
+		<choice section="92">Investigate the main building</choice>
+		<choice section="398">Leave the shrine</choice>
+	</choices>
+</section>

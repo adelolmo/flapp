@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="668">
+	<p>
+		You are led to a rockface in the mine. You start digging. <random/> and consult the table.
+	</p>
+	<outcomes>
+		<outcome range="2-4">
+			Rockfall! You <lose stamina="2">lose 2 Stamina</lose>
+		</outcome>
+		<outcome range="5-8">No luck, and your hour is up</outcome>
+		<outcome range="9-12">A <item name="silver nugget"/>!</outcome>
+	</outcomes>
+	<p>
+		When you are finished (if you are still alive), you leave the Bronze Hills.
+	</p>
+	<choices>
+		<choice section="400">To Caran Baru</choice>
+		<choice section="47">South into the Forest of Larun</choice>
+		<choice section="333">West to the River Grimm</choice>
+		<choice section="276">North into the Western Wilderness</choice>
+	</choices>
+</section>

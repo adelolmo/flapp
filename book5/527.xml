@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="527">
+	<p>
+		Black clouds gather above you, and vomit forth a maelstrom of rain, wind and lightning upon you.
+	</p>
+	<p>
+		<random dice="2">
+			<adjust ship="galleon" value="1"/>
+			<adjust ship="barque" value="-1"/>
+			<adjust crew="excellent" value="1"/>
+			<adjust crew="poor" value="-1"/>
+			<adjust ability="rank" greaterthan="5" value="1"/>
+		</random>, and add one if your ship is a galleon.
+		If it's a barque subtract one.
+		Add one if your crew is excellent,
+		and subtract one if your crew is poor.
+		Also add one if your Rank is 6 or more.
+	</p>
+	<outcomes>
+		<outcome range="0-4" section="510">Your ship sinks</outcome>
+		<outcome range="5-15" section="660">Blown off course</outcome>
+	</outcomes>
+</section>

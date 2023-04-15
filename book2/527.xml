@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="527">
+	<p>
+		You carelessly set off an alarm in the form of a large gold-plated gong moulded into a solar face. It must be one of the miraculous creations of the wizard Estragon, because it is banging itself loudly and shouting &#8216;Intruder!&#8217; in a tinny voice.
+	</p>
+	<p>
+		The sentries come running. You are hauled off to the dungeon in chains. <goto section="365"/>.
+	</p>
+</section>

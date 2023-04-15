@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="66">
+	<p>
+		You make it safely on to the roof. Luroc nods, slapping you on the back. Silently, you both steal into the inner courtyard below, where a fountain bubbles merrily.
+	</p>
+	<p>
+		Lurking in the shadowed cloisters, you and Luroc descend a stairway that leads below the villa. At the bottom, you find a set of heavy bronze doors, and a guard. Fortunately, he is snoring loudly. Luroc explains that the guard has been drugged by Floril. Luroc tries the door, and it swings open - again, Floril's work. You step into the treasure chamber of Avar Hordeth.
+	</p>
+	<p><goto section="88"/>.</p>
+</section>

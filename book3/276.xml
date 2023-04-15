@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="276" image="276.jpg">
+	<p>
+		The merchant known as Moon of Evening will never forget how you saved her life. She takes you into her household and embellishes you with body paint and a
+		<if item="cloak of feathers" not="t">
+			<item name="cloak of feathers"/>
+		</if>
+		if you did not already have one. You can also stay here with her family as long as you like - if injured,
+		<rest>restore your Stamina</rest> to its normal unwounded score.
+	</p>
+	<p>
+		&#8216;Are you staying in Smogmaw?&#8217; asks Moon of Evening&#8217;s brother, a handsome fellow known as Dances with Boas. &#8216;I know a merchant who&#8217;ll take you upriver if you like.&#8217;
+	</p>
+	<choices>
+		<choice book="7" section="475">Go with the merchant</choice>
+		<choice section="295">Stay in town for now</choice>
+	</choices>
+</section>

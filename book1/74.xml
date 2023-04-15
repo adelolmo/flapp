@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="74">
+	<lose codeword="StillInYellowport" hidden="t"/>
+	A fisherman will take you all the way to Yellowport for 15 Shards.
+	<lose shards="15">Cross the money off</lose> your Adventure Sheet.
+	Amazingly, despite the apparent fragility of the small vessel, you arrive without incident. <goto section="10"/>.
+</section>

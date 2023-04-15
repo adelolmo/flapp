@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="290">
+	You come across a hole in the earth created by a recently fallen meteorite. Smoke billows out, and the ground around the crater hisses and bubbles. You go over to inspect it, but the heat is terrible.
+	<choices>
+		<choice section="383">Go closer</choice>
+		<choice section="74">Leave it and journey on</choice>
+	</choices>
+</section>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="140">
+	<p>
+		You are dead. If you have a resurrection deal,
+		<group>
+			<text>turn to the section noted</text>
+			<resurrection/>
+			<lose shards="*" item="*" ship="t"/>
+		</group>
+		on your Adventure Sheet after first erasing your current possessions, money and any details on the Ship&#8217;s Manifest.
+	</p>
+	<p>
+		If you don&#8217;t have a resurrection arranged, this is the end and you can only start afresh with a new character. First make sure to erase all ticks, codewords and Adventure Sheet details in all your <i>Fabled Lands</i> books. You can begin again at <b>1</b> in any of the books in the series.
+	</p>
+</section>

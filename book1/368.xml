@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="368">
+	Becoming an initiate of Maka gives you the benefit of paying less for blessings and other services the temple can offer. It costs 50 Shards to become an initiate. You cannot become an initiate of Maka if you are already an initiate of another temple.
+	<if safeAddGod="Maka"><if shards="50">
+			If you choose to become an initiate,
+			<group>
+				<text>write Maka in the God box</text>
+				<lose shards="50"/>
+				<tick god="Maka"/>
+			</group>
+			on your Adventure Sheet - and remember to cross off the 50 Shards.
+	</if></if>
+	Once you have finished here, <goto section="141"/>.
+</section>

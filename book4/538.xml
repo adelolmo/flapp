@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="538">
+	<p>
+		Tossing one end of the rope to the bosun and the other to the first mate, you plant yourself directly in the knight&#8217;s path. Your doughty crewmen immediately see what you have in mind. Rushing to either side, they pull the rope taut so that the lion trips. Its head slams into the planks of the bridge with stunning force and the rider goes sailing through the air overhead to land in a clattering heap. But a moment later he staggers to his feet and woozily draws his sword, still determined to challenge your right to pass.
+	</p>
+	<fight name="Sir Leo" combat="8" defence="20" stamina="6"/>
+	<choices>
+		<choice section="571">Fight him and win</choice>
+		<choice section="191" flee="t">Retreat to the ship</choice>
+	</choices>
+</section>

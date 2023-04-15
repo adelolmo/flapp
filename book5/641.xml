@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="641">
+	<p>
+		The master recognises you as the one who brought him the silver nightingale. You can hear its sweet song in the background. He is pleased to see you, but he has no further need of your talents.
+	</p>
+	<p>You return to the audience chamber. <goto section="401"/>.</p>
+</section>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="130">
+	<p>
+		'You are impure. You may not enter until you have been purified in the Hall of Ablution,' grates one of the guardian priests. He points to a nearby building that looks like a bathhouse.
+	</p>
+	<choices>
+		<choice section="444">Return to the city centre</choice>
+		<choice section="496">Go to the Hall of Ablution</choice>
+	</choices>
+</section>

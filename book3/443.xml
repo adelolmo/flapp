@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="443">
+	<p>It is Targdaz, your personal sorcerer.</p>
+	<p>
+		&#8216;Still gallivanting about on the high seas?&#8217; he says. &#8216;There are much more interesting things afoot back home. I&#8217;m on my way there now. Want a ride?&#8217;
+	</p>
+	<p>&#8216;What about the ship?&#8217;</p>
+	<p>
+		&#8216;I&#8217;m sure these fellows are capable of sailing it to port without you to tell them what to do.&#8217;
+	</p>
+	<choices>
+		<choice section="405">Fly off on Targdaz&#8217;s horse</choice>
+		<choice section="135">Decline his offer</choice>
+	</choices>
+</section>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="183" boxes="1">
+	<p>
+		The vessel is listing badly and not worth salvaging, but you send a party across to see if she has any cargo.
+	</p>
+	<p>
+		<if ticks="0">
+			If the box above is empty,
+			<tick>put a tick in it</tick> and <goto section="202"/>.
+		</if>
+		If the box was already ticked, <goto section="221"/>.
+	</p>
+</section>

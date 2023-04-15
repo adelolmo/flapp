@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="389">
+	<p><random dice="1"/> to see what you find amid the offerings.</p>
+	<outcomes>
+		<outcome range="1,2">
+			<weapon name="Shadar spear" bonus="2"/> and a
+			<tool name="flute" ability="charisma" bonus="1"/>
+		</outcome>
+		<outcome range="3,4">
+			<armour name="plate armour" bonus="5"/> and a
+			<item name="wolf pelt"/>
+		</outcome>
+		<outcome range="5,6">
+			<item name="faery mead"/> and a
+			<tool name="silver holy symbol" ability="sanctity" bonus="2"/>
+		</outcome>
+	</outcomes>
+	<p>
+		However, you have desecrated the shrine of Tambu, and have incurred his wrath. <lose ability="scouting" amount="1">Lose one point of SCOUTING</lose> permanently. Now <goto section="118"/>.
+	</p>
+</section>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="250">
+	<p>
+		The city of Trefoille is a terrifying vision of apocalyptic destruction. It had once been a thriving crossroads town, but now it is a burnt-out hulk. It was almost razed to the ground when it declared for the late king, during the recent civil war, and tried to hold out against the army of Grieve Marlock, the current Protector-General of Sokara. It was then sacked by the general&#8217;s mercenaries, and General Marlock is now trying to rebuild it - craftsmen are hard at work everywhere.
+	</p>
+	<p>
+		<if codeword="Amends">
+			If you have the codeword Amends, and want to visit Oliphard the Wizardly, <goto section="656" force="f"/>.
+		</if>
+		Otherwise there is nothing here but ashes and rubble.
+	</p>
+	<choices>
+		<choice section="602">Take the road to the Shadar Tor</choice>
+		<choice section="377">Take the road to Marlock City</choice>
+		<choice section="175">Head into the Curstmoor</choice>
+		<choice section="558">Take the road north</choice>
+		<choice section="233">Take the road to Yellowport</choice>
+	</choices>
+</section>

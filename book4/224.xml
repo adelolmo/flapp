@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="224">
+	<p>
+		You are deep in the western steppes and night is falling. To the west, you see something glitter on the horizon - the Rimewater. To the south, the mountains of the Spine of Harkun rise up heavenwards.
+	</p>
+	<p>
+		You are not far enough north for the cold to be a serious problem, but you still need to hunt for food.
+		<difficulty ability="scouting" level="11"/>.
+		<success>
+			If you succeed, you bring down a mountain goat to eat.
+		</success>
+		<failure>
+			If you fail, you go hungry and must
+			<lose stamina="1">lose 1 Stamina point</lose>.
+		</failure>
+	</p>
+	<p>If you still live, in the morning you set off.</p>
+	<choices>
+		<choice section="266">East</choice>
+		<choice section="29">North</choice>
+		<choice section="320">West to the Rimewater</choice>
+		<choice section="100">Climb the mountains to the south</choice>
+	</choices>
+</section>

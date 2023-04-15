@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="625">
+	<p>
+		There are many colleges, each distinguished in its own field. Fortuity College has a high reputation in the study of charms and benedictions. Carminry College is for the study of magic as a means of curing illness. Fulgur College specializes in the conjuring of storms. And so on...
+	</p>
+	<p>
+		Whichever college you decide to apply for, the procedure is the same. First you are subjected to an examination which decides how holy you are. You have to try to drive off a vexatious sprite using only a display of self-righteous indignation, wax pompously on the topic of other people's ethics, curdle milk with a beatific smile, speculate uselessly for hours on what the gods really intended when they made Man, and so forth.
+	</p>
+	<p>
+		<difficulty ability="sanctity" level="14">
+			Make a SANCTITY roll at a Difficulty of 14
+		</difficulty>.
+	</p>
+	<outcomes>
+		<success section="661"/>
+		<failure section="679"/>
+	</outcomes>
+</section>

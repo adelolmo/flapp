@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="402">
+	<p>
+		Gaman Monastery consists of dozens of small buildings with low-pitched roofs standing beside a grove of fir trees.
+	</p>
+	<p>
+		<set var="s" value="sanctity" modifier="natural"/>
+		You are given a cell containing a bed mat, a book of sutras, and a pitcher of water. In common with the other monks, you eat only twice a day - a bowl of rice, a dish of pickled vegetables, and a mug of soup. All the same, you soon feel refreshed and alert. Your studies continue apace.
+		<random dice="2" var="x"/>, and
+		<if var="x" greaterthan="s">
+			if you get higher than your SANCTITY score then
+			<gain ability="sanctity" amount="1">increase it by 1</gain>.
+		</if>
+		<elseif var="x" equals="s">
+			However, if you roll exactly equal to your SANCTITY then you get bored with the rituals of devotion and must
+			<lose ability="sanctity" amount="1">lose a point</lose>.
+		</elseif>
+	</p>
+	<p><goto section="422"/>.</p>
+</section>

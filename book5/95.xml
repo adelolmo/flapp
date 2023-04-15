@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="95">
+	<p>
+		You are sailing in the bay of the Ruby River. The sea is stained like blood here, as the rust-rich waters of the river billow into the sea.
+	</p>
+	<p>
+		'Some say it is the blood of the god Harkun, when he was cast from heaven, and fell to earth - his bones are the mountains, and his blood the rivers,' mumbles the ship's chaplain.
+	</p>
+	<choices>
+		<choice section="60">Steer east</choice>
+		<choice section="200">Steer west to the waters off Aku</choice>
+		<choice book="3" section="39">Steer south into the Violet Ocean</choice>
+	</choices>
+</section>

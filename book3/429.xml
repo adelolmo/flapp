@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="429">
+	<p>
+		The wind dies away, leaving the sails sagging. At first the crew jokes about getting a break from duties, but days turn to weeks and the wind does not pick up. All around the sea lies as flat as a mirror. The mood of the crew is grim; many wonder if they will die here, out of sight of land.
+	</p>
+	<p>
+		You take a drink of water from the barrel on deck. It is the last cupful. Without a wind you are surely doomed. You and your officers could strike out for the mainland in the cutter, but that would mean abandoning the rest of the men.
+	</p>
+	<choices>
+		<choice section="391">Whistle a tune</choice>
+		<choice section="520">Abandon ship in the cutter</choice>
+		<choice section="590">Stay with your crewmen</choice>
+	</choices>
+</section>

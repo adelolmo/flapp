@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="629">
+	<p>
+		Some of the items stored on deck were not properly lashed down, and got swept overboard during the night.
+		<if cargo="?">
+			<lose cargo="?">Lose one Cargo Unit</lose> if you are carrying any cargo - if you have more than one Unit, you can choose which is lost.
+		</if>
+		<else>
+			If you had no cargo,
+			<group force="t">
+				<text>lose 1-6 of your possessions</text>
+				<random dice="1" var="x"/>
+				<lose item="?" multiple="x"/>
+			</group>
+			instead.
+		</else>
+	</p>
+	<p>Now <goto section="190"/>.</p>
+</section>

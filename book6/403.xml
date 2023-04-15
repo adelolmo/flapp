@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="403">
+	<p>
+		You drive off the creature with a spell that causes strong winds to disperse the dark cloud. The next morning you report to the Sovereign: &#8216;The creature will not trouble you again, your majesty. It was sent by an evil man who plots your destruction, but you are safe now because I have caused the curse to rebound on the one who sent it.&#8217;
+	</p>
+	<p>
+		A few days later, Lord Masayori is obliged to retire from court life because his skin has erupted in weeping sores that smell like rotten fish. Others say how awful it is, but you know Masayori has got his just deserts.
+	</p>
+	<p><goto section="423"/>.</p>
+</section>

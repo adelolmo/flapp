@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="707">
+	Instead of sails, the wizards&#8217; ship is propelled by a peculiar web
+	of thin copper wires that produces a subsonic hum. You see the
+	three wizards who command the ship standing in the prow,
+	above a figurehead shaped like the snout of a sabre-spined
+	dragon. Their long robes of blue and violet silk are decorated
+	with patterns of silver filigree.
+	<choices>
+		<choice section="731">Attack the wizards</choice>
+		<choice section="755">Go alongside and hail them</choice>
+		<choice section="335">Sail on</choice>
+	</choices>
+</section>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="507">
+	<p>
+		You recite some holy scriptures and the redcaps immediately retreat, wailing mournfully. As they flee, one drops a small sack. Inside you find a <item name="Shadar scroll"/> and some <item name="faery mead"/>. The scroll is mundane, but may have some value to a collector of Shadar antiquities. Note them on your Adventure Sheet.
+	</p>
+	<p>The rest of the night passes peacefully. <goto section="144"/>.</p>
+</section>

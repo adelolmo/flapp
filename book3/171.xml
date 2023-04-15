@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="171">
+	<p>
+		You estimate your position to be a little way north of the estuary of the Great River that cleaves across Ankon-Konu, separating the western desert and mountains from the thick foetid jungles of the east.
+	</p>
+	<p>&#8216;What course, captain?&#8217; asks the mate.</p>
+	<choices>
+		<choice section="244">North</choice>
+		<choice book="8" section="300">South</choice>
+		<choice section="189">East</choice>
+		<choice section="468">West</choice>
+	</choices>
+</section>

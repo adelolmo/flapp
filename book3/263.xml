@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="263">
+	<p>
+		An offshore wind brings the scent of strange blossoms, dead vegetation and the stink of malarial swamps.
+	</p>
+	<p>
+		&#8216;The Weeping Jungle,&#8217; declares the mate gloomily. &#8216;My brother lost his life in that pest-infested wilderness.&#8217;
+	</p>
+	<p>
+		The quartermaster expresses a sceptical view: &#8216;I heard your brother died in a tavern brawl in Ringhorn.&#8217;
+	</p>
+	<p>
+		&#8216;Bah!&#8217; The mate stamps off to his cabin. You begin to worry about the crew&#8217;s morale. <random type="travel"/>.
+	</p>
+	<outcomes>
+		<outcome range="2-4" section="612">Mutiny!</outcome>
+		<outcome range="5-8" section="282">A quiet voyage</outcome>
+		<outcome range="9-10" section="176">Pirates</outcome>
+		<outcome range="11-12" section="483">Divine intervention?</outcome>
+	</outcomes>
+</section>

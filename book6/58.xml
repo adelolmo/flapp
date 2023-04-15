@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="58">
+	At one end of the bridge are the huts of the rivermen who live
+	on the outskirts of Sakkaku. The other opens on to level
+	countryside with only a few distant farms in sight.
+	<choices>
+		<choice section="522">Go east to Sakkaku</choice>
+		<choice section="568">Go west</choice>
+	</choices>
+</section>

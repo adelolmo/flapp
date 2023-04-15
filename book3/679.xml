@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="679">
+	<p>
+		The Master of the College has you in for a sherry. Waving you to a deep leather armchair that makes a serious bid at engorging you, he scans your exam papers and says: &#8216;You seem unsure about anything at all. Most of the metaphysical questions you&#8217;ve just answered with a Don&#8217;t Know. The sprite liked you so much that it&#8217;s taken up residence in your coat pocket - and your smile, instead of curdling the milk, almost froze it.&#8217;
+	</p>
+	<p>You look at him uncertainly. &#8216;Does that mean&#8211;?&#8217;</p>
+	<p>
+		He grins and seizes your hand. &#8216;You&#8217;ll be a model student! Welcome to the college.&#8217;
+	</p>
+	<p>
+		<group>
+			<text>Turn to <b>571</b></text>
+			<tick codeword="3.571.1"/>
+			<goto section="571"/>
+		</group> and put a tick in the box by the college option there.
+	</p>
+</section>

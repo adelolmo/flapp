@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="508">
+	<p>
+		The shaman points north, then south; east, then west. &#8216;Search all four corners of the plain, and in between you&#8217;ll find the fane,&#8217; he cackles.
+	</p>
+	<p>
+		You suck your teeth, finding the reply confusing but no more cryptic than you&#8217;d expect from any shaman or wizard. Since the old man now seems to be getting tired, you return to the camp to find a bed for the night. <goto section="394"/>.
+	</p>
+</section>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="39">
+	You come across a tall stone slab, set into the side of a hill. A rune has been carved on it, which you reckon to be the mark of the trau, creatures of the underworld.
+	<choices>
+		<choice section="573">Knock on the slab</choice>
+		<choice section="102">Leave</choice>
+	</choices>
+</section>

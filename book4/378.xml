@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="378">
+	<p>
+		You find a partly submerged cave that contains the rotting body of a giant sea spider. There is nothing else of interest.
+	</p>
+	<p>
+		You leave, and head back to your ship. High tide comes, refloating your ship, and you sail on.
+	</p>
+	<p><goto section="471"/>.</p>
+</section>

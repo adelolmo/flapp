@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="545">
+	<p>
+		You give the order to trim sail, sculling silently closer to the Reavers&#8217; stronghold under cover of darkness. The lookout points to lights twinkling at the back of a wide bay. &#8216;There, cap&#8217;n!&#8217; he says.
+	</p>
+	<p>
+		&#8216;How do you want to play it?&#8217; asks the first mate. &#8216;A frontal assault, or go in sneaky-like?&#8217;
+	</p>
+	<choices>
+		<choice section="510">Sail straight into the bay</choice>
+		<choice section="528">Drop anchor out beyond the headland</choice>
+		<choice section="164">Make for open ocean</choice>
+	</choices>
+</section>

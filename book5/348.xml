@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="348">
+	<p>
+		A troop of bearded and unwashed pilgrims approaches you. They are whipping themselves with ropes, and crying out phrases such as 'We are not worthy' and 'Forgive us, great Ebron, for our foul sins' or 'Pain and suffering is the way to Ebron's heart'.
+	</p>
+	<p>
+		They are members of a fanatic sect of the Church of Ebron called The Flagellants of the Soul, whose members believe that they can earn the goodwill of their god through pain. Obviously, they are quite mad.
+	</p>
+	<p>
+		<if title="Masked Lord|Masked Lady|blue skin">If you have the title Masked Lord or Masked Lady, or if you have blue skin, <goto section="58"/>.</if> If not, <goto section="529"/>.
+	</p>
+</section>

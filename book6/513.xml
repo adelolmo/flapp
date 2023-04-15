@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="513">
+	<p>
+		The raven slips out of its cage and, taking the rope in its beak, flies swiftly in circles around the giant. Just as it is tying the knots, the giant opens a bleary eye. &#8216;What&#8217;s going on?&#8217; he says in a voice like a hippopotamus gargling with mud.
+	</p>
+	<p>
+		&#8216;Quick&#8217; says the raven. &#8216;Kill him before he breaks the rope.&#8217;
+		<difficulty ability="combat" level="14">
+			Make a COMBAT roll of Difficulty 14
+		</difficulty>
+		to do the deed in time.
+	</p>
+	<outcomes>
+		<success section="549"/>
+		<failure section="712"/>
+	</outcomes>
+</section>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="726">
+	<set var="bonus" value="armour"/>
+	They have an accomplice in hiding who shoots you with an arrow.
+	<random dice="1" var="x">
+		<adjust amount="-bonus"/>
+	</random>
+	and subtract your armour&#8217;s Defence bonus (if you have any armour). The remainder is
+	<lose stamina="x">the number of Stamina points you lose</lose>.
+	The third brigand then leaps up to join his comrades. Fight them one after the other:
+	<tick codeword="2.726.1" hidden="t"/>
+	<fight name="First Brigand" combat="5" defence="6" stamina="4"/>
+	<fight name="Second Brigand" combat="4" defence="5" stamina="4"/>
+	<fight name="Third Brigand" combat="3" defence="4" stamina="3"/>
+	<!--<lose codeword="2.726.1" hidden="t"/>-->
+	<choices>
+		<choice section="353">Defeat them</choice>
+		<choice section="384" box="2.726.1">Surrender and beg for mercy</choice>
+	</choices>
+</section>

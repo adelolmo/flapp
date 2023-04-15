@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="562">
+	Blue Cap roars angrily, and attacks you with the pickaxe.
+	<fight name="Blue Cap" combat="8" defence="6" stamina="22"/>
+	If you lose, <goto section="7" dead="t"/>.
+	If you win, <goto section="248"/>.
+</section>

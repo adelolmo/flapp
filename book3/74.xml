@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="74">
+	<p>
+		<tick special="lock" cache="3.74" hidden="t"/>
+		The shack consists of a bamboo hut raised above the ground on stout poles to protect it from flooding. The roof is palm thatch. It is simple but comfortable.
+	</p>
+	<p>Each time you return, <random/>.</p>
+	<outcomes>
+		<outcome range="2-6">Everything is safe</outcome>
+		<outcome range="7-8">
+			A thief has <lose shards="*" cache="3.74">taken any money</lose> left here
+		</outcome>
+		<outcome range="9-10">
+			Fire has
+			<group force="t">
+				<text>destroyed the shack and its contents</text>
+				<lose item="*" shards="*" cache="3.74"/>
+				<lose codeword="3.44.1"/>
+			</group>
+		</outcome>
+		<outcome range="11+">Squatters, <goto section="113"/></outcome>
+	</outcomes>
+	<p>
+		<if codeword="3.44.1">
+			<tick special="unlock" cache="3.74" hidden="t"/>
+			You can <rest>rest here</rest> if injured (restore your Stamina to its normal unwounded score). You can also leave money and possessions here to save having to carry them around with you. Make a note in the box below of anything you are leaving at the shack.
+		</if>
+	</p>
+	<p>
+		When you&#8217;ve finished at your shack, <goto section="44"/>. Remember to erase the tick next to the shack option there if your home was destroyed by fire.
+	</p>
+	<itemcache name="3.74" text="Items in shack"/>
+</section>

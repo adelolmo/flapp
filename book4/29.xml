@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="29">
+	To the west, the endless monotony of the undulating steppes is broken by the River of Destiny, its half-frozen waters flowing sluggishly to the Rimewater. <random type="travel" dice="2"/>.
+	<outcomes>
+		<outcome range="2-5" section="705">A caravan</outcome>
+		<outcome range="6-7" section="676">No event</outcome>
+		<outcome range="8-12" section="382">A black stallion</outcome>
+	</outcomes>
+</section>

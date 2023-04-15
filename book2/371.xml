@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="371">
+	You are walking the riverbank beside the clear gurgling waters
+	of the fast-flowing Rainbow River.
+	<choices>
+		<choice section="303">Head upstream</choice>
+		<choice section="30">Head cross-country to the west</choice>
+		<choice section="122">Head cross-country to the east</choice>
+		<choice section="168">Head downstream to Conflass</choice>
+	</choices>
+</section>

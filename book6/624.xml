@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="624">
+	<p>
+		You take shelter for the night in a cave that turns out to be occupied by an old bear. It lumbers forward with a growl, its shaggy coat blurring into a deep darkness at the back of the cave.
+		<if item="?" tags="light" not="t">
+			<tick special="attack" bonus="-2" hidden="t"/>
+			You must fight it at a penalty of -2 to COMBAT unless you have a source of light such as a <b>lantern</b> or <b>candle</b>.
+		</if>
+	</p>
+	<fight name="Bear" combat="7" defence="11" stamina="17"/>
+	<p>If you win, you can continue on your way; <goto section="529"/>.</p>
+</section>

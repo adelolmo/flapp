@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="564">
+	<p>
+		They fear you might tell the authorities about them. Three of them step forward slowly, moving with the slow crab-like crouch of wrestlers. You get ready to fight, but you did not notice the smuggler creeping up behind you. He dashes a large stone against your skull and you fall stunned.
+	</p>
+	<p>
+		The smugglers demand a ransom of 100 Shards to let you go. Otherwise they intend to truss you up and put you aboard the Uttakin ship that brought their contraband.
+		<lose codeword="2.289.r" hidden="t"/>
+		<lose codeword="2.530.r" hidden="t"/>
+		<tick codeword="2.564.r" hidden="t"/>
+		<lose codeword="3.157.r" hidden="t"/>
+		<lose codeword="3.218.r" hidden="t"/>
+	</p>
+	<choices>
+		<choice section="229">Pay the ransom</choice>
+		<choice book="5" section="321">Can&#8217;t or won&#8217;t pay</choice>
+	</choices>
+</section>

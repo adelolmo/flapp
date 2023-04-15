@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="239">
+	You vault nimbly on to the stallion's glossy black back. The steed will take you wherever you want to go on the plains, and then it will leave, galloping off into the sky.
+	<choices>
+		<choice section="280">City of Yarimura</choice>
+		<choice section="266">City of Ruins</choice>
+		<choice section="320">The Rimewater</choice>
+		<choice section="669">Tigre Bay</choice>
+		<choice section="535">The Ruby Citadel</choice>
+		<choice section="145">Near Beladai's Camp</choice>
+		<choice section="666">Get off, and stay here</choice>
+	</choices>
+</section>

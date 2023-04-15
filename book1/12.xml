@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="12">
+	<p>
+		You tell them a story of tragic love between a merman and a human princess. The mer-folk are moved to shed briny tears, and one of them plants a languorous kiss on your lips.
+	</p>
+	<p>
+		You find that you can indeed breathe underwater now. The mer-folk lead you into the depths, where they swim playfully around you.
+	</p>
+	<p>
+		Suddenly, a hideous form looms out of the murk. It is like a giant squid, but it carries a spear in one of its many tentacles and wears rudimentary armour. Great black eyes shine with an implacable alien intelligence. The mer-folk dart away in fright, leaving you alone with the creature.
+	</p>
+	<p>
+		<if codeword="Anchor">
+			If you have the codeword Anchor, <goto section="116"/>.
+		</if>
+		Otherwise, <goto section="238"/>.
+	</p>
+</section>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="388">
+	<p>
+		The shade seems as overjoyed as such a being can be. It gives you directions to recognise the correct tomb.
+	</p>
+	<p><tick codeword="Eerie">Tick the codeword Eerie</tick> and <goto section="260"/>.</p>
+</section>

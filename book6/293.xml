@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="293">
+	<p>
+		Sakkaku is famous for being the home of the god Dosojin, overseer of the many roads and remote trails. He is the patron god of travellers. His shrine is an imposing structure of black wood decorated with polished silver plaques.
+	</p>
+	<p>
+		To obtain a blessing you must
+		<group>
+			<text>pay 45 Shards and make a CHARISMA roll at a Difficulty of 14</text>
+			<lose shards="45"/>
+			<difficulty ability="charisma" level="14">
+				<adjust profession="wayfarer" amount="4"/>
+			</difficulty>
+		</group>
+		(or Difficulty 10 if you&#8217;re a Wayfarer).
+		<success>
+			On a successful roll you get a blessing of
+			<tick blessing="travel"/>
+			which you can write in the Blessings box on your Adventure Sheet. This blessing allows you to reroll the dice once when travelling to a new region, so as to avoid an encounter. You can only have one Safe Travel blessing at a time. When it is used, cross it off your Adventure Sheet. You will then need to come back here to get another one.
+		</success>
+	</p>
+	<p>Now <goto section="522"/>.</p>
+</section>

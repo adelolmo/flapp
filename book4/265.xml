@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="265" boxes="1">
+	<p>
+		<if ticks="1">
+			If there is a tick in the box, <goto section="378"/> immediately.
+		</if>
+		If not, <tick/>, and read on.
+	</p>
+	<p>
+		There is a sudden violent splashing, and you are seized by long, insectoid limbs, and pulled under the sand before you have time to react! You have been grabbed and drawn into the lair of a giant sea spider, a creature that lurks buried under shallow sand, waiting to pounce on unwary prey that strays too near. The sea spider&#8217;s many eyes regard you with glittering, black malice from the end of long, sinuous stalks, and its mandibles click together in anticipation of the meal you will provide. You will have to fight your way out of this one.
+	</p>
+	<fight name="Sea Spider" combat="7" defence="6" stamina="13"/>
+	<p>
+		If you win, <goto section="330"/>.
+		If you lose, <goto section="7" dead="t"/>.
+	</p>
+</section>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="718">
+	<p>
+		Swaying precariously in a flimsy basket a thousand yards above the ground, you join in battle with one of the foremost sorcerers of the age. He lunges at you, hands surrounded by hot white plasma, spitting molten sparks.
+	</p>
+	<p>
+		<set var="d" value="magic+rank"/>
+		For this battle only, your Defence score is the sum of your MAGIC score plus your Rank. Armour does not count.
+	</p>
+	<fight name="Talanexor" combat="11" defence="17" stamina="17" playerDefence="d"/>
+	<p>
+		<if dead="f">
+			If you win,
+			<tick codeword="Fortress">get the codeword Fortress</tick>.
+			You can take Talanexor&#8217;s
+			<tool name="cobalt wand" ability="magic" bonus="3"/>
+			while waiting for the balloon to drift back to the ground, where it lodges in a tree.
+		</if>
+	</p>
+	<p><goto section="312"/>.</p>
+</section>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="427">
+	<p>
+		The men raise three cheers as you get hold of the surgeon under one arm and swim back toward the ship. When he has somewhat recovered, the surgeon administers himself a measure of brandy &#8216;for medicinal purposes&#8217;.
+	</p>
+	<p>
+		You are the hero of the hour.
+		<training ability="charisma" dice="2">Roll two dice</training>,
+		and if the total is higher than your CHARISMA score you can increase it by 1.
+	</p>
+	<p>
+		After making any necessary adjustments to your Adventure Sheet, <goto section="22"/>.
+	</p>
+</section>

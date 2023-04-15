@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="418">
+	<p>
+		Quick as a snake, you empty the box into your tunic, snap it shut and put it back on top of the trunk before anyone notices.
+	</p>
+	<p>'Hey, you, get away from there!' shouts the masked lord.</p>
+	<p>
+		You bow graciously, and leave. Later, you find your haul comprises gems worth <gain shards="125"/>. Note the cash on your Adventure Sheet.
+	</p>
+	<p>You journey on. <goto section="589"/>.</p>
+</section>

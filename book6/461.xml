@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="461">
+	You remember to prise the magic <item name="tatsu pearl"/>
+	out of the roof of
+	the dragon&#8217;s mouth. Add it to your list of possessions.
+	<choices>
+		<choice section="68">Swallow the pearl</choice>
+		<choice section="488">Explore the dragon&#8217;s lair</choice>
+	</choices>
+</section>

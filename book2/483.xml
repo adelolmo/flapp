@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="483">
+	<p>
+		You talk fast and think faster. &#8216;This is the head of my poor brother,&#8217; you say, falling to your knees in the roadway and sobbing. &#8216;He was captured by an ogre who cooked him - all except for the head, which the vile monster considered inedible. Now I am taking him to Castle Ravayne to plead with the wizard Estragon to restore him to life.&#8217;
+	</p>
+	<p>
+		&#8216;It&#8217;s not Estragon you want,&#8217; says the sergeant. &#8216;Speak to the high priest of Tyrnai. He can intercede with the god to get people brought back to life.&#8217;
+	</p>
+	<p>&#8216;When he&#8217;s sober,&#8217; adds one of the troopers quietly.</p>
+	<p><goto section="258"/>.</p>
+</section>

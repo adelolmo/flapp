@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="137">
+	You need <i>Lords of the Rising Sun</i> to travel to Chambara. If you haven't got it,
+	<if codeword="5.Aku.leaving">
+		<goto section="225" force="f">turn back to 225</goto> (if in Aku)
+	</if>
+	or
+	<if codeword="5.Kunrir.leaving">
+		<goto section="145" force="f">145</goto> (if in Kunrir)
+	</if>
+	and choose again.
+	<if book="6"><if shards="75">If you have, <lose shards="75">cross off the 75 Shards</lose> and turn to <goto book="6" section="27"/>.</if></if>
+</section>

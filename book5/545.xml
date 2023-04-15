@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="545" image="545.jpg">
+	<p>
+		The brotherhood has put together a team of three rogues, including you. You have the use of a magic kite, large enough to carry a man. The plan is to fly up to the palace, land on a rooftop, and sneak in, there to loot whatever can be found on an opportunistic basis. The kites are flown by magical means, and you will need a little skill in that area. That evening, you are strapped into the magic kite. You and two other rogues of the brotherhood (they are dressed in black, and wish to remain anonymous), take to the night sky.
+	</p>
+	<p><difficulty ability="magic" level="12"/>.</p>
+	<outcomes>
+		<success section="701"/>
+		<failure section="640"/>
+	</outcomes>
+</section>

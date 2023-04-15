@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="406">
+	Your magically enhanced vision sees through this illusion - just behind and to the left of the old woman squats a hideous, man-sized toad-demon. These foul creatures shroud themselves in a spell of invisibility, and project an illusion to fool unwary travellers into believing it is that which assails them. But this time it has bitten off more than it can chew, for you can see your real enemy. You must fight it.
+	<fight name="Toad-demon" combat="7" defence="9" stamina="15"/>
+	If you win, <goto section="490"/>.
+	If you lose, <goto section="7" dead="t"/>.
+</section>

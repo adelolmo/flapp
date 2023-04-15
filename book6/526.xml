@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="526">
+	You have a horrid dream that three disembodied heads come
+	flying over the moor while you are asleep and start to devour
+	you from the feet up. You half wake, feeling warm and numb as
+	though you have been drugged. The heads look up with gory
+	grins, then resume their meal. What is left of you goes back to
+	sleep.
+	<lose codeword="Future">Lose the codeword Future</lose>
+	and <goto section="140"/>.
+</section>

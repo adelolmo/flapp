@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="593">
+	You are under a curse. You remember what you were told - to life the curse, you have to throw a <b>weapon (COMBAT +1)</b> into the waters.
+	<if weapon="?" bonus="1">
+		If you have such a weapon, and want to throw it away, <goto section="354" force="f"/>.
+	</if>
+	If not, <goto section="450"/>.
+</section>

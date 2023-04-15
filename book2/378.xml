@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="378">
+	<p>
+		You stand beside the door of the temple as the high priestess draws a bead on you with the sacred bow. The silver arrow glints menacingly in the afternoon sunlight. Then you hear the twang of the string as she shoots.
+	</p>
+	<p>
+		<set var="def" value="defence"/>
+		<random var="roll"/>.
+		<if var="roll" greaterthan="def">
+			If the total is higher than your Defence, the arrow finds its mark and you
+			<lose stamina="1d">lose 1-6 Stamina points</lose>
+			(roll a die to see how much).
+		</if>
+		<else>
+			If the two dice score less than or equal to your Defence, the arrow misses.
+		</else>
+	</p>
+	<p>
+		Either way, if you survive then you are free to leave.
+		<lose god="Lacuna">
+			Delete Lacuna from the God box
+		</lose>
+		on your Adventure Sheet and then
+		<goto section="294"/>.
+	</p>
+</section>

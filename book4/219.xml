@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="219">
+	<p>
+		As you slip the helmet over your head, dozens more of the manbeasts appear on the scene. But then your vision blurs and your head begins to pound. The helmet is doing something to your mind - and it hurts!
+	</p>
+	<p><difficulty ability="magic" level="14"/>.</p>
+	<outcomes>
+		<success section="401"/>
+		<failure section="677"/>
+	</outcomes>
+</section>

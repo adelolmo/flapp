@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="332">
+	You find <gain shards="15"/> and a <tool name="compass" ability="scouting" bonus="1"/>. Unfortunately, you have also contracted the disease he died from. You come out in a nasty red, blotchy rash. Note that you are
+	<disease name="Red Ague">
+		diseased
+		<effect type="ability" ability="charisma" bonus="-1"/>
+		<effect type="ability" ability="combat" bonus="-1"/>
+	</disease>
+	(with the Red Ague), and lose 1 point from your CHARISMA and COMBAT abilities until you can find a cure. If you find a cure, you can restore the lost points. <goto section="698"/>.
+</section>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="479">
+	<p>
+		<rest hidden="t"/>
+		All your injuries are mysteriously healed. You are standing over the body of your own twin. Then you take a closer look, blink, and the scene melts away. Now you are sitting cross-legged in front of the altar in the great hall.
+	</p>
+	<p>
+		The abbot puts a hand on your shoulder. &#8216;You have been meditating for forty-nine days,&#8217; he says, &#8216;and now you have truly attained enlightenment.&#8217;
+	</p>
+	<p>
+		You describe your experiences. &#8216;The labyrinth represented the false paths you might have taken in your life,&#8217; explains the abbot. &#8216;The book was the true teaching of the Sage of Peace, which you gained by confounding the Five Great Sins. Lastly, you faced the embodiment of your own passions. Victory or defeat means nothing in that encounter; you cannot overcome your inner self, you can only learn to live with it.&#8217;
+	</p>
+	<p>
+		<set var="s" value="12-sanctity" modifier="natural"/>
+		<gain ability="sanctity" amount="s">
+			Increase your SANCTITY score to 12
+		</gain>
+		and get the title
+		<gain title="Enlightened One"/>.
+		Then
+		<group>
+			<text>turn to <b>383</b></text>
+			<goto section="383"/>
+			<transfer from="6.276" item="*"/>
+		</group>.
+	</p>
+</section>

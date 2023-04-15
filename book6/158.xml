@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="158">
+	<p>
+		The force of the ghost&#8217;s attack staggers you, but you refuse to fall. Summoning all your occult skill, you divert the energy into two blistering white streams that spill off to either side, charring the grass but leaving you unscathed.
+	</p>
+	<p>
+		Luckily, Kiyomori is himself a priest, and your intervention has bought him the precious seconds he needed to chant the rite of exorcism. Akugenda&#8217;s ghost gives a dismayed wail as it feels its power beginning to fade. Hastily you join your own prayers to those of the Lord Chancellor.
+	</p>
+	<p><goto section="110"/>.</p>
+</section>

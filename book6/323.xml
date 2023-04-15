@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="323">
+	Hidari, at the mouth of the Hitsu River, is a town of closely
+	packed dwellings situated in between the ivy-trailed rock walls
+	of a narrow valley.
+	<choices>
+		<choice section="342">Continue your journey</choice>
+		<choice section="167">Take lodging at an inn</choice>
+		<choice section="69">Visit the shrine to Nai</choice>
+		<choice section="190">Pay for passage on a ship</choice>
+	</choices>
+</section>

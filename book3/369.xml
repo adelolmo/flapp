@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="369">
+	<p>
+		The forest is inhabited by a malevolent unseen spirit that is slowly leeching your life-energy.
+		<lose ability="*" amount="1" fatal="f">
+			Lose 1 point from <i>all</i> your abilities
+		</lose>
+		(CHARISMA, COMBAT, MAGIC, etc). No ability can go lower than 1. In addition, you
+		<lose stamina="1d">lose 1-6 Stamina points</lose>
+		(the roll of one die).
+	</p>
+	<p>
+		You realize you must muster a burst of effort to break out of the wood before you are lost forever.
+		<difficulty ability="scouting" level="17">
+			Make a SCOUTING roll at a Difficulty of 17
+		</difficulty>.
+	</p>
+	<outcomes>
+		<success section="705"/>
+		<failure section="388"/>
+	</outcomes>
+</section>

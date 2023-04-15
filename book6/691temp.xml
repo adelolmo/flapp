@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="691">
+	<p>
+		<set var="a" value="0"/>
+		<if god="Nisoderu" not="t">
+			To become an initiate of Nisoderu you must now
+			<difficulty ability="sanctity" level="15" force="f" var="s">
+				make a SANCTITY roll at a Difficulty of 15
+			</difficulty>.
+			<success var="s">
+				If you succeed and were already an initiate of another god, lose that status and
+				<tick god="Nisoderu">write Nisoderu</tick>
+				in the God box on your Adventure Sheet.
+			</success>
+			<failure var="s">
+				If you fail the SANCTITY roll, Nisoderu will not accept you.
+			</failure>
+		</if>
+	</p>
+	<p>
+		<if god="Nisoderu">
+			If you are already a initiate of Nisoderu and want to renounce her worship, cross her name off the God box on your Adventure Sheet. Then
+			<group>
+				<text>make a CHARISMA roll of Difficulty 18</text>
+				<lose god="Nisoderu"/>
+				<difficulty ability="charisma" level="18" var="c"/>
+			</group>
+			to see how she responds to your ingratitude.
+		</if>
+	</p>
+	<p>
+		If you want to obtain Nisoderu&#8217;s guarantee of resurrection,
+		<if god="Nisoderu">
+			<difficulty ability="charisma" level="14" force="f" var="c2">
+				make a CHARISMA roll at a Difficulty of 14
+			</difficulty>
+		</if>
+		<else>
+			(<difficulty ability="charisma" level="20" force="f" var="c2">or 20</difficulty>)
+			if you&#8217;re not an initiate).
+		</else>
+		<success var="c2">
+			If successful, write
+			<resurrection text="Nisoderu" book="6" section="710">
+				<i>Lords of the Rising Sun</i> <b>710</b>
+			</resurrection>
+			in the Resurrection box on your Adventure Sheet.
+		</success>
+		In the event that you should die, turn to <b>710</b> in this book. You can only have one resurrection arranged at a time.
+	</p>
+	<p>
+		<failure var="s"><set var="a" value="1"/></failure>
+		<failure var="c"><set var="a" value="1"/></failure>
+		<failure var="c2"><set var="a" value="1"/></failure>
+		Lastly, if you failed any of these CHARISMA or SANCTITY rolls, the goddess makes her displeasure known to the clan elders by a sign and they will ostracize you from now on;
+		<if var="a" equals="1">
+			<lose codeword="Fuchsia">lose the codeword Fuchsia</lose>.
+		</if>
+	</p>
+	<p>To leave the shrine, <goto section="565"/>.</p>
+</section>

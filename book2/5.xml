@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="5">
+	To gain admittance, you must
+	<difficulty ability="charisma" level="10">
+		make a CHARISMA roll against a Difficulty of 10
+	</difficulty>.
+	<outcomes>
+		<success section="28"/>
+		<failure section="51"/>
+	</outcomes>
+</section>

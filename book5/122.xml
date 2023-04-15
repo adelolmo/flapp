@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="122">
+	<p>
+		You cannot find a way out of the chamber. Starvation eventually claims you. At least you die incredibly rich.
+	</p>
+	<p><goto section="7"/>.</p>
+</section>

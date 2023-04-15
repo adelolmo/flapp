@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="671">
+	<p><tick codeword="Epicure"/>.</p>
+	<p>
+		You manage to convince them that Buskle is behind it all by insisting they check his cellar. Sure enough, a hoard of gear is uncovered.
+	</p>
+	<p>
+		'By Elnir,' cries someone, 'there's Obraid the Incapable's cobalt wand!'
+	</p>
+	<p>
+		Various other objects are recognised, and the full extent of Buskle's infamy is uncovered. Justice is summary. He is hanged from the nearest lamppost, and left to rot. Misgee's fate is to become a slave in the ox-driven ships of the Uttakin navy.
+	</p>
+	<p>
+		You are given first pick of the items in the cellar as reward.
+		You may choose two items from the following list.
+		<items group="BuskleHoard" limit="2"/>
+	</p>
+	<p><tool name="cobalt wand" ability="magic" bonus="3" group="BuskleHoard"/></p>
+	<p><tool name="silver holy symbol" ability="sanctity" bonus="2" group="BuskleHoard"/></p>
+	<p><item name="selenium ore" group="BuskleHoard"/></p>
+	<p><armour name="chain mail" bonus="3" group="BuskleHoard"/></p>
+	<p><item name="400 Shards" group="BuskleHoard"/></p>
+	<p><weapon name="Shadar scimitar" bonus="3" group="BuskleHoard"/></p>
+	<p>When you are ready to leave, <goto section="11"/>.</p>
+</section>

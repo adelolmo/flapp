@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="390">
+	The horses rush past you. They seem to gallop through the air. whinnying and neighing, bellowing at the twilight sky. Soon they disappear from your sight. You make camp, and the next day continue your journey.
+	<choices>
+		<choice section="560">Go north across country</choice>
+		<choice section="558">Head east to the road</choice>
+		<choice section="250">Go to Trefoille</choice>
+		<choice section="100">Go to Marlock City</choice>
+		<choice section="99">Head west towards the River Grimm</choice>
+	</choices>
+</section>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="528">
+	You attempt to sneak in through the back of the temple that night.
+	<difficulty ability="thievery" level="11"/>.
+	<outcomes>
+		<success section="445"/>
+		<failure section="284"/>
+	</outcomes>
+</section>

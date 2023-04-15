@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="427">
+	<p>
+		To your horror, the casket contains a mouldered skeleton which comes to life as it feels the touch of fresh air. Grasping you by the throat, it drains some of your life force before vanishing with a peal of macabre laughter.
+	</p>
+	<p>
+		You stagger back to the open. You have
+		<lose ability="rank" amount="1">lost one Rank</lose>.
+		This
+		<lose ability="stamina" amount="1d">
+			reduces your normal (unwounded) Stamina score by 1-6
+		</lose>
+		and will also reduce your Defence by 1. After amending your Adventure Sheet, <goto section="716"/>.
+	</p>
+</section>

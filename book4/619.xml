@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="619">
+	You are in between the Gemstone Hills and the Citadel of Velis Corin. Once a huge army was encamped here, the army of the Northern Alliance, but now it has gone.
+	<choices>
+		<choice section="308">Go south to the citadel</choice>
+		<choice section="426">North to the Gemstone Hills</choice>
+		<choice section="668">West into the plains</choice>
+		<choice section="234">North-west into the plains</choice>
+	</choices>
+</section>

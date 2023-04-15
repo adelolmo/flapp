@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="389">
+	<p>
+		Driving one of the creatures back with your sword, you leap on to the forecastle shouting, &#8216;To me, men!&#8217; They rally around you, organizing themselves into a fighting unit and a battle ensues. You must fight one ker&#8217;ilk.
+	</p>
+	<fight name="Ker&#8217;ilk" combat="4" defence="9" stamina="8"/>
+	<p>
+		If you win, <goto section="519"/>.
+		If you lose, you end up as food for ker&#8217;ilk young - unless you have a <resurrection>resurrection deal</resurrection>.
+	</p>
+</section>

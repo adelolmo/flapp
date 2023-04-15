@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="586">
+	<!-- two tricks: forcing the player to transfer all possessions to
+	     this cache; and excepting keys from this transfer
+	     (wildcard matching of items?) -->
+        <p>
+		<tick special="lock" cache="4.586" hidden="t"/>
+		You cannot carry any of your possessions, except for any <b>keys</b> you might have, which you can just about manage. Nor can you wear any armour. Cross off all your money and possessions (except keys) on your Adventure Sheet and
+		<transfer to="4.586" item="*" xitem="*key*" shards="*">
+			transfer them
+		</transfer>
+		to the box below.
+	</p>
+	<p>When you are done, <goto section="377"/>.</p>
+	<itemcache name="4.586" text="Items left behind"/>
+</section>

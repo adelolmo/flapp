@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="493">
+	<p>
+		Lord Kumonosu&#8217;s bedchamber is at the top of the tallest tower of the palace. That night, you assay the task of climbing it.
+	</p>
+	<p>
+		<difficulty ability="thievery" level="15">
+			<adjust item="rope|climbing gear" amount="1"/>
+			<adjust item="climbing gear" amount="1"/>
+		</difficulty>. If you have some <b>rope</b> add one to the roll. If you have some <b>climbing gear</b>, add two (but the pluses are not cumulative).
+	</p>
+	<outcomes>
+		<success section="693"/>
+		<failure section="230"/>
+	</outcomes>
+</section>

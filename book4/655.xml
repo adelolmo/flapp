@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="655">
+	<p><tick codeword="Deliver">Gain the codeword Deliver</tick>.</p>
+	<p>
+		Beladai&#8217;s men are fighting their way into the courtyard, but resistance is stiff, as the garrison reinforces the gate rapidly. But then, many of the soldiers have to be sent to the other side of the citadel. Beladai&#8217;s men have moved through the tunnels you discovered, and are attacking the citadel from the rear. It is not long before the garrison is overwhelmed completely, and forced to surrender. The citadel is taken.
+	</p>
+	<p><goto section="61"/>.</p>
+</section>

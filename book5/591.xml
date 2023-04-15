@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="591">
+	She shakes her head with a sorrowful expression on her face. 'I can't, I'm afraid,' she says.
+	<choices>
+		<choice section="464">Attack her</choice>
+		<choice section="374">Demand to know the secret she spoke of</choice>
+	</choices>
+</section>

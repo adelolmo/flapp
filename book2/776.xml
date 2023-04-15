@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="776">
+	The three wizards scowl to see you dispel their enchantment so
+	easily. Now it is your turn. You evoke a potent curse that they
+	are hard-pressed to resist.
+	<difficulty ability="magic" level="17">
+		Make a MAGIC roll at a Difficulty of 17
+	</difficulty>.
+	<outcomes>
+		<success section="389"/>
+		<failure section="414"/>
+	</outcomes>
+</section>

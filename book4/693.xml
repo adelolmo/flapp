@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="693">
+	<p>
+		You crawl up the side of the tower. Below you, the city is spread out like a carpet, fiery pin-pricks of light a mirror to the stars.
+	</p>
+	<p>
+		You complete your dizzying ascent, and come to a window ledge, near the top of the tower. The shutters are open to the warm night air, and you steal like a shade into the daimyo&#8217;s bedchamber.
+	</p>
+	<p>
+		He lies asleep on a massive bed, a concubine at his side, snoring loudly. A casket lies open on a table nearby. Inside, is a necklace of fabulous jewels, within easy reach of your hand.
+	</p>
+	<choices>
+		<choice section="177">Take the necklace</choice>
+		<choice section="38">Leave the way you came</choice>
+	</choices>
+</section>

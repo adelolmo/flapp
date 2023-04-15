@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="511">
+	<p>
+		Browsing around the many tiny shops and market stalls, you soon discover that you have to haggle if you want a bargain.
+	</p>
+	<market>
+		<header type="armour"/>
+		<armour name="leather" bonus="1" buy="50" sell="45"/>
+		<armour name="ring mail" bonus="2" buy="100" sell="90"/>
+		<armour name="chain mail" bonus="3" buy="200" sell="180"/>
+		<armour name="splint armour" bonus="4" buy="350" sell="300"/>
+
+		<header type="weapon"/>
+		<weapon bonus="0" buy="50" sell="35"/>
+		<weapon bonus="1" buy="250" sell="180"/>
+		<weapon bonus="2" buy="550" sell="380"/>
+
+		<header type="other"/>
+		<tool name="compass" ability="scouting" bonus="1" buy="400" sell="350"/>
+		<tool name="lockpicks" ability="thievery" bonus="1" sell="300"/>
+		<item name="candle" tags="light,useonce" buy="2" sell="1"/>
+		<item name="parchment" buy="8" sell="5"/>
+		<item name="tatsu pearl" buy="1000" sell="900"/>
+		<item name="platinum earring" sell="790"/>
+	</market>
+	<p>
+		Items with no purchase price are not available to buy, although if you have one you can sell it. When you have done all your shopping, <goto section="155"/>.
+	</p>
+</section>

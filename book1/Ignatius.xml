@@ -1,0 +1,16 @@
+<section name="Ignatius the Devout" profession="Priest">
+	<p>
+		Ignatius is a traveller whose desire is to learn all he can about the deities of the Fabled Lands. His strong beliefs give his sermons added zest, and he has enthralled many a crowd with his impassioned speeches. He is looking for the house of priests in Marlock City.
+	</p>
+	<p>
+		You can play as Ignatius, or as a priest with a different name (enter it in the 'Name' field). To begin your adventure, <goto section="1" force="f"/>.
+	</p>
+	<p>For another profession, choose from the following:</p>
+	<choices>
+		<choice section="Liana">Wayfarer</choice>
+		<choice section="Andriel">Warrior</choice>
+		<choice section="Chalor">Mage</choice>
+		<choice section="Marana">Rogue</choice>
+		<choice section="Astariel">Troubadour</choice>
+	</choices>
+</section>

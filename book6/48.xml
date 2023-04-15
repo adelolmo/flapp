@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="48">
+	<p>
+		<tick codeword="6.48.1" hidden="t"/>
+		During an afternoon nap you are visited by a deity who is wailing in anguish. He explains his plight: &#8216;I angered the wizard Shugen, who imprisoned me under a boulder in the ravine nearby. Free me and I shall reward you.&#8217;
+	</p>
+	<p>
+		When you wake up you take a look in the ravine. Sure enough, there is a massive boulder at the bottom all overgrown with ivy. To break the wizard&#8217;s spell and free the deity, you need to
+		<group>
+			<text>make a MAGIC roll at a Difficulty of 18</text>
+			<lose codeword="6.48.1"/>
+			<difficulty ability="magic" level="18"/>
+		</group>.
+	</p>
+	<outcomes>
+		<success section="355"/>
+		<failure section="394"/>
+		<choice box="6.48.1" section="44">Not making the attempt</choice>
+	</outcomes>
+</section>

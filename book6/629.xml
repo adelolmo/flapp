@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="629">
+	The paladin presses his lance against your wrist. A shooting pain
+	stabs up your arm. <goto section="692"/>.
+</section>

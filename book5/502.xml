@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="502">
+	<p>
+		<set var="keepblessing" value="1" hidden="t"/>
+		Don't forget to pay the fare for your journey.
+	</p>
+	<p>
+		The ship sets sail and is soon making good headway. The captain is a man who enjoys tempting fate.
+	</p>
+	<p>
+		'Let's just hope we don't run into pirates,' he says with a reckless grin.
+	</p>
+	<p>
+		<random  type="travel" var="x"/>.
+		<if not="t" var="keepblessing" equals="1">
+			<lose blessing="storm" hidden="t"/>
+		</if>
+	</p>
+	<outcomes>
+		<outcome var="x" range="2-3" section="321">Captured by slavers</outcome>
+		<outcome var="x" range="4-10" section="444">You reach Aku safely</outcome>
+		<outcome var="x" range="11-12" section="510" blessing="storm">The ship capsizes</outcome>
+	</outcomes>
+	<p>
+		<if var="x" greaterthan="10">
+			<if blessing="storm">
+				<set var="keepblessing" value="0" hidden="t"/>
+				If you roll 11 or 12 and have a blessing of Safety from Storms,
+				lose the blessing and <reroll>reroll</reroll>.
+			</if>
+		</if>
+	</p>
+</section>

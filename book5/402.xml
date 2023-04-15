@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="402">
+	<p><tick codeword="Evade"/>.</p>
+	<p>
+		You fly away. You cannot control the carpet, however, which eventually runs out of magical power and brings you down to earth. Note you have a <item name="green carpet"/> on your Adventure Sheet if you want to keep it.
+	</p>
+	<p><random dice="1"/> to determine where you have landed.</p>
+	<outcomes>
+		<outcome range="1,2" section="569">North of Kunrir</outcome>
+		<outcome range="3,4" section="126">Crags of the Long Homes</outcome>
+		<outcome range="5,6" section="12">East of the Mixen Sumps</outcome>
+	</outcomes>
+</section>

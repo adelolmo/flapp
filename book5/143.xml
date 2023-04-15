@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="143">
+	<tick codeword="5.Tomb" hidden="t"/>
+	<difficulty ability="thievery" level="15"/>.
+	<outcomes>
+		<success section="318"/>
+		<failure section="658"/>
+	</outcomes>
+</section>

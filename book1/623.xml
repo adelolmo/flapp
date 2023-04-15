@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="623">
+	<p>
+		You clamber down a ladder into a long, low hall, the Venefax Market.
+	</p>
+	<p>Items with no purchase price listed are not available locally.</p>
+	<market>
+		<header type="armour"/>
+		<armour name="leather" bonus="1" buy="50" sell="45"/>
+		<armour name="ring mail" bonus="2" sell="90"/>
+
+		<header type="weapon"/>
+		<weapon bonus="0" buy="50" sell="40"/>
+		<weapon bonus="1" sell="200"/>
+
+		<header type="other"/>
+		<item name="rope" buy="50" sell="45"/>
+		<item name="lantern" tags="light" buy="100" sell="90"/>
+		<item name="climbing gear" buy="100" sell="90"/>
+		<item name="scorpion antidote" buy="100" sell="90"/>
+	</market>
+	<p>When you are finished, <goto section="427"/>.</p>
+</section>

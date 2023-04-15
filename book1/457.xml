@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="457">
+	<p>
+		They are unimpressed with your musical ability. The king waves his hand irritably. Suddenly, you wake up in your cabin, puzzled by your peculiar dream. If you have a blessing of Safety from Storms it is now gone -
+		<lose blessing="storm">delete it from your blessings box</lose>.
+		There are no other effects.
+	</p>
+	<p><goto section="507"/>.</p>
+</section>

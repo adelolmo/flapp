@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="107">
+	<p>
+		To find out how well your investments have done,
+		<random>
+			<adjust god="The Three Fortunes" amount="1"/>
+			<adjust codeword="Bastion" amount="1"/>
+			<adjust codeword="Almanac" amount="2"/>
+			<adjust codeword="Eldritch" amount="3"/>
+		</random>.
+		Add 1 to the dice roll if you are an initiate of the Three Fortunes. Also add 1 if you have the codeword <i>Bastion</i>, add 2 if you have the codeword <i>Almanac</i>, and add 3 if you have the codeword <i>Eldritch</i>.
+	</p>
+	<outcomes>
+		<outcome range="2-4">
+			<adjustmoney name="2.49" multiply="0">
+				Lose entire sum invested
+			</adjustmoney>
+		</outcome>
+		<outcome range="5-6">
+			<adjustmoney name="2.49" multiply="0.5">
+				Loss of 50%
+			</adjustmoney>
+		</outcome>
+		<outcome range="7-8">
+			<adjustmoney name="2.49" multiply="0.9">
+				Loss of 10%
+			</adjustmoney>
+		</outcome>
+		<outcome range="9-10">
+			Investment remains unchanged
+		</outcome>
+		<outcome range="11-12">
+			<adjustmoney name="2.49" multiply="1.1">
+				Profit of 10%
+			</adjustmoney>
+		</outcome>
+		<outcome range="13-14">
+			<adjustmoney name="2.49" multiply="1.5">
+				Profit of 50%
+			</adjustmoney>
+		</outcome>
+		<outcome range="15+">
+			<adjustmoney name="2.49" multiply="2">
+				Double initial investment
+			</adjustmoney>
+		</outcome>
+	</outcomes>
+	<p>
+		Now <goto section="49"/>, where you can withdraw the sum written in the box there after adjusting it according to the result rolled.
+	</p>
+</section>

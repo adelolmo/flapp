@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="443">
+	You are witness to a major sea battle, involving at least 40 warships, between the Sokaran navy, and a pirate fleet. Arrows fill the air, and smoking fireballs are launched from catapults mounted on some of the ships. The shrieks of the dying carry across the waves. You decide it would be better not to get involved in such a conflict. <goto section="420"/>.
+</section>

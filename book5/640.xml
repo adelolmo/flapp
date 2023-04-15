@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="640">
+	<p>
+		You are unable to control the kite, and you spiral down into one of the great buttresses that hold up the palace. The kite disintegrates on impact, and you plummet to the ground. <lose stamina="4D">Lose 4-24 points of Stamina</lose> (the roll of four dice). If that kills you, <goto section="7" dead="t"/>.
+	</p>
+	<p>
+		If not, you are retrieved by the brotherhood. Fortunately they are not angry - rather you are treated as a laughing stock, and made the butt of jokes. Some call you the 'Dodo of the Dark', or the 'Flying Fool'. Others greet you with the phrases 'Kite Killer' or 'Winged Wuss'.
+	</p>
+	<p>You return to the city for a break. <goto section="444"/>.</p>
+</section>

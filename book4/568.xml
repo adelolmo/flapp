@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="568">
+	You have won the favour of Tambu, Great Spirit of the Steppes. Note the title <gain title="Blessed of Tambu">Blessed of Tambu</gain> in the Titles box on your Adventure Sheet.
+	<choices>
+		<choice section="456">Make another offering</choice>
+		<choice section="118">Leave</choice>
+	</choices>
+</section>

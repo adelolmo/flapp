@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="504">
+	<p><tick codeword="Future">Get the codeword Future</tick>.</p>
+	<p>
+		The woman gives you a cup of hot green tea. It drives away the chill, but the longer you sit in the cottage the more uncomfortable you become. You start to notice the insects crawling over the bare earthen floor, the rustling of rodents in the thatching and the way the wind blows in through cracks in the walls.
+	</p>
+	<choices>
+		<choice section="476">Make your excuses and leave</choice>
+		<choice section="683">Spend the night here</choice>
+	</choices>
+</section>

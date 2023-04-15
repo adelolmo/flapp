@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="144">
+	<p>
+		<lose item="* head">Cross the <b>head</b> off</lose>
+		your Adventure Sheet.
+	</p>
+	<p>
+		&#8216;This is excellent&#8217; says the youth, knotting the head&#8217;s hair to his belt. &#8216;It looks really fierce! I can go home now - everyone will think I&#8217;ve slain my first foe.&#8217;
+	</p>
+	<p>
+		He reveals that he is the nephew of Lord Yoritomo, selfstyled Shogun of the realm. He promises to recommend you to his uncle.
+	</p>
+	<p>&#8216;He&#8217;s always on the lookout for new henchmen,&#8217; he says.</p>
+	<p>
+		You have made a useful friend.
+		<tick codeword="Frog">Get the codeword Frog</tick>
+		and <goto section="396"/>.
+	</p>
+</section>

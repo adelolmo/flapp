@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="58">
+	<p>
+		A harsh wind rips down out of the north, scattering ice crystals like dust on the decks.
+	</p>
+	<p>
+		&#8216;Yon wind comes off the far mountains,&#8217; says the ship&#8217;s carpenter, a widely travelled man. &#8216;This snow may be from the boughs of the Icicle Woods, or perhaps from the shores of the Rimewater itself.&#8217;
+	</p>
+	<p>
+		He shivers and stamps off below deck to fetch a tot of warm mulled wine.
+	</p>
+	<p><random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-4" section="299">A ghost in the rigging</outcome>
+		<outcome range="5-6" section="336">Lords of Uttaku</outcome>
+		<outcome range="7-8" section="78">Nothing of note</outcome>
+		<outcome range="9-12" section="348">An uninvited passenger</outcome>
+	</outcomes>
+</section>

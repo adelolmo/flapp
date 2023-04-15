@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="318">
+	<p>
+		A scorpion man scuttles out of the brush to confront you. It resembles a huge scorpion, but with a human head and torso. It holds a sword and shield in its human arms. The creature&#8217;s eyes blaze with an unearthly yellow light, and it scrabbles towards you with frightening speed, whipping its sting up and around at you. You must fight it.
+	</p>
+	<fight name="Scorpion Man" combat="3" defence="6" stamina="8"/>
+	<p>
+		<fightdamage type="add"><tick codeword="ScorpionSting" hidden="t"/></fightdamage>
+		If you win, <goto section="657"/>. If you lose, you are finished, unless you have a <resurrection>resurrection deal</resurrection>.
+	</p>
+</section>

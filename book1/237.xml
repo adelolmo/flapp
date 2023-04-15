@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="237">
+	<p>
+		You explain what a tree-lover you are, and that your heart has always been at home in forests. You portray yourself as the greenest adventurer ever.
+	</p>
+	<p>
+		<difficulty ability="charisma" level="10">
+			<adjust profession="wayfarer" amount="3"/>
+			<adjust god="Lacuna" amount="1"/>
+		</difficulty>.
+		Add 3 to the dice roll if you are a Wayfarer, and add 1 if you are an initiate of Lacuna.
+	</p>
+	<outcomes>
+		<success section="391"/>
+		<failure section="410"/>
+	</outcomes>
+</section>

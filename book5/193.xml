@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="193">
+	<p>
+		At your refusal, her face twists into a mask of rage. To your surprise, she bounds forward with astonishing speed and attacks you with her cane. It takes all your skill to avoid the blow. One thing's for sure - she is not what she appears to be!
+	</p>
+	<p>
+		<if codeword="Flag">If you have the codeword Flag, <goto section="270"/> immediately.</if> If not, <difficulty ability="magic" level="19"/>.
+	</p>
+	<outcomes>
+		<success section="406"/>
+		<failure section="337"/>
+	</outcomes>
+</section>

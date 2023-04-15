@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="18">
+	<p>
+		The golem squashes you flat with a single blow of its huge stone fist.
+	</p>
+	<p>
+		<if resurrection="t">
+			If you have a resurrection deal,
+			<resurrection>turn to the entry</resurrection>
+			marked for it on your Adventure Sheet.
+		</if>
+		Otherwise your only option is to start again with a new character after first deleting all ticks and codewords in your <i>Fabled Lands</i> books. (You can start again at <b>1</b> in any book in the series.)
+	</p>
+</section>

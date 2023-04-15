@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="301" tag="temple">
+	There are numerous temples in the suburbs of Chambara, all
+	dedicated to the Sage of Peace whose example guides men
+	towards enlightenment. Here the clerics can live a life of
+	monastic contemplation and lay worshippers can come for
+	healing, blessings and advice.
+	<choices>
+		<choice section="421">Buy a talisman</choice>
+		<choice section="399">Ask for healing</choice>
+		<choice section="380">Seek a blessing (if an initiate)</choice>
+		<choice section="320">Become an initiate</choice>
+	</choices>
+</section>

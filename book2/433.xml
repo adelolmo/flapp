@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="433">
+	<p>
+		None of your men will agree to accompany you. Cursing them for their cowardice, you climb up to the strange ship&#8217;s deck by means of a long ladder made of knotted human hair. No one is in sight. Furled, the huge sails hang like shrouds for burying dead giants. Sparkling mist swirls above the dark mahogany planks.
+	</p>
+	<p>
+		A single light shines through the gathering dusk. You investigate and find an open hatch, with steps leading down into the bowels of the ship. Drawn as if by magic, you descend until you reach a huge hold when grim silent figures wait to greet you. You sense you are not at sea any longer. You have strayed into the abode of the dead.
+	</p>
+	<p>
+		You won&#8217;t see your ship and crew again.
+		<lose ship="t">
+			Cross them off
+		</lose>
+		the Ship&#8217;s Manifest and then <goto section="689"/>.
+	</p>
+</section>

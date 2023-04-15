@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="675">
+	<p>
+		You fall into the yawning blackness with a despairing cry. You plummet like a stone through the air for what seems like an age. You are engulfed in absolute darkness, and all you can hear is the whistling of the wind past your ears.
+	</p>
+	<p>
+		Suddenly you shoot into bright sunlight, and land with an almighty splash into the sea! Coughing and spluttering, you rise to the surface. You are not far from a forested island, and you swim for shore. A small settlement crowds the shore - it looks like you have arrived at the Trading Post on the Isle of Druids.
+	</p>
+	<p><goto section="195"/>.</p>
+</section>

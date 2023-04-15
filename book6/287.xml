@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="287">
+	<p>
+		You have the misfortune to encounter a spectral lady at twilight. Reaching towards you with dead white hands, she implores you to give her news of her dear sister in the west.
+	</p>
+	<p>
+		<if item="lacquer box">
+			If you have a <b>lacquer box</b>,
+			<goto section="304"/>.
+		</if>
+		If not, <goto section="325"/>.
+	</p>
+</section>

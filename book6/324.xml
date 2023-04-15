@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="324" image="324.jpg">
+	<p>
+		The entire court is entranced by your haunting melody. As you continue to play, the room fills up with nobles who heard the music outside and came in from the garden to see who could be playing so beautifully.
+	</p>
+	<p>&#8216;It is the foreign devil!&#8217; you overhear someone say.</p>
+	<p>&#8216;Ssh! Do not speak thus of the Sovereign&#8217;s favourite courtier.&#8217;</p>
+	<p>
+		After the recital is over, the Sovereign declares himself is so moved that you are immediately elevated to the highest position of privilege.
+		Lose the title <lose title="Junior Court Rank"/>
+		and get
+		<tick title="Senior Court Rank"/> instead, then
+		<goto section="595"/>.
+	</p>
+</section>

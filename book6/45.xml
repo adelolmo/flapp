@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="45">
+	The Sage of Peace bestows blessings on his initiates for free.
+	Write <tick blessing="luck"/> in the Blessings box on your Adventure Sheet. The
+	blessing can be used once to allow you to reroll any dice result.
+	After using the blessing, remember to cross it off your
+	Adventure Sheet. You can have only one Luck blessing at a
+	time. When you are through at the temple, <goto section="155"/>.
+</section>

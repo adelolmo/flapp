@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="487">
+	Tekshin tells everyone that he lost his wings while serving in the
+	Sokaran army. He is anxious that the truth should not get out, as
+	that would make him a laughing stock. He says that you can stay
+	at the inn free for as long as you like.
+	<rest>Restore your Stamina to its normal unwounded score</rest>, then
+	<goto section="356"/>.
+</section>

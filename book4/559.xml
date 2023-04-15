@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="559" dock="Tigre Bay">
+	<p>
+		You scour the land for miles around. Eventually, you spot an owl in the air, which you tell the men to follow.
+	</p>
+	<p>&#8216;Why are we following an owl?&#8217; grumbles the mate.</p>
+	<p>
+		You explain that this particular owl makes its nest in a tree - there must be a wood nearby. Sure enough, you cross the crest of a hill to find a forest of fir trees, marching north to the Peaks at the Edge of the World. The men are able to chop enough timber to make repairs, and soon the <i>Mermaid&#8217;s Desire</i> is seaworthy. They elect you captain. Note the
+		<buy ship="barque" name="Mermaid's Desire" initialCrew="poor" shards="0" quantity="1">
+			<i>Mermaid&#8217;s Desire</i>
+		</buy>
+		on your Ship&#8217;s Manifest. It is a barque with a capacity of 1 Cargo Unit. The ship has no cargo and the crew quality is poor.
+	</p>
+	<p><goto section="342"/>.</p>
+</section>
+

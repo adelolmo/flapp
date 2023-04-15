@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="201">
+	<p>
+		The compiler jumps up hastily at the sight of you; his fat body wobbles like a jelly.
+	</p>
+	<p>'Have you got what I asked for?' he asks.</p>
+	<p>
+		<if item="pink rice grain">If you have a <b>pink rice grain</b>, <goto section="59"/>.</if> If not, <goto section="378"/>.
+	</p>
+</section>

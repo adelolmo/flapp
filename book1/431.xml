@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="431">
+	<p>
+		You notice that Oliphard has erected his pavillion over a verdigris trapdoor set into the floor.
+	</p>
+	<p>
+		&#8216;Ah, you have the key, I see!&#8217; says Oliphard. &#8216;Please, be my guest - use the door.&#8217;
+	</p>
+	<p>
+		You open it up and climb some short stairs into a square chamber with three doors.
+	</p>
+	<p>
+		&#8216;They are doors of teleportation - step through and you will be taken to whatever land is displayed!&#8217; says Oliphard.
+	</p>
+	<p>
+		The first door leads to a teeming city of merchants - Metriciens in Golnir.
+		<goto book="2" section="48" force="f">Turn to paragraph <b>48</b> in <i>Cities of Gold and Glory</i></goto> if you enter this door.
+	</p>
+	<p>
+		The second door leads to a huge mountain - Sky Mountain in the Great Steppes, far to the north.
+		<goto book="4" section="185" force="f">Turn to paragraph <b>185</b> in <i>The Plains of Howling Darkness</i></goto> if you enter this door.
+	</p>
+	<p>
+		The third door leads to Dweomer, the City of Sorcerers, on Sorcerers&#8217; Isle.
+		<goto book="3" section="100" force="f">Turn to paragraph <b>100</b> in <i>Over the Blood-Dark Sea</i></goto> if you open this door.
+	</p>
+	<p>
+		If you don&#8217;t want to step through any of the doors, <goto section="656"/> and choose again.
+	</p>
+</section>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="293">
+	<p>
+		The merchantman has suffered a lot of damage, and the remaining crewmen are half dead with thirst. You give them water, and help to repair the ship. The captain, a woman dressed in multi-coloured feather robes, and an ornate head-dress, is most grateful. She tells you her name is Moon of Evening and that she comes from Smogmaw, the city at the Misty Estuary, in far-off Ankon-Konu. She tells you to visit her, if you are ever in Smogmaw, so that she can repay the debt.
+	</p>
+	<p>
+		<tick codeword="Aid">Note the codeword Aid</tick>.
+		You sail on. <goto section="559"/>.
+	</p>
+</section>

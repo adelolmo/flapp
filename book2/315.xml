@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="315">
+	Castle Ravayne is virtually a city in its own right: the outer
+	courtyard is filled with stables, grain stores, pens for livestock,
+	carpentry yards and a smithy. Nearby, some knights are keeping
+	fighting fit by charging with lances at a straw-filled dummy.
+	Beyond, another line of defences encloses the inner keep.
+	<choices>
+		<choice section="43">Visit the shrine to the war-god Tyrnai</choice>
+		<choice section="66">Visit the armoury</choice>
+		<choice section="89">Practice swordplay</choice>
+		<choice section="624">Rob the treasury</choice>
+		<choice section="112">Enter the inner keep</choice>
+		<choice section="118">Leave the castle</choice>
+	</choices>
+</section>

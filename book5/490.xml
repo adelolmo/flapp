@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="490">
+	<tick codeword="Evict"/> and <gain ability="sanctity" amount="1">gain one point of SANCTITY</gain> for ridding the swamp of the toad demon. <goto section="371"/>.
+</section>

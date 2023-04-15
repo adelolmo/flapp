@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="412">
+	You are on the cobbled road between Yellowport and Trefoille.
+	You meet a few merchants and pilgrims, but all in all it is an
+	uneventful journey.
+	<lose codeword="StillInYellowport" hidden="t"/>
+	<choices>
+		<choice section="10">Head for Yellowport</choice>
+		<choice section="250">Head for Trefoille</choice>
+	</choices>
+</section>

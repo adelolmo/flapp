@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="663">
+	<p>
+		<if item="silver nightingale">
+			If you have a <b>silver nightingale</b>
+			<goto section="543"/>.
+		</if>
+		If not, <goto section="579"/>.
+	</p>
+</section>

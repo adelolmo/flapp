@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="266">
+	<p>'You rebel swine,' slurs one of them.</p>
+	<p>
+		'Not showing proper respect to the army,' says another. 'That can't go unpunished!'
+	</p>
+	<p>
+		They wade into you, intent on beating you into submission. <difficulty ability="combat" level="12"/>.
+	</p>
+	<outcomes>
+		<success section="76"/>
+		<failure section="498"/>
+	</outcomes>
+</section>

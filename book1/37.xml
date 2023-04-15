@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="37">
+	Your men have been fishing with a net. This time, however, they have caught a large shark. Afterwards, when it has been cut open, you find the remains of some poor sailor. Inside his leather pouch, you find a <item name="bag of pearls"/>, which you can take if you wish. <goto section="507"/>.
+</section>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="502">
+	<p>
+		You help yourself to a stack of gems and jewellery worth
+		<gain shards="900"/>. Note this as cash on your Adventure Sheet.
+	</p>
+	<p>
+		Now comes the difficult part. You have to sneak past the guards outside without them spotting you. Carrying all this loot, it won&#8217;t be easy.
+		<difficulty ability="thievery" level="16">
+			Make a THIEVERY roll at a Difficulty of 16
+		</difficulty>.
+	</p>
+	<outcomes>
+		<success section="552"/>
+		<failure section="577"/>
+	</outcomes>
+</section>

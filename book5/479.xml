@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="479">
+	<p>
+		Cross off the 150 Shards.
+		<!-- money deducted in the section leading here -->
+		The advocate tells you that there is only one certain way of avoiding a conviction by the arbiters - by not appearing in court at all!
+	</p>
+	<p>
+		'There are two way this may be achieved,' he says. 'The first is to choose trial by bokh. Even foreigners may elect this revered, and time-honoured method. Bokh is an ancient and holy game, and you will have to play against one of the court-appointed master of bokh. I advise this course only if you are well versed in the intricacies of the game. The second is to pay a large inducement to the arbiters. Four hundred Shards will guarantee a favourable outcome.'
+	</p>
+	<choices>
+		<choice section="677">Pay 400 Shards</choice>
+		<choice section="432">Choose trial by bokh</choice>
+		<choice section="314">Take your chances in court</choice>
+	</choices>
+</section>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="540">
+	On the way up the cliffpath you pass a few seagulls that stand
+	dead still, no doubt under the same spell that afflicts the villagers.
+	Ahead lies a great bronze door set in the rocks. You have a
+	feeling that is where you&#8217;ll find the source of the trouble.
+	<choices>
+		<choice section="631">Knock boldly on the door</choice>
+		<choice section="649">Look for a way to sneak in</choice>
+	</choices>
+</section>

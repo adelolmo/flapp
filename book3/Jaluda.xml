@@ -1,0 +1,16 @@
+<section name="Jaluda the Black" profession="Warrior">
+	<p>
+		Jaluda is a ruthlessly clever fighter who believes herself more than a match for any man. Those who have sailed with her describe this fearsome amazon as fiery and proud, not one to forget either a favour or a fight. She bears a mortal grudge against Amcha, the pirate king.
+	</p>
+	<p>
+		You can play as Jaluda, or as a warrior with a different name (enter it in the 'Name' field). To begin your adventure, <goto section="1" force="f"/>.
+	</p>
+	<p>For another profession, choose from the following:</p>
+	<choices>
+		<choice section="Damontir">Mage</choice>
+		<choice section="Arcadia">Priest</choice>
+		<choice section="Silas">Troubadour</choice>
+		<choice section="Greymalkin">Rogue</choice>
+		<choice section="Varkung">Wayfarer</choice>
+	</choices>
+</section>

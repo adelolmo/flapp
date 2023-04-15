@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="207" boxes="1">
+	<p>
+		<if ticks="1">
+			If there is a tick in the box, <goto section="137"/> immediately.
+		</if>
+		If not, <tick/>, and read on.
+	</p>
+	<p>The look-out cries, &#8216;Ship on the starboard bow!&#8217;</p>
+	<p>
+		You spot a crippled merchant ship, limping towards Marlock City. It looks like a trading vessel from the Feathered Lands.
+	</p>
+	<choices>
+		<choice section="293">Assist</choice>
+		<choice section="464">Attack</choice>
+	</choices>
+</section>

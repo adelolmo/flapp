@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="113">
+	The navigator reports that he has found the passage that could
+	take you to the Jawbone Isles. This news only makes your men
+	edgy; they fear to travel where no man has gone before.
+	<choices>
+		<choice section="239">Set course for the Jawbone Isles</choice>
+		<choice section="136">Make for the coast of Yodoshi</choice>
+		<choice section="745">Steer south into the straits</choice>
+	</choices>
+</section>

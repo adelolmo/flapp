@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="242">
+	<p>
+		You pass through fields of wheat where peasants&#8217; huts stand amid islands of white poppy flowers.
+	</p>
+	<p><random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-8" section="266">Nothing of note</outcome>
+		<outcome range="9-12" section="560">A flying lantern?</outcome>
+	</outcomes>
+</section>

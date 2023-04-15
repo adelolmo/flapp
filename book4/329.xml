@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="329">
+	<p><gain codeword="Dragon">Acquire the codeword Dragon</gain>.</p>
+	<p>
+		You send a clear, pure note into the roseate air. It matches the harmonic resonance of the giant ruby exactly, and it begins to shake ominously. The man in black is thrown into panic; his staff wavers and a blast of icy blackness shoots past you.
+	</p>
+	<p>&#8216;No, no!&#8217; he cries but it is too late.</p>
+	<p>
+		The whole citadel begins to shudder and shake, and a block of translucent rock crashes to the floor, followed by a torrent of others. The man in black is buried in seconds.
+	</p>
+	<p>
+		You notice the block that imprisons the tattooed man has shattered, freeing him. He gestures oddly, and is surrounded instantly with a glowing field of blue energy, that protects him from the collapsing ruby.
+	</p>
+	<p>
+		You, however, are not so protected. <rankcheck dice="1" add="2">Roll one die</rankcheck>, and add 2.
+		<success>
+			If you score less than or equal to your Rank, <goto section="441"/>.
+		</success>
+		<failure>
+			If you roll greater than your Rank, <goto section="679"/>.
+		</failure>
+	</p>
+</section>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="181">
+	The Green Man Inn costs you 1 Shard a day. <rest stamina="1" shards="1">Each day you spend here</rest>, you can recover 1 Stamina point if injured, up to the limit of your normal unwounded Stamina score. When you are ready, <goto section="195"/>.
+</section>

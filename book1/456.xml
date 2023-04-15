@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="456">
+	<p>&#8216;Ah, welcome, welcome,&#8217; says Marloes Marlock.</p>
+	<p>
+		<if codeword="Ambuscade">
+			If you have the codeword Ambuscade, <goto section="375"/>.
+		</if>
+		<if item="royal ring"><if codeword="Ark">
+				If not, but you have the codeword Ark and the <b>royal ring</b>, <goto section="255"/>.
+		</if></if>
+	</p>
+	<p>
+		Otherwise, you tell him you have not yet completed your mission. You are thrown out immediately before you have time to say more.
+	</p>
+	<p>
+		&#8216;Come back when you have better news, you worthless dog,&#8217; screams the provost marshal.
+	</p>
+	<p>
+		<tick codeword="StillInYellowport" hidden="t"/>
+		<goto section="10"/> and choose again.
+	</p>
+</section>

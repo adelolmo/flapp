@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="20">
+	Did you sell anything at the market that you had previously
+	obtained there for free?
+	<if codeword="3.318.sold">
+		<lose codeword="3.318.sold" hidden="t"/>
+		If so, <goto section="372"/>.
+	</if>
+	If not, <goto section="335"/>.
+</section>

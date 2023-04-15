@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="241">
+	<p><tick codeword="Drizzle">Record the codeword Drizzle</tick>.</p>
+	<p>'That is good,' pipes Lek.</p>
+	<p>Beladai puts his hand on your shoulder, and bores his steely gaze into your eyes.</p>
+	<p>
+		&#8216;Do not fail us and may Tyrnai guide you,&#8217; he whispers. &#8216;We
+		will send a thousand of our best troops every night, under cover
+		of darkness, as near to the gates as they can get undetected. As
+		soon as the gates open, they&#8217;ll charge.&#8217;
+	</p>
+	<p>
+		<if codeword="Deep">
+			If you have the codeword Deep, <goto section="709"/>.
+		</if>
+		If not, you leave the camp. <goto section="145"/>.
+	</p>
+</section>

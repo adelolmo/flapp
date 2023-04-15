@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="448">
+	<p>
+		The High Convener looks up expectantly as you enter the chamber. She had asked you to find the Holy Avenger - the sword of the war prophet Kizil Irmak.
+	</p>
+	<p>
+		<if item="Holy Avenger">
+			If you have the <b>Holy Avenger</b>,
+			<goto section="679"/>.
+		</if>
+		If not, <goto section="536"/>.
+	</p>
+</section>

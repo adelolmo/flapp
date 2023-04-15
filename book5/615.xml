@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="615">
+	You join the other preachers and speakers, jumping up on to an old box to have your say.
+	<choices>
+		<choice section="555">Preach about Ebron</choice>
+		<choice section="666">Preach about another god</choice>
+	</choices>
+</section>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="184">
+	<p>
+		&#8216;The cliffs of Kito Province,&#8217; says Mister Stone, the senior midshipman, with a sigh. &#8216;My wife&#8217;s family hails from there.&#8217;
+	</p>
+	<p>
+		&#8216;Wives are for landlubbers,&#8217; growls the bosun. &#8216;A mariner&#8217;s ship is all the mistress he needs.&#8217;
+	</p>
+	<p>
+		&#8216;And his captain the only master,&#8217; you remind him. &#8216;Look alive, mister; I&#8217;m setting a new course.&#8217;
+	</p>
+	<choices>
+		<choice section="136">Go south</choice>
+		<choice section="684">Go west</choice>
+	</choices>
+</section>

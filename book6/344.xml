@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="344">
+	After the meal you sink into a deep sleep. Your dreams that
+	night are strange and full of wonderment.
+	<random dice="1" var="x">Roll one die</random>.
+	<set var="m" value="magic" modifier="natural"/>
+	<set var="c" value="combat" modifier="natural"/>
+	<if var="x" greaterthan="m">
+		If you roll higher than your MAGIC score,
+		<gain ability="magic" amount="1">increase it by 1</gain>.
+	</if>
+	<if var="x" greaterthan="c">
+		Also, if the roll is higher than your COMBAT score,
+		<gain ability="combat" amount="1">increase that by 1</gain>.
+	</if>
+	After making any necessary amendments to your Adventure Sheet,
+	<goto section="610"/>.
+</section>

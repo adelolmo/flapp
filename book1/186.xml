@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="186">
+	<p>
+		You pass the leash over to the man in the palanquin, who leans out and hands you over <gain shards="75"/>. You leave the slave market.
+	</p>
+	<p><goto section="400"/>.</p>
+</section>

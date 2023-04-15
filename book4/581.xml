@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="581">
+	<p>
+		You put on a burst of speed, diving between the bronze doors an instant before they slam shut. Crouching on the icy ground, you gulp grateful lungfuls of the fresh clean air and listen to the faint pounding of the horde on the other side of the doors.
+	</p>
+	<p>
+		You stuff the chalice that you stole into your travelling pack. It is worth <gain shards="1500"/>; add this sum to your cash.
+	</p>
+	<p>
+		Then you are jolted to your feet by a deep resonant voice that seems to speak to you out of the cold ground: &#8216;Do not violate my realm again, mortal, unless you wish to abide with me for ever. The next time I&#8217;ll send one of my handmaidens to greet you.&#8217;
+	</p>
+	<p>
+		You have been warned - by none other than the Lord of Death himself. Now <goto section="15"/>.
+	</p>
+</section>

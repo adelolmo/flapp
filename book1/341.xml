@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="341">
+	<p>
+		You hear an interesting story about one of Baroness Ravayne&#8217;s knights, in Golnir. Apparently he is plotting against her!
+	</p>
+	<p>
+		&#8216;Intrigue and treachery in the court of the baroness...&#8217; mutters a man before his voice fades to a whisper.
+	</p>
+	<p>You leave the tavern. <goto section="400"/>.</p>
+</section>

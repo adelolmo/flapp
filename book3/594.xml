@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="594">
+	<p>
+		You give a stirring speech that turns them around completely. Soon they are vowing to follow your orders to the ends of the earth.
+	</p>
+	<p>
+		&#8216;Aye, and beyond!&#8217; declares the bosun. &#8216;As far as hell&#8217;s harbour gates, if you ask us, skipper!&#8217;
+	</p>
+	<p>
+		<training ability="charisma" dice="2"/>,
+		and if you get more than your CHARISMA score then increase it by 1.
+	</p>
+	<p>
+		<tick codeword="Curdle">Acquire the codeword Curdle</tick>
+		and <goto section="282"/>.
+	</p>
+</section>

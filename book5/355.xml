@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="355">
+	<p><tick codeword="Evade"/>.</p>
+	<p>
+		You disappear into the countryside. You have escaped with the regulation issue of a janissary. Note you have a <armour name="leather jerkin" bonus="1"/>, a <weapon name="sword"/>, some <item name="rope"/>, a <item name="spotted scarf"/> and <gain shards="7"/>. You find yourself in the hills of northern Uttaku. <goto section="487"/>.
+	</p>
+</section>

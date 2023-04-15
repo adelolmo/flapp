@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="361">
+	<p>
+		You head west through trees that lurch upwards then over like vast frozen willows. Each one is home to many weird creatures that call and chatter above your head though they remain hidden in the silvery foliage.
+	</p>
+	<p>
+		It is not long before you see the blue rock, a large, shiny boulder of ice. As you approach it you are sure you can hear something, and the ground becomes very rocky. They're not like ordinary rocks for they are smooth and round and the surface of them changes colour every few seconds.
+	</p>
+	<p>
+		Suddenly one of them hurls itself up at you and knocks you to the ground. You leap to your feet and another comes flying towards you.
+	</p>
+	<p>
+		You have encountered the creags, a little-known species said to inhabit cold and undisturbed places. It is said that they form and live underground, but when they feel vibrations above they push themselves upwards to confront the intruder that dares to walk upon their territory. They attack by hurling themselves at their victims in an attempt to batter them to death.
+	</p>
+	<p>
+		<if ability="defence" greaterthan="13">
+			If your Defence is 14 or more,
+			<goto section="160"/>.
+		</if>
+		If not, <goto section="271"/>.
+	</p>
+</section>

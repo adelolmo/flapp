@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="575">
+	<p>
+		&#8216;Who asked for your opinion?&#8217; growls the tusked head. The other two heads, however, think you have a point. A fierce argument ensues, and finally the red-eyed head butts the tusked head so hard that both are knocked out.
+	</p>
+	<p>
+		You climb out of the net and start to walk away. The troll holds up a finger uncertainly. &#8216;Er... excuse me,&#8217; says the tiny head, &#8216;but what am I going to say to Tusker and Stareface when they wake up?&#8217;
+	</p>
+	<p>&#8216;Tell them to stick to eating rabbits in future.&#8217;</p>
+	<p><goto section="246"/>.</p>
+</section>

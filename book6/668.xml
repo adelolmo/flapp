@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="668" boxes="1">
+	<p>
+		<if ticks="1">
+			If the box above has a tick in it, the goddess does not deign to receive you;
+			<goto section="565">turn now to 565</goto>.
+		</if>
+		If the box is empty, do not put a tick in it just yet, but read on.
+	</p>
+	<p>
+		To obtain the favour of the goddess you must
+		<difficulty ability="charisma" level="16">
+			make a CHARISMA roll of Difficulty 16
+		</difficulty>.
+		<failure>
+			If you fail this roll,
+			<tick>put a tick</tick> in the box above
+			and then <goto section="565"/>.
+		</failure>
+		<success>
+			If you succeed, you have the ear of the goddess: <goto section="691"/>.
+		</success>
+	</p>
+</section>

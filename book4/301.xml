@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="301">
+	<p>
+		The black speck grows larger and larger until it becomes a huge bird, hurtling toward your ship like a thunderbolt. It is as big as a house, and its wingspan is as long as your ship with feathers as white as snow. It is a rukh, taloned and beaked like an eagle, and it swoops down, intent on plucking you from the deck.
+	</p>
+	<p><difficulty ability="combat" level="15"/>.</p>
+	<outcomes>
+		<success section="381"/>
+		<failure section="410"/>
+	</outcomes>
+</section>

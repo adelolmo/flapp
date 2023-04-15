@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="307">
+	<p>
+		It feels like you are playing the flute for an eternity. But at last they tire of your music...
+	</p>
+	<p>
+		You wake up with a scream. You realize you are not aboard your ship! You find out that you are in the temple of Alvir and Valmir in Yellowport. A priest tells you that your crew brought you here three months ago because they could not wake you from your sleep.
+	</p>
+	<p>
+		<lose codeword="StillInYellowport" hidden="t"/>
+		Your ship and crew are long gone now - <lose ship="t">note that you no longer own a ship</lose>. The priests, however, have been looking after all your possessions. Among them is a <tool name="silver flute" ability="charisma" bonus="2" sell="500"/>. While you have the flute, it adds 2 to your CHARISMA. Note that it is worth 500 Shards, and that you can sell it at any market, if you like.
+	</p>
+	<p>You leave the temple. <goto section="10"/>.</p>
+</section>

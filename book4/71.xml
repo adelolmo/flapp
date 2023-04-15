@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="71">
+	You are welcomed at the arena as a champion.
+	You cannot compete again but you do have the right to stay in
+	the champion's suite, a luxurious apartment built in the arena.
+	Here you can rest for as long as you like free of charge, and
+	<rest>regain any lost Stamina points</rest>.
+	The mages can also
+	<lose disease="*">cure poison, disease</lose> and
+	<lose curse="?">lift a curse</lose>
+	(such as the Curse of the Shadar or the Blight of Nagil).
+	When you are ready, <goto section="274"/>.
+</section>

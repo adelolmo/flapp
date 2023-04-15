@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="574">
+	<p>
+		The knight is searching for the lady to whom he has pledged his courtly love. &#8216;She was abducted by a villainous knight&#8217;, he growls. &#8216;I&#8217;ll soon wreak revenge when I learn where he&#8217;s taken her.&#8217;
+	</p>
+	<p>
+		<if codeword="Bridoon">
+			If you have the codeword Bridoon, <goto section="451"/>.
+		</if>
+		<if codeword="Brisket">
+			If you have the codeword Brisket, <goto section="476"/>.
+		</if>
+		If you have neither codeword, <goto section="31"/>.
+	</p>
+</section>

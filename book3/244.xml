@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="244">
+	<p>&#8216;Can you taste it on the breeze, shipmates?&#8217; you ask the crew.</p>
+	<p>&#8216;Taste what, captain? The scent of brine?&#8217; asks the mate.</p>
+	<p>
+		&#8216;No, not brine; it&#8217;s the smell of sorcery. Braelak is just over the horizon.&#8217;
+	</p>
+	<p><random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-4" section="460">A shooting star</outcome>
+		<outcome range="5-7" section="262">A quiet day&#8217;s sailing</outcome>
+		<outcome range="8-12" section="441">Attacked by night</outcome>
+	</outcomes>
+</section>

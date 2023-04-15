@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="199" image="199.jpg">
+	<p>
+		You enter a large ballroom, where the Seneschal of the Dance of Majesty, who wears a mask crested like a peacock's fan-tail, is instructing various dignitaries in court etiquette.
+	</p>
+	<p><if codeword="Envoy">If you have the codeword Envoy, <goto section="429"/>.</if> If not, <goto section="498"/>.</p>
+</section>

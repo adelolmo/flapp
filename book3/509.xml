@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="509" boxes="1">
+	<p>
+		You continue down the shaft until you reach the rock face, where there are several wheelbarrows stacked with copper ore. No one is working here at the moment, but the next shift will arrive soon.
+	</p>
+	<p>
+		<if ticks="0">
+			If the box above is empty,
+			<tick>put a tick in it</tick> and <goto section="377"/>.
+		</if>
+		If it was already ticked, <goto section="396"/>.
+	</p>
+</section>

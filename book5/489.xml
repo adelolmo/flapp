@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="489">
+	<p>
+		It is the spectre of Kizil Irmak, and it cuts at you with the flickering sword it wields. You must fight.
+	</p>
+	<fight name="Irmak's Spectre" combat="8" defence="8" stamina="10"/>
+	<p>
+		<fightdamage type="add">
+			Each time you are wounded by the spectre,
+			<difficulty ability="sanctity" level="11"/>.
+			<failure>
+				If you fail the roll, the sword
+				<curse name="Avenger's Bite" cumulative="t">
+					drains you of one COMBAT point
+					<effect ability="combat" bonus="-1"/>
+				</curse>
+				(for this fight only - it is not permanent).
+			</failure>
+			<success>
+				If you make the roll, you resist the COMBAT drain.
+			</success>
+		</fightdamage>
+	</p>
+	<choices>
+		<choice section="7" dead="t">Lose</choice>
+		<choice section="565">Win</choice>
+		<choice section="45">Run away</choice>
+	</choices>
+</section>

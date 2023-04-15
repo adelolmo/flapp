@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="223">
+	The Akatsurese do not have much use for currency, preferring a
+	system of gift-giving and favours, but by a long process of
+	bartering around the city you are able to buy or sell any of the
+	following:
+	<market>
+		<header header1="Items" header2="To buy" header3="To sell"/>
+		<tool name="compass" ability="scouting" bonus="1" buy="400" sell="350"/>
+		<tool name="cross-staff" ability="scouting" bonus="2" buy="900" sell="650"/>
+		<tool name="sextant" ability="scouting" bonus="3" buy="1500" sell="900"/>
+		<item name="lantern" tags="light" buy="90" sell="80"/>
+		<item name="parchment" buy="5" sell="3"/>
+		<item name="tatsu pearl" buy="2500" sell="1000"/>
+		<item name="platinum earring" sell="750"/>
+	</market>
+	When you have completed your business, <goto section="79"/>.
+</section>

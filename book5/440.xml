@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="440">
+	<p>
+		The spectre of Kizil Irmak wails mournfully. 'You have already taken all that I have to give. Leave me in peace, mortal ...'
+	</p>
+	<p>
+		The ghost fades away. You find nothing else in the tomb, so you leave.
+	</p>
+	<choices>
+		<choice section="121">Return to the village</choice>
+		<choice section="185">Leave the area</choice>
+	</choices>
+</section>

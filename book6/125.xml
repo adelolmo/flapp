@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="125">
+	You are on the middle stretch of the Western Coastal Road, just
+	south of the town of Shingen. Willows droop from the banks of
+	earth on both sides, keeping the road in cool shade. Every so
+	often the road opens out to give you a breathtaking view of the
+	sea crashing against the base of the cliffs.
+	<choices>
+		<choice section="362">Go north</choice>
+		<choice section="733">Go south</choice>
+		<choice section="653">Leave the road</choice>
+	</choices>
+</section>

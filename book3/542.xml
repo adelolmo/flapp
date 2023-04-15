@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="542">
+	<p>
+		You discover that <i>Walks in the Forest of Larun</i>, by Bosquay d&#8217;Arborealle, is missing from the shelves. When you point this out to the librarian he looks in his files and says, 'Ah yes, that book is out on loan to the Master of the College. It&#8217;s overdue, actually.&#8217;
+	</p>
+	<p>&#8216;You should tell him to return it.&#8217;</p>
+	<p>He gives you an extraordinary look. &#8216;You tell him!&#8217;</p>
+	<p><goto section="368"/>.</p>
+</section>

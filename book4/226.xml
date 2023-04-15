@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="226">
+	<p>
+		You are travelling across snow-carpeted wastelands. To the north, the Peaks at the Edge of the World rise up; these indomitable mountains are completely impassable here. You put your position as somewhere between the Pyramid of Xinoc and the Ruby Citadel.
+	</p>
+	<p>
+		<if item="wolf pelt|fur cloak">
+			If you have a <b>wolf pelt</b> or <b>fur cloak</b>, the fur helps to keep you warm.
+		</if>
+		<else>
+			If you do not, <lose stamina="1">lose 1 Stamina</lose>
+			from the cold.
+		</else>
+	</p>
+	<choices>
+		<choice section="472">West</choice>
+		<choice section="535">East</choice>
+		<choice section="383">South</choice>
+	</choices>
+</section>

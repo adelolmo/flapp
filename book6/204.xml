@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="204">
+	Forewarned by the cautionary tale of the hermit Jobutsu, you
+	make sure to blow the dust out of the flute before starting to
+	play.
+	<if codeword="Cerumen">
+		If you have the codeword Cerumen, <goto section="324"/>.
+	</if>
+	Otherwise, <goto section="343"/>.
+</section>

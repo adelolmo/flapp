@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="387">
+	<p>
+		You are on a road between Caran Baru and Trefoille. You come to the Weary Pilgrim Tavern, a waystation between the cities. The tavern costs you 1 Shard a day. <rest stamina="1" shards="1">Each day you spend here</rest> you can recover 1 Stamina point if injured, up to the limit of your normal unwounded Stamina score.
+	</p>
+	<p>
+		<if shards="3">
+			If you want to spend 3 Shards buying drinks all round so you can glean some rumours,
+			<group>
+				<text>turn to <b>666</b></text>
+				<lose shards="3"/>
+				<goto section="666"/>
+			</group>.
+		</if>
+		To leave, you can go:
+	</p>
+	<choices>
+		<choice section="558">South</choice>
+		<choice section="347">North</choice>
+		<choice section="47">West into the Forest of Larun</choice>
+		<choice section="135">East to the lake</choice>
+	</choices>
+</section>

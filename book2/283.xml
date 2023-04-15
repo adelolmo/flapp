@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="283">
+	Your options include hiring passage on a barge going south, at a
+	cost of 3 Shards.
+	<choices>
+		<choice shards="3" book="1" section="240">Barge to Marlock City</choice>
+		<choice section="260">Follow the riverbank south</choice>
+		<choice section="214">Take the road west</choice>
+		<choice section="99">Follow the River Grimm north</choice>
+		<choice section="237">Follow the Rainbow River north</choice>
+	</choices>
+</section>

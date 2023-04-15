@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="159">
+	<p>
+		You step into a small antechamber. Inside, the red glow is so bright it hurts your eyes. You can feel it vibrating slightly, and this vibration causes a low, thrumming hum like the sound of a multitude of bees.
+	</p>
+	<p>
+		Two figures shamble toward you. Their half-rotten flesh, rusting armour and putrid smell tell you they are undead. They fix their dead-white eyes upon you, and utter a wordless cry of bloodlust, gripping their pitted scimitars in quivering, skinless hands. The ruby light gives them an awful, hellish cast.
+	</p>
+	<p>
+		<if ability="sanctity" greaterthan="8">
+			If your SANCTITY is 9 or more,
+			<goto section="416"/>.
+		</if>
+		If not, <goto section="659"/>.
+	</p>
+</section>

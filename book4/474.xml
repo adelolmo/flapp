@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="474">
+	<p>
+		Your eloquent appeal sways the nomad chiefs, who invite you to join the camp as their guest. You soon learn that they are people of the One-Eyed Crow clan on their way to join the Horde of the Windswept Ice, to which they belong.
+	</p>
+	<p>
+		As darkness deepens between the nomads&#8217; tents, fires leap and roar in the chill wind. A bard starts to sing of ancient glories and some of the young men of the clan jump up to dance in the firelight.
+	</p>
+	<choices>
+		<choice section="553">Stay and listen</choice>
+		<choice section="366">Go to talk to the clan chief</choice>
+		<choice section="523">Seek out their shaman</choice>
+		<choice section="394">Go to sleep</choice>
+	</choices>
+</section>

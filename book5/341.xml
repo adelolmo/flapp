@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="341">
+	<p>
+		The blacksmith can forge weapons and armour for you, but you must pay him the money he needs for raw materials.
+	</p>
+	<market sell="false">
+		<header header1="Armour" header2="To buy"/>
+		<armour name="leather" bonus="1" buy="25"/>
+		<armour name="ring mail" bonus="2" buy="50"/>
+		<armour name="chain mail" bonus="3" buy="100"/>
+		<armour name="splint armour" bonus="4" buy="250"/>
+		<armour name="plate armour" bonus="5" buy="600"/>
+		<armour name="heavy plate" bonus="6" buy="1000"/>
+
+		<header header1="Weapons" header2="To buy"/>
+		<weapon name="sword" buy="25"/>
+		<weapon name="sword" bonus="1" buy="75"/>
+	</market>
+	<p>When you have finished, <goto section="245"/>.</p>
+</section>

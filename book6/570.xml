@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="570">
+	Down in a gully you see an overturned sedan chair. Half a dozen
+	knights wearing white pennants are struggling against a larger
+	force of hairy fur-clad barbarians.
+	<choices>
+		<choice section="240">Help the knights</choice>
+		<choice section="264">Help the barbarians</choice>
+		<choice section="280">Continue on your way</choice>
+	</choices>
+</section>

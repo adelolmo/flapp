@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="88">
+	<p>
+		You have entered a long, low hall of a dark grey stone. Riches abound. Crates filled with objets d&#8217;art, bolts of silk from Akatsurai, jars of oleum oil from the Feathered Lands, ingots of gold and silver, chests of gems and coins - the treasure house of one of the richest merchants in the world.
+	</p>
+	<p>
+		&#8216;Well,&#8217; says Luroc, &#8216;it&#8217;s just a question of how much we can carry, and get away with, isn&#8217;t it?&#8217;
+	</p>
+	<p>
+		But then you notice him eyeing you oddly, distrustfully, as if unsure of your intent. Come to think of it, you don&#8217;t trust him an inch. It might be better to kill him and take everything for yourself - after all, it&#8217;s only what he&#8217;s bound to try to do to you. Every passing second seems to make you more uneasy, more certain that you&#8217;ll have to kill Luroc.
+	</p>
+	<p><difficulty ability="magic" level="13"/>.</p>
+	<outcomes>
+		<success section="137"/>
+		<failure section="113"/>
+	</outcomes>
+</section>

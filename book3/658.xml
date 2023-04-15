@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="658">
+	<p>
+		It is rather disheartening the way all the onlookers sigh and shake their heads the moment you give your answer.
+	</p>
+	<p>
+		&#8216;Talanexor always gets them with that one!&#8217; you overhear an old professor saying.
+	</p>
+	<p>
+		Having been judged loser in the dispute you have brought shame on your college if you belong to one, and are forthwith expelled.
+		<group force="t">
+			<text>Turn to <b>571</b></text>
+			<lose codeword="3.571.1"/>
+			<goto section="571"/>
+		</group>
+		- and remember to erase the tick in the college box if there is one there.
+	</p>
+</section>

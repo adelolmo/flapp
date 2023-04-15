@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="115">
+	<p>
+		Lose the codewords <lose codeword="Almanac">Almanac</lose>,
+		<lose codeword="Brush">Brush</lose> and
+		<lose codeword="Eldritch">Eldritch</lose> if you have them.
+	</p>
+	<p>
+		You can invest money in multiples of 100 Shards. The guild will buy and sell commodities on your behalf using this money until you return to collect it.
+	</p>
+	<p>
+		Write the sum you are investing in the box here or withdraw a sum invested previously. Then <goto section="721"/>.
+	</p>
+	<moneycache name="5115" text="Money invested" multiples="100"/>
+</section>

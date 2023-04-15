@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="561">
+	You sneak back up the tunnel.
+	<difficulty ability="thievery" level="12">
+		Make a THIEVERY roll at a Difficulty of 12
+	</difficulty>.
+	<outcomes>
+		<success section="633"/>
+		<failure section="669"/>
+	</outcomes>
+</section>

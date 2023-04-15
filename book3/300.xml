@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="300">
+	Far out at sea with only the stars to guide you, you taste the salty
+	wind and ponder your next course.
+	<choices>
+		<choice section="370">Steer west</choice>
+		<choice section="153">Steer east</choice>
+		<choice section="208">Steer north</choice>
+		<choice section="468">Steer south</choice>
+	</choices>
+</section>

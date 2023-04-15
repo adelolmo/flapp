@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="631">
+	<p>
+		<lose curse="Avenger's Bite" hidden="t"/>
+		The spectre dissolves under your attack, only to reform yet again, even more potent than before!
+	</p>
+	<fight name="Irmak's Spectre" combat="12" defence="12" stamina="14"/>
+	<p>
+		<fightdamage type="add">
+			Each time you are wounded by the spectre,
+			<difficulty ability="sanctity" level="11"/>.
+			<failure>
+				If you fail the roll, the sword
+				<curse name="Avenger's Bite" cumulative="t">
+					drains you of one COMBAT point
+					<effect ability="combat" bonus="-1"/>
+				</curse>
+				(for this fight only - it is not permanent).
+			</failure>
+			<success>
+				If you make the roll, you resist the COMBAT drain.
+			</success>
+		</fightdamage>
+	</p>
+	<choices>
+		<choice section="7" dead="t">If you lose</choice>
+		<choice section="697">If you win</choice>
+		<choice section="45">If you run away</choice>
+	</choices>
+</section>

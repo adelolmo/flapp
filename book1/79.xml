@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="79">
+	<difficulty ability="scouting" level="14"/>, as you try to lose them in the tunnels. It is hard because they know the layout better than you do.
+	<outcomes>
+		<success section="224"/>
+		<failure section="381"/>
+	</outcomes>
+</section>

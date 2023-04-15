@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="122">
+	You are sailing away from Braelak, the Sorcerers&#8217; Isle.
+	<choices>
+		<choice section="200">Go north</choice>
+		<choice section="244">Go south</choice>
+		<choice section="504">Go east</choice>
+		<choice section="129">Go west</choice>
+	</choices>
+</section>

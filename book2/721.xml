@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="721">
+	You are grabbed and hauled in front of the Piepowder Court:
+	seven ruddy-cheeked farmers in homespun smocks who barely
+	know a half-dozen paragraphs of criminal law between them.
+	Although you protest your innocence, as a stranger in the district
+	you are convicted of theft. You are fined all your cash
+	(<lose shards="*">cross it off</lose> your Adventure Sheet),
+	given a birching and then left in the
+	stocks to be pelted with rotten fruit. <goto section="199"/>.
+</section>

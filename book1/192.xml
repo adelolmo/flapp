@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="192">
+	<p>
+		During your short trip upward, the old man regales you with tales of your destiny and fate, continuously arguing with himself as he does so.
+	</p>
+	<p>
+		You reach a hill covered with a circle of large obsidian standing stones. Despite the bitter wind that blow across these hills the stones are unweathered and seem almost newly lain.
+	</p>
+	<p>&#8216;Here are the Gates of the World.&#8217; says the mad old man.</p>
+	<p>
+		The stones are laid in such a way that they form three archways, each carven with mystic symbols and runes of power.
+	</p>
+	<p>
+		&#8216;Each gate will take you to a part of the world of Harkuna, though I know not where,&#8217; explains the old man. Abruptly, he turns around and sets off down the hill, babbling to himself. His voice fades as he descends the hill, leaving you alone with the brooding stones and the howling wind. <goto section="65"/>.
+	</p>
+</section>

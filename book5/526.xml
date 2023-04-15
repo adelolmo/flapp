@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="526" tag="temple">
+	The chapel to Tyrnai is built in the shape of a spear with a long, pillared nave, and an altar at the far end. Tyrnai is depicted here in his aspect as a chivalrous knight, bedecked in golden armour. The priest is a high-ranking bishop, sent from Golnir to aid the High King.
+	<choices>
+		<choice section="435">Become an initiate</choice>
+		<choice section="69">Renounce his worship</choice>
+		<choice section="373">Seek a blessing</choice>
+		<choice section="599">Make resurrection arrangements</choice>
+		<choice section="112">Leave the chapel</choice>
+	</choices>
+</section>

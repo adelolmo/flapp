@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="16">
+	You are trampled by many of the herd - as if deliberately.
+	<lose stamina="3d">Roll three dice</lose>, and lose that many Stamina points. If that kills you, <goto section="7" dead="t"/>. If you are still alive, the horses gallop on into the darkening night. You pick yourself up. <goto section="666"/>.
+</section>

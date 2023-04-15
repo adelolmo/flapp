@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="265">
+	<p>
+		You swim out through the breakers to where the boat is drifting. You can see the two children huddled miserably together in the stern as the current drags them steadily further out to sea. They are so frightened that they can only stare in silence when you pull yourself up over the side and start to raise the sail.
+	</p>
+	<p>
+		The wind is getting up.
+		<difficulty ability="scouting" level="15">
+			Make a SCOUTING roll at a Difficulty of 15
+		</difficulty>
+		to sail the boat back to shore.
+	</p>
+	<outcomes>
+		<success section="750"/>
+		<failure section="318"/>
+	</outcomes>
+</section>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="64">
+	<p>
+		You cannot sail the ship alone, nor would it be wise to venture further inland without your crew to back you up. You go back to the beach, where at least there are provisions enough to sustain you for a few weeks.
+	</p>
+	<p>
+		A storm hits the island only a few days later. You shelter under palm trees until morning, when you discover that your fine ship has been wrecked. All you are able to salvage is a broken plank or two. You have rarely been in lower spirits. (<lose ship="t">Cross the ship off</lose> your Ship&#8217;s Manifest.)
+	</p>
+	<p>
+		As luck would have it, a mercantile barque puts in at the island before your supplies are quite exhausted.
+	</p>
+	<p>
+		&#8216;We are bound for Ringhorn,&#8217; the captain tells you. &#8216;You&#8217;re welcome to come along.&#8217;
+	</p>
+	<choices>
+		<choice book="2" section="2">Travel with them to Ringhorn</choice>
+		<choice section="177">Stay on the island</choice>
+	</choices>
+</section>

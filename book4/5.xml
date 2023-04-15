@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="5">
+	<p>
+		<if codeword="Dotage">
+			If you have the codeword Dotage, <goto section="640"/>.
+		</if>
+		<if codeword="Alissia">
+			If not, but you have the codeword Alissia, <goto section="251"/>.
+		</if>
+		If you have neither codeword, read on.
+	</p>
+	<p>
+		As you draw nearer to the hill, dozens of figures rise up from behind the crest of a low mound. They wear massive helmets, sculpted to resemble beast faces - boars, dragons, pigs and the like. Their bodies are human but gnarled and deformed, and covered in mottled, silvery-grey fur. At the sight of you they give a roar of blood-lust and charge! There are so many of them, that you have no choice but to flee for your life.
+	</p>
+	<p>
+		<rankcheck dice="1" add="1">
+			Roll a die and add one
+		</rankcheck>.
+		<success>
+			If the result is less than or equal to your Rank,
+			<goto section="460"/>.
+		</success>
+		<failure>
+			If it is higher than your Rank,
+			<goto section="180"/>.
+		</failure>
+	</p>
+</section>

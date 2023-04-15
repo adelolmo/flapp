@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="408">
+	<p>
+		The militiamen - a troop of twenty soldiers and a sergeant - go tramping past with a jingling of chain mail. Their banner shows the black lion emblem of the House of Ravayne.
+	</p>
+	<p>
+		<if item="severed head">
+			If you have a <b>severed head</b>, <goto section="786"/>.
+		</if>
+		If not, <goto section="258"/>.
+	</p>
+</section>

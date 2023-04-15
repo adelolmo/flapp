@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="17">
+	<p>
+		You have come to the green and hilly expanses of north-east Old Harkuna. To the north, the mountains of the Spine of Harkun climb heavenward. To the east, the River Rese curls lazily southward. A thin column of smoke marks the village of Spatterdash, nestling between a couple of round hills a few miles off.
+	</p>
+	<choices>
+		<choice section="121">Visit Spatterdash</choice>
+		<choice section="185">Leave this area</choice>
+	</choices>
+</section>

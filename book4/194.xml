@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="194" tag="temple">
+	The temple of Amanushi is a dome, painted a night-dark blue and speckled with golden stars. Amanushi is the Walker-in-Shadows, the Master of the Night. He is the god of thieves and assassins, and as such his temple is frowned upon by many Akatsurese. Normally, the temple would not be tolerated so openly, but Amanushi has been the patron god of the Clan of the White Spear since time immemorial, and here in Yarimura, he holds pride of place.
+	<choices>
+		<choice section="334">Become an initiate of Amanushi</choice>
+		<choice section="48">Renounce his worship</choice>
+		<choice section="447">Seek a blessing</choice>
+		<choice section="58">Leave the temple</choice>
+	</choices>
+</section>

@@ -1,0 +1,204 @@
+<section>
+	<table>
+		<tr><h2>Adventuring in the</h2></tr>
+		<tr><h1>Fabled Lands</h1></tr>
+	</table>
+	<p>
+		<i>Fabled Lands</i> is unlike any other gamebook series. The reason is that you can play the books in any order, coming back to earlier books whenever you wish. You need only one book to start, but by collecting other books in the series you can explore more of this rich fantasy world. Instead of just one single storyline, there are virtually unlimited adventures to be had in the <i>Fabled Lands</i>. All you need is two dice, an eraser and a pencil.
+	</p>
+	<p>
+		If you have already adventured using other books in the series, you will know your entry point into this book. Turn to that section now.
+	</p>
+	<p>
+		If this is your first <i>Fabled Lands</i> book, read the rest of the rules before starting at section 1. You will keep the same adventuring persona throughout the books - starting out as a 5th Rank wanderer in <i>The Court of Hidden Faces</i>, but gradually gaining in power, wealth and experience throughout the series.
+	</p>
+	
+	<h4>ABILITIES</h4>
+	<p>
+		You have six abilities. Your initial score in each ability ranges from 1 (low ability) to 8 (a high level of ability). Ability scores will change during your adventure, but you can never have an ability score lower than 1 or higher than 12.
+	</p>
+	<table>
+		<tr><td>CHARISMA</td><td>the knack of befriending people</td></tr>
+		<tr><td>COMBAT</td><td>the skill of fighting</td></tr>
+		<tr><td>MAGIC</td><td>the art of casting spells</td></tr>
+		<tr><td>SANCTITY</td><td>the gift of divine power and wisdom</td></tr>
+		<tr><td>SCOUTING</td><td>the techniques of tracking and wilderness lore</td></tr>
+		<tr><td>THIEVERY</td><td>the talent for stealth and lockpicking</td></tr>
+	</table>
+
+	<h4>PROFESSIONS</h4>
+	<p>
+		Not all adventurers are good at everything. Everyone has some strengths and some weaknesses. Your choice of profession determines your initial scores in the six abilities.
+	</p>
+	<table>
+		<tr><td>Priest: CHARISMA 6, COMBAT 4, MAGIC 5, SANCTITY 8, SCOUTING 6, THIEVERY 2</td></tr>
+		<tr><td>Mage: CHARISMA 4, COMBAT 4, MAGIC 8, SANCTITY 1, SCOUTING 7, THIEVERY 5</td></tr>
+		<tr><td>Rogue: CHARISMA 7, COMBAT 6, MAGIC 6, SANCTITY 2, SCOUTING 4, THIEVERY 8</td></tr>
+		<tr><td>Troubadour: CHARISMA 8, COMBAT 5, MAGIC 5, SANCTITY 5, SCOUTING 4, THIEVERY 6</td></tr>
+		<tr><td>Warrior: CHARISMA 5, COMBAT 8, MAGIC 3, SANCTITY 6, SCOUTING 5, THIEVERY 3</td></tr>
+		<tr><td>Wayfarer: CHARISMA 4, COMBAT 7, MAGIC 4, SANCTITY 4, SCOUTING 8, THIEVERY 6</td></tr>
+	</table>
+	<p>
+		Fill in the Adventure Sheet with your choice of profession and the ability scores given for that profession.
+	</p>
+
+	<h4>STAMINA</h4>
+	<p>
+		Stamina is lost when you get hurt. Keep track of your Stamina score throughout your travels and adventures. You must guard against your Stamina score dropping to zero, because if it does you are dead.
+	</p>
+	<p>
+		Lost Stamina can be recovered by various means, but your Stamina cannot goes above its initial score until you advance in Rank.
+	</p>
+	<p>
+		You start with 23 Stamina points. Record your Stamina in pencil on the Adventure Sheet.
+	</p>
+
+	<h4>RANK</h4>
+	<p>
+		You start at 5th Rank, so note this on the Adventure Sheet now. By completing quests and overcoming enemies, you have the chance to go up in Rank.
+	</p>
+	<p>
+		You will be told during the course of your adventures when you are entitled to advance in Rank. Characters of higher Rank are tougher, luckier and generally better able to deal with trouble.
+	</p>
+	<table>
+		<tr><i><td>Rank</td><td>Title</td></i></tr>
+		<tr><td>1st</td><td>Outcast</td></tr>
+		<tr><td>2nd</td><td>Commoner</td></tr>
+		<tr><td>3rd</td><td>Guildmember</td></tr>
+		<tr><td>4th</td><td>Master/Mistress</td></tr>
+		<tr><td>5th</td><td>Gentleman/Lady</td></tr>
+		<tr><td>6th</td><td>Baron/Baroness</td></tr>
+		<tr><td>7th</td><td>Count/Countess</td></tr>
+		<tr><td>8th</td><td>Earl/Viscountess</td></tr>
+		<tr><td>9th</td><td>Marquis/Marchioness</td></tr>
+		<tr><td>10th</td><td>Duke/Duchess</td></tr>
+		<tr><td>11th+</td><td>Hero/Heroine</td></tr>
+	</table>
+
+	<h4>POSSESSIONS</h4>
+	<p>
+		You can carry up to 12 possessions on your person. All characters begin with 65 Shards in cash and the following possessions, which you can record on the Adventure Sheet: <b>sword</b> and <b>chain mail (Defence +3)</b>.
+	</p>
+	<p>
+		Possessions are always marked in bold text, like this: <b>gold compass</b>. Anything marked in this way is an item which can be picked up and added to your list of possessions.
+	</p>
+	<p>
+		You are limited to carrying a total of 12 items, so if you get more than this you'll have to cross something off your Adventure Sheet. You can carry unlimited sums of money.
+	</p>
+
+	<h4>DEFENCE</h4>
+	<p>Your Defence score is equal to:</p>
+	<table>
+		<tr><td>your COMBAT score, including any weapon bonus</td></tr>
+		<tr><td>plus your Rank</td></tr>
+		<tr><td>plus the bonus for the armour you're wearing (if any)</td></tr>
+	</table>
+	<p>
+		Every suit of armour you find will have a Defence bonus listed for it. The higher the bonus, the better the armour. You can carry several suits of armour if you wish - but because you can wear only one at a time, you only get the Defence bonus of the best armour you are carrying.
+	</p>
+	<p>
+		Write your Defence score on the Adventure Sheet now. To start with it is just your COMBAT score plus 8 (because you are 5th Rank and have +3 armour). Remember to update it if you get better armour or increase in Rank or COMBAT ability.
+	</p>
+
+	<h4>FIGHTING</h4>
+	<p>
+		When fighting an enemy, roll two dice and add your COMBAT score. You need to roll higher than the enemy's Defence. The amount you roll above the enemy's Defence is the number of Stamina points he loses.
+	</p>
+	<p>
+		If the enemy is now down to zero Stamina then he is defeated. Otherwise he will strike back at you, using the same procedure. If you survive, you then get a chance to attack again, and the battle goes on until one of you is victorious.
+	</p>
+	<p><i>Example:</i></p>
+	<p>
+		<i>You are a 3rd Rank character with a COMBAT score of 4, and you have to fight a goblin (COMBAT 5, Defence 7, Stamina 6). The fight begins with your attack (you always get first blow unless told otherwise). Suppose you roll 8 on two dice. Adding your COMBAT gives a total of 12. This is 5 more than the goblin's Defence, so it loses 5 Stamina.</i>
+	</p>
+	<p>
+		<i>The goblin still has 1 Stamina point left, so it gets to strike back. It rolls 6 on the dice which, added to its COMBAT of 5, gives a total attack score of 11. Suppose you have a <b>chain mail (+3 Defence)</b>. Your Defence is therefore 10 (=4+3+3), so you lose 1 Stamina and can then attack again.</i>
+	</p>
+
+	<h4>USING ABILITY</h4>
+	<p>
+		Fighting is often not the easiest or safest way to tackle a situation. When you get a chance to use one of your other abilities, you will be told the Difficulty of the task. You roll two dice and add your score to the ability, and to succeed in the task you must get higher than the Difficulty.
+	</p>
+	<p><i>Example:</i></p>
+	<p>
+		<i>You are at the bottom of a cliff. You can use THIEVERY to climb it, and the climb is Difficulty 9. Suppose your THIEVERY score is 4. This means you must roll at least a 6 on the dice to make the climb.</i>
+	</p>
+
+	<h4>CODEWORDS</h4>
+	<p>
+		There is a list of codewords on the inside front cover of the book. Sometimes you will be told you have acquired a codeword. When this happens, put a tick in the box next to the codeword. If you later lose the codeword, erase the tick.
+	</p>
+	<p>
+		The codewords are arranged alphabetically for each book in the series. In this book, for example, all codewords begin with E. This makes it easy to check if you picked up a codeword from a book you played previously. For example, codewords in the first book, <i>The War-Torn Kingdom</i>, begin with A, codewords in the second book, <i>Cities of Gold and Glory</i>, begin with B and so on.
+	</p>
+
+	<h4>SOME QUESTIONS ANSWERED</h4>
+	<h4><i>How long will my adventures last?</i></h4>
+	<p>As long as you like! There are many plot strands to follow in the <i>Fabled Lands</i>. Explore wherever you want. Gain wealth, power and prestige. Make friends and foes. Just think of it as real life in a fantasy world. When you need to stop playing, make a note of the entry you are at and later you can just resume at that point.
+	</p>
+
+	<h4><i>What happens if I'm killed?</i></h4>
+	<p>
+		If you have had the foresight to arrange a resurrection deal (you'll learn about them later), death might not be the end of your career. Otherwise, you can always start adventuring again with a new persona. If you do, you'll first have to erase all codewords, ticks and money recorded in the book.
+	</p>
+
+	<h4><i>What do the maps show?</i></h4>
+	<p>
+		The black and white map which precedes the rules shows the whole extent of the known <i>Fabled Lands</i>. The fold-out colour map shows the countries of Uttaku and Old Harkuna covered by this book.
+	</p>
+	
+	<h4><i>Are some regions of the world more dangerous than others?</i></h4>
+	<p>
+		Yes. Generally, the closer you are to civilization (the area of Sokara and Golnir covered in the first two books) the easier your adventures will be. Wait until you have reached higher Rank before exploring the wilder regions.
+	</p>
+
+	<h4><i>Where can I travel in the Fabled Lands?</i></h4>
+	<p>
+		Anywhere. If you journey to the edge of the map in this book, you will be guided to another book in the series. (<i>The War-Torn Kingdom</i> deals with Sokara, <i>Cities of Gold and Glory</i> deals with Golnir, <i>Over the Blood-Dark Sea</i> deals with the southern seas and so on.) For example, if you are enslaved by the Uttakin, you will be guided to <i>The Court of Hidden Faces</i> <b>321</b>, which refers to entry <b>321</b> in Book 5.
+	</p>
+
+	<h4><i>What if I don't have the next book?</i></h4>
+	<p>
+		Just turn back. When you do get that book, you can always return and venture onwards.
+	</p>
+
+	<h4><i>What should I do when travelling on from one book to the next?</i></h4>
+	<p>
+		It's very simple. Make a note of the entry you'll be turning to in the new book. Then copy all the information from your Adventure Sheet and Ship's Manifest into the new book. Lastly, rub out the Adventure Sheet and Ship's Manifest data in the old book so they will be blank when you return there.
+	</p>
+
+	<h4><i>What about codewords?</i></h4>
+	<p>
+		Codewords record important events in your adventuring life. They 'remember' the places you've been and the people you've met. Do NOT rub out codewords when you are passing from one book to another.
+	</p>
+
+	<h4><i>Are there any limits on abilities?</i></h4>
+	<p>
+		You abilities (COMBAT, etc) can increase up to a maximum of 12. They can never go lower than 1. If you are told to lose a point off an ability which is already at 1, it stays as it is.
+	</p>
+
+	<h4><i>Are there limits on Stamina?</i></h4>
+	<p>
+		There is no upper limit. Stamina increases each time you go up in Rank. Wounds will reduce your current Stamina, but not your potential (unwounded) score. If Stamina ever goes to zero, you are killed.
+	</p>
+
+	<h4><i>Does it matter what type of weapon I have?</i></h4>
+	<p>
+		When you buy a weapon in a market, you can choose what type of weapon it is (i.e. a sword, spear etc). The type of weapon is up to you. Price is not affected by the weapon's type, but only by whether it has a COMBAT bonus or not.
+	</p>
+
+	<h4><i>Some items give ability bonuses. Are these cumulative?</i></h4>
+	<p>
+		No. If you already have a <b>set of lockpicks (THIEVERY +1)</b> and then acquire a <b>skeleton key (THIEVERY +3)</b>, you don't get a +4 bonus, only +3. Count only the bonus given by your best item for each ability.
+	</p>
+
+	<h4><i>Why do I keep going back to entries I've already been to?</i></h4>
+	<p>
+		Many entries describe locations such as a city or castle, so whenever you go back there, you go to the paragraph that corresponds to that place.
+	</p>
+
+	<h4><i>How many blessings can I have?</i></h4>
+	<p>
+		As many as you can get, but never more than one of the same type. You can't have several COMBAT blessing, for instance, but you could have one COMBAT, one THIEVERY, and one CHARISMA blessing.
+	</p>
+</section>

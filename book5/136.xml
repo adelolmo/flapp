@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="136">
+	<p>Cross off the money. You wait for another week.</p>
+	<p><random dice="1"/>.</p>
+	<outcomes>
+		<outcome range="1">
+			<set var="rent" value="150"/>
+			You have to wait another three weeks, which will cost you 150 Shards
+		</outcome>
+		<outcome range="2-3">
+			<set var="rent" value="100"/>
+			You have to wait another two weeks which will cost you 100 Shards
+		</outcome>
+		<outcome range="4-5">
+			<set var="rent" value="50"/>
+			You have to wait one more week, costing 50 more Shards
+		</outcome>
+		<outcome range="6">
+			<set var="rent" value="0"/>
+			You are allowed into the audience chamber at no further cost
+		</outcome>
+	</outcomes>
+	<choices>
+		<choice section="401" shards="rent">Pay the cash, or don't have to pay</choice>
+		<choice section="444">Leave</choice>
+	</choices>
+</section>

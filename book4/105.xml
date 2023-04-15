@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="105">
+	<if item="mirror of the Sun Goddess">
+		If you have the <b>mirror of the Sun Goddess</b>,
+		<goto section="710"/>.
+	</if>
+	If you haven't found it yet, <goto section="435" force="f"/>.
+	<if codeword="GoddessMirror">
+		If you found it, but have since lost it (through being robbed, killed, cursed, or worse!), <goto section="361"/>.
+	</if>
+</section>

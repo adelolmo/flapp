@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="646">
+	You find a steep rocky trail that carries you down out of the
+	mountains.
+	<choices>
+		<choice section="674">Head north</choice>
+		<choice section="174">Head south</choice>
+		<choice section="592">Head west</choice>
+		<choice section="706">Head east</choice>
+	</choices>
+</section>

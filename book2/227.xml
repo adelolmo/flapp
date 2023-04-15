@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="227">
+	<p>
+		You are restored to life at the war-god&#8217;s shrine in Castle Ravayne. Your Stamina is back to its normal score. The possessions and cash you were carrying at the time of your death are lost. <lose shards="*" item="*">Cross them off</lose> your Adventure Sheet. Also remember to delete the entry in the Resurrection box now it has been used.
+	</p>
+	<p>
+		Tyrnai&#8217;s priest clasps your arm. &#8216;Welcome back to the land of the living,&#8217; he says. &#8216;Tyrnai has seen fit to restore you so that you may send more souls to him in battle.&#8217;
+	</p>
+	<p><goto section="43"/>.</p>
+</section>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="220">
+	The merchants' guild is a domed building of red stone. Inside, rich tapestries and fine furnishings attest to the wealth and power of the guild in Yarimura. Here you can bank your money for safe-keeping - or invest it in guild enterprises in the hope of making a profit.
+	<choices>
+		<choice section="526">Make an investment</choice>
+		<choice section="355">Check on investments</choice>
+		<choice section="600">Deposit or withdraw money</choice>
+		<choice section="10">Return to the town centre</choice>
+	</choices>
+</section>

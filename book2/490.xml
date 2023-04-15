@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="490">
+	<p>
+		&#8216;I require a <b>scarab amulet</b> for on of my experiments,&#8217; says
+		Estragon. &#8216;Go and find one. When you bring it here I&#8217;ll reward
+		you well.&#8217;
+	</p>
+	<p><goto section="342"/>.</p>
+</section>

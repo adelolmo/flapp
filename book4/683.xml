@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="683">
+	<p>
+		You come to a man-made hollow in the ground. In the middle is a shrine, bedecked with offerings from nomad worshippers, and covered in symbols of the god Tambu, Great Spirit of the Steppes. The wind howls all around, buffeting you from all directions. You have found the Fane of the Four Winds.
+	</p>
+	<p>
+		<if codeword="Cull">
+			If you have the codeword Cull, <goto section="592"/>.
+		</if>
+		<if god="Tambu">
+			If not, if you are an initiate of Tambu, <goto section="456"/>.
+		</if>
+		Otherwise, read on.
+	</p>
+	<p>You notice some of the offerings are quite valuable.</p>
+	<choices>
+		<choice section="118">Leave</choice>
+		<choice section="389">Loot the shrine</choice>
+	</choices>
+</section>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="174">
+	<p>
+		'Hah!' cries the vizier triumphantly. 'You foreigners will never learn the intricacies of bokh.'
+	</p>
+	<p>
+		Unfortunately, if someone chooses trial by bokh to resolve a situation, they are deemed to have asked for the judgment of the god, Ebron. If they lose, the holy texts state that they must have incurred the wrath, or at the very least the displeasure, of Ebron, and offending Ebron is a criminal offence. So, according to the twisted logic of the Uttakin, you are guilty.
+	</p>
+	<p>The Grand Vizier has you arrested and hauled off to the dungeons below the city. <goto section="350"/>.</p>
+</section>

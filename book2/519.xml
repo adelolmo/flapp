@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="519">
+	<p>
+		After a friendly chat around their campfire, you settle down with the outlaws overnight and make ready to travel on the next morning. You can
+		<rest stamina="1">recover 1 Stamina point</rest> if injured.
+	</p>
+	<p>
+		It is only after you have gone several miles that you think to look in your belt-pouch. You find that all your money is there - no, not all of it. One single Shard has been <lose shards="1">taken</lose>.
+	</p>
+	<p>
+		You smile and close the pouch. People say there is no honour among thieves, but there is certainly pride. <goto section="172"/>.
+	</p>
+</section>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="764">
+	<p>
+		It is the first time you have seen an entire village reduced to panic because of one bent-backed old woman. &#8216;Can&#8217;t you see the marks of plague on her face?&#8217; screeches one man, his face contorted in hate. &#8216;She must be cast out!&#8217;
+	</p>
+	<p>
+		&#8216;Please...&#8217; wheezes the old woman. &#8216;I only want a cup of water, then I&#8217;ll be on my way.&#8217;
+	</p>
+	<choices>
+		<choice section="453">Give her the water</choice>
+		<choice section="355">Ignore the incident</choice>
+	</choices>
+</section>

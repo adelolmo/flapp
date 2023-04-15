@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="206">
+	<p>
+		The Singing Forest is alive with birdsong. Everywhere you look, brightly coloured birds trill and twitter. You notice several birds, high in the branches, whose feathers seem as silver, glinting wildly in the sunlight. They are silver nightingales, and their song is sweet.
+	</p>
+	<p>
+		<if codeword="Elegant">If you have the codeword Elegant, <goto section="264"/>.</if> If not, <goto section="518"/>.
+	</p>
+</section>

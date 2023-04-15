@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="178">
+	<p>The tunnel winds in a spiral towards the centre of the black island.</p>
+	<p>&#8216;It must be a fort,&#8217; says one of your crewmen.</p>
+	<p>
+		&#8216;Not built by human hand,&#8217; says another, pointing to strange lines etched into the walls. They seem to show squat crab-men with many stalk-like eyes striding belligerently across the decks of ships, but it is hard to be sure in the dim light.
+	</p>
+	<p>
+		A black stone door with an opal panel in the middle blocks the way ahead. To open it you will need a <b>sea-green lens</b>.
+	</p>
+	<choices>
+		<choice item="sea-green lens" section="216">Open the door</choice>
+		<choice section="196">Return the way you came</choice>
+	</choices>
+</section>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="20">
+	<p>
+		&#8216;Well, well, well, what have we here, friends?&#8217; asks the old man. He seems to be talking to someone next to him, although you are certain he is alone. &#8216;Looks like a washed up adventurer to me!&#8217; he says in answer to his own question, &#8216;all wet and out of luck.&#8217;
+	</p>
+	<p>
+		He carries on having a conversation - a conversation that quickly turns into a heated debate. He is clearly quite mad.
+	</p>
+	<p>
+		&#8216;Excuse me, umm, EXCUSE ME!,&#8217; you shout above the hubbub in an attempt to grab the old man&#8217;s attention. He stops and stares at you.
+	</p>
+	<p>&#8216;Is this the Isle of the Druids?&#8217; you ask impatiently.</p>
+	<p>
+		&#8216;Indeed it is,&#8217; says the old man, &#8216;I see that you are from a far land, so it is up to me to welcome you to Harkuna. But I think you may have much to do here as it is written in the stars that someone like you would come. Your destiny awaits you! Follow me, young adventurer.&#8217;
+	</p>
+	<p>
+		The old man turns smartly about and begins walking up a path towards some hills. You can just see some sort of monolithic stone structure atop one of them.
+	</p>
+	<p>
+		&#8216;Come on, come on, I&#8217;ll show you the Gates of the World,&#8217; the old man babbles.
+	</p>
+	<choices>
+		<choice section="192">Follow him</choice>
+		<choice section="128">Explore the coast</choice>
+		<choice section="257">Head into the nearby forest</choice>
+	</choices>
+</section>

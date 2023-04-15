@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="151">
+	You summon forth the thorns of the earth, and a hedge of viciously-spiked brambles rushes towards your opponent. Unfortunately, he has called up a wall of fire: the flames burn your wall of thorns to ashes in seconds and rush toward you. You attempt to dive out of the way, but the flames burn you in passing. <lose stamina="2d">Roll two dice</lose> and lose that many Stamina points.
+	<choices>
+		<choice section="7" dead="t">Down to zero Stamina</choice>
+		<choice section="81">Still alive</choice>
+	</choices>
+</section>

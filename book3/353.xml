@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="353">
+	<p>
+		You tie yourself to the wheel and stand steadfast as the sweet singing of the mermaids wafts across the water. It sounds so lovely, so ethereally unattainable, that you have a wild impulse to hurl yourself into the sea and drift down to meet with the maidens on the sea bed. You even find yourself untying the knots, and you have to punch your fingers against the wheel to make them sore and numb so that you cannot get free.
+	</p>
+	<p>
+		The ordeal is indescribable. It is like hearing the dying song of your true love, like climbing to the verge of paradise only to slip away at the last instant, like the last day of childhood&#8217;s innocence...
+	</p>
+	<p>
+		It ends at last. The crewmen come back on deck with ashen faces. The bosun tells you that you are weeping - you hadn&#8217;t noticed. He unties the knots and you stagger below, for a while inconsolable.
+		<tick codeword="Cerumen">
+			Get the codeword Cerumen
+		</tick> and <goto section="300"/>.
+	</p>
+</section>

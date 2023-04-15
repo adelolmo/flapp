@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="618">
+	<p>
+		This will be a hard fight. They all attack at the same time - meaning that you only get to strike one blow (against whichever opponent you choose) in the time that all three get to strike you.
+	</p>
+	<fight name="Jiro" combat="10" defence="13" stamina="10" group="a"/>
+	<fight name="Nunobiki" combat="9" defence="13" stamina="14" group="a"/>
+	<fight name="Yoshio" combat="9" defence="13" stamina="13" group="a"/>
+	<choices>
+		<choice flee="t" section="452">Surrender</choice>
+		<choice section="738">Fight and win</choice>
+	</choices>
+</section>

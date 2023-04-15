@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="624">
+	<p>
+		Your rooms are plush and lavish. You also have several servants to feed you and to dress you in the mornings. It is luxury.
+	</p>
+	<p>
+		You can leave possessions and money here to save having to carry them around with you. You can also rest here safely, and <rest>recover any Stamina points</rest> you have lost. Record in the box anything you wish to leave.
+	</p>
+	<itemcache name="5.624" text="Palace rooms"/>
+	<p>
+		When you have finished,
+		<if codeword="Enamel">
+			if you have the codeword Enamel,
+			<goto section="215"/>.
+		</if>
+		If not, you can:
+	</p>
+	<choices>
+		<choice section="401">Visit a minister in the audience chamber</choice>
+		<choice section="674">See the court physician</choice>
+		<choice section="444">Leave the palace</choice>
+	</choices>
+</section>

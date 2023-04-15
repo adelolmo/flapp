@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="233">
+	You have no idea what the runes say. You also know that you will never find your way back the way you came. Which tunnel will you go through?
+	<choices>
+		<choice section="656">Tunnel one</choice>
+		<choice section="518">Tunnel two</choice>
+		<choice section="402">Tunnel three</choice>
+		<choice section="623">Tunnel four</choice>
+	</choices>
+</section>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="39">
+	<p>
+		Old Harkuna is governed by the Uttakin, and the border patrol consists of several middle-ranking soldier-priests. They wear strange masks, denoting their status and position within the highly stratified society of Uttaku. Uttaku is a theocracy and the laws of its god, Ebron, are followed to the letter.
+	</p>
+	<p>You are allowed to pass.</p>
+	<choices>
+		<choice book="2" section="2">East to Ringhorn</choice>
+		<choice section="539">West into Old Harkuna</choice>
+		<choice section="222">Follow the River Rese north</choice>
+	</choices>
+</section>

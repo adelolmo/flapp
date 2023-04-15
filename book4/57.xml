@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="57">
+	<p>
+		You are recognised by the guards. They salute you and escort you into the citadel. The commander, Duke Orin Telana, welcomes you as the saviour of the citadel. You are free to stay here as long as you like. <rest>Restore any lost Stamina points</rest>. The knights treat you with respect, saluting constantly.
+	</p>
+	<p>When you are ready, you can leave the citadel.</p>
+	<choices>
+		<choice section="145">Head north into the plains</choice>
+		<choice section="400">Head south into Sokara</choice>
+	</choices>
+</section>

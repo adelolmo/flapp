@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="458">
+	The road between Caran Baru and Fort Mereth is another military highway for transporting troops and supplies.
+	<choices>
+		<choice section="60">North into the country</choice>
+		<choice section="548">South to the farmlands</choice>
+		<choice section="400">South west to Caran Baru</choice>
+		<choice section="299">North east to Fort Mereth</choice>
+	</choices>
+</section>

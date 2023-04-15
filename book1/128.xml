@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="128">
+	You make your way around the coast. The interior of the island appears to be heavily forested. After a while, however, you come to a bay in which a couple of ships are anchored. A small settlement nestles on the beach, and you make your way towards it. <goto section="195"/>.
+</section>

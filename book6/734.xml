@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="734">
+	<p>
+		Thin wailing ghosts rise with the ground mist at dusk. The spirits of miserly bandits, they are not interested in you so much as in any gold or silver you might be carrying. You must
+		<difficulty ability="sanctity" level="17">
+			make a SANCTITY roll at a Difficulty of 17
+		</difficulty>
+		to drive the ghosts off.
+		<failure>
+			If you fail, they sweep into your backpack and devour
+			<lose shards="*">all your money</lose>
+			and any
+			<lose item="silver nugget" multiple="12">
+				<b>silver nuggets</b>
+			</lose>
+			you are carrying.
+		</failure>
+	</p>
+	<p><goto section="33"/>.</p>
+</section>

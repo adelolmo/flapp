@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="385">
+	You spend a restful night at the inn. If you are injured,
+	<rest stamina="1">recover 1 Stamina point</rest>.
+	The innkeeper asks you to
+	<if shards="1"><lose shards="1">pay 1 Shard</lose></if>
+	for the night&#8217;s lodging, but he is a charitable man and will not insist if you are broke. When you are ready to set out, <goto section="153"/>.
+</section>

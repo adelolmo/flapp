@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="404">
+	<p>
+		<if codeword="5.Tomb">
+			If you have previously entered a tomb in the crags, <goto section="699"/>.
+		</if>
+		Otherwise, <random/>.
+	</p>
+	<outcomes>
+		<outcome range="2-4" section="642"/>
+		<outcome range="5-6" section="363"/>
+		<outcome range="7-8" section="24"/>
+		<outcome range="9-12" section="198"/>
+	</outcomes>
+</section>

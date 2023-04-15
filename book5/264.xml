@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="264">
+	The Master of Nightingales in Aku wanted you to fetch him a silver nightingale. There are many here, up in the trees, but how will you catch one?
+	<choices>
+		<choice section="151">Tempt one down with a song</choice>
+		<choice section="43">Set a trap</choice>
+		<choice section="246">Climb a tree and grab one</choice>
+	</choices>
+</section>

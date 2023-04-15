@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="195">
+	Apart from pilgrims seeking the Clearwater Shrine, few people
+	use this road. There is little contact between the chancellor&#8217;s
+	court at Shingen and the rebel military government of the east.
+	<choices>
+		<choice section="362">Go south-west to Shingen</choice>
+		<choice section="704">Go north over open country</choice>
+		<choice section="220">Strike out to the south</choice>
+		<choice section="124">Visit the shrine</choice>
+	</choices>
+</section>

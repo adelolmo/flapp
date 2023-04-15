@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="147">
+	<p>
+		The passage at the far end of the cathedral still lies open. Beyond it lies the Vault of the Shadar, now the lair of a pack of wolves. They leap out of the shadows to attack you. Treat them as one opponent.
+	</p>
+	<fight name="Wolfpack" combat="9" defence="8" stamina="18"/>
+	<p>
+		If you lose, <goto section="7" dead="t"/>.
+		If you win, you can take a <item name="wolf pelt"/> and leave.
+	</p>
+	<choices>
+		<choice section="298">Visit the Crypt of Kings</choice>
+		<choice section="266">Leave the City of Ruins</choice>
+	</choices>
+</section>

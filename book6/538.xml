@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="538">
+	A long tunnel stretches off into the glistening subterranean
+	darkness.
+	<choices>
+		<choice book="3" section="445">Follow the tunnel</choice>
+		<choice section="79">Climb back up</choice>
+	</choices>
+</section>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="546">
+	<p>
+		With a heroic effort, you manage to get to the woman. Gathering her up, you run for the door, and stagger out into the cool night air, smoke and flame licking at your heels. The townsfolk give you a rousing cheer and the girl thanks you effusively for saving her mother.
+	</p>
+	<p>
+		Later, it transpires that the woman is actually a powerful sorceress whose experiments in fire magic went slightly wrong. Her name is Elissia the Traveller and she gives you a gift - a pale moonstone. Note
+		<item name="moonstone of teleportation">
+			<effect type="use">
+				<desc><i>The War-Torn Kingdom</i>, <b>650</b></desc>
+				<goto book="1" section="650" hidden="t"/>
+			</effect>
+		</item>
+		on your Adventure Sheet.
+	</p>
+	<p>
+		Elissia tells that you can use the moonstone by rubbing it, and you will be instantly teleported to the vicinity of the sunstone - which she carries on a necklace.
+	</p>
+	<p>
+		&#8216;I will be here in Marlock City. Whenever you are desperate, at the end of your tether, or just want to get here fast, use the moonstone and you will appear beside me. I will do everything in my power to aid you, and then my debt to you will be repaid.&#8217;
+	</p>
+	<p>
+		Whenever you want to use the moonstone, turn to <b>650</b> in this book. Now <goto section="100"/>.
+	</p>
+</section>

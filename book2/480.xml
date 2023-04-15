@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="480">
+	<if ability="rank" greaterthan="4">
+		If you are 5th rank or higher, <goto section="530"/>.
+	</if>
+	<else>
+		If you are 4th Rank or lower, <goto section="555"/>.
+	</else>
+</section>

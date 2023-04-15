@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="210">
+	<p>From here you can go:</p>
+	<choices>
+		<choice section="35">North-west into the Spine of Harkun</choice>
+		<choice section="159">North-east into the Spine of Harkun</choice>
+		<choice section="487">West into the Grumes</choice>
+		<choice section="17">East towards Spatterdash</choice>
+		<choice section="653">South towards the High King's Seat</choice>
+	</choices>
+</section>

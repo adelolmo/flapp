@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="593">
+	<p>
+		You manage to find your way to the cavern from which the trau teleport tunnels lead to different parts of Harkuna. The plaques above the tunnels are carved with trau runes, but they are protected by sorcery, making them hard to read. You try to decipher them once more.
+	</p>
+	<p><difficulty ability="magic" level="13"/>.</p>
+	<outcomes>
+		<success section="495"/>
+		<failure section="233"/>
+	</outcomes>
+</section>

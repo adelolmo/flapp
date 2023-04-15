@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="145">
+	<p>
+		A tall-prowed vessel with triangular sails comes sweeping without warning from the east. Along her rail you see warriors of olive hue whose dark eyes gleam with avarice and bloodlust. There is no mistaking men of that stamp, whatever their race or flag: pirates!
+	</p>
+	<p>
+		It is too late to put about. The pirates pull alongside and come swarming aboard. Their leader issues a challenge to single combat. He is a huge insane-looking man with a wiry brush of hair sticking straight up from his scalp. You have to beat him in order to survive.
+	</p>
+	<fight name="Wacko" combat="12" defence="22" stamina="29"/>
+	<choices>
+		<choice section="52" flee="t">Surrender</choice>
+		<choice section="218">Fight on and win</choice>
+	</choices>
+</section>

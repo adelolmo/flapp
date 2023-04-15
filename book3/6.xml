@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="6">
+	<p>
+		Helpless in the grip of the storm, the vessel cracks apart. The seawater rushes into the broken shell of the hull, dragging you down. The screams of your crewmen are drowned out by the howl of the storm.
+	</p>
+	<p>
+		<lose ship="t">Cross off your ship and crew</lose>.
+		They are lost forever. You can think of nothing not but saving yourself.
+	</p>
+	<p>
+		<rankcheck dice="2"/>.
+		<failure>
+			If the score is greater than your Rank, you are drowned - <goto section="123"/>.
+		</failure>
+		<success>
+			If the score is less than or equal to your Rank, you are swept miraculously to the shore. <lose stamina="2d">Lose 2-12 Stamina points</lose> and (if you can survive that) <goto section="26"/>.
+		</success>
+	</p>
+</section>

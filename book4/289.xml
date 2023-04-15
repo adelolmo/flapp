@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="289">
+	You have already mapped these tunnels, which run through the Spine of Harkun. Caves on either side of the mountains mark the entrance to the tunnels.
+	<choices>
+		<choice section="558">Go north</choice>
+		<choice book="1" section="3">Go south</choice>
+	</choices>
+</section>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="375">
+	Yoritomo assures you there will always be a warm welcome for
+	you at his clanhouse in Mukogawa. Gathering his surviving
+	guards, he gets back in his sedan chair and continues on his way.
+	You loot the barbarians but find only two
+	<weapon name="axe" quantity="2"><b>axes</b></weapon>
+	and a <weapon name="spear"/>.
+	<tick codeword="Frog">Get the codeword Frog</tick>
+	and then <goto section="280"/>.
+</section>

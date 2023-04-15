@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="196">
+	A dismal tract of chalk-hued moorland dotted with duskcoloured
+	heather lies north of the fell Magwort Fens. <random type="travel"/>:
+	<outcomes>
+		<outcome range="2-6" section="743">A vagabond with a tale</outcome>
+		<outcome range="7-8" section="246">Uneventful journey</outcome>
+		<outcome range="9-12" section="767">A troll with three heads</outcome>
+	</outcomes>
+</section>

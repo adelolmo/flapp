@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="289">
+	<p>
+		Kiyomori calls for music, wine and dancers. The two of you sit long into the night discussing all sorts of things, from weighty affairs of state to the ideal time to view the cherry blossom.
+	</p>
+	<p><random/>.</p>
+	<outcomes>
+		<outcome range="2-4" section="327">A quarrel</outcome>
+		<outcome range="5-12" section="79">A pleasant evening</outcome>
+	</outcomes>
+</section>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="111" tag="temple">
+	An inner room of the temple is given over to gambling dens.
+	You suspect this is where most of the locals&#8217; wealth ends up.
+	You must pay 5 Shards to join in a game. At the far end of the
+	room, a placard reads: &#8216;Sacred games - initiates only.&#8217;
+	<choices>
+		<choice section="134" shards="5">Pay 5 Shards and gamble</choice>
+		<choice god="The Three Fortunes" section="157">Join the sacred games (if an initiate)</choice>
+		<choice section="203">Change your mind</choice>
+	</choices>
+</section>

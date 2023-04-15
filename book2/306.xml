@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="306">
+	The countryside between the River Grimm and the Whistling
+	Heath is dotted with quaint villages where the tavern-talk is of
+	elfin glades and the pranks of goblins at night.
+	<random type="travel"/>:
+	<outcomes>
+		<outcome range="2-4" section="597">An unusual wager</outcome>
+		<outcome range="5-7" section="621">A night at an inn</outcome>
+		<outcome range="8-9" section="153">An uneventful journey</outcome>
+		<outcome range="10-12" section="645">A chuckling in the woods</outcome>
+	</outcomes>
+</section>

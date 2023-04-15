@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="500">
+	<p>
+		The <b>witch&#8217;s hand</b> casts a spell, animating the head so that it flies from your belt and tries to snap your throat between its teeth.
+	</p>
+	<p>You must fight the grisly thing.</p>
+	<fight name="Head" combat="7" defence="14" stamina="5"/>
+	<p>
+		You cannot flee. If you win, cross the
+		<lose item="pirate captain's head">
+			<b>pirate captain&#8217;s head</b>
+		</lose>
+		off your list of possessions and <goto section="482"/>.
+	</p>
+</section>

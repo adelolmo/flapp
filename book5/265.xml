@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="265">
+	<p>
+		The sentries on the gate recognise you. Although they remain proudly immobile with spears poised, they cannot keep smiles of comradeship from spreading across their faces.
+	</p>
+	<p>'You are always welcome here,' they say.</p>
+	<p>
+		'With the return of the High King, the land has been renewed,' you reply. 'The people are once again happy and well fed.'
+	</p>
+	<p>'The king and the land are one,' they respond.</p>
+	<p><goto section="112"/>.</p>
+</section>

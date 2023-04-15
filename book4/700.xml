@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="700">
+	<p>
+		You are quite aware of the nature of this flickering creature of the clouds. It is a storm demon, one of the riders of thunderclouds that delight in causing havoc among mortals. Elnir, god of the skies, frowns on them, for they cause thunder and lightning without his permission.
+	</p>
+	<p>
+		You try to invoke Elnir&#8217;s power by calling upon him with a prayer.
+		<difficulty ability="SANCTITY" level="16">
+			<adjust god="Elnir" amount="2"/>
+		</difficulty>.
+		If you are an initiate of Elnir, add 2 to the roll.
+	</p>
+	<outcomes>
+		<success section="43"/>
+		<failure section="511"/>
+	</outcomes>
+</section>

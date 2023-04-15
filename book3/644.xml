@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="644">
+	<p>
+		The casket breaks to shards under your enchanted touch. You take the
+		<tool name="celestium wand" ability="magic" bonus="5"/>
+		and then hurry excitedly back outside, eager to test the power of your new acquisition.
+	</p>
+	<p>
+		Remember to add the <b>celestium wand (MAGIC +5)</b>
+		to your list of possessions, then <goto section="407"/>.
+	</p>
+</section>

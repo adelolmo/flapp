@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="595">
+	<p>
+		What little game there is to be had in the area is quickly snared by the nomads. You will need all your skill if you are to avoid going hungry tonight.
+		<difficulty ability="scouting" level="16">Make a SCOUTING roll at a Difficulty of 16</difficulty>.
+		<success>
+			Success means that you catch a few voles and can make a stew.
+		</success>
+		<failure>
+			Failure means you are left with nothing to eat and must <lose stamina="1">lose 1 Stamina point</lose> owing to hunger and cold.
+		</failure>
+	</p>
+	<p>If you survive the night, <goto section="65"/>.</p>
+</section>

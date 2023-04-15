@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="602">
+	<p>
+		The giant peers at you, then sticks his huge paw out and pulls you inside. The door closes with a sound like a bell tolling.
+	</p>
+	<p>
+		&#8216;Don&#8217;t get many visitors as delectable as you,&#8217; sniggers the giant obscenely, running his bloated sweaty fingers over your limbs.
+	</p>
+	<p>
+		&#8216;I&#8217;ll bet,&#8217; you say, pulling away. &#8216;Are you going to keep me standing in the hall?&#8217;
+	</p>
+	<p>
+		He gives you a look that is ingratiating and menacing at the same time. &#8216;Come upstairs.&#8217;
+	</p>
+	<p><goto section="643"/>.</p>
+</section>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="16" boxes="1">
+	<p>
+		<if ticks="1">
+			If there is a tick in the box, <goto section="251"/> immediately.
+		</if>
+		If not, <tick/> and read on.
+	</p>
+	<p>
+		<if codeword="Avenge">
+			If you have the codeword Avenge, <goto section="648"/> immediately.
+		</if>
+		Otherwise read on.
+	</p>
+	<p>
+		You remain quiet as a mouse, behind a pile of coins. After a long wait, the sea dragon slithers into the water, and swims out on some errand. You have some time to loot the hoard. You may choose up to three of the following treasures:
+		<items group="1.16" limit="3"/>
+	</p>
+	<p><weapon name="enchanted sword" bonus="3" group="1.16"/></p>
+	<p><armour name="plate armour" bonus="5" group="1.16"/></p>
+	<p><tool name="ebony wand" ability="magic" bonus="2" group="1.16"/></p>
+	<p><item name="500 Shards" group="1.16"/></p>
+	<p><tool name="magic mandolin" ability="charisma" bonus="2" group="1.16"/></p>
+	<p><tool name="gold compass" ability="scouting" bonus="2" group="1.16"/></p>
+	<p><tool name="magic lockpicks" ability="thievery" bonus="2" group="1.16"/></p>
+	<p><tool name="silver holy symbol" ability="sanctity" bonus="2" group="1.16"/></p>
+	<p>
+		After you have taken the third treasure, you hear the sea dragon returning. Quickly you climb up through the hole in the roof on to an island in the middle of the lake. From there you manage to get a lift on a passing boat, and make it safely to Cadmium village. <goto section="135"/>.
+	</p>
+</section>

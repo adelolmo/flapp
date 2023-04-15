@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="259">
+	<p>
+		It is easy to pick out Glimbinki&#8217;s shrine, a tall teepee of interlaced feathers supported by a central totem of hard red wood surmounted by a giant carved beak.
+	</p>
+	<p>
+		<if codeword="Cushat">
+			If you have the codeword Cushat, <goto section="277"/>.
+		</if>
+		If not, <goto section="296"/>.
+	</p>
+</section>

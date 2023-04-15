@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="364">
+	Sentries with huge black halberds block your way across the
+	heavy drawbridge. To convince them to let you enter, you must
+	<difficulty ability="charisma" level="12">
+		make a CHARISMA roll at a Difficulty of 12
+	</difficulty>.
+	<outcomes>
+		<success section="315"/>
+		<failure section="20"/>
+	</outcomes>
+</section>

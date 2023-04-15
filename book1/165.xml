@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="165">
+	A Sokaran war galley hails you and draws up alongside. &#8216;We&#8217;re coming aboard for an inspection!&#8217; yells the captain of the galley. His men attempt to grapple your ship.
+	<choices>
+		<choice section="552">Let them</choice>
+		<choice section="444">Try to escape</choice>
+	</choices>
+</section>

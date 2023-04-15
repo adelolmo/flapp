@@ -1,0 +1,16 @@
+<section name="Arcadia Ego" profession="Priest">
+	<p>
+		Arcadia is a young woman whose purity of spirit enables her to hear the murmurings of the gods in her dreams. Cast out by her family because they disapproved of her unworldly ways, she has dedicated her life to the quest for spiritual enlightenment. She is curious about the gods of Ankon-Konu, of which she knows little, and so plans a visit to Smogmaw in the near future.
+	</p>
+	<p>
+		You can play as Arcadia, or as a priest with a different name (enter it in the 'Name' field). To begin your adventure, <goto section="1" force="f"/>.
+	</p>
+	<p>For another profession, choose from the following:</p>
+	<choices>
+		<choice section="Jaluda">Warrior</choice>
+		<choice section="Damontir">Mage</choice>
+		<choice section="Silas">Troubadour</choice>
+		<choice section="Greymalkin">Rogue</choice>
+		<choice section="Varkung">Wayfarer</choice>
+	</choices>
+</section>

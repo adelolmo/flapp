@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="579">
+	Blocks of ice are stored in a vast warehouse nearby. A satchel of
+	<buy item="rime ice" shards="50" quantity="2"/> costs 50 Shards. You cannot carry more than two satchels. If you buy any, cross the money off and add the <b>rime ice</b> to your Adventure Sheet.
+	<choices>
+		<choice section="22">Go on a tour</choice>
+		<choice section="320">Leave the mine</choice>
+	</choices>
+</section>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="453">
+	<p>
+		<lose shards="*" cache="6.284" hidden="t"/>
+		<lose codeword="6.79.1" hidden="t"/>
+		<lose codeword="Fruit">Lose the codeword Fruit</lose>
+		and <tick codeword="Fossil">get Fossil</tick> instead.
+	</p>
+	<p>
+		Your town house is attacked by a gang of the tonsured youths employed by the chancellor as his enforcers. Yelling madly, they pour in through the windows and start to smash everything in sight. By the time you succeed in driving them off you can smell smoke. They have set fire to the building!
+	</p>
+	<p>
+		Turn to <b>284</b> to rescue any possessions stored in the town house <i>[in this case, available in the box below]</i>. You can only rescue items if there is room on your Adventure Sheet to carry them. Delete any you cannot carry as well as any money you may have left at the town house (there&#8217;s no time to gather it up). After doing that, you can only stand in the street and watch your town house burn to the ground, then
+		<group>
+			<text>turn to <b>79</b></text>
+			<goto section="79"/>
+			<lose item="*" shards="*" cache="6.284"/>
+		</group>.
+	</p>
+	<itemcache name="6.284" text="Items in burning town house"/>
+</section>

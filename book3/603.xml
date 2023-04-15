@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="603">
+	<p>
+		You have the advantage of surprise. The pirates stand slackjawed as they see you bounding down the hill, and your men take advantage of the diversion to arm themselves with planks, chains, belaying pins - whatever comes to hand. But the pirates have swords and armour.
+	</p>
+	<p>
+		<difficulty ability="combat" level="16">
+			<adjust crew="excellent" amount="2"/>
+		</difficulty>.
+		(You can add 2 to the dice roll if you have an excellent crew.)
+	</p>
+	<outcomes>
+		<success section="457"/>
+		<failure section="123"/>
+	</outcomes>
+</section>

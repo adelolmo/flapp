@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="635">
+	<p>
+		You must <transfer weapon="?" to="6.635" force="f">give her any one weapon</transfer> from among the possessions you are carrying. (You could give her a <transfer item="paper sword" to="6.635" force="f"><b>paper sword</b></transfer> if you have one.) Do not cross the weapon off your list of possessions just yet as you might get it back.
+	</p>
+	<p>
+		She hands you her own sword in return. <goto section="677"/>.
+	</p>
+</section>

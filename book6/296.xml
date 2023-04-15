@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="296">
+	You stand on an outcrop of rock and survey the majestically
+	inhospitable moorland that stretches to the horizon in all
+	directions. In the north hovers a smudge of violet shadow that
+	marks the high expanse of the Kwaidan Forest. Westwards, by
+	your reckoning, the Moku River flows down into Kotobuki
+	Bay. Far to the south runs the Great Saddle Road, while the east
+	is open country as far as the sea.
+	<choices>
+		<choice section="337">Go west across the Moku River</choice>
+		<choice section="398">Go north to the Kwaidan Forest</choice>
+		<choice section="631">Go south and join the road</choice>
+		<choice section="515">Go further east</choice>
+		<choice section="79">Travel to Chambara</choice>
+	</choices>
+</section>

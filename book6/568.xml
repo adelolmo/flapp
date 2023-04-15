@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="568">
+	<p>
+		Shrines to the rice god are a common sight at the end of every country lane, here in the rich farmlands of western Akatsurai.
+	</p>
+	<p>
+		A shrine warden gives you directions. &#8216;East lies the town of Sakkaku,&#8217; he says. &#8216;West over the Gai River is Oni Province, where it is easier to tell the devils from the men.&#8217;
+	</p>
+	<choices>
+		<choice section="7">Head towards Sakkaku</choice>
+		<choice section="356">Cross the Gai River to the west</choice>
+		<choice section="97">Travel north</choice>
+		<choice section="20">Go to the Gai estuary</choice>
+	</choices>
+</section>

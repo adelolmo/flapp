@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="750">
+	<p>
+		&#8216;You&#8217;ve brought my children back to me!&#8217; weeps the man. &#8216;How can I ever repay you?&#8217;
+	</p>
+	<p>
+		You wait a short while, but it seems the question was purely rhetorical. The fisherman takes his children home and you are left to resume your travels. <goto section="514"/>.
+	</p>
+</section>

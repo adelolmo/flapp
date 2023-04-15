@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="340">
+	To renounce the worship of Lacuna, you must pass an ordeal of
+	judgment. This entails the high priestess shooting a silver arrow
+	at you along the length of the nave. &#8216;If Lacuna bears you no ill
+	will, the arrow will miss its target,&#8217; you are assured.
+	<choices>
+		<choice section="378">Submit to the ordeal</choice>
+		<choice section="294">Stay an initiate after all</choice>
+	</choices>
+</section>

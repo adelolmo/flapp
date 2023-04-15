@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="575">
+	From here you can:
+	<choices>
+		<choice section="334">Travel south</choice>
+		<choice section="569">Head north</choice>
+		<choice section="621">Head east into the southern Grumes</choice>
+	</choices>
+</section>

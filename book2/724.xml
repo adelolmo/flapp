@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="724">
+	<p>
+		You open the door and a steel bolt shoots out.
+		<lose stamina="3d">Lose 3-18 Stamina points</lose>
+		(the total of three dice). Even if you survive, you also have to worry about the poison on the bolt&#8217;s tip, which will
+		<if blessing="poison" not="t">
+			<goto section="560">slay you</goto>
+		</if>
+		unless you have a blessing of Immunity to Disease/Poison.
+		<if blessing="poison">
+			(If you do have such a blessing, remember to
+			<lose blessing="poison">cross it off</lose>
+			your Adventure Sheet now it is used up.)
+		</if>
+	</p>
+	<p>
+		If you survive, you stagger to your feet to find the snake and the six doors have vanished. <goto section="93"/>.
+	</p>
+</section>

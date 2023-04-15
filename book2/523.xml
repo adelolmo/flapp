@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="523">
+	The hunters are in a quandary. They cannot go home to their
+	wives until they have caught some fish, but they have lost their
+	only hook. &#8216;Can you help?&#8217; they implore.
+	<choices>
+		<choice section="631" item="fishing hook">
+			Give them a <b>fishing hook</b> (if you have one)
+		</choice>
+		<choice section="371">Tell them you can&#8217;t help</choice>
+	</choices>
+</section>

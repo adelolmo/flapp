@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="573" image="573.jpg">
+	Just after nightfall, a punt carrying translucent figures comes
+	drifting along the river. &#8216;Come with us,&#8217; call out the wraiths.
+	&#8216;We&#8217;ll take you to a feast in the underworld.&#8217;
+	<choices>
+		<choice section="603">Climb aboard</choice>
+		<choice section="130">Shun them</choice>
+	</choices>
+</section>

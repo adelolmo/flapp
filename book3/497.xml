@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="497">
+	The mountain turns out to be a hollow rocky shell with steps
+	winding down inside it. You stand at the top and gaze down the
+	deep shaft. A faint sulphurous tang rises on the wind from far
+	below.
+	<choices>
+		<choice book="12" section="5">Descend the steps</choice>
+		<choice section="606">Return down the mountainside</choice>
+	</choices>
+</section>

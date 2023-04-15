@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="468">
+	The crew refuses to remain in this hellish place. Many of the
+	men are so terrified that they swear they will never put to sea
+	again once this voyage is over. To convince them otherwise
+	requires
+	<difficulty ability="charisma" level="14">
+		a CHARISMA roll of Difficulty 14
+	</difficulty>.
+	<failure>
+		If you fail this roll, you must
+		<lose crew="1">reduce your crew quality by one step</lose>
+		- i.e. from excellent to good, from good to average, or from average to poor.
+	</failure>
+	<goto section="122"/>.
+</section>

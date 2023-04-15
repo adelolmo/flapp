@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="529">
+	You lose your footing, and fall. Fortunately, some bushes break your fall, and you <lose stamina="4">lose only 4 Stamina points</lose>. If you still live, <goto section="474">turn back to 474</goto>.
+</section>

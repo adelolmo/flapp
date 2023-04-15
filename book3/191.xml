@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="191">
+	Out of a grey dawn, the tall peaks of an island show like a
+	blood-rimmed saw against the sky. It is Dragon Island.
+	<choices>
+		<choice book="6" section="90">Go east to the island</choice>
+		<choice section="210">Go west</choice>
+		<choice section="55">Go north</choice>
+		<choice section="172">Strike south for open seas</choice>
+	</choices>
+</section>

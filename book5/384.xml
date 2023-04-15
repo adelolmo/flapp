@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="384">
+	<p>
+		You return to your work. The master is waiting for you in the archives.
+	</p>
+	<p>
+		'Where have you been, you lazy good-for-nothing? Get back to work - there's only six weeks left before the Grand Telling!'
+	</p>
+	<p>
+		You tell him about the princess. 'Well, all right then, just put it in your story,' he says grumpily.
+	</p>
+	<p>
+		You have fallen behind. You need to keep a running total of the number of weeks you have spent on your book. <tick name="EpistleWeeks" count="1">Note that the total stands at 1</tick> for the moment.
+	</p>
+	<p>
+		One afternoon, you are working at your book when one of the scholars who often frequent the archives drops a scroll on the way out. It is a map that leads to the treasure hoard of an ice dragon in the Icicle Woods!
+	</p>
+	<choices>
+		<choice section="491">Quest for the treasure</choice>
+		<choice section="319">Return to your writing</choice>
+	</choices>
+</section>

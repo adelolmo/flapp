@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="702">
+	<p>
+		You find an inn that charges only
+		<rest stamina="1d" shards="5">5 Shards a week</rest>.
+		Each week you stay here, roll one die and that is the number of Stamina points you recover if injured. Your Stamina cannot go higher than its normal unwounded score, of course.
+	</p>
+	<p>When you are ready to set out, <goto section="270"/>.</p>
+</section>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="500" boxes="1">
+	<p>
+		<if ticks="1">
+			If there is a tick in the box, <goto section="699"/> immediately.
+		</if>
+		If not, <tick/>, and read on.
+	</p>
+	<p>
+		You are taken to see one of their princes, in a large blue and white striped tent. Inside, a man sits on the floor at a low table. At the sight of you he leaps to his feet.
+	</p>
+	<p>&#8216;By Great Tambu!&#8217; he cries. &#8216;It&#8217;s you!&#8217;</p>
+	<p>
+		He is Akradai, Prince of the Azure Sky tribe. You saved him once, in Yellowport, Sokara. He was under a curse, and you released him from it. He promised then that he would reward you. Akradai gives you <gain shards="500"/>, and his shamans will <lose disease="*">cure you of any disease or poison</lose> you may be suffering from (but they cannot lift a curse).
+	</p>
+	<p>
+		They also prepare you a magical elixir, used by the nomads to hone their sense of direction, a
+		<item name="potion of nature">
+			<effect type="use" ability="scouting"/>
+		</item>. Potions can be used just before a Difficulty roll to add 1 to the relevant ability for that one roll only. A <b>potion of nature</b> will add 1 to your SCOUTING ability.
+	</p>
+	<p>The next day, you continue on your way.</p>
+	<choices>
+		<choice section="15">Go north</choice>
+		<choice section="280">Go east toward Yarimura</choice>
+		<choice section="234">Go south</choice>
+		<choice section="17">Head west deeper into the steppes</choice>
+	</choices>
+</section>

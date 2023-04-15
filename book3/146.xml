@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="146" tag="temple">
+	<if god="The Three Fortunes">
+		<lose codeword="3.146.1" hidden="t"/>
+	</if>
+	<else><tick codeword="3.146.1" hidden="t"/></else>
+	The temple of the Three Fortunes is an oval house with a triplepeaked
+	thatched roof. The priestess is a young woman who is
+	lounging on a jewelled divan, being fanned by two slave boys.
+	<choices>
+		<choice god="The Three Fortunes" section="256">If an initiate</choice>
+		<choice box="3.146.1" section="274">If not an initiate</choice>
+	</choices>
+</section>

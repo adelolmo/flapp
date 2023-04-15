@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="563">
+	<p>
+		It is not easy to fight a foe you cannot see. Roll only one die for your COMBAT rolls in this fight, not two as you normally would.
+	</p>
+	<fight name="Haniwa Warrior" combat="8" defence="20" stamina="21" attackDice="1"/>
+	<p>
+		If you win, you can retrieve your light source and rekindle it. There is no sign of your assailant, just a tiny broken clay figurine on the floor. You had better retrace your steps and either leave the tomb (<goto section="583" force="f"/>) or try the other passage (<goto section="604"/>).
+	</p>
+</section>

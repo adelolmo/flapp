@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="353">
+	Cross off the 150 Shards. He accepts the money and goes into the back of the shop, promising to return with a potion to cure your ills. You wait. And wait. After about twenty minutes you begin to suspect the worse. You rush after him, and your suspicions are confirmed - he has bolted with the cash!
+	<choices>
+		<choice section="499">Complain to the Soulwatch police</choice>
+		<choice section="101">Write off the loss and leave</choice>
+	</choices>
+</section>

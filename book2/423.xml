@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="423">
+	You meet a youth who shamelessly confesses to all sorts of
+	daring crimes. His stories give you some ideas of your own.
+	<training ability="thievery" dice="1"/>,
+	and if you score higher than your THIEVERY you
+	can increase it by 1. Then <goto section="97"/>.
+</section>

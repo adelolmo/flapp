@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="441" tag="temple">
+	<p>
+		It is cool and dim inside. The windows are covered in blue glass. This has the effect of bathing the worshippers in a blue light. As those of the Uttakin aristocracy who are of pure noble blood have blue skin, the priests say that the light of holy Ebron makes even the poorest commoner a true noble.
+	</p>
+	<p>
+		The priests of Ebron can give you a blessing of Defence through Faith. The blessing will cost you 25 Shards.
+	</p>
+	<choices>
+		<choice section="692" shards="25">Seek a blessing</choice>
+		<choice section="646">Renounce the worship of Ebron</choice>
+	</choices>
+</section>

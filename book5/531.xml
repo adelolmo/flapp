@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="531">
+	<p>You explain your scheme.</p>
+	<p>
+		'Simply borrow a cart from a nearby mine; that makes twelve. You take six, your elder brother gets three, your younger sibling two. That leaves one left, the one you borrowed, which you may then return.'
+	</p>
+	<p>
+		The gnome is very impressed with your scheme and promises to repay you. Whenever your ship is in Kunrir you may hire transport to pick up iron ore from this mine.
+	</p>
+	<p><tick codeword="Ebb">Tick the codeword Ebb</tick>.</p>
+	<p><goto section="307"/>.</p>
+</section>

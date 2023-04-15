@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="108">
+	<p>
+		You enter a small chamber. It is stacked with glass chests, and inside you can see thousands of priceless gems. But no matter how hard you try, the chests will not move, nor will they break. Still, there are a few lying around that aren't in chests.
+	</p>
+	<p>
+		You find a large yellow gem. When you look through it, you notice some fine lines, like a kind of map. There is also a little arrow, which always points north. Note the
+		<tool name="pathfinder's gem" ability="scouting" bonus="1"/>
+		on your Adventure Sheet.
+	</p>
+	<p>
+		The other gems that are lying around are worth
+		<gain shards="350"/>.
+		Note the cash on your Adventure Sheet.
+	</p>
+	<p>
+		There is nothing else here, so you continue on your way through the tunnels.
+	</p>
+	<p><goto section="123"/>.</p>
+</section>

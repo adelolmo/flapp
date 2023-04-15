@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="172">
+	<p>
+		A shopkeeper gives you directions, but you take a wrong turn and get lost in a derelict part of the city. There is no one to ask the way.
+	</p>
+	<p>
+		By the time you find your way to the palace gates it is nearly dark. Curiously, there are no guards on duty. Peering inside the gate, you see a garden filling with purple dusk and a solitary lamp burning in a gazebo surrounded by ivy-strung trellises. The main buildings of the palace are plunged in darkness.
+	</p>
+	<choices>
+		<choice section="615">Go across the garden</choice>
+		<choice section="636">Search the palace buildings</choice>
+		<choice section="79">Turn back</choice>
+	</choices>
+</section>

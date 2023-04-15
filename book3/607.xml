@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="607">
+	<p>
+		<tick special="lock" cache="3.607" hidden="t"/>
+		If you like, your college will hold possessions and money here for safe-keeping. Record in the box anything that you wish to leave here. Each time you return, <random/>.
+	</p>
+	<outcomes>
+		<outcome range="2-10">Your possessions and money are safe</outcome>
+		<outcome range="11-12">
+			College fees mean that
+			<adjustmoney cache="3.607" multiply="0.9">10% of money</adjustmoney>
+			left here has been deducted
+		</outcome>
+	</outcomes>
+	<itemcache name="3.607" text="Items at college"/>
+	<p>
+		<tick special="unlock" cache="3.607" hidden="t"/>
+		You can also reside in college for as long as you wish, making use of the infirmary if need be. (If injured,
+		<rest>restore your Stamina</rest> to its normal unwounded score.)
+	</p>
+	<choices>
+		<choice section="207">Call on the Master</choice>
+		<choice section="187">Visit the kitchens</choice>
+		<choice section="696">Study</choice>
+		<choice section="368">Research</choice>
+		<choice section="571">Leave</choice>
+	</choices>
+</section>

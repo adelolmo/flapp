@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="247" boxes="1">
+	<p>
+		<if ticks="1">If there is a tick in the box, <goto section="169"/> immediately.</if> If not, <tick>put a tick there now</tick>, and read on.
+	</p>
+	<p>
+		You grab the box. Just then, a masked lord, accompanied by a couple of footmen, steps out of the house.
+	</p>
+	<p><difficulty ability="thievery" level="13"/>.</p>
+	<outcomes>
+		<success section="418"/>
+		<failure section="614"/>
+	</outcomes>
+</section>

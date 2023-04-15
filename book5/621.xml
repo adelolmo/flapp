@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="621">
+	<p>
+		You are making your way through the southern peaks of the blood-red mountain range known as the Grumes.
+	</p>
+	<p><random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-5" section="15">Airborne predators</outcome>
+		<outcome range="6-8" section="53">Safe journey</outcome>
+		<outcome range="9-11" section="403">A child's scream</outcome>
+		<outcome range="12" section="104">Your feet slip</outcome>
+	</outcomes>
+</section>

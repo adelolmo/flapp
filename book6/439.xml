@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="439">
+	Glistening darkly in the sunlight with its eyes closed, the river
+	serpent really does look like a large flat rock. Either you&#8217;ll have
+	to go the long way round, up to the point where the stream
+	gushes out of the rocks, or maybe you can cross so quickly that
+	the serpent doesn&#8217;t react?
+	<choices>
+		<choice section="197">Use the serpent&#8217;s head as a stepping stone</choice>
+		<choice section="101">Go the long way round</choice>
+	</choices>
+</section>

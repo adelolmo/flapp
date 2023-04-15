@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="56">
+	One of the nomads, presumably the leader of the warband, tosses his horse's reins to another and comes striding up to you. He pokes you in the chest, seizes you by the back of the neck, presses his face nose-to-nose with yours, and says: 'Fineitri.'
+	<choices>
+		<choice section="229">Wrestle him to the ground</choice>
+		<choice section="639">Say 'Fineitri' back at him</choice>
+		<choice section="19">Attack him and his men</choice>
+		<choice section="664">Break away and run</choice>
+	</choices>
+</section>

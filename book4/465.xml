@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="465">
+	<p>
+		You cannot harm the ghostly figure, no matter what you try. It plunges its spectral hands into your chest and drains the life out of you, gibbering madly as it does so. Instantly, you black out.
+	</p>
+	<p>
+		When you come to, you are lying on a mound of earth in the middle of the marsh - the tower is nowhere to be seen. You have been drained of some of your life energy.
+		<if ability="rank" greaterthan="1">
+			<lose ability="rank" amount="1">Lose 1 Rank</lose>
+			and <random dice="1" var="x"/>.
+			<lose ability="stamina" amount="x">Subtract the result from your unwounded Stamina total permanently</lose>.
+		</if>
+		(If you are only of the 1st Rank anyway, there is no effect).
+	</p>
+	<p>You resume your journey. <goto section="92"/>.</p>
+</section>

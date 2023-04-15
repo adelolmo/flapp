@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="495" dock="Copper Island">
+	If your ship is docked here you can put to sea. If not, you could
+	pay for passage to either Dweomer or Metriciens, at a cost of 35
+	Shards in each case. or to Smogmaw for 15 Shards.
+	<choices>
+		<choice sail="t" section="19">Put to sea</choice>
+		<choice section="535">Pay for passage to Smogmaw</choice>
+		<choice section="242">Pay for passage to Dweomer</choice>
+		<choice section="260">Pay for passage to Metriciens</choice>
+	</choices>
+</section>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="700">
+	<p>
+		There is nothing to guide your choice. You will have to rely on luck. Selecting a door at random, you point to it.
+	</p>
+	<p>
+		Again the gem in the snake&#8217;s head gives a flicker of magical light and four of the other doors slowly open, each revealing a poison-tipped dart that would have slain you if you had chosen that door. <i>Now only two doors remain unopened</i>, says the snake. <i>Do you wish to hold to your original choice? I&#8217;ll give you a last chance to change your mind.</i>
+	</p>
+	<choices>
+		<choice section="724">Stick with your first choice</choice>
+		<choice section="748">Chose the other closed door instead</choice>
+	</choices>
+</section>

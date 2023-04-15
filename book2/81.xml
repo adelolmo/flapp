@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="81">
+	Goldfall is a ramshackle town. The buildings are in poor repair,
+	the livestock wanders untended in the fields. The reason is that
+	most people who live here are just transients. They come from
+	far and wide because of the stories that chunks of gold shower
+	from the sky on certain nights. You pass a beggar squatting
+	beside the town square and ask if he ever found any gold.
+	&#8216;Nope,&#8217; he says. &#8216;But I heard of a bloke that got rich from
+	finding three nuggets each as big as your fist. Got any spare
+	change?&#8217;
+	<choices>
+		<choice section="19">Visit the Temple of the Three Fortunes</choice>
+		<choice section="695">Lodge at an inn</choice>
+		<choice section="719">Search for gold</choice>
+		<choice section="104">Ready to leave</choice>
+	</choices>
+</section>

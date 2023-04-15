@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="419">
+	<p>
+		The <i>Sea Centaur</i> draws alongside. On the poop deck, you see Avar Hordeth, dressed for battle.
+	</p>
+	<p>
+		He spots you, and points you out to his men. &#8216;I knew it! There&#8217;s the thieving devil who stitched me up! Get them, men!&#8217; he orders.
+	</p>
+	<p>
+		His marines throw grappling hooks with experienced efficiency, and soon your two ships are locked in a struggle to the death. Marines and sailors swarm aboard, and a desperate fight ensues.
+	</p>
+	<p>
+		During the confused melee, you come face to face with Avar Hordeth himself. He is wearing armour, and wields a two-handed axe.
+	</p>
+	<p>
+		&#8216;I&#8217;ve been dreaming of this,&#8217; he says through gritted teeth. &#8216;And now I&#8217;ll take my revenge by splitting your skull with my axe!&#8217;
+	</p>
+	<p>You&#8217;ll have to fight him.</p>
+	<fight name="Avar Hordeth" combat="8" defence="8" stamina="12" flee="3"/>
+	<p>
+		If you reduce him to 3 or fewer points of Stamina,
+		<goto section="392"/>.
+		If you lose, <goto dead="t" section="338"/>.
+	</p>
+</section>

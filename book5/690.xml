@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="690">
+	<p>
+		You pull up a chair and join the four adventurers. They are hoping to have a go at Grindel, but are uncertain of the risks.
+	</p>
+	<p>
+		'It's all very well,' comments a young enchantress, whose name is Chrysea, 'being adventurers and all, but the trouble is at least 15 so-called heroes have tried dealing with this Grindel, and none have ever been seen again!'
+	</p>
+	<p>
+		'Aye, that's true,' growls an older warrior called Kymren, 'and I've taken on some tough opponents in my time, but that is not good odds.'
+	</p>
+	<p>
+		Another, a priest of Elnir from Sokara, juding by his attire, says, 'And, of course, no one has lived to tell us what Grindel looks like, or how he fights, so we're all a little unsure how to proceed.'
+	</p>
+	<choices>
+		<choice section="604">Accept the mission</choice>
+		<choice section="349">Talk to the farmers</choice>
+		<choice section="11">Leave the Hall of Heroes</choice>
+	</choices>
+</section>

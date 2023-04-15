@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="391">
+	<p>
+		Luroc falls dead at your feet. As he does, the spell you were under passes. You hear someone clapping, and you look round to see Avar Hordeth, flanked by many guards, applauding. The guards rush you, and you are overwhelmed by sheer force of numbers, disarmed, beaten savagely, and brought on your knees before Avar Hordeth. He is a thick-set man with a sly slant to his features. He eyes you grimly.
+	</p>
+	<p>
+		&#8216;You stinking thief!&#8217; he says. &#8216;I could kill you, but that was a most entertaining interlude, watching you fight. I think I&#8217;ve got a better idea.&#8217;
+	</p>
+	<p>
+		Hordeth takes all the money and items you were carrying. <lose shards="*" item="*">Cross them off</lose> your Adventure Sheet.
+	</p>
+	<p>
+		Later, you are taken to Yarimura, where Hordeth sells you to the city&#8217;s small navy. You are put to work as a galley slave, condemned to row under the lash. <goto section="222"/>.
+	</p>
+</section>

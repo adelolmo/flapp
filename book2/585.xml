@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="585">
+	You watch clouds scud across the sky. The breeze raises whitecaps
+	on the water and drives foamy waves up into the rockpools.
+	But for a few crabs and a circling gull or two, you are
+	alone on this desolate stretch of shore.
+	<choices>
+		<choice section="609">Wait for low tide</choice>
+		<choice section="373">Go back up the clifftops</choice>
+	</choices>
+</section>

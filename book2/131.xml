@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="131">
+	<p>
+		The merchants&#8217; guild in Conflass has close links with similar trade organizations across the border in Sokara. The guild-master teaches you an old adage that he always applies when doing business: &#8216;For metals and minerals look to the east, but the grain you buy at home costs least.&#8217;
+	</p>
+	<p>
+		<tick codeword="Brush">Get the codeword Brush</tick>,
+		then decide what you will do here:
+		<lose codeword="2.36.1" hidden="t"/>
+		<lose codeword="2.36.2" hidden="t"/>
+		<lose codeword="2.36.3" hidden="t"/>
+		<lose codeword="2.36.4" hidden="t"/>
+		<tick codeword="2.36.5" hidden="t"/>
+	</p>
+	<choices>
+		<choice section="154">Make an investment</choice>
+		<choice section="177">Check on investments</choice>
+		<choice section="36">Deposit or withdraw money</choice>
+		<choice section="191">Return to the town centre</choice>
+	</choices>
+</section>

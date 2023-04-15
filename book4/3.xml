@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="3">
+	<p>
+		Once you have boarded the barge, it judders into life with a low groaning sound, and floats off westward. You find some food on board - <rest stamina="3">restore 3 Stamina points</rest>.
+	</p>
+	<p>
+		Eventually, the barge pulls up at a quay, jutting out from the cliff-face into the star-filled blackness beyond the edge of the world. You step on to it. <goto section="195"/>.
+	</p>
+</section>

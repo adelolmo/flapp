@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="218">
+	<p>
+		Pirates find you when they come ashore to bury some treasure. Their captain fondles your hair and smirks.
+	</p>
+	<p>
+		&#8216;Young and healthy enough,&#8217; he says. &#8216;You&#8217;re bound for the slave pens, my friend, unless you can muster a ransom of 150 Shards.&#8217;
+		<lose codeword="2.289.r" hidden="t"/>
+		<lose codeword="2.530.r" hidden="t"/>
+		<lose codeword="2.564.r" hidden="t"/>
+		<lose codeword="3.157.r" hidden="t"/>
+		<tick codeword="3.218.r" hidden="t"/>
+	</p>
+	<choices>
+		<choice book="2" section="229">Agree to the ransom</choice>
+		<choice section="472">Can&#8217;t or won&#8217;t pay</choice>
+	</choices>
+</section>

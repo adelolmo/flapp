@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="110">
+	Several skippers have loaded their cargoes and are ready to
+	depart for ports in the north. You can get passage to Dweomer,
+	Yellowport or Metriciens, for 35 Shards in each case. There is
+	also a merchant who intends to go upriver to trade with the
+	natives of the interior; he will take you along for 5 Shards.
+	Alternatively, you could buy a ship of your own.
+	<choices>
+		<choice shards="35" section="224">Pay the fare to Yellowport</choice>
+		<choice shards="35" section="242">Pay the fare to Dweomer</choice>
+		<choice shards="35" section="260">Pay the fare to Metriciens</choice>
+		<choice shards="5" book="7" section="475">Accompany the merchant upriver</choice>
+		<choice section="712">Buy a ship</choice>
+		<choice section="44">Stay in Smogmaw</choice>
+	</choices>
+</section>

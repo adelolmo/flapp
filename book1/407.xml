@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="407">
+	<tick codeword="StillInYellowport" hidden="t"/>
+	You hide in the kitchen pantry, and then, disguised as a kitchen scullion, sneak out unnoticed. The skill and daring of your exploit will be forever remembered! Long live the rightful king! <goto section="10"/>.
+</section>

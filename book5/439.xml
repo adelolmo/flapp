@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="439">
+	<p>You take a stroll through the streets of Kunrir.</p>
+	<p><random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-5" section="106">Holy day</outcome>
+		<outcome range="6-7" section="171">A city patrol</outcome>
+		<outcome range="8-12" section="44">A scholar</outcome>
+	</outcomes>
+</section>

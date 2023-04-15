@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="138">
+	Cross off the <lose item="cobalt wand"/> and the <lose item="silver holy symbol"/> - they have been used up in the ritual. You have failed. The young man is still dead. <goto section="274"/>.
+</section>

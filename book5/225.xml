@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="225" dock="Aku">
+	<p>
+		All shipping in and out of Aku must come through the offices of the harbourmaster. Here you can buy passage to far-off lands, or even a ship of your own to fill with cargo and crew.
+	</p>
+	<p>
+		You can buy a one-way passage on a ship to the following destinations:
+		<lose codeword="5.Kunrir.leaving" hidden="t"/>
+		<tick codeword="5.Aku.leaving" hidden="t"/>
+
+	</p>
+	<choices>
+		<choice section="372" shards="25" pay="f">Metriciens, cost 25 Shards</choice>
+		<choice section="723" shards="30" pay="f">Teleos, cost 30 Shards</choice>
+		<choice section="234" shards="30" pay="f">Dweomer, cost 30 Shards</choice>
+		<choice section="424" shards="45" pay="f">Mithdrak, cost 45 Shards</choice>
+		<choice section="137" shards="45" pay="f">Pethumar, cost 45 Shards</choice>
+		<choice section="276" shards="75" pay="f">Chambara, cost 75 Shards</choice>
+		<choice section="232" shards="15" pay="f">Kunrir, cost 15 Shards</choice>
+	</choices>
+	<p>
+		If you buy a ship, you are the captain, and can take it wherever you wish, exploring or trading. You also get to name it. There are three types of ship, and three types of crew. You can also buy cargo for your ship to sell in other ports.
+	</p>
+	<market>
+		<header type="ship"/>
+		<trade ship="barque" initialCrew="average" buy="250"/>
+		<trade ship="brig" initialCrew="average" buy="450"/>
+		<trade ship="gall" initialCrew="average" buy="900"/>
+	</market>
+	<p>
+		If you buy a ship, add it to the Ship's Manifest, and name it as you wish. The quality of the ship's crew is average unless you pay to upgrade it. If you already own a ship, you can sell it to the harbourmaster at half the above prices.
+	</p>
+	<p>
+		It costs <buy crew="average" shards="50"/> to upgrade a poor crew to average, <buy crew="good" shards="100"/> to upgrade an average crew to good, and <buy crew="excellent" shards="150"/> to upgrade a good crew to excellent.
+	</p>
+	<p>
+		Cargo can be bought at Aku and sold at other ports for profit. If you own a ship you may buy as many Cargo Units as it has room for. You can also sell cargo, if you have any. Prices quoted here are for entire Cargo Units.
+	</p>
+	<market>
+		<header type="cargo"/>
+		<trade cargo="furs" buy="190" sell="180"/>
+		<trade cargo="grai" buy="190" sell="180"/>
+		<trade cargo="meta" buy="700" sell="635"/>
+		<trade cargo="mine" buy="375" sell="350"/>
+		<trade cargo="spic" buy="950" sell="900"/>
+		<trade cargo="text" buy="325" sell="285"/>
+		<trade cargo="timb" buy="225" sell="200"/>
+		<trade cargo="slav" buy="250" sell="200"/>
+	</market>
+	<p>
+		Fill in your current cargo on the Ship's Manifest - assuming you own a ship!
+	</p>
+	<p>
+		If you own a ship that is docked here and wish to set sail, <goto section="200" sail="t"/>. If not, you leave the harbourmaster: <goto section="88"/>.
+	</p>
+</section>
+

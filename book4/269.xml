@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="269">
+	<difficulty ability="charisma" level="13">
+		<adjust profession="troubadour" value="1"/>
+	</difficulty>. Add one if you are a Troubadour.
+	<outcomes>
+		<success section="156"/>
+		<failure section="315"/>
+	</outcomes>
+</section>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="391" boxes="1">
+	<if ticks="0">
+		If the box above is empty,
+		<tick>put a tick in it now</tick> and
+		<goto section="590"/>.
+	</if>
+	<elseif item="dragon's head">
+		If the box is ticked and you have a <b>dragon&#8217;s head</b>,
+		<goto section="614"/>.
+	</elseif>
+	<else>
+		If the box is ticked and you do not have a <b>dragon&#8217;s head</b>,
+		<goto section="491"/>.
+	</else>
+</section>

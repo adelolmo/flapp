@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="123">
+	<p><lose codeword="Elephant"/> and <tick codeword="Echo"/>.</p>
+	<p>
+		The insidious Buskle lies dead, along with a few innocent adventurers. You can loot Buskle's cellar. Inside you find <gain shards="350"/>, a <tool name="cobalt wand" ability="magic" bonus="3"/> and a <weapon name="Shadar scimitar" bonus="3"/>.
+	</p>
+	<p>
+		When you are ready, you leave the now silent Hall of Heroes. <goto section="11"/>.</p>
+</section>

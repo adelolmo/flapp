@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="183">
+	<p>
+		You are greeted by a figure in rich robes wearing a mask that looks like the head of a locust - the Grand Vizier of the Audience Chamber. He explains that you will have to wait for permission to enter the audience chamber. Once you've got in there, you can get to see the various ministers of the Court of Hidden Faces.
+	</p>
+	<p>
+		In the meantime, you will have to rent an apartment in the petitioners' quarter of the palace, while waiting for permission (which could take days). This will cost you a down-payment of 50 Shards.
+	</p>
+	<choices>
+		<choice section="396" shards="50">Pay 50 Shards</choice>
+		<choice section="444">Leave the palace</choice>
+	</choices>
+</section>

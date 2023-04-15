@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="387" dock="Sorcerer's Isle">
+	You climb back down the cliff to the beach. If you have a ship
+	docked at the southern bay on Sorcerers&#8217; Isle,
+	<goto section="122" sail="t"/>.
+	If not, you have no option but to climb back up and try to make
+	your way through the Bluewood to Dweomer: <goto section="407"/>.
+</section>

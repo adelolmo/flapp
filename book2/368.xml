@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="368">
+	Disturbed by the heavy chink of coins, a number of bats flutter	down from the rafters and sink their fangs into your flesh.
+	<random dice="1" var="x"/>.
+	You must
+	<lose ability="stamina" amount="x">
+		lose that many Stamina points permanently
+	</lose>
+	- i.e. reduce both your current and your normal (unwounded) Stamina score by this number. If you survive, you can shake off the bats and
+	<goto section="345"/>.
+</section>

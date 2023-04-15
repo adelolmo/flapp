@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="83">
+	<p>
+		You wake in the morning feeling chilled right through to the bone. You rise slowly, your limbs stiff and shaky. Perhaps you have a fever coming on?
+	</p>
+	<p>
+		<lose ability="stamina" amount="1">
+			Lose 1 point from your normal unwounded Stamina score
+		</lose>. This loss is permanent. After making the alteration on your Adventure Sheet, <goto section="349"/>.
+	</p>
+</section>

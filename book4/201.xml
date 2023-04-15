@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="201">
+	<p>
+		You are sailing in the coastal waters around the city of Yarimura. To the east, the sea stretches away to the horizon.
+	</p>
+	<p><random dice="2" type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-4" section="642">Storm</outcome>
+		<outcome range="5-12" section="580">An uneventful voyage</outcome>
+	</outcomes>
+</section>

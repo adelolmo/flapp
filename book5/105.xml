@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="105">
+	<if not="t" god="Maka">
+		It costs <lose price="c" shards="75"/>
+	</if>
+	-
+	<else>
+		only <lose price="c" shards="30"/>
+		if you are an initiate of Maka
+	</else>
+	- to be
+	<lose flag="c" disease="?">cured of a poison or a disease</lose>.
+	Make any necessary payment, restore your abilities to normal, and <goto section="142"/>.
+</section>

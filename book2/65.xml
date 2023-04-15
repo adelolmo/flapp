@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="65">
+	<p>
+		To renounce the worship of the Three Fortunes, you must pay 30 Shards to the priesthood by way of compensation. The high priestess thinks you are being foolhardy. &#8216;How will you ever get rich if you turn your back on the threefold goddess?&#8217; she says.
+	</p>
+	<p>
+		Do you want to reconsider?
+		<if god="The Three Fortunes"><if shards="30">
+				If you are determined to renounce your faith,
+				<group>
+					<text>pay the 30 Shards and delete The Three Fortunes from the God box</text>
+					<lose shards="30"/>
+					<lose god="The Three Fortunes"/>
+				</group>
+				on your Adventure Sheet.
+		</if></if>
+		When you have finished here, <goto section="203"/>.
+	</p>
+</section>

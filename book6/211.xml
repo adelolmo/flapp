@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="211">
+	The time you have spent traversing the mountains has left you
+	invigorated.
+	<rest stamina="1">Regain 1 Stamina point</rest> if injured.
+	Now, however, it is time to go back down to the world of men.
+	<choices>
+		<choice section="653">Go west</choice>
+		<choice section="535">Go east</choice>
+		<choice section="74">Go south</choice>
+		<choice section="220">Go north</choice>
+	</choices>
+</section>

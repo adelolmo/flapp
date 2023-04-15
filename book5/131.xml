@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="131">
+	<p>
+		You leave the clearing carefully. Grindel lets you go unmolested, fixing you with a stare through slitted eyes. You grab Misgee and drag him kicking and screaming to face Grindel.
+	</p>
+	<p>
+		'No!' howls Misgee unhappily. 'It's all a trick! The vile beast just wants to get you off guard!'
+	</p>
+	<p>
+		Grindel leans on his tree trunk, gazing impassively at the sky. 'Bah!' he mutters.
+	</p>
+	<choices>
+		<choice section="409">Attack Grindel</choice>
+		<choice section="329">Throw Misgee at his feet</choice>
+	</choices>
+</section>

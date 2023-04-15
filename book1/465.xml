@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="465">
+	<p>
+		Several hideous creatures, which resemble giant lobsters, surge out of the water to attack you! You and your crew are taken by surprise, and things look bleak - some of your men are quickly killed, their bodies torn in two by powerful mandibles. The others begin to panic.
+	</p>
+	<p><difficulty ability="charisma" level="10"/>.</p>
+	<outcomes>
+		<success section="389"/>
+		<failure section="214"/>
+	</outcomes>
+</section>

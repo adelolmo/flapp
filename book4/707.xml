@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="707">
+	<p>
+		<if codeword="Dispel">
+			If you have the codeword Dispel, <goto section="237"/> immediately.
+		</if>
+		If not, read on.
+	</p>
+	<p>
+		Dusk is sweeping its twilight robes across the steppes when you notice a glowing, nacreous light flickering from what looks like a half-sunken rock in the centre of the marsh.
+	</p>
+	<choices>
+		<choice section="431">Investigate</choice>
+		<choice section="92">Ignore</choice>
+	</choices>
+</section>

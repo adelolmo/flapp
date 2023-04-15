@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="297" image="297.jpg">
+	<p>
+		Decide which armour and weapon you will use in the fight. They will be the ones you are betting with.
+	</p>
+	<p>
+		<random dice="1">Roll a die</random>, and check the table below. The result is the knight you must fight.
+		<set var="prestamina" value="stamina"/>
+	</p>
+	<outcomes>
+		<outcome range="1,2">
+			<fight name="Blue Dragon Knight" combat="3" defence="8" stamina="6"/>
+		</outcome>
+		<outcome range="3,4">
+			<fight name="Green Dragon Knight" combat="4" defence="8" stamina="8"/>
+		</outcome>
+		<outcome range="5,6">
+			<fight name="Red Dragon Knight" combat="5" defence="8" stamina="10"/>
+		</outcome>
+	</outcomes>
+	<p>
+		Because it is not a duel to the death, your weapons are padded, so any Stamina you lose is not permanent - it is recovered after the fight.
+	</p>
+	<p>
+		<if dead="f">
+			If you win,
+			<group>
+				<text>turn to <b>19</b></text>
+				<lose staminato="prestamina"/>
+				<goto section="19"/>
+			</group>.
+		</if>
+		<else>
+			If you are reduced to 0 Stamina, you pass out,
+			<group>
+				<text>turn to <b>370</b></text>
+				<lose staminato="prestamina"/>
+				<goto section="370"/>
+			</group>.
+		</else>
+	</p>
+</section>

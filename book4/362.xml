@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="362">
+	<p>
+		You reach the very highest peaks of the world. Your lungs strain for every breath at this altitude. Each step is hard-fought and requires herculean effort.
+	</p>
+	<p>
+		<if codeword="Calcium">
+			If you have the codeword Calcium then you can breathe the thin air.
+		</if>
+		<else>
+			If not, you <lose stamina="2d">lose 2-12 Stamina</lose> (the roll of two dice).
+		</else>
+	</p>
+	<choices>
+		<choice section="264">Make your way south</choice>
+		<choice section="423">Press northwards</choice>
+	</choices>
+</section>

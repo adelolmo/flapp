@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="387">
+	<p>
+		The man suddenly sits up and holds a knife to your throat while his accomplices emerge from the bushes. You are surrounded by spears and can only stand helpless while they relieve you of your money.
+	</p>
+	<p>&#8216;Don&#8217;t you want my belongings?&#8217; you ask sarcastically.</p>
+	<p>&#8216;Nah,&#8217; says the chief robber. &#8216;Too hard to get rid of.&#8217;</p>
+	<p>
+		<lose shards="*">Cross off all your money</lose>
+		and <goto section="671"/>.
+	</p>
+</section>

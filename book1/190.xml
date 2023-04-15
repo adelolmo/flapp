@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="190">
+	You are sailing along the coast off Blessed Springs and Fort Brilon. Gulls cluster around the ship, looking for food. Their cries echo across the vast seas. <random type="travel"/>:
+	<outcomes>
+		<outcome range="2-4" section="38">Storm</outcome>
+		<outcome range="5-9" section="209">An uneventful voyage</outcome>
+		<outcome range="10-12" section="504">A shipwreck</outcome>
+	</outcomes>
+</section>

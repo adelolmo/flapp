@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="366">
+	The path wends its way between steep earthern banks from
+	which the roots of trees protrude like ossified snakes. It brings
+	you to a squat crypt built of green-veined grey marble. Above
+	the entrance rises a small pyramid with a stone eye carved into
+	the summit. In the centre of the eye sparkles an emerald as large
+	as a duck&#8217;s egg.
+	<choices>
+		<choice section="91">Climb up to get the emerald</choice>
+		<choice section="160">Enter the crypt</choice>
+		<choice section="22">Retrace your steps and take the other path</choice>
+		<choice section="23">Leave the forest</choice>
+	</choices>
+</section>

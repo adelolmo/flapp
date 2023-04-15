@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="129">
+	<p>
+		You&#8217;ve been around enough to know when you&#8217;re in trouble. The dancers are more sinister than they seem. You pretend to fall asleep. The dancers become grinning skeletons prancing macabrely around the clearing. When they come closer to drink your blood, you leap up and drive them off with a protective rune.
+	</p>
+	<p><goto section="244"/>.</p>
+</section>

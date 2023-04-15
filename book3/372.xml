@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="372">
+	<lose codeword="3.318.sold" hidden="t"/>
+	The villagers are furiously angry at you for taking advantage of their goodwill. You are pelted first with rotten fruit, then with cobblestones prised up from the streets. <lose stamina="1d">Lose 1-6 Stamina points</lose> (the score of one die). If you survive that, you rejoin your ship. The plank is hauled up and you hastily cast off. <lose title="Saviour of Vervayens Isle">Lose the title Saviour of Vervayens Isle</lose> and <goto section="298"/>.
+</section>

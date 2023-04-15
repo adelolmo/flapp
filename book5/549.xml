@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="549" image="549.jpg">
+	<p>
+		You have found a rather extraordinary book. It is called the Vade Mecum. Note the
+		<item name="Vade Mecum">
+			<effect type="use" verb="Consult" text="Court of Hidden Faces 550">
+				<desc><i>Court of Hidden Faces</i> <b>550</b></desc>
+				<goto book="5" section="550" hidden="t"/>
+			</effect>
+		</item>
+		on your Adventure Sheet.
+	</p>
+	<p>
+		Whenever you want to consult the book, note down the paragraph you are at and <goto section="550" force="f"/>.
+	</p>
+	<p><goto section="443"/>.</p>
+</section>

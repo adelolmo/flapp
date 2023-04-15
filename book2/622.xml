@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="622">
+	The priests give you some advice on religious rituals that might
+	stand you in good stead.
+	<training ability="sanctity" dice="1"/> and if you get higher than
+	your SANCTITY score then you can add 1 to it. Bidding the
+	priests farewell, you continue on your way. <goto section="127"/>.
+</section>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="60">
+	You wake up in the morning to find no sign that a camp was
+	ever here. Perhaps you dreamed the whole thing. Rising, you
+	set out on your way. <goto section="349"/>.
+</section>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="588">
+	<p>
+		Your men are pleased to see you reach the ground in one piece. You can be sure they&#8217;ll sing of your heroic climb in every tavern from Krateros to Dangor.
+	</p>
+	<p>
+		As the ship's captain who braved Starspike Island, you are sure to pass into legend.
+		<gain ability="charisma" amount="1">Gain 1 CHARISMA</gain>
+		(up to a maximum score of 12).
+	</p>
+	<p><goto section="230"/>.</p>
+</section>

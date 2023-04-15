@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="673">
+	You drop anchor and take a small party of men ashore in the row-boat. Climbing a beach of flinty shingle, you see a number of caves set into the cliff face.
+	<choices>
+		<choice section="6">Enter a cave</choice>
+		<choice section="41">Press on inland</choice>
+	</choices>
+</section>

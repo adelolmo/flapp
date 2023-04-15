@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="394">
+	Wrapped in heavy blankets provided by the nomads, you lie down and are soon lulled off to sleep by the bard&#8217;s droning song. Morning brings a crisp cold wind from the north, but you are well rested and your hosts see to it that you are given the best of their food. <rest stamina="1">Recover 1 Stamina point</rest> if injured. It is time to bid farewell to the One-Eyed Crow clan. <goto section="65"/>.
+</section>

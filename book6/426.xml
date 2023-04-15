@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="426">
+	One afternoon the sky darkens and the wind turns cold. Soon
+	you are caught in a downpour. Seeing a light, you make for it
+	and come to a ramshackle cottage where two men and a woman
+	invite you inside until the rain stops. Your hosts cannot be
+	peasants; their manners are too refined. Are they courtiers, exiled
+	from the capital for some reason?
+	<choices>
+		<choice section="85">Ask them who they are</choice>
+		<choice section="504">Make casual conversation</choice>
+		<choice section="476">Tell them you must be going</choice>
+	</choices>
+</section>

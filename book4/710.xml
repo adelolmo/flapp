@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="710">
+	<p>
+		The high priestess is overjoyed when you hand over the mirror.
+		<lose item="mirror of the Sun Goddess">
+			Cross it off
+		</lose>
+		your Adventure Sheet,
+		<lose codeword="Double"/> and
+		<gain codeword="Discover">gain the codeword Discover</gain>.
+	</p>
+	<p>
+		She rewards you with <gain shards="150"/>,
+		and the blessing of the Goddess of the Sun, Nisoderu.
+		<gain ability="rank" amount="1">Gain 1 Rank</gain>.
+		This means you
+		<random dice="1" var="x">gain 1-6 Stamina points</random> permanently:
+		<gain ability="stamina" amount="x">increase your normal (unwounded) Stamina score</gain> by the roll of one die. Remember that going up a Rank also increases your Defence.
+	</p>
+	<p>Afterwards, you leave. <goto section="10"/>.</p>
+</section>

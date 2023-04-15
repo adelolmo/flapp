@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="643">
+	<p>
+		Not wise. Do you think no one ever tried that before? The panel of a large grandfather clock snaps open, a long scaly arm shoots out and grabs your neck, and you are pulled through into a dank indistinct place where you are rapidly stripped of your possessions (<lose item="*">cross them off</lose> your Adventure Sheet). That done, the arm flings you down on a cold stone floor before vanishing.
+	</p>
+	<p><goto section="415"/>.</p>
+</section>

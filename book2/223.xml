@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="223">
+	You are in open country south-east of the Whistling Heath.
+	There ought to be some roads around here somewhere.
+	<choices>
+		<choice section="150">Head eastwards</choice>
+		<choice section="48">Head south to the coast</choice>
+		<choice section="124">Head up on to the heath</choice>
+	</choices>
+</section>

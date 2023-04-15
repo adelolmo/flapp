@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="536" dock="Chambara">
+	<p>
+		In the quayside taverns there are sailors from every part of the <i>Fabled Lands</i>, all eager to sign on and resume their life at sea. It will cost you
+		<buy crew="average" shards="15"/> to upgrade a poor crew to average,
+		<buy crew="good" shards="50"/> to upgrade average to good, and
+		<buy crew="excellent" shards="100"/>
+		to upgrade good to excellent. These prices are cumulative, so upgrading a poor crew to excellent requires 165 Shards.
+	</p>
+	<p>
+		Once you&#8217;ve recorded any changes on the Ship&#8217;s Manifest,
+		<goto section="612"/>.
+	</p>
+</section>

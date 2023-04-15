@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="441">
+	<p>
+		You clamber up on to the battlements of the Temple of Tyrnai with relative ease and manoeuvre yourself into a position overlooking the golem guards at the gate. Now you have to reach down without being noticed.
+	</p>
+	<p><difficulty ability="thievery" level="11"/>.</p>
+	<outcomes>
+		<success section="22"/>
+		<failure section="168"/>
+	</outcomes>
+</section>

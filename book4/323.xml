@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="323">
+	<p>The crew seems surprised to see you.</p>
+	<p>
+		&#8216;We thought you&#8217;d never be coming back alive, cap&#8217;n!&#8217; says the first mate.
+	</p>
+	<p>
+		You sail your ship back through the fog bank that surrounds the isle, and into open waters. <goto section="296"/>.
+	</p>
+</section>

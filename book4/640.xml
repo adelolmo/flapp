@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="640">
+	The tall hill where the manbeasts had their lair is deserted now. Since you killed Chizoka of the Black Pagoda, their evil master, they have dwindled away because of their lack of leadership. There is nothing else here.
+	<choices>
+		<choice section="688">Climb down to the shoreline</choice>
+		<choice section="299" book="1">Go west to Fort Mereth</choice>
+		<choice section="472" book="1">Go west to Fort Estgard</choice>
+		<choice section="259" book="1">Go west to Fort Brilon</choice>
+	</choices>
+</section>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="148">
+	<p>
+		Eventually they are sleeping like babes - like babes who have put away three bottles of the local firewater, that is. You carry them to the quayside and sell them to a slaver out of Port Kunrir. The total profit for the evening comes to a thoroughly satisfying <gain shards="407"/>.
+	</p>
+	<p>
+		<lose codeword="Church">
+			Lose the codeword Church
+		</lose>
+		and <goto section="44"/>.
+	</p>
+</section>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="328">
+	<p>
+		On the other side of the bridge waits an armoured knight mounted on a huge black lion. As he sees you he lowers his visor and readies his lance.
+	</p>
+	<p>
+		&#8216;Prepare to joust,&#8217; grates his voice from inside the metal helm.
+	</p>
+	<p>&#8216;I have no steed!&#8217; you protest.</p>
+	<p>
+		&#8216;A misfortune,&#8217; he admits. &#8216;You should have come better prepared.&#8217;
+	</p>
+	<p>
+		He comes charging along the bridge.
+		<if item="rope">
+			If you have a rope, <goto section="538"/>.
+		</if>
+		If not, <goto section="446"/>.
+	</p>
+</section>

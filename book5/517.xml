@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="517">
+	The Faceless King requested you bring him a tatsu pearl.
+	<if item="tatsu pearl">
+		If you have a <b>tatsu pearl</b>, <goto section="662"/>.
+	</if>
+	If not, <goto section="618"/>.
+</section>

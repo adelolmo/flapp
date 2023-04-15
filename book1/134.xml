@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="134">
+	<p>&#8216;The high priest is out of town,&#8217; a clerk tells you.</p>
+	<p>
+		&#8216;Yeah, until the heat dies down!&#8217; quips a passing member of the temple. The clerk glares at her angrily.
+	</p>
+	<p><goto section="235"/>.</p>
+</section>

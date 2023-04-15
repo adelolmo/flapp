@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="454" boxes="1">
+	<p>
+		<if ticks="1">
+			If there is a tick in the box, <goto section="188"/>.
+		</if>
+		If not, <tick/> and read on.
+	</p>
+	<p>
+		You are thrown into a stinking prison cell. Your cell-mate, a half-dead old man with long white hair tells you his tale: &#8216;The lair of the gorlock! A hideous beast that has backward-pointing feet - Krine and I, fleeing with our stolen treasure sought refuge in the cave near Blessed Springs. The tracks led us to believe it had just left its cave, but we didn&#8217;t know about its feet - in fact it was at home. It took Krine but I managed to escape with my life, only to be taken by the militia. I will never live to see the treasure but you, forewarned, may defeat the gorlock and take the riches it guards...&#8217;
+	</p>
+	<p><tick codeword="Apache">Gain the codeword Apache</tick>.</p>
+	<p>
+		A few days later, you learn your own fate. You are to be sold into slavery, and taken to Caran Baru to work in the tin mines. <goto section="118"/>.
+	</p>
+</section>

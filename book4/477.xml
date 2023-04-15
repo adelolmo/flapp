@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="477">
+	<p>
+		You make your way down a long tunnel to a hall which is lit bya thousand white candles and lined with tables. Here you are greeted by men and women who are clad in shrouds that they wear like togas; their faces are pale as marble, their eyes like dull grey jewels.
+	</p>
+	<p>
+		There is a presence in the deep darkness at the distant end of the hall. &#8216;Who goes there?&#8217; booms a voice that fills you with awe.
+	</p>
+	<p>
+		<if title="Chosen One of Nagil">
+			If you have the title Chosen One of Nagil, <goto section="103"/>.
+		</if>
+		<if god="Nagil">
+			If not but you are an initiate of Nagil, <goto section="551"/>.
+		</if>
+		If neither, <goto section="387"/>.
+	</p>
+</section>

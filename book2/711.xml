@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="711">
+	The shipwrecked mariner is suffering from a curse which now
+	affects your ship too. <goto section="484"/>.
+</section>

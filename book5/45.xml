@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="45">
+	<p>The spectre lets you go, and you flee the tomb of Kizil Irmak.</p>
+	<choices>
+		<choice section="121">Return to the village</choice>
+		<choice section="185">Leave the area</choice>
+	</choices>
+</section>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="227" boxes="1">
+	<p>
+		<if ticks="1">If there is a tick in the box, <goto section="693"/> immediately.</if> If not, <tick/>, and read on.
+	</p>
+	<p><tick codeword="Entropy"/>.</p>
+	<p>
+		The fat compiler wants to make a special dish for the king. He needs a certain rare ingredient, a <b>pink rice grain</b>. <if item="pink rice grain">If you have one, <goto section="59"/>.</if> If not, he says that there is supposed to be one of these strange rice grains in a place called the Black Pagoda, in far-off Akatsurai, way to the east, beyond the Violet Ocean.
+	</p>
+	<p>'Bring me one and I'll make it worth your while,' he adds.</p>
+	<p><goto section="401"/>.</p>
+</section>

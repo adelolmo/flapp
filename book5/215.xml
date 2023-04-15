@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="215">
+	<p><lose codeword="Enamel">Lose the codeword Enamel</lose>.</p>
+	<p>
+		You have considerable influence at court. One day, a noble with blue skin, a purebred noble of the high caste, comes to see you, hoping to persuade you to use your influence to help him over a legal wrangle with another courtier.
+	</p>
+	<p>
+		You can tell from his mask that he is Lord Elbistan. Once, during your less exalted days, you wrestled with him in the Grand Bazaar. After you defeated him, fair and square, he had you beaten up, out of spite. When he recognises you, he stiffens with shock. You can imagine his skin turning from blue to white underneath his mask. You have him right where you want him.
+	</p>
+	<choices>
+		<choice section="414">Demand 500 Shards to help him</choice>
+		<choice section="295">Ensure he loses his case</choice>
+	</choices>
+</section>

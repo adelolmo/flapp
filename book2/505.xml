@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="505">
+	<p>
+		You lapse into a coma. Taken for dead, you are flung out on to the midden heap beyond the castle walls. Slowly your will to survive asserts itself and you crawl away to the river, where you drink deeply before curling up to sleep amid the reeds.
+	</p>
+	<p><goto section="118"/>.</p>
+</section>

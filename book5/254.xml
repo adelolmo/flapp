@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="254">
+	<p>
+		The Blender of Spices in Aku wants you to get an abzu plant for him. You need to use Holyamu's Incredible Aoristic Pool to complete your quest.
+	</p>
+	<p>
+		Holyamu says, 'Well, you can use it, but my price is an amulet of Ebron.'
+	</p>
+	<p>
+		<if item="amulet of Ebron">
+			If you have an <b>amulet of Ebron</b>, and want to
+			use the pool now, <goto section="190" force="f"/>.
+		</if>
+		If not, you can:
+	</p>
+	<choices>
+		<choice section="19">Attack Holyamu</choice>
+		<choice section="152">Ask him to lift a curse</choice>
+		<choice section="54">Leave</choice>
+	</choices>
+</section>

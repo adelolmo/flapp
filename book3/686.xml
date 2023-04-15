@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="686">
+	<p>
+		&#8216;A copper thief, eh?&#8217; snarls a trau who has been employed to work the seam here. He launches himself at you, a burly blot against the darkness, hands like shovels, eyes glossy black like a huge moth&#8217;s.
+	</p>
+	<fight name="Trau Miner" combat="8" defence="10" stamina="10"/>
+	<p>If you win, <goto section="376"/>.</p>
+</section>

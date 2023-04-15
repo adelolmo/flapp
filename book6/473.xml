@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="473">
+	<p>
+		You jump up on to the roof and run along boldly to strike the creature. You can see it a little more clearly now, glaring from the black cloud like an old pike hidden in the depths of a muddy pond.
+	</p>
+	<p>
+		<set var="s" value="sanctity"/>
+		In this fight, attack as normal but do not use your normal Defence score. Instead, use your SANCTITY score in place of your Defence.
+	</p>
+	<fight name="Chimerical Beast" combat="8" defence="9" stamina="20" playerDefence="s"/>
+	<p>If you manage to kill it, <goto section="423"/>.</p>
+</section>

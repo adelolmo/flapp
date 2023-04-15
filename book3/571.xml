@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="571" image="571.jpg">
+	Dweomer is the famous City of Wizards. Lining its narrow,
+	perpetually drizzle-soaked streets are the sorcerous colleges: great
+	gothic edifices with portals that are as big as those of any castle.
+	Gargoyles stare down the rooftops, crouching below the
+	overcast sky. It is said that some of those gargoyles are failed
+	students.
+	<choices>
+		<choice section="625">Apply to join a college</choice>
+		<choice section="508">Explore the town</choice>
+		<choice section="175">Traverse the avenue to the docks</choice>
+		<choice box="3.571.1" section="607">Visit your college {box} (if box ticked)</choice>
+		<choice section="589">Trade magical items</choice>
+	</choices>
+</section>

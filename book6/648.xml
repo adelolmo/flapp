@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="648">
+	Because the House of Wistaria is related to the royal family, they
+	especially revere the goddess Nisoderu, spirit of the sun, who is
+	believed to be the first ancestor of the Sovereign. Her shrine is
+	in the east garden of the mansion. Two painted screens that
+	show the veiled goddess arising from the cavern of night slides
+	back to give entry to the inner chapel, a room whose bare
+	wooden floor and walls have been polished until they gleam like
+	red gold.
+	<choices>
+		<choice section="668">Speak to the goddess</choice>
+		<choice section="565">Leave the shrine</choice>
+	</choices>
+</section>

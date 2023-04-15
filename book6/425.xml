@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="425">
+	He floats higher in the air, trying to stay out of your reach, and
+	starts to veer off back towards the woods. To bring him down
+	you must
+	<difficulty ability="magic" level="15">
+		make a MAGIC roll at a Difficulty of 15
+	</difficulty>.
+	<outcomes>
+		<success section="503"/>
+		<failure section="475"/>
+	</outcomes>
+</section>

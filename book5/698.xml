@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="698">
+	Inside you find a <item name="scroll of Ebron"/> and a potion of blue liquid. Note the scroll and a
+	<item name="blue potion">
+		<effect type="use" verb="Drink" text="Court of Hidden Faces 306">
+			<desc><i>Court of Hidden Faces</i> <b>306</b></desc>
+			<goto book="5" section="306" hidden="t"/>
+		</effect>
+	</item>.
+	Whenever you want to drink the <b>blue potion</b>, note the paragraph you are at, and then <goto section="306" force="f"/> in this book. When you are ready, <goto section="101"/>.
+</section>

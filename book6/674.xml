@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="674">
+	You are travelling through the central region of Toho Island,
+	between the Kenen and Yasai mountain ranges. The only
+	dwellings you see hereabouts are the log cabins of solitary
+	hunters, nestled beside boulders or half-hidden in a copse of
+	trees.
+	<choices>
+		<choice section="706">Go east</choice>
+		<choice section="592">Go west</choice>
+		<choice section="245">Go south</choice>
+		<choice section="319">Go north</choice>
+	</choices>
+</section>

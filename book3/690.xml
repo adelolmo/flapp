@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="690">
+	<if codeword="Amcha">
+		If you have the codeword Amcha, <goto section="420"/>.
+	</if>
+	If not, <goto section="287"/>.
+</section>

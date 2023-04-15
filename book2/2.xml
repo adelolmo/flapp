@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="2" image="2.jpg">
+	<p>
+		Ringhorn receives goods from all along the Rese River, trading along the coast from Uttaku to Yellowport and south to distant Ankon-Konu. It is a very large, bustling city.
+	</p>
+	<p>
+		<if not="t" codeword="2.2.1">
+			You can buy a town house here for 150 Shards. If you want to do that, <lose shards="150" price="x">cross off the money</lose> and <tick codeword="2.2.1" flag="x">put a tick in the box</tick> by the town house option.
+		</if>
+	</p>
+	<choices>
+		<choice section="232">Visit the market</choice>
+		<choice section="255">Visit the harbour</choice>
+		<choice section="311">Visit a tavern</choice>
+		<choice section="278" box="2.2.1">Visit your town house {box} (if box ticked)</choice>
+		<choice section="301">Visit the temple of Alvir and Valmir</choice>
+		<choice section="324">Visit the temple of Elnir</choice>
+		<choice section="347">Visit the temple of Sig</choice>
+		<choice section="357">Visit the merchants&#8217; guild</choice>
+		<choice section="370">Leave the city</choice>
+	</choices>
+</section>

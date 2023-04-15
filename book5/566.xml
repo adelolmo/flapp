@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="566">
+	<p>
+		You refuse to pay the fine. The arbiters shrug resignedly. 'As you wish, Exalted One,' mutters one from behind an intricately carved mask that is fashioned to resemble a hawk, a bird sacred to Ebron.
+	</p>
+	<p>
+		The religious penal codes of Uttaku state that the nobles of Uttaku are not above the law - however, as nobles, any fines imposed need be paid only on a voluntary basis unless the crime is heresy. You are free to go. <goto section="444"/>.
+	</p>
+</section>

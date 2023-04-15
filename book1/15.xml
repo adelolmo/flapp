@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="15">
+	<p>
+		Three drunken army officers accost you on the street.
+		<if title="Protector of Sokara">
+			If you have the title Protector of Sokara, <goto section="542"/> immediately.
+		</if>
+		If not, read on.
+	</p>
+	<p>
+		&#8216;Sho, what have we... <i>hic</i>... here,&#8217; sneers one of them drunkenly.
+	</p>
+	<p>
+		&#8216;Out of the way, you stinking dog!&#8217; says another, shoving you in the chest.
+	</p>
+	<choices>
+		<choice section="44">Step out of the way</choice>
+		<choice section="266">Return the insult</choice>
+	</choices>
+</section>

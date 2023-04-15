@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="391">
+	The granite door is set straight into a bank of tumbled earth and
+	stones. The trellis of withered ivy suggests it is very old indeed.
+	It looks like a tomb entrance.
+	<choices>
+		<choice section="530">Enter the tomb</choice>
+		<choice section="583">Turn back while you still can</choice>
+	</choices>
+</section>

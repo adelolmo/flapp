@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="64">
+	<p>
+		Your boasts are unconvincing, and your insults fail to rouse the laughter of the onlookers. Yagotai walks away the victor, by popular demand. You are seized by many hands and bound, hand and foot. Yagotai ties one end of the rope to his horse's saddle and rides around the camp three times, whooping and yelling, dragging you behind him. The nomads look on, laughing cruelly. <lose stamina="2d">Lose 2-12 Stamina points</lose> (the roll of two dice).
+	</p>
+	<p>
+		If you still live, they cut your bounds, and dump you out on the steppes. Impressed by your hardiness, they decide not to rob you. <goto section="52"/>.
+	</p>
+</section>

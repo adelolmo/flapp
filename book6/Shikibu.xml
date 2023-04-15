@@ -1,0 +1,16 @@
+<section name="Shikibu" profession="Rogue">
+	<p>
+		She's easy to miss, this slip of a girl clad all in black, with her voice like a wisp of silk. Then you miss your hoard of gold or silver too; when you look for Shikibu she's no longer there. She is determined to obtain the antique <b>golden katana</b> kept in the Imperial Palace in Chambara - and nothing will stop her.
+	</p>
+	<p>
+		You can play as Shikibu, or as a rogue with a different name (enter it in the 'Name' field). To begin your adventure, <goto section="1" force="f"/>.
+	</p>
+	<p>For another profession, choose from the following:</p>
+	<choices>
+		<choice section="Kintu">Warrior</choice>
+		<choice section="Panjang">Mage</choice>
+		<choice section="Abraxas">Priest</choice>
+		<choice section="Elektra">Troubadour</choice>
+		<choice section="Ithacus">Wayfarer</choice>
+	</choices>
+</section>

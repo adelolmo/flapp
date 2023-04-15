@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="758">
+	<p>
+		You give proof of treachery on the part of Sir Bredubar, Vanna&#8217;s own half-brother. He screams oaths of vengeance at the top of his lungs and lunges towards you with drawn dagger, but the Baroness&#8217; guards haul him away.
+	</p>
+	<p>
+		&#8216;I shall not even execute him,&#8217; says Vanna. &#8216;He does not deserve a clean death. Let him rot in the dungeons.&#8217;
+	</p>
+	<p>
+		<tick codeword="Bashful">Get the codeword Bashful</tick> and <goto section="342"/>.
+	</p>
+</section>

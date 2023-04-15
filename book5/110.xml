@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="110">
+	<p>
+		The Hall of Heroes has fallen into rack and ruin since you slew the innkeeper. Creepers and cobwebs envelop the old building, and the locals shun the inn as the haunt of ghosts. You can stay here and recuperate, healing lost Stamina, if you wish.
+	</p>
+	<choices>
+		<choice section="322">Stay a while</choice>
+		<choice section="11">Leave</choice>
+	</choices>
+</section>

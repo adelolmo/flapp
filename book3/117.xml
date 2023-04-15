@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="117">
+	<p>
+		The grey bulk of an island can be seen to the north. &#8216;Why is it called the Sleeping Isle?&#8217; you hear the cabin boy ask the first mate.
+	</p>
+	<p>
+		&#8216;Why, lad, it&#8217;s because a curse puts anyone who goes ashore off to sleep for a hundred years,&#8217; is the mate&#8217;s reply.
+	</p>
+	<p><random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-5" section="496">A flying horseman</outcome>
+		<outcome range="6-9" section="135">An uneventful voyage</outcome>
+		<outcome range="10-12" section="465">The Kraken wakes</outcome>
+	</outcomes>
+</section>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="29">
+	<p>
+		<if codeword="Calcium" not="t">
+			Unless you have the codeword Calcium,
+			<lose stamina="4">lose 4 Stamina points</lose>
+			because of the difficulty of breathing.
+		</if>
+	</p>
+	<p>
+		You step into a large dark hold. Your eyes have no time to adjust to the gloom before a translucent creature with many frail tentacles comes drifting forwards to exude a gobbet of grey vapour in your face.
+	</p>
+	<p>&#8216;Don&#8217;t breathe it in, captain!&#8217; yells one of your men.</p>
+	<choices>
+		<choice section="47">Inhale</choice>
+		<choice section="67">Exhale</choice>
+	</choices>
+</section>

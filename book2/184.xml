@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="184">
+	It was no ordinary wolf, but some sort of enchanted beast with
+	the power of regeneration. Under your very eyes the splintered
+	bones are knitting together, the blood pouring back through its
+	wounds, the torn pelt becoming whole again. If you tarry here
+	too long you will have to fight it all over again.
+	<choices>
+		<choice section="253">Climb the stairs</choice>
+		<choice section="22">Leave the tower</choice>
+	</choices>
+</section>

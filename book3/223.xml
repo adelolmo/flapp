@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="223">
+	<p>
+		&#8216;You have not done as I asked,&#8217; whispers the fiend in a voice of dreadful intimacy.
+	</p>
+	<p>
+		You try to cry out, to call the men on watch to your aid. But the fiend touches your lips with an icy finger. &#8216;Hush,&#8217; it says. &#8216;No need to bother them with our business.&#8217;
+	</p>
+	<p>
+		With the other hand it reaches out and extinguishes the nightlight.
+	</p>
+	<p><goto section="123"/>.</p>
+</section>

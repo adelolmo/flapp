@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="590" image="590.jpg">
+	<p>
+		From the cover of a hedge you wait until dusk. By now all the villagers are safely indoors with their shutters tightly barred.
+	</p>
+	<p>
+		As the sky is turning from velvet indigo to the starlit blackness of night, you see three pale figures come loping across the green from the direction of the millpond. They must be the ghosts.
+	</p>
+	<p>
+		Seeing the banquet, they utter gleeful cries and start to devour what has been set out for them.
+	</p>
+	<p>
+		<difficulty ability="magic" level="11">
+			Make a MAGIC roll at a Difficulty of 11
+		</difficulty>.
+	</p>
+	<outcomes>
+		<success section="231"/>
+		<failure section="357"/>
+	</outcomes>
+</section>

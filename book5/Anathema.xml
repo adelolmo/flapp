@@ -1,0 +1,16 @@
+<section name="Anathema Hex" profession="Priest">
+	<p>
+		Even as a child your were fascinated by the old tales of the Uttakin - how they swept north across the Violet Ocean, expelling the High King from his throne and laying waste to his country in the name of their faith.  There's a race to admire!  Your burning ambition is to visit Aku and study the methods of the Soulwatch.
+	</p>
+	<p>
+		You can play as Anathema, or as a priest with a different name (enter it in the 'Name' field). To begin your adventure, <goto section="1" force="f"/>.
+	</p>
+	<p>For another profession, choose from the following:</p>
+	<choices>
+		<choice section="Nakir">Warrior</choice>
+		<choice section="Jadhak">Mage</choice>
+		<choice section="Domisellus">Troubadour</choice>
+		<choice section="Melmoth">Wayfarer</choice>
+		<choice section="Shen">Rogue</choice>
+	</choices>
+</section>

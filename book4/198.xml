@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="198">
+	<p><gain codeword="Diamond">Record the codeword Diamond</gain>.</p>
+	<p>
+		The High King looks you up and down. 'I didn't expect someone like you,' he says. 'Still, destiny has spoken.'
+	</p>
+	<p>
+		He commands you to kneel, and he touches your shoulder with his mace. <gain ability="rank" amount="1">Gain a Rank</gain> and <random dice="1" var="x"/>. <gain ability="stamina" amount="x">Add the result to your unwounded Stamina total</gain>, permanently.
+	</p>
+	<p>Then he steps back and throws his arms wide.</p>
+	<p>'Awake, my paladins!' he commands.</p>
+	<p>
+		The sleeping warriors begin to stir. They rise to their feet, clanking, and kneel at the feet of their liege lord.
+	</p>
+	<p>
+		'Now has the time come for our rebirth! Harkuna will be freed, and the Uttakin will feel the wrath of my revenge.'
+	</p>
+	<p>
+		Two of his paladins move one of the stone slabs aside. Underneath, a staircase descends into the depths. The paladins climb down, followed by the High King. He turns to you one last time.
+	</p>
+	<p>
+		'You cannot follow where we are going. It would be certain death. But come to me soon. You will find me at my seat, in Harkuna. Farewell, friend.'
+	</p>
+	<p>With that he leaves.</p>
+	<p>
+		When you look again, the staircase is gone. You make your way back through the tunnels, which are beginning to melt now that the High King is awake, and the spectral Ice Queen has been laid to rest. <goto section="687"/>.
+	</p>
+</section>

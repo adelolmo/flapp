@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="9">
+	<p>
+		You remember the love ballad that was sung at the court of the High King, for him and his consort, Princess Leonara. Perhaps that might soften the frozen heart of the spectral Ice Queen, the ghost of Leonara, condemned by sorcery to haunt this place.
+	</p>
+	<p>
+		<difficulty ability="charisma" level="16">
+			<adjust profession="troubadour" value="1"/>
+		</difficulty>. Add one to this roll if you are a Troubadour.
+	</p>
+	<outcomes>
+		<success section="130"/>
+		<failure section="235"/>
+	</outcomes>
+</section>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="716">
+	<p>
+		Holding the fan in front of your eyes at least gives some protection from the dragon&#8217;s baleful stare. It rears up, clawing at you and spitting gouts of blistering plasma.
+	</p>
+	<fight name="Dragon" combat="9" defence="19" stamina="27"/>
+	<p>
+		If you manage to defeat it,
+		<if codeword="Farm">
+			<goto section="461"/>
+			if you have the codeword Farm
+		</if>
+		<else>
+			or <goto section="488"/> otherwise.
+		</else>
+	</p>
+</section>

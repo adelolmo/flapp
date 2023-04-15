@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="688" image="688.jpg">
+	You sense an unseen charm, a minor faerie magic. For an adventurer of your magical talent it is an easy matter to employ true sight and penetrate the charm. Suddenly, four goblin-like faeries are revealed, running toward you. Their limbs are long, their hair spiked and limed, taloned claw-like hands gripping ornate bronze axes (for cold iron is anathema to the goblin-faeries of the forest). When they realise they can be seen, they pull up short, uncertain now, and somewhat fearful.
+	<choices>
+		<choice section="91">Yell a war cry and attack</choice>
+		<choice section="704">Leave while they hesitate</choice>
+		<choice section="180">Threaten them</choice>
+	</choices>
+</section>

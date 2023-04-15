@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="256" dock="Wishport">
+	You can get the following price for a second-hand ship:
+	<market>
+		<header header1="Type" header2="Sale price"/>
+		<trade ship="barque" sell="125"/>
+		<trade ship="brigantine" sell="225"/>
+		<trade ship="galleon" sell="450"/>
+	</market>
+	Remember to cross the ship off the Ship&#8217;s Manifest if you go ahead with the sale. When you have finished your business here, <goto section="325"/>.
+</section>

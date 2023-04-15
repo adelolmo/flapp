@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="163">
+	There&#8217;s no way you can cancel the waterspout with a spell - not
+	in time to save the crew, anyway. You put them into a deep
+	slumber to buy time, then consider your next course.
+	<choices>
+		<choice section="199">Dive into the sea</choice>
+		<choice section="219">Climb down the side of the ship</choice>
+	</choices>
+</section>

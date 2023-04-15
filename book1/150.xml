@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="150">
+	<p>
+		<lose shards="10">Cross off the 10 Shards</lose>. You get a berth on a merchantman headed for Marlock City. It is a trouble-free journey.
+	</p>
+	<p>
+		&#8216;I pay everyone off - the Sokarans, the pirates,&#8217; says the captain. &#8216;That way I get left alone.&#8217;
+	</p>
+	<p>You disembark in Marlock City. <goto section="100"/>.</p>
+</section>

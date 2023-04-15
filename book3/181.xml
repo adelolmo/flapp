@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="181">
+	You waste precious minutes fumbling with a spell that is far
+	beyond your ability. Meanwhile, the crew choke silently to
+	death in the rarefied atmosphere. Realizing there is nothing you
+	can do here, you lower yourself from the side and drop down
+	into the sea. <goto section="199"/>.
+</section>

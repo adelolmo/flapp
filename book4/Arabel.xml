@@ -1,0 +1,16 @@
+<section name="Arabel the Mystic" profession="Mage">
+	<p>
+		Arabel is the seventh daughter of a seventh daughter, and her mystic powers are her birthright. Driven by visions of her fate, she seeks to master all forms of magical lore. She has heard of a mysterious island, inhabited by wizards, where she might further her knowledge.
+	</p>
+	<p>
+		You can play as Arabel, or as a mage with a different name (enter it in the 'Name' field). To begin your adventure, <goto section="1" force="f"/>.
+	</p>
+	<p>For another profession, choose from the following:</p>
+	<choices>
+		<choice section="Kitunai">Priest</choice>
+		<choice section="Ilak">Warrior</choice>
+		<choice section="Vilss">Rogue</choice>
+		<choice section="Charyss">Troubadour</choice>
+		<choice section="Dilmun">Wayfarer</choice>
+	</choices>
+</section>

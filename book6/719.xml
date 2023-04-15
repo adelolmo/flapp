@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="719">
+	Mister Dragon stands in front of you, apparently as unassailable
+	as a slab of rock. He invites you to make the first attack. What
+	will you try?
+	<choices>
+		<choice section="112">A hammer blow to the crown of his head</choice>
+		<choice section="737">A finger strike to the throat</choice>
+		<choice section="454">A punch to the heart</choice>
+		<choice section="42">A kick to the solar plexus</choice>
+	</choices>
+</section>

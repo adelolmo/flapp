@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="685">
+	<p>
+		You trigger the rod. You disappear in a flash of brilliant blue light, to reappear in Yarimura. Reduce the rod's charges by one. If it is down to zero charges, it is used up, and shatters - cross it off your Adventure Sheet.
+	</p>
+	<p><goto section="10"/>.</p>
+</section>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="351" boxes="3">
+	<if not="t" ticks="2">
+		<resurrection text="Island of Rebirth" book="3" section="351" hidden="t"/>
+	</if>
+	You are limited to three new lives from the grove on the Island
+	of Rebirth. If at least one of the three boxes above is blank,
+	<tick>put a tick in it</tick> and then <goto section="69"/>.
+	When the three boxes are all ticked, you cannot count on another rebirth.
+</section>

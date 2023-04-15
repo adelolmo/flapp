@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="36">
+	Soon you realize you are completely lost in this strange, magical forest. You wander around for days, barely able to find enough food and water. <lose stamina="4">Lose 4 Stamina points</lose>. If you still live, you eventually stagger out of the forest to the coast. <goto section="128"/>.
+</section>

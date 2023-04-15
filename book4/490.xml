@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="490" image="490.jpg">
+	<p>
+		You find a safe path to the glowing light. As you draw nearer, you realize it is coming from the belfry of a sunken tower, only the tip of which is jutting out of the marsh. You step inside the ruin, through what was once a window.
+	</p>
+	<p>
+		Inside, it is dank and musty, and bone-numbingly cold. An ornate bronze brazier burns with a sickly green light that flickers eerily in the gathering gloom of evening. Oddly, it gives off not a welcoming warmth, but an icy chill.
+	</p>
+	<p>
+		A hunched, spectral figure, dressed in what once were rich, ornately-stitched robes, but are now little more than rags, squats before the wan, emerald flames. It turns its phantasmal face to gaze upon you with eyes as black as the pits of hell.
+	</p>
+	<p>
+		The ghostly figure rasps in a sepulchral whisper, &#8216;Who dares disturb Khotep, Sentinel of the glorious Shadar Empire!&#8217;
+	</p>
+	<p>
+		It rises into the air on an ethereal wind, and glides towards you, reaching out with blackened, withered claws.
+	</p>
+	<p><difficulty ability="sanctity" level="12"/>.</p>
+	<outcomes>
+		<success section="541"/>
+		<failure section="465"/>
+	</outcomes>
+</section>

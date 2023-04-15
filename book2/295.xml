@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="295">
+	<p>
+		<lose codeword="2.272" hidden="t"/>
+		You don&#8217;t see what happens to the woman. She was right behind you as you approached the altar, but when you turn around she is nowhere to be seen.
+	</p>
+	<p>
+		<gain ability="sanctity" amount="1">
+			Gain 1 point of SANCTITY
+		</gain>
+		for your generosity to the woman, then <goto section="203"/>.
+	</p>
+</section>

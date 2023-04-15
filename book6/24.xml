@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="24">
+	<tick codeword="6.24.1" hidden="t"/>
+	You are intrigued by a ledge jutting out over a sheer cliff. It looks as if there is a man-made doorway leading off it. You thoughtfully assess the climb, which will require
+	<group>
+		<text>a SCOUTING roll of Difficulty 16</text>
+		<difficulty ability="scouting" level="16" force="f">
+			<adjust item="climbing gear" amount="1"/>
+		</difficulty>
+		<lose codeword="6.24.1"/>
+	</group> - or Difficulty 15 if you have climbing gear.
+	<outcomes>
+		<success section="701"/>
+		<failure section="689"/>
+		<choice box="6.24.1" section="646">Not attempting it</choice>
+	</outcomes>
+</section>

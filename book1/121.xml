@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="121">
+	<p>
+		You wait outside, hoping to take the repulsive ones singly as they emerge. You will have to fight the three of them, but you may do so one at a time.
+	</p>
+	<fight name="First Repulsive One" combat="4" defence="7" stamina="10"/>
+	<fight name="Second Repulsive One" combat="3" defence="6" stamina="10"/>
+	<fight name="Third Repulsive One" combat="4" defence="7" stamina="10"/>
+	<p>
+		Subtract 1 from your dice rolls for every fight because you are unused to underwater combat. <i>[Their Defence scores have been raised by 1 instead --Ed]</i>
+	</p>
+	<p>
+		If you beat all three, <goto section="213"/>. If you lose, your adventuring days are over, unless you have a <resurrection>resurrection deal</resurrection>.
+	</p>
+</section>

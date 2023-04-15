@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="155">
+	<p>
+		You inform her manservant that you will try to get her ring back for her. She watches from her sedan chair, masked and inscrutable. You go fishing in the harbour.
+	</p>
+	<p><difficulty ability="magic" level="13"/>.</p>
+	<outcomes>
+		<success section="461"/>
+		<failure section="296"/>
+	</outcomes>
+</section>

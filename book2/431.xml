@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="431">
+	Knocklar scratches his chin. &#8216;I get to hear all sort of bits and
+	pieces,&#8217; he says. &#8216;One tends to, if one keep one&#8217;s ear open. The
+	only trouble is sorting the wheat from the chaff, so to speak.&#8217;
+	<choices>
+		<choice section="556">Ask about the Tower of Despair</choice>
+		<choice section="531">Ask about the Watcher</choice>
+		<choice section="506">Ask about the <b>four-leaf clover</b></choice>
+		<choice section="629">Ask about the dwarf at the pavilion</choice>
+	</choices>
+</section>

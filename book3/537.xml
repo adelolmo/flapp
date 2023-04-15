@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="537">
+	<p>
+		You reach a clearing where a vast blue plane tree stands, its branches twisted chaotically, some stretching towards the sky, others resting like tired serpents on the ground. There is a feeling of being watched by hundreds of invisible eyes.
+	</p>
+	<p>
+		<if item="pirate captain's head">
+			If you possess a <b>pirate captain&#8217;s head</b>,
+			<goto section="500"/>.
+		</if>
+		If not, <goto section="482"/>.
+	</p>
+</section>

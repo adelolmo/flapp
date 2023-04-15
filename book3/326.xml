@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="326">
+	<p>
+		<lose codeword="3.326.f" hidden="t"/>
+		It is getting harder to breathe;
+		<if codeword="Calcium" not="t">
+			<lose stamina="3">lose 3 Stamina points</lose>
+		</if>
+		if you don&#8217;t have the codeword <i>Calcium</i>.
+		If still alive, you see three men of violet hue come dashing at you wielding thin rapiers of unearthly metal. Your stout seamen of Golnir are at your side, leaving you to deal with the leader of these alien skyfarers.
+	</p>
+	<fight name="Violet Man" combat="9" defence="12" stamina="9"/>
+	<p>
+		<flee>
+			If you turn and flee, they will get a strike at your retreating back, causing the <lose stamina="1d">loss of 1-6 Stamina</lose>.
+			<tick codeword="3.326.f" hidden="t"/>
+		</flee>
+	</p>
+	<choices>
+		<choice box="3.326.f" section="308">Give up and flee</choice>
+		<choice section="339">Fight on and win</choice>
+	</choices>
+</section>

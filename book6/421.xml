@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="421">
+	<p>
+		You can buy a
+		<buy tool="lotus talisman" ability="sanctity" bonus="1" shards="200" quantity="1"/>
+		for 200 Shards, or a
+		<buy tool="paradise talisman" ability="sanctity" bonus="2" shards="400" quantity="1"/>
+		for 400 Shards.
+	</p>
+	<p>
+		&#8216;You probably won&#8217;t be able to sell them outside Akatsurai,&#8217; warns a beggar sitting at the temple gates.
+	</p>
+	<p>
+		&#8216;Sell them?&#8217; snorts a priest. &#8216;Why would anyone want to do that?&#8217;
+	</p>
+	<p>
+		Decide if you are buying either talisman and cross off the money. Then <goto section="79"/>.
+	</p>
+</section>

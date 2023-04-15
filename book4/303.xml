@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="303">
+	<p>
+		You sprinkle the panel with the salts, and they melt a hole large enough for you to crawl through. It freezes back up, almost the instant you get to the other side. Cross the <lose item="uncanny salts"/> off your Adventure Sheet.
+	</p>
+	<p>
+		You press on down the tunnel. After a while, you come to a large round chamber of dressed stone, hung with banners. Around its edge, flat, stone slabs are arranged. Upon them rest warriors, wearing golden armour, and clasping long, two-handed swords in gauntleted hands. They appear to be asleep.
+	</p>
+	<p><goto section="75"/>.</p>
+</section>

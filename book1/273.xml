@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="273">
+	<p>
+		<tick codeword="YellowportUprising" hidden="t"/>
+		You find the city is in turmoil. A rebel group, loyal to the old king, led an uprising against the army. Vicious fighting ensued and the streets ran with blood before the rebellion was brutally put down. Unfortunately, much damage was done during the battle. If you own a town house in Yellowport it has been looted - any possessions you may have cached there have gone. Make a note of this paragraph number, turn to <b>300</b>, <lose item="*" shards="*" cache="1.300">cross off anything you had stored there</lose>, and return here to read on.
+	</p>
+	<p>
+		<if item="Book of the Seven Sages"><if codeword="Artefact">
+				If you have the codeword Artefact and the Book of the Seven Sages, <goto section="40"/>.
+		</if></if>
+		If not, <return>turn back to <b>10</b></return> and choose from the options listed there.
+	</p>
+</section>

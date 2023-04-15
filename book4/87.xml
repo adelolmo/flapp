@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="87">
+	<if codeword="Citrus">
+		If you have the codeword Citrus,
+		<goto section="367"/> immediately.
+	</if> If not, read on. You must fight.
+	<fight name="Kaschuf" combat="8" defence="8" stamina="20"/>
+	If you win, <goto section="304"/>.
+	Otherwise, <goto section="7" dead="t"/>.
+</section>

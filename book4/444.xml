@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="444">
+	<p>
+		The rogues loitering at the door of the brotherhood building applaud as you approach the guild. They are well aware of your daring exploits.
+	</p>
+	<p>
+		You are taken to see Lochos Veshtu of Aku, Master of Knaves. He seems pleased you have succeeded in your task, though you cannot be sure because his black mask hides his face.
+	</p>
+	<p>
+		He announces that you are a full member of the brotherhood and <gain title="Nightstalker">gives you the title Nightstalker</gain>. Note it on your Adventure Sheet in the Titles box. This allows you to use the building as a safe house to store equipment and to rest, but you will have to pay a fee to the Brotherhood.
+	</p>
+	<p>
+		He also provides a little training in roguery, and you <gain ability="rank" amount="1">gain a Rank</gain>. <random dice="1" var="x"/>, and <gain ability="stamina" amount="x">add the score to your unwounded Stamina total</gain>, permanently.
+	</p>
+	<p>When you are ready to leave, <goto section="633"/>.</p>
+</section>

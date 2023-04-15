@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="518">
+	<p>
+		As you step up to the arch of the tunnel, you notice that the air in the entrance shimmers with a bluish light. As you pass through it, you feel a momentary sense of dislocation. You continue on for hours, until you come to a ladder leading upward. You climb up.
+	</p>
+	<p>
+		Turn to <goto book="6" section="75"/>. If you haven&#8217;t got that book yet, <goto section="495">turn back to 495</goto> and choose again.
+	</p>
+</section>

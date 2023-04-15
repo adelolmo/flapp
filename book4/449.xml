@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="449">
+	<p>&#8216;Next!&#8217; you cry boldly.</p>
+	<p>
+		The nomads look at you in astonishment for a moment, and then start laughing. You are invited to their camp, which comprises a circle of wagons.
+	</p>
+	<p>
+		The bird-riders are of the Wingless Hawk tribe, part of the Horde of the Thundering Skies. You are treated as an honoured guest for some time, and are well fed and looked after. You can <rest>restore any lost Stamina points</rest>.
+	</p>
+	<p>
+		Soon, they move on to seek new pastures for their giant elephant-birds.
+	</p>
+	<p>
+		<tick codeword="Drifter">
+			Gain the codeword Drifter
+		</tick>
+		and <goto section="698"/>.
+	</p>
+</section>

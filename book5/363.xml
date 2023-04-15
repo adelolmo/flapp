@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="363">
+	This tomb is entered via a narrow crawl-way. The walls of this tiny passage are engraved in many scripts and languages. One reads: 'The long home of King Alkanar Shadar. Enter, friend, for riches beyond mortal imaginings.'
+	<choices>
+		<choice section="143">Continue down the passage</choice>
+		<choice section="126">Back out</choice>
+	</choices>
+</section>

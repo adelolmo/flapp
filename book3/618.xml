@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="618">
+	Remember to pay the <lose shards="10"/> that is the cost of passage to Ringhorn. The ship is soon under way. <random type="travel" dice="1"/>.
+	<outcomes>
+		<outcome range="1">
+			Storms force you south to Brazen; <goto section="99"/>
+		</outcome>
+		<outcome range="2-6">
+			You reach Ringhorn without difficulty;
+			<goto book="2" section="2">turn to 2</goto> in
+			<i>Cities of Cold and Glory</i>
+		</outcome>
+	</outcomes>
+</section>

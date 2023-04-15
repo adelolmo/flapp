@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="286">
+	You are leaving the town of Wheatfields.
+	<choices>
+		<choice section="328">Go north to the Endless Plains</choice>
+		<choice section="327">Take the west road to Delpton</choice>
+		<choice section="166">Take the road to Castle Ravayne</choice>
+		<choice section="170">Take the road to Metriciens</choice>
+		<choice section="309">Take the east road</choice>
+	</choices>
+</section>

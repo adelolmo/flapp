@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="371">
+	The battle is swift and bitter. You have to face two of them. Fight them as if they were one opponent.
+	<fight name="Hooded Men" combat="7" defence="7" stamina="15"/>
+	If you win, <goto section="99"/>.
+	If you lose, <goto section="7" dead="t"/>.
+</section>

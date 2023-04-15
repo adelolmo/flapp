@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="709">
+	<p>
+		You are swept ashore at the mouth of a wide river. Nearby, impaled on the jagged end of a broken branch, a skeleton in rusting armour dangles at the water&#8217;s edge. Apparently not all shipwrecked mariners are as lucky as you.
+	</p>
+	<p>
+		Searching the body, you find a
+		<weapon name="sword" bonus="1"/>;
+		add this to your list of possessions.
+	</p>
+	<p>
+		Staggering towards trails of smoke that are rising from beyond a copse of olive-green tropical palms, you arrive at a settlement of many thatched-roofed shacks raised on stilts at the river&#8217;s edge. It is the depot town of Smogmaw, on the great southern continent.
+	</p>
+	<p><goto section="44"/>.</p>
+</section>

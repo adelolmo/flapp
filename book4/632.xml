@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="632">
+	You try to blow the right note.
+	<difficulty ability="charisma" level="13">
+		<adjust profession="troubadour" amount="1"/>
+	</difficulty>. Add one to the roll if you are a Troubadour.
+	<outcomes>
+		<success section="329"/>
+		<failure section="464"/>
+	</outcomes>
+</section>

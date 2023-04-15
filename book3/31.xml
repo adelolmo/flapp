@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="31">
+	<p>
+		You climb up the path, which is gentle at first but gets steadily steeper. It is afternoon before you have reached the peak in the centre of the island. None of your men has had the stamina to keep up, so you are alone as you gaze out over the garden of foliage to where a toy ship crewed by ants bobs gently in a pond.
+	</p>
+	<p>
+		Three ancient trees stand behind you. With a rustling of long leaves, they seem to speak to you: &#8216;If you taste death, it&#8217;s here you&#8217;ll be reborn. But heed our warning: three times only can we give you fresh life.&#8217;
+	</p>
+	<p>
+		Cross off any previous arrangements and write
+		<resurrection text="Island of Rebirth" book="3" section="351">
+			Island of Rebirth (<i>Over the Blood-Dark Sea</i> <b>351</b>)
+		</resurrection>
+		in the Resurrection box on your Adventure Sheet. If you are killed, turn to <b>351</b> in this book. You can only have one resurrection arranged at a time.
+	</p>
+	<p>The trees fall silent.</p>
+	<p>You go back to your ship. <goto section="125"/>.</p>
+</section>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="150">
+	<p>
+		&#8216;Ah, you can almost smell the rich spices of the Orient!&#8217; says the bosun as he stands at the rail and sucks in a deep breath.
+	</p>
+	<p>
+		&#8216;That&#8217;s seaweed you&#8217;re smelling, you lubber!&#8217; laughs the first mate. &#8216;Either that or your own sweet grog-soaked breath.&#8217;
+	</p>
+	<p>&#8216;Enough skylarking!&#8217; you call. &#8216;Look lively now.&#8217;</p>
+	<p><random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2" section="145">Pirates attack</outcome>
+		<outcome range="3-10" section="381">Nothing untoward</outcome>
+		<outcome range="11-12" section="588">Submerged rocks</outcome>
+	</outcomes>
+</section>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="536">
+	<if item="climbing gear">
+		If you have some <b>climbing gear</b>, <goto section="628"/>.
+	</if>
+	If not, <difficulty ability="scouting" level="12"/>.
+	<outcomes>
+		<success section="562"/>
+		<failure section="438"/>
+	</outcomes>
+</section>

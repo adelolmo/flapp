@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="6">
+	<p>
+		You are able to follow your own tracks back to the outskirts of the swamp. Curiously, you notice the old woman left no tracks at all. You leave the swamp. <goto section="371">Turn to 371</goto>.
+	</p>
+</section>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="593">
+	<p>
+		Molhern&#8217;s smithy is a large flat boulder planted firmly in the ground, sheltered by a few chestnut trees. Legend has it that you can leave weapons or armour here for the god to work on overnight.
+	</p>
+	<p>
+		If you want to leave something on the boulder, <goto section="617" force="f"/>. If not, <goto section="97"/>.
+	</p>
+</section>

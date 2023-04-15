@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="497">
+	<set var="a" value="armour"/>
+	A metal automaton with a goat-like head clanks forward to
+	attack you. You parry its first few blows, but you soon realize
+	that it is tireless and unkillable. Turning to flee, you are struck
+	heavily across the shoulders.
+	<random dice="2" var="x">
+		<adjust amount="-a"/>
+	</random> and subtract your
+	armour&#8217;s Defence bonus (if any) from the roll. The result is
+	<lose stamina="x">how many Stamina points you lose</lose>.
+	If you survive, <goto section="373"/>.
+</section>

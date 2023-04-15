@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="251" image="251.jpg">
+	<p>
+		As you draw nearer to the hill, something steps into your path. It looks like a man, buts limbs are strangely twisted, and its hands end in long black talons. It is covered in matted, grey fur, and wears little except an ornate iron helm, fashioned to resemble the head of a bird, that covers its head completely. Two red specks glint from within the helm. The manbeast howls at the sky and comes for you.
+	</p>
+	<p>
+		<if item="manbeast's helmet">
+			If you have a <b>manbeast&#8217;s helmet</b> and want to pull it over your head, <goto section="219" force="f"/>.
+		</if>
+		If not, <goto section="83"/>.
+	</p>
+</section>

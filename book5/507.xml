@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="507">
+	<p>
+		You tell the crowd a story about a dog who saved the life of a saint of the Church of Ebron, and how ever since then, the dog has been sacred to Ebron. Then you tell an irreverent joke about over-zealous priests, and the crowd's blood-lust is turned to laughter. The priest is booed, and sent on his way.
+	</p>
+	<p>
+		The shepherd who owns the dog is grateful and he gives you some tips on wilderness lore.
+	</p>
+	<p>
+		<training ability="scouting">Roll two dice</training>. If you score higher than your SCOUTING ability, you can add one to that rating.
+	</p>
+	<p>When you are ready, you journey on.</p>
+	<p><goto section="74"/>.</p>
+</section>

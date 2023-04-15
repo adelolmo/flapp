@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="439">
+	<p>
+		You sail for days, until the food and water begin to run out. You have to put yourself and the crew on half rations, and then quarter rations. You are dying of thirst. <lose stamina="4">Lose 4 Stamina points</lose>.
+	</p>
+	<p>
+		If you still live, several of the crew have died. <lose crew="1">Reduce your crew rating by one level</lose> - i.e. excellent becomes good, good becomes average and average becomes poor. If the crew is already of poor quality, there is no further effect.
+	</p>
+	<p>
+		Finally, you spot land. You recognize the coastline of the Great Steppes, and the harbour city of Yarimura.
+	</p>
+	<p><goto section="580"/>.</p>
+</section>

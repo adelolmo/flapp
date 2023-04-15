@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="307">
+	<p>
+		You help yourself to the pirates&#8217; treasure, which amounts to
+		<gain shards="150"/>. Record it on your Adventure Sheet.
+		Their ship&#8217;s hold contains
+		<buy cargo="furs" shards="0" quantity="1">
+			1 Cargo Unit of furs
+		</buy>,
+		which you can add to your own cargo if your ship has room for it. You can also take the
+		<item name="pirate captain's head">
+			<b>pirate captain&#8217;s head</b>
+		</item>
+		- such a trophy can fetch a good reward in civilized ports.
+	</p>
+	<p>
+		Once you have made the necessary adjustments to your Adventure Sheet, <goto section="101"/>.
+	</p>
+</section>

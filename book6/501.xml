@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="501" image="501.jpg">
+	The pagoda stands malevolently on the cliff top: a lighthouse
+	built by demons to lure sailors to their doom. You cannot look
+	at it without shuddering.
+	<choices>
+		<choice section="395">Travel north</choice>
+		<choice section="568">Make for Sakkaku to the east</choice>
+		<choice section="20">Follow the Gai River to the sea</choice>
+	</choices>
+</section>

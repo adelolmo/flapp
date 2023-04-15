@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="441">
+	The wizard starts chanting a spell. A dark cloud blots out the
+	sun. As it gets closer you can hear the buzzing of a million angry
+	wasps.
+	<if codeword="Flood">
+		If you have the codeword Flood, <goto section="484"/>.
+	</if>
+	Otherwise the wasps sting you repeatedly, causing the <i>permanent</i>
+	loss of
+	<lose ability="stamina" amount="1d">1-6 points</lose>
+	from your Stamina score. If still alive you are forced to
+	flee: <goto section="44"/>.
+</section>

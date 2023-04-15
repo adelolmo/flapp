@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="313">
+	<p>
+		You drag yourself up a beach of large pebbles, strewn with fronds of seaweed. Lying for a few hours in the weak sunshine goes some way to restoring your strength, and you manage to stagger inland to look for signs of habitation. The landscape is desolate and windswept, but you can see a few sheep grazing on the hillsides.
+	</p>
+	<p><goto section="436"/>.</p>
+</section>

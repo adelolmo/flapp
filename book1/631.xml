@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="631">
+	<p>
+		The soldier nods. Suddenly, he shouts something and several archers pop up from behind rocks and start shooting at you. An arrow embeds itself in your shoulder. <lose stamina="3">Lose 3 Stamina points</lose>. If you still live, you realize you are a sitting duck, and you run for your life.
+	</p>
+	<p>As you climb down, you are shot at again. <random dice="1"/>.</p>
+	<outcomes>
+		<outcome range="1,2">
+			Hit twice, <lose stamina="6">lose 6 Stamina</lose>
+		</outcome>
+		<outcome range="3,4">
+			Hit once, <lose stamina="3">lose 3 Stamina</lose>
+		</outcome>
+		<outcome range="5,6">Missed completely, no wounds</outcome>
+	</outcomes>
+	<p>
+		After that, if you are still alive, you make it back to the foothills of the mountains. <goto section="474"/>.
+	</p>
+</section>

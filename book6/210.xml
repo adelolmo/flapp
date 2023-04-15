@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="210">
+	You lose your grip while negotiating an overhang, plunging down a sheer precipice. If you are lucky, the tree branches below might just save your life.
+	<if item="rope|climbing gear" not="t">
+		Lose 4-24 Stamina points
+		(<lose stamina="4d">roll four dice</lose>)
+	</if>
+	<else>
+		unless you have <b>rope</b> or <b>climbing gear</b>, in which case
+		<lose stamina="1d">lose only 1-6 Stamina</lose>.
+	</else>
+	If you survive the fall, <goto section="5"/>.
+</section>

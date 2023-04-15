@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="384">
+	<p>
+		Guildmaster Vernon is pleased to see you. You hand him the <b>copper amulet</b> and he exclaims joyfully, &#8216;The amulet of King Skabb! Well done, indeed!&#8217;
+	</p>
+	<p>
+		<lose item="copper amulet">Cross the <b>copper amulet</b> off</lose> your Adventure Sheet. You are given <gain shards="450"/> as a reward.
+	</p>
+	<p>
+		<tick codeword="StillInYellowport" hidden="t"/>
+		<tick codeword="Acid">Note the codeword Acid</tick>
+		and <goto section="10"/>.</p>
+</section>

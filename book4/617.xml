@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="617">
+	You manage to evade the worst of their assault, but several jagged stone teeth gash your arm. <lose stamina="1d">Lose 1-6 Stamina points</lose> (the roll of one die). If you still live, <goto section="172"/>.
+</section>

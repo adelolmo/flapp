@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="245">
+	<p>
+		You step back involuntarily, as they reach for you with supernatural speed, night-black talons questing for your throat. Then they freeze.
+	</p>
+	<p>&#8216;I smell faery mead!&#8217; says one.</p>
+	<p>&#8216;Well, it&#8217;s going to be mine, then,&#8217; says the other.</p>
+	<p>&#8216;Oh, no!&#8217; says the first. &#8216;It&#8217;s my turn.&#8217;</p>
+	<p>
+		You put the jug of <b>faery mead</b> on to the ground (<lose item="faery mead">cross it off</lose> your Adventure Sheet). The trau look at it, then they look at each other; giving each other a feral grin, they rush together and a shadowy battle commences.
+	</p>
+	<p>It seems that they&#8217;ve forgotten about you. Where will you go now?</p>
+	<choices>
+		<choice section="280">North to Yarimura</choice>
+		<choice section="234">West into the plains</choice>
+		<choice section="145">South</choice>
+		<choice section="94">Into the trau hole</choice>
+	</choices>
+</section>

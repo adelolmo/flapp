@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="42">
+	You are in the very middle of the great ocean. <random type="travel"/>.
+	<outcomes>
+		<outcome range="2-8" section="61">Nothing of note</outcome>
+		<outcome range="9-12" section="193">A storm brewing</outcome>
+	</outcomes>
+</section>

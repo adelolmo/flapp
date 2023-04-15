@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="571" dock="Chambara">
+	The mate calls the men to attention. &#8216;We&#8217;re ready to sail,
+	skipper,&#8217; he informs you.
+	<choices>
+		<choice section="150" sail="T">Put to sea</choice>
+		<choice section="612">Go ashore</choice>
+	</choices>
+</section>

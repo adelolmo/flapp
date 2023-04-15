@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="231">
+	<p>
+		You notice a distant plume of smoke rise off the cone of the volcano. At this distance it is like a puff of incense from an altar lamp. The distant whip crack of an explosion follows several seconds later, just loud enough to draw your attention to the huge boulder that is hurtling through the air straight towards you.
+	</p>
+	<p>
+		To dodge the boulder,
+		<rankcheck dice="2">
+			<adjust profession="rogue" amount="-1"/>
+			<adjust god="The Three Fortunes" amount="-2"/>
+		</rankcheck>
+		and try to score less than or equal to your Rank. Reduce the dice roll by 1 if you are a Rogue, and 2 if you are an initiate of the Three Fortunes.
+	</p>
+	<outcomes>
+		<success section="632">Dodge the boulder</success>
+		<failure section="255">Fail to dodge</failure>
+	</outcomes>
+</section>

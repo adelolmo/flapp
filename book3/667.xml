@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="667">
+	<p>
+		Not having been born yesterday, you have the forethought to tear a strip of cloth off your tunic and wind it across your eyes before knocking. As the echoes of your knock die away, there is a creak of vast time-worn hinges and a gust of stale air that tells you the doors have opened in front of you.
+	</p>
+	<p>
+		&#8216;Another one,&#8217; says a cold hissing voice, not much like a woman&#8217;s.
+	</p>
+	<p>
+		&#8216;When will they learn not to beard the Gorgons in their lair?&#8217; crows her sister.
+	</p>
+	<choices>
+		<choice section="685">Charge to attack them</choice>
+		<choice section="356">Stand motionless</choice>
+	</choices>
+</section>

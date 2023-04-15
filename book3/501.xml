@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="501">
+	<p>
+		You don&#8217;t even bother to look round when you hear the lookout call, &#8216;Flying fish!&#8217;
+	</p>
+	<p>
+		A moment later you are hit in the back by a shark that has soared out of the sea on wide fins. Other flying sharks are attacking your crew, who are joining up to deal with them. But you are alone on the poopdeck, and must fight your shark unaided.
+	</p>
+	<fight name="Flying shark" combat="9" defence="10" stamina="27"/>
+	<p>
+		If you manage to kill it, <goto section="320"/>.
+	</p>
+</section>

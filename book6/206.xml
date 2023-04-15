@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="206">
+	You can hire a local guide for 10 Shards or go hunting on your
+	own.
+	<choices>
+		<choice shards="10" pay="f" section="229">Take the guide</choice>
+		<choice section="253">Go alone</choice>
+	</choices>
+</section>

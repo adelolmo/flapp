@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="103">
+	<p>
+		Helpless in the grip of the storm, the vessel cracks apart. The seawater rushes into the broken shell of the hull, dragging you down. The screams of your crewmen are drowned out by the howl of the storm. <lose ship="t">Cross off your ship and crew</lose> from the Ship&#8217;s Manifest; they are lost. You can think of nothing now but saving yourself.
+	</p>
+	<p>
+		<rankcheck dice="2"/>.
+		<failure>
+			If the score is greater than your Rank, you are drowned - <goto section="123"/>.
+		</failure>
+		<success>
+			If the score is less than or equal to your Rank, you are swept miraculously towards a rocky shore. <lose stamina="2d">Lose 2-12 Stamina points</lose> and (if you can survive that)
+			<if book="7">
+				<goto book="7" section="222">turn to 222</goto> in <i>The Serpent King&#8217;s Domain</i>.
+			</if>
+			<else>
+				<i>[Lacking this book, you wash up in Smogmaw; <goto section="44"/>.]</i>
+			</else>	
+		</success>
+	</p>
+</section>

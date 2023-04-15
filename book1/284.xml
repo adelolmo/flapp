@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="284">
+	<p>
+		You find an open window and squeeze through into a long hall. Your foot, however, snags on a thin wire stretched across the floor. The wire triggers a loud bell-like gonging that alerts the temple. You have little choice but to run for your life - warrior priests swarm out of the temple and the iron statues at its gates come to life to join in the chase.
+	</p>
+	<p>
+		<rankcheck dice="1" add="-1">
+			Roll a die, and subtract one from the total
+		</rankcheck>.
+		<success>
+			If the result is less than or equal to your Rank, <goto section="395"/>.
+		</success>
+		<failure>Otherwise, <goto section="551"/>.</failure>
+	</p>
+</section>

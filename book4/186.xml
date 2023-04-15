@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="186">
+	<p>You convince him to tell you what he knows about Kaschuf.</p>
+	<p>
+		'He has bound his soul into a heart-shaped locket. It means he can never be slain while his life force is safe inside it.'
+	</p>
+	<p>
+		His voice fades to a conspiratorial whisper as he says, 'I know where he has hidden it. There is an uncharted island in the Violet Ocean, due north of ruined Tarshesh. Search there, find the locket, and open it. Then Kaschuf will be as mortal as you and I!'
+	</p>
+	<p>Nervously, he hurries off.</p>
+	<p><gain codeword="Dangle">Get the codeword Dangle</gain>.</p>
+	<p>You leave the village. <goto section="398"/>.</p>
+</section>

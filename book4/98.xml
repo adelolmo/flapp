@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="98">
+	<p>
+		Fortunately for you, a passing merchant ship picks you up. The captain, a merchant from Yellowport, is taking a cargo of textiles to Yarimura. He is happy to take you along for the ride.
+	</p>
+	<p>
+		'Always pick up the shipwrecked,' he says. 'You never know when you'll end up the same way.'
+	</p>
+	<p>
+		After an uneventful journey you disembark at Yarimura. <goto section="10"/>.
+	</p>
+</section>

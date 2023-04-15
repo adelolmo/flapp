@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="467">
+	<p>
+		The heavy wooden gates of the temple of Tyrnai are guarded by couple of veteran warriors - the old iron bullmen are gone. Inside, the god is represented by a stone idol of a jaguar-headed warrior. He appears to be naked.
+	</p>
+	<p>
+		Suddenly, a priest shouts, &#8216;It&#8217;s the thief! The blasphemous devil has had the nerve to return here!&#8217;
+	</p>
+	<p>
+		A score of warrior priests of Tyrnai boil out of the back rooms of the temple. You had better run for your life!
+	</p>
+	<p>
+		<rankcheck dice="1">Roll a die</rankcheck>.
+		<success>
+			If the score is less than or equal to your Rank,
+			<goto section="395"/>.
+		</success>
+		<failure>Otherwise, <goto section="551"/>.</failure>
+	</p>
+</section>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="552">
+	<p>
+		It was almost too easy. Nestling down in a barn in the castle courtyard, you sleep peacefully though the rest of the night, dreaming of what you will do with your ill-gotten gains.
+	</p>
+	<p>
+		<training ability="thievery"/>.
+		If the total is higher than your THIEVERY score, increase it by 1. After doing that, <goto section="315"/>.
+	</p>
+</section>

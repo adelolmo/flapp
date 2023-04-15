@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="369">
+	You come across an old couple who make a living selling clams.
+	Since they rarely get to hear much news, they insist that you
+	stop over for the night at their home and tell them of your
+	travels. <rest stamina="1">Regain 1 Stamina point</rest>
+	if injured and <goto section="53"/>.
+</section>

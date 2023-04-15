@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="75" image="75.jpg">
+	<p>
+		At the far end of the chamber, a stone plinth is raised above the rest. On it sleeps a man dressed in purple-hemmed cloth of gold. On his bearded and patriarchal head rests a golden crown, which glints in the quivering light you have brought with you. His hands are crossed over his chest. In one he holds a steel mace, the head of which is fashioned in gold to resemble a flaming sun. In the other, he holds a silver scythe, its blade fashioned into a crescent moon. It is the High King, sleeping through the lost centuries, awaiting the day of his awakening.
+	</p>
+	<p>
+		Suddenly the temperature drops even lower - a sudden cold that threatens to stop your heart.
+		<if item="wolf pelt|fur cloak">
+			If you have a <b>wolf pelt</b> or <b>fur cloak</b>, it protects you from the cold.
+		</if>
+		<else>
+			If you haven't, <lose stamina="2d">lose 2-12 Stamina points</lose> (the roll of two dice).
+		</else>
+	</p>
+	<p>
+		If you still live, a smoky, phantasmal shape appears in the centre of the chamber. Her spectral white face is as blank and smooth as snow, and her ghostly robes, pale as moonlight, billow out behind her like a trail of stars. Taloned hands, like the wind-blasted branches of a winterbound tree, clutch at you.
+	</p>
+	<p>
+		<if codeword="Evergreen">
+			If you have the codeword Evergreen,
+			<goto section="9"/>.
+		</if>
+		If not, <goto section="110"/>.
+	</p>
+</section>

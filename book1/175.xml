@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="175" boxes="1">
+	<p>
+		<if ticks="1">
+			If there is a tick in the box, <goto section="673"/> immediately.
+		</if>
+		If not, <tick/>, and read on.
+	</p>
+	<p>
+		You are trekking across the aptly named Curstmoor. A great rolling expanse of blasted heath stretches before you. Grey clouds hang over a mournful, dirty-water coloured plain, studded with rocky outcrops and low hills. A raven flutters to the ground nearby, eyeing you curiously. His brothers caw loudly into the echoing sky. Dusk falls, and in the dim twilight, a herd of horses comes streaking out of the night, straight at you. As they near, it seems to you that their hooves are not touching the ground, and from their manes trail wispy clouds of sparks, like tiny stars.
+	</p>
+	<choices>
+		<choice section="390">Get out of their way</choice>
+		<choice section="66">Mount one of them</choice>
+	</choices>
+</section>

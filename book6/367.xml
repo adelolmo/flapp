@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="367">
+	<p>
+		You divert Kiyomori&#8217;s anger by mentioning the behaviour of the shaven-headed youths who comprise the secret police.
+	</p>
+	<p>
+		&#8216;Your town house was burned down? Kiyomori is taken aback. Suddenly his anger has a fresh target. &#8216;Those wretched young thugs! Oh, you should have come to me at once, my dear old friend.&#8217;
+	</p>
+	<p>
+		Later, as you leave, Kiyomori gives you
+		<gain shards="400"/>
+		to buy a new town house. &#8216;I&#8217;ll deal with those kaburos, never fear,&#8217; he assures you.
+		<lose codeword="Fossil">Lose the codeword Fossil</lose>
+		and <goto section="79"/>.
+	</p>
+</section>

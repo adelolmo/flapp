@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="780">
+	<p>
+		You kneel before the bare stone altar carved in the shape of an anvil. There is no effigy here to represent the god. There is no need for such a thing. Worshippers of Molhern believe his essence can be discerned in all of creation.
+	</p>
+	<p><difficulty ability="sanctity" level="12">Make a SANCTITY roll at a Difficulty of 12</difficulty>.</p>
+	<outcomes>
+		<success section="397"/>
+		<failure section="422"/>
+	</outcomes>
+</section>

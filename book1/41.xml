@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="41">
+	The inside of the dome is lit with an eerie yellowish glow that comes from the sea-moss that carpets the ceiling. At the far end, a grotto in the wall contains an idol made from sea-shells and coral, presumably of Oannes, the god of the repulsive ones. At its feet lies the <b>golden net</b> of Alvir and Valmir, the object of your quest. Between you and it swim several of the giant squid-creatures, carrying out various undersea chores.
+	<choices>
+		<choice section="35">Swim back to the Shadar Tor</choice>
+		<choice section="121">Fight your way to the <b>golden net</b></choice>
+		<choice section="592">Trust your magical prowess</choice>
+		<choice section="487">Rack your memory for a solution</choice>
+	</choices>
+</section>

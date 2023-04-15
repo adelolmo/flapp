@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="567">
+	<p>
+		Your old friend Verin Crookback agrees to help you. He takes you to where your ship is lying at anchor. Your men have been pressed into service in the fields to gather produce for the Reavers&#8217; table, but with Verin&#8217;s help you round up most of them and set sail under cover of darkness.
+	</p>
+	<p>
+		<lose codeword="Colour">
+			Lose the codeword Colour
+		</lose> and <goto section="164"/>.
+	</p>
+</section>

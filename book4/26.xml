@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="26">
+	<p><gain codeword="Dread"/>.</p>
+	<p>
+		'Excellent!' beams Commander Telana. 'The hopes and prayers of Sokara go with you. Well, the hopes and prayers of the army, at any rate! Still, good luck!'
+	</p>
+	<p>
+		<if codeword="Deep">
+			If you have the codeword Deep,
+			<goto section="644"/>.
+		</if>
+		If not, you leave. <goto section="152"/>.
+	</p>
+</section>

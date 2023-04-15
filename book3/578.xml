@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="578">
+	<p>
+		You start to stammer out your reasons for coming to see him. To your dismay, the Master has risen from his chair and is staring at you very oddly. You have never seen anyone&#8217;s eyes literally glow with rage before.
+	</p>
+	<p>What will you give as your reason for disturbing him?</p>
+	<choices>
+		<choice section="632">Ask about the Forest of Larun</choice>
+		<choice section="596">Ask about desert islands</choice>
+		<choice section="614">Ask about pirates</choice>
+		<choice item="bottle of wine" section="527">
+			Offer a <b>bottle of wine</b> (if you have one)
+		</choice>
+	</choices>
+</section>

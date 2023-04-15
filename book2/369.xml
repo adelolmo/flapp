@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="369">
+	<p>
+		&#8216;Knocklar, you oaf!&#8217; says the severed head. &#8216;You dropped me in the forest again. If not for the kindness of this stranger I&#8217;d have lain there until morning with beetles crawling up my nostrils!&#8217;
+	</p>
+	<p>
+		Knocklar takes the head and smiles. &#8216;You must stay a while and tell me of your adventures,&#8217; he says. &#8216;I have renounced the world myself in favour of a life of spiritual contemplation.&#8217;
+	</p>
+	<p>
+		&#8216;A life of drunken idleness, more like!&#8217; declares the head in outrage.
+	</p>
+	<p>
+		Knocklar leads you into his cottage where, ignoring the head&#8217;s protests, he stuffs it into a breadbin. Then he invites you to stay and have supper with him.
+	</p>
+	<p>
+		Cross the
+		<lose item="severed head"/>
+		off your Adventure Sheet and then decide what you&#8217;re doing now.
+	</p>
+	<choices>
+		<choice section="481">Stay for supper</choice>
+		<choice section="406">Ask Knocklar for a blessing</choice>
+		<choice section="431">Gossip with him</choice>
+		<choice section="456">Leave the hermitage</choice>
+	</choices>
+</section>

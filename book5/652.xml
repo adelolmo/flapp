@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="652">
+	<p><lose codeword="Energy">Erase the codeword Energy</lose> if you have it.</p>
+	<p>
+		Urhi-Akhad wanted to know about the Wingless Hawk tribe, part of the Horde of the Thundering Skies that lives on the Great Steppes. You have spent some time with them on your travels through the Plains of Howling Darkness, as the steppes are sometimes known. You tell him how their steeds are great wingless avians that they call elephant birds, and a few other stories beside.
+	</p>
+	<p>
+		He is fascinated by your tales and lets you consult his extensive library. Choose an ability (i.e. COMBAT, CHARISMA, SCOUTING and so on) and
+		<training>roll two dice</training>.
+		If you score higher than your rating for that ability, you can add one to it.
+	</p>
+	<p>When you are finished, <goto section="100"/>.</p>
+</section>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="126">
+	<p>
+		You kneel in the sand for days, eating and drinking nothing, until starvation makes strange visions dance before your eyes. Every moment is spent in prayer. The demands of the flesh are first ignored, then forgotten, as you pin all your hopes on divine intervention.
+	</p>
+	<p>
+		<if god="Alvir and Valmir">
+			<lose codeword="3.126.1" hidden="t"/>
+			If you are an initiate of Alvir and Valmir,
+			<difficulty ability="sanctity" level="17">
+				make a SANCTITY roll at a Difficulty of 17
+			</difficulty>.
+		</if>
+	</p>
+	<p>
+		<if god="Alvir and Valmir" not="t">
+			If you are not an initiate of Alvir and Valmir, your prayers are completely in vain, and finally you give up the attempt:
+			<lose stamina="3">lose 3 Stamina points</lose>
+			owing to deprivation.
+			<tick codeword="3.126.1" hidden="t"/>
+		</if>
+	</p>
+	<outcomes>
+		<success section="198"/>
+		<failure section="123"/>
+		<choice box="3.126.1" section="177">Not an initiate of Alvir and Valmir</choice>
+	</outcomes>
+</section>

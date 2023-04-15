@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="509">
+	The tree stands at the brink of a precipice of weathered rock that
+	has sloughed off into a small gully. Stalks of grass protrude from
+	between the chunks of stone. Then you notice something else: a
+	doorway of pitted granite, half buried in the debris.
+	<choices>
+		<choice section="391">Climb down to the door</choice>
+		<choice section="583">Go back</choice>
+	</choices>
+</section>

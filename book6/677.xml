@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="677">
+	<p>
+		The sword she has given you is as heavy as an iron bucket. Worse, it seems to have magically welded itself to your hand. You have no choice but to fight with it, even though it is a
+		<weapon name="cursed sword" bonus="-2" force="t">
+			<b>cursed sword (-2 to COMBAT)</b>
+		</weapon>!
+		Note this on your list of possessions. Because it affects your COMBAT score, it also reduces your Defence.
+	</p>
+	<p>
+		<if item="paper sword" cache="6.635">
+			If you gave her a <b>paper sword</b>,
+			<goto section="723"/>.
+		</if>
+		Otherwise, <goto section="656"/>.
+	</p>
+</section>

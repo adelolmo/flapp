@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="122">
+	You are sailing out of the waters around Dragon Isle.
+	<choices>
+		<choice section="406">Go north</choice>
+		<choice section="309">Go south</choice>
+		<choice section="72">Go east</choice>
+		<choice book="3" section="55">Go west</choice>
+	</choices>
+</section>

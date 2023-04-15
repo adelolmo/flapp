@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="579">
+	You are travelling across flatlands. The River Grimm splits into a delta here, spilling its waters into the sea. Long, sandy beaches stretch out to sea. <random type="travel" dice="1"/>.
+	<outcomes>
+		<outcome range="1,2">
+			Bitten by a crab! <lose stamina="1">Lose 1 Stamina</lose>
+		</outcome>
+		<outcome range="3,4">Nothing happens</outcome>
+		<outcome range="5,6">
+			Find an <item name="ink sac"/> washed up on the shore
+		</outcome>
+	</outcomes>
+	<p>When you are ready, you can:</p>
+	<choices>
+		<choice section="100">Go to Marlock City</choice>
+		<choice section="99">Follow the river north</choice>
+		<choice book="2" section="219">Travel west into Golnir</choice>
+	</choices>
+</section>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="478">
+	A gust of wind swings the boom around, knocking the ship&#8217;s
+	surgeon into the sea. Like most sailors, who prefer the thought
+	of a quick death if their ships should go down, he cannot swim
+	The men crowd along the rail, watching helplessly as he
+	founders in the water.
+	<choices>
+		<choice section="558">Jump in to save the surgeon</choice>
+		<choice section="446">Leave him to drown</choice>
+		<choice section="360">Order the helmsman to put about</choice>
+	</choices>
+</section>

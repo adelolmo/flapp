@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="660">
+	The mermaid trills with merriment, but does not seem to
+	understand your words. You must impress her with your innate
+	charm, otherwise she will get bored and swim off.
+	<difficulty ability="charisma" level="14">
+		Make a CHARISMA roll at a Difficulty of 14
+	</difficulty>.
+	<outcomes>
+		<success section="708"/>
+		<failure section="335"/>
+	</outcomes>
+</section>

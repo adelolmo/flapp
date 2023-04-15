@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="136">
+	<p>
+		The Sea of Whispers. The sea is uncannily quiet and flat as a pane of glass under a grey-blue sky. At night, however, the waters seem to come alive with an eerie whispering. One of your crew tells you that the sounds you heard at night are the sea centaurs speaking to one another across the waves.
+	</p>
+	<p><random type="travel"/>:</p>
+	<outcomes>
+		<outcome range="2-4" section="639">Storm</outcome>
+		<outcome range="5-7" section="507">An uneventful voyage</outcome>
+		<outcome range="8-10" section="337">An unusual catch</outcome>
+		<outcome range="11-12" section="108">A strange dream</outcome>
+	</outcomes>
+</section>

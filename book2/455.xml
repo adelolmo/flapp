@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="455" image="455.jpg">
+	<p>
+		You languish in the dungeon for months, gradually becoming weaker. The only food you are given is a slimy gruel filled with weevils. The water tastes like it comes straight out of the drains.
+	</p>
+	<p>
+		Unless you have a blessing of Immunity to Disease/Poison
+		<if blessing="disease">
+			(in which case
+			<group force="t">
+				<text>turn to <b>480</b></text>
+				<lose blessing="disease"/>
+				<goto section="480"/>
+			</group> after crossing off the blessing)
+		</if>, you soon succumb to fever.
+		<random/>:
+	</p>
+	<outcomes>
+		<outcome range="2-5" section="560">You die</outcome>
+		<outcome range="6-9" section="505">
+			<lose ability="stamina" amount="1d">
+				Lose 1-6 Stamina permanently
+			</lose>
+		</outcome>
+		<outcome range="10-12" section="480">
+			A miraculous recovery
+		</outcome>
+	</outcomes>
+</section>

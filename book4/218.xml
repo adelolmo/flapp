@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="218">
+	<p><gain codeword="Defend">Get the codeword Defend</gain>.</p>
+	<p>
+		You have completed your mission, and lived to tell the tale. You return to the citadel, and are taken to see Orin Telana, the commander. He is more than pleased to see you.
+	</p>
+	<p>
+		'Beladai is dead, and his army is scattered to the four winds. You have done a great service for Sokara.'
+	</p>
+	<p>
+		<items group="4.218" limit="1"/>
+		Telana rewards you with one of the following items (your choice):
+	</p>
+	<p><weapon name="sword of the Shadar" bonus="3" group="4.218"/></p>
+	<p><tool name="gold holy symbol" ability="sanctity" bonus="3" group="4.218"/></p>
+	<p><tool name="enchanted flute" ability="charisma" bonus="3" group="4.218"/></p>
+	<p><tool name="sextant" ability="scouting" bonus="3" group="4.218"/></p>
+	<p><tool name="cobalt wand" ability="magic" bonus="3" group="4.218"/></p>
+	<p><tool name="gloves of Sig" ability="thievery" bonus="3" group="4.218"/></p>
+	<p>
+		When you're done, the commander tells you that Grieve Marlock, the ruler of Sokara, would like to see you.
+	</p>
+	<p>'Go to his palace in Marlock City,' says the commander.</p>
+	<p>It is time to leave the citadel.</p>
+	<choices>
+		<choice section="145">North to the steppes</choice>
+		<choice book="1" section="271">South into Sokara</choice>
+	</choices>
+</section>

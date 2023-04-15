@@ -1,0 +1,16 @@
+<section name="Liana the Swift" profession="Wayfarer">
+	<p>
+		Liana prefers to make her home in mountain grottos and woodland groves rather than in the squalid streets of cities. She has the agility of a gazelle, the cunning of a fox and the ferocity of an eagle. She has heard of a City of Trees, deep within the forest of the Isle of Druids.
+	</p>
+	<p>
+		You can play as Liana, or as a wayfarer with a different name (enter it in the 'Name' field). To begin your adventure, <goto section="1" force="f"/>.
+	</p>
+	<p>For another profession, choose from the following:</p>
+	<choices>
+		<choice section="Andriel">Warrior</choice>
+		<choice section="Chalor">Mage</choice>
+		<choice section="Marana">Rogue</choice>
+		<choice section="Ignatius">Priest</choice>
+		<choice section="Astariel">Troubadour</choice>
+	</choices>
+</section>

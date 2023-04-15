@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="592">
+	<difficulty ability="magic" level="11"/>.
+	<outcomes>
+		<success section="638"/>
+		<failure section="111"/>
+	</outcomes>
+</section>

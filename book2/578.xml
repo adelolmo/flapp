@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="578">
+	<if god=""><lose codeword="2.578.1" hidden="t"/></if>
+	<else><tick codeword="2.578.1" hidden="t"/></else>
+	A thin grey figure clad in decaying robes comes stalking
+	forwards out of the cold dank heart of the mound. It wears a
+	belt of shrunken human heads, and from the way it is
+	brandishing that knife you suspect it wants to add your own
+	head to its collection.
+	<choices>
+		<choice section="602">Run</choice>
+		<choice section="626">Fight</choice>
+		<choice box="2.578.1" section="650">Call on your god (if you have one)</choice>
+	</choices>
+</section>

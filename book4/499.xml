@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="499">
+	<p>
+		The Ruby Citadel is no more. All that remains are the shattered fragments of its former glory, destroyed by your cunning. There is nothing here, except for a locked verdigris trapdoor in the floor of what was once the main hall.
+	</p>
+	<p>
+		<if item="verdigris key">
+			If you have a <b>verdigris key</b>, you can <goto section="196" force="f"/>.
+		</if>
+		If not, there is nothing for you to do but leave.
+	</p>
+	<choices>
+		<choice section="630">Go west</choice>
+		<choice section="15">Go east</choice>
+		<choice section="17">Go south</choice>
+	</choices>
+</section>

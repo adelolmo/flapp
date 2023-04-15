@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="572">
+	<p>
+		The castaway is a merchant from Metriciens whose crew mutinied and set him ashore on the reef to die.
+	</p>
+	<p>
+		&#8216;May the gods harry them until the end of their days!&#8217; he says with strong feeling.
+	</p>
+	<p>
+		He gives you some advice on the best investments.
+		<tick codeword="Catalyst">Get the codeword Catalyst</tick>
+		if you didn&#8217;t have it already, then <goto section="245"/>.
+	</p>
+</section>

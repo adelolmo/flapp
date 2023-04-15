@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="535">
+	A narrow alluvial plain separates the high-thrust Urushi
+	Mountains from the eastern shore. Here the peasants grow rice
+	and cotton, and weave silk for the clothes of great lords.
+	<choices>
+		<choice section="359">Go up into the mountains</choice>
+		<choice section="438">Go north</choice>
+		<choice section="74">Go south</choice>
+	</choices>
+</section>

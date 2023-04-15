@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="332" image="332.jpg">
+	<p>
+		There is a shaman&#8217;s hut made of sheaves of straw halfway between the shanties at the edge of the town and the wall of dark foliage that marks the start of the jungle. The shaman will trade magical items if you are interested.
+	</p>
+	<market>
+		<header type="magic"/>
+		<tool name="amber wand" ability="magic" bonus="1" buy="500" sell="300"/>
+		<tool name="ebony wand" ability="magic" bonus="2" buy="1000" sell="700"/>
+		<tool name="cobalt wand" ability="magic" bonus="3" buy="2000" sell="1500"/>
+		<tool name="selenium wand" ability="magic" bonus="4" buy="4000" sell="3000"/>
+		<tool name="celestium wand" ability="magic" bonus="5" sell="4500"/>
+
+		<header type="other"/>
+		<item name="faery mead" sell="400"/>
+		<item name="silver horseshoe" sell="200"/>
+		<item name="hydra's tooth" buy="1250" sell="750"/>
+		<item name="four-leaf clover" sell="100"/>
+		<item name="witch's hand" buy="300" sell="150"/>
+		<item name="scroll of Ebron" sell="350"/>
+		<item name="sea-green lens" sell="100"/>
+		<item name="spectral veil" buy="500" sell="200"/>
+		<item name="selenium ore" sell="600"/>
+	</market>
+	<p>
+		Where there is no purchase price, the item is not in stock. When you have concluded your business with the shaman, <goto section="44"/>.
+	</p>
+</section>

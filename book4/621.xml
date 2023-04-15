@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="621">
+	<p>
+		To renounce the worship of Molhern, you must pay 40 Shards to the priesthood by way of compensation.
+	</p>
+	<p>
+		The sorcerer-priest shrugs his shoulders. &#8216;As you wish - turn your back on knowledge, it&#8217;s only the road to power, after all,&#8217; he comments.
+	</p>
+	<p>
+		Do you want to change your mind?
+		<if god="Molhern"><if shards="40">
+			If you are determined to renounce your faith,
+			<lose shards="40">pay the 40 Shards</lose> and
+			<lose god="Molhern">delete Molhern from the God box</lose>
+			on your Adventure Sheet.
+		</if></if>
+	</p>
+	<p>When you have finished here, <goto section="274"/>.</p>
+</section>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="227">
+	<p>
+		<lose shards="5">Cross off 5 Shards</lose>. The mad beggar takes the money and swallows the lot in one gulp. &#8216;A gourmet meal!&#8217; he babbles.
+	</p>
+	<p>
+		<tick codeword="StillInYellowport" hidden="t"/>
+		If you want to bless him, <goto section="632" force="f"/>. If not, he wanders off ranting and you head back to the city centre, <goto section="10"/>.
+	</p>
+</section>

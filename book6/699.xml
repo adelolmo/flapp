@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="699">
+	<p>
+		You swiftly cut the balloon loose and grab hold of the dangling ropes. The basket drops away with Talanexor still firing bursts of wildfire at you. &#8216;From hell&#8217;s heart I stab at thee!&#8217; he screams, consumed by rage.
+	</p>
+	<p>
+		One of the fireballs hits you.
+		<lose stamina="3d">Lose 3-18 Stamina points</lose>
+		(the score of three dice). If you survive that, you watch Talanexor plunge to his doom and then wait while the balloon drifts gradually down out of the sky. You come to a rest in a dense forest.
+		<tick codeword="Fortress">Get the codeword Fortress</tick>
+		and <goto section="312"/>.
+	</p>
+</section>

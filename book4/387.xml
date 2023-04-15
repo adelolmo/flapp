@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="387">
+	<p>
+		The dead reach out to take your arms. &#8216;Join us,&#8217; they say. &#8216;Why struggle in the harsh sunlit world, when darkness and eternal peace are here to be enjoyed throughout eternity?&#8217;
+	</p>
+	<p>
+		You duck, grab a silver chalice from the table next to you, and race back towards the surface with the gibbering horde of sheeted dead in full pursuit.
+	</p>
+	<p>&#8216;Stay, stay!&#8217; they implore. It is a sound to curdle the blood.</p>
+	<p>
+		At last the wan daylight of the steppes comes in sight. But the bronze doors are closing! Can you make it in time?
+		<random dice="2">
+			<adjust ability="rank"/>
+		</random> and add your Rank.
+	</p>
+	<outcomes>
+		<outcome range="3-12" section="136"/>
+		<outcome range="13+" section="581"/>
+	</outcomes>
+</section>

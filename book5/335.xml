@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="335" boxes="1">
+	<p>
+		<if ticks="1">
+			If there is a tick in the box, <goto section="79"/> immediately.
+		</if>
+		If not, <tick>put a tick there now</tick>, and read on.
+	</p>
+	<p>
+		The noble removes his mask. To your surprise, you see that he has blue skin. He is a purebred, or high caste noble, part of the ancient royal clan of Uttaku, called Lord Elbistan.
+	</p>
+	<p>
+		As the bout progresses, it becomes clear that your opponent is no match for you. You should be able to beat him easily.
+	</p>
+	<choices>
+		<choice section="430">Lose on purpose</choice>
+		<choice section="651">Throw him to the ground</choice>
+	</choices>
+</section>

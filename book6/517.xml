@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="517" boxes="1">
+	<p>
+		You traverse a flower-filled valley towards a ridge of sombre pine trees. Arriving at a stream, you are about to cross when you notice that a large lump in mid-stream that you had mistaken for a boulder is actually the head of an enormous river serpent. You were just about to use it as a stepping stone.
+	</p>
+	<p>
+		<if ticks="0">
+			If the box above is empty,
+			<tick>put a tick in it</tick> and <goto section="439"/>.
+		</if>
+		If it was already ticked, <goto section="101"/>.
+	</p>
+</section>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="339">
+	<difficulty ability="charisma" level="13">
+		<adjust god="Ebron" value="1"/>
+	</difficulty>.
+	Add one to the roll if you are a member of the Church of Ebron.
+	<outcomes>
+		<success section="507"/>
+		<failure section="360"/>
+	</outcomes>
+</section>

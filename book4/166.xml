@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="166">
+	The water comes up to your ankles, but the ground is solid enough. <random dice="1" type="travel">Roll a die</random>.
+	<outcomes>
+		<outcome range="1-2" section="154">Finmen from the deep</outcome>
+		<outcome range="3-4" section="265">Giant sea spider</outcome>
+		<outcome range="5-6" section="188">Message in a bottle</outcome>
+	</outcomes>
+</section>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="180">
+	<p>
+		You step through the archway. Immediately the symbols on the stone begin to glow with red-hot energy; your hair stands on end and your body tingles. A crackling nimbus of blue-white force engulfs you, the sky darkens and thunder and lightning crash and leap across the heavens. Suddenly, your vision fades, and everything goes black.
+	</p>
+	<p>
+		When your sight returns, you find yourself outside the gates of a huge, fortified city. A guard starts in surprise at the sight of you. Then he shakes his head as if to clear it, sure he must have imagined what he just saw!
+	</p>
+	<p>The gates open, and a troop of heavy cavalry canter past.</p>
+	<p>&#8216;Make way for the Marlock City militia!&#8217;, says the guard.</p>
+	<p>
+		When they have passed, you walk into the city. <goto section="100"/>.
+	</p>
+</section>

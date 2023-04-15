@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="239">
+	<tick codeword="6.239" hidden="t"/>
+	Surges of white foam warn of hidden reefs ahead. If you want to
+	proceed you must
+	<group>
+		<text>make a SCOUTING roll at a Difficulty of 13</text>
+		<lose codeword="6.239"/>
+		<difficulty ability="scouting" level="13"/>
+	</group>
+	to steer a safe course.
+	<outcomes>
+		<success section="650"/>
+		<failure section="588"/>
+		<choice box="6.239" section="64">Turn back</choice>
+	</outcomes>
+</section>

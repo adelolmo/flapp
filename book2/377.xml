@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="377">
+	You do not have long to celebrate your victory. The poison
+	reaches your heart and you feel a stab of crippling pain. The
+	only thing that can save you is a blessing of Immunity to
+	Disease/Poison.
+	<if blessing="poison">
+		If you have such a blessing,
+		<lose blessing="poison">cross it off</lose> and
+		<goto section="17"/>.
+	</if>
+	<else>
+		Otherwise you are dead within seconds - <goto section="560"/>.
+	</else>
+</section>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="521">
+	<p>
+		The skeletons present you with tribute in the form of antique coins and jewellery from the lockers of sunken wrecks. The total value of this haul is <gain shards="750"/>.
+	</p>
+	<p>
+		&#8216;Till death do us join,&#8217; calls out the skeletal captain as he sails away. <goto section="321"/>.
+	</p>
+</section>

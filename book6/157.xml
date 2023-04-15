@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="157">
+	<p>
+		Kiyomori is pleased to see you. &#8216;I would have sent you an invitation to the banquet if I&#8217;d known you were going to be in town,&#8217; he says. &#8216;You&#8217;re just in time for the play. I&#8217;ve had a stage built in the garden and a theatrical troupe is going to give us a performance of a play called &#8220;No heads&#8221;. Intriguing, eh?&#8217;
+	</p>
+	<p>&#8216;It&#8217;s a curious title, certainly,&#8217; you have to admit.</p>
+	<choices>
+		<choice section="557">Stay and watch the play</choice>
+		<choice section="205">Sneak inside the house</choice>
+		<choice section="79">Make your excuses and leave</choice>
+	</choices>
+</section>

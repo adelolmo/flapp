@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="608">
+	<p>
+		You are taken to a high-gabled wooden palace whose airy halls are patrolled by hundreds of magnificently armed guards. How can you have failed to notice it as you sailed in? The paladin takes you to the throne room where the hubbub of courtiers&#8217; chatter gradually subsides as everyone notices your arrival. The queen sweeps forward, her resplendent skirts of gold-laced black silk supported by a group of identical ladies-in-waiting.
+	</p>
+	<p>
+		She tells you that her realm has lately been menaced by a terrible dragon. She has heard of your heroic reputation and asks if you will slay the dragon for her.
+	</p>
+	<choices>
+		<choice section="442">Do as she bids</choice>
+		<choice section="629">Ask what reward she will give</choice>
+	</choices>
+</section>

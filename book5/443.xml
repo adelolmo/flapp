@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="443">
+	From here, you can travel:
+	<choices>
+		<choice section="213">North-east to the Hall of Heroes</choice>
+		<choice section="421">East into the Mixen Sumps</choice>
+		<choice section="126">North to the Crags of the Long Homes</choice>
+		<choice section="621">West to the Southern Grumes</choice>
+		<choice section="444">South-west to Aku</choice>
+	</choices>
+</section>

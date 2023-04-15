@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="368">
+	<p>You kneel beside the body and feel for a pulse.</p>
+	<p><random/>.</p>
+	<outcomes>
+		<outcome range="2-5" section="387"/>
+		<outcome range="6-7" section="408"/>
+		<outcome range="8" section="427"/>
+		<outcome range="9-12" section="477"/>
+	</outcomes>
+</section>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="279" dock="Wishport">
+	You stride up the gangplank to find the crew dancing merrily to
+	the tune of a flute. &#8216;Ah, shkipper, jush tryin&#8217; to keep the crew
+	trit &#8216;n&#8217; fim,&#8217; slurs the bo&#8217;sun as he hastily conceals a bottle of
+	grog. You shake your head despairingly and go aft to your cabin.
+	Maybe you should hire better crewmen?
+	<choices>
+		<choice section="217">Go back into town</choice>
+		<choice section="325">Walk along the harbourfront</choice>
+		<choice section="119" sail="t">Set sail</choice>
+	</choices>
+</section>

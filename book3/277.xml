@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="277" tag="temple">
+	<p>
+		&#8216;You have performed a great service for Glimbinki,&#8217; avers the priest. &#8216;In return I will bestow the two blessings that are within my power.&#8217;
+	</p>
+	<p>
+		Mark
+		<gain blessing="scouting"/> and
+		<gain blessing="magic"/>
+		in the Blessings box on your Adventure Sheet if they were not already written there. These blessings entitle you to reroll a failed attempt at using the ability in question. Each blessing can be used only once.
+	</p>
+	<p>Thanking the priest, you return to town. <goto section="44"/>.</p>
+</section>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="661" image="661.jpg">
+	<p>
+		The examiners are thirteen astoundingly old men in dusty black robes. They sit at a long table studying the results of your first exam. Minutes tick by, then you hear a low snoring sound.
+	</p>
+	<p>
+		The senior mage raps his knuckles on the table, gathers some papers, and peers down at you.
+	</p>
+	<p>
+		&#8216;We can&#8217;t admit you to the college,&#8217; he wheezes. &#8216;You&#8217;re just too insufferably sanctimonious. You need to have an open mind to study wizardry, you know.&#8217;
+	</p>
+	<p>
+		You start to leave, but then another of the wizards says: &#8216;Wait. We can&#8217;t have you going straight off to bother another college.&#8217;
+	</p>
+	<p>
+		He casts a spell of transportation and you are flung magically across a thousand leagues in the blink of an eye, landing in a dungheap outside the town of Smogmaw. <goto section="44"/>.
+	</p>
+</section>

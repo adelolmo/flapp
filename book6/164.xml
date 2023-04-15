@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="164" boxes="4">
+	<p>
+		You are taken to the tengu king, whose throne is a lightning-split cryptomeria tree swaddled in a century&#8217;s growth of moss.
+		<lose codeword="6.164.0" hidden="t"/>
+		<lose codeword="6.164.1" hidden="t"/>
+		<lose codeword="6.164.2" hidden="t"/>
+		<lose codeword="6.164.3" hidden="t"/>
+	</p>
+	<p>
+		<if ticks="4"><tick codeword="6.164.4" hidden="t"/></if>
+		<else>
+			<tick>Put a tick</tick> in one of the boxes above.
+		</else>
+		<if ticks="1"><tick codeword="6.164.0" hidden="t"/></if>
+		<if ticks="2"><tick codeword="6.164.1" hidden="t"/></if>
+		<if ticks="3"><tick codeword="6.164.2" hidden="t"/></if>
+		<if ticks="4"><if not="t" codeword="6.164.4">
+				<tick codeword="6.164.3" hidden="t"/>
+		</if></if>
+	</p>
+	<choices>
+		<choice box="6.164.0" section="22">If you have just ticked the first box</choice>
+		<choice box="6.164.1" section="187">If you have just ticked the second box</choice>
+		<choice box="6.164.2" section="212">If you have just ticked the third</choice>
+		<choice box="6.164.3" section="235">If you have just ticked the fourth</choice>
+		<choice box="6.164.4" section="259">If all the boxes were already ticked</choice>
+	</choices>
+</section>

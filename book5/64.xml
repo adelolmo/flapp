@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="64">
+	The current drags you down and your lungs fill with water. Buffeted by the torrent, you are swept downstream and flung on to a stretch of shingle.
+	<lose stamina="3d">Lose 3-18 Stamina</lose> (the score of three dice).
+	If alive, you get to your feet. <goto section="333"/>.
+</section>

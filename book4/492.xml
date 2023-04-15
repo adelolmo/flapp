@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="492">
+	As your ship pulls away, the ghost pirates seem to give up the chase, as if they were unable to follow you too far from the fogbank. The men cheer with heartfelt relief.
+	<choices>
+		<choice section="310">Head west towards Disaster Bay</choice>
+		<choice section="50">Sail south-west along the coast of Nerech</choice>
+	</choices>
+</section>

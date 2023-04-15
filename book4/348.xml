@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="348">
+	<p>
+		You sense the figure in front is not alone. Instinctively, you dodge aside as two more dark figures appear behind you.
+	</p>
+	<p>
+		&#8216;Curse it!&#8217; yells the first figure. &#8216;Can&#8217;t you fools do anything right? Get him!&#8217; All three of them, wiry looking villains dressed in black leather armour, lunge for you.
+	</p>
+	<choices>
+		<choice section="238">Fight them</choice>
+		<choice section="212">Run for it</choice>
+	</choices>
+</section>

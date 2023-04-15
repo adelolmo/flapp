@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="345">
+	<p>
+		A rock hurtles past your face. You whirl to see who has thrown it and are greeted with an extraordinary sight. The stone was cast by a russet-coloured little man whose complexion matches the Grumes in both hue and texture. He can't be more than 30 inches tall, but he grins at you from a vantage point of equal height - he is perched on top of a smaller man, in turn supported by a third, who staggers around under the weight of his two fellows. All three are brandishing weapons in each hand.
+	</p>
+	<p>
+		'The tripling will tear you into three pieces ...' says the topmost man.
+	</p>
+	<p>
+		'... and each piece into three more pieces ...' continues the middle one.
+	</p>
+	<p>
+		'... and then each ...' but the supporting creature doesn't get the chance to finish his speech.
+	</p>
+	<p>
+		You run out of patience with the creature - or creatures - and step into the attack. Fight the tripling as one creature. It attacks you three times for each attack you make.
+	</p>
+	<fight name="Tripling" combat="4" defence="8" stamina="12" attacks="3" flee="3"/>
+	<p>
+		If the tripling reaches three or fewer Stamina points it is scattered; the little men scurry away in all directions, screaming terrible revenge as they flee.
+	</p>
+	<p>You move on. <goto section="307"/>.</p>
+</section>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="327">
+	Your keen otherworldly senses are tingling. There appears to be a powerful source of magic coming from the whirling pool at the bottom of the waterfall, but it would be dangerous to try to find out by swimming down. Perhaps there is another way? Magic attracts magic, they say.
+	<choices>
+		<choice section="605">Dive down to investigate</choice>
+		<choice section="672">Try supernatural means</choice>
+		<choice section="307">Leave well alone and journey on</choice>
+	</choices>
+</section>

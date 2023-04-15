@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="177">
+	<p>
+		You snatch the necklace, which must be worth a thousand Shards. But the concubine sits up, her face a mask of pale rage in the dark. She screams, and all hell breaks loose.
+	</p>
+	<p>
+		Guards burst in, swords drawn. Desperately you try to make it back down the tower, but archers shoot you out of the sky. You plummet to your doom in the palace courtyard.
+	</p>
+	<p><goto section="7"/>.</p>
+</section>

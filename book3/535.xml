@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="535">
+	<p>
+		Fair winds and calm seas bring you swiftly to the southern continent. You sail up the Nozama River, which is so wide at this point that the far bank is barely visible as a thin line of muddy green under a sun-washed sky.
+	</p>
+	<p>
+		The captain points to a shanty town on the near bank. Behind it, the jungle broods under a haze of steam. &#8216;Smogmaw,&#8217; he says.
+	</p>
+	<p>
+		<lose shards="15">Cross off the 15 Shards</lose> for your voyage if you haven't paid already, then <goto section="44"/>.
+	</p>
+</section>

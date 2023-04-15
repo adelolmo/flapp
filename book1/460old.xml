@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="460">
+	<p>
+		You climb down an old disused well in the poor quarter of Yellowport.
+	</p>
+	<p>
+		<if codeword="Acid" item="copper amulet">
+			If you have the codeword Acid or a <b>copper amulet</b>, <goto section="327"/> immediately.
+		</if>
+		If not, read on.
+	</p>
+	<p>
+		It is dank, dark and smelly down below.
+		<if not="t" item="?" tags="light" profession="mage">
+			<tick codeword="StillInYellowport" hidden="t"/>
+			If you do not have a light source, such as a lantern or a torch, you will have to return to the city - <goto section="10"/>.
+		</if>
+		If you are a Mage you can use sorcery to create light. If you have a light source, read on.
+	</p>
+	<p>
+		<if item="?" tags="light" profession="mage">
+			You follow a tunnel into the darkness. <goto section="164"/>.
+		</if>
+	</p>
+</section>

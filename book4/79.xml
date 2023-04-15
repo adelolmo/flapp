@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="79">
+	<p>
+		You sail for the beacon, a dim orange glow on the dark, stormy horizon of Disaster Bay. You are quite close, passing through a patch of mist, when a horrible rending sound alerts you to an awful danger. The ship has struck a submerged rock, and already it is breaking up.
+	</p>
+	<p>
+		The mist clears suddenly, and you see that your ship has been dashed against a small island of jagged rock. Armed men are standing on it.
+	</p>
+	<p>
+		'Wreckers!' cries the first mate. 'They must have lit the fire to lure us on to the rocks!'
+	</p>
+	<p>
+		Already, some of your crew have been washed overboard. They swim for the island, where the wreckers are waiting for them. Cruelly, they spear your defenceless men and loot the dead bodies. Barrels and bales of your ship's stores are washed up, to be seized by the wreckers' eager hands.
+	</p>
+	<p><goto section="411"/>.</p>
+</section>

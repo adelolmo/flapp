@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="2">
+	<p>
+		<if item="coded missive">
+			If you have a <b>coded missive</b>, <goto section="676"/> immediately.
+		</if>
+		<if codeword="Deliver">
+			If not, but you have the codeword Deliver, <goto section="98"/> immediately.
+		</if>
+		If you have neither, read on.
+	</p>
+	<p>
+		The soldier recognizes you. He bows and says, &#8216;Welcome, my lord. I will take you see King Nergan.&#8217;
+	</p>
+	<p>
+		He leads you to Nergan&#8217;s mountain stockade, where the king greets you warmly.
+	</p>
+	<p>
+		&#8216;Ah, my local champion! It is always a pleasure to see you. However, I was hoping you had spoken with General Beladai of the allied army - we need that citadel. Now go. That is a royal command!&#8217;
+	</p>
+	<p>
+		You leave, climbing down to the foothills of the mountains. <goto section="474"/>.
+	</p>
+</section>

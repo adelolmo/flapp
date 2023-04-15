@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="129">
+	<p>
+		Green sea flashes under trails of frothy white; looking north, you have the coast in sight.
+	</p>
+	<p>
+		The mate&#8217;s gaze is fixed, not on land, but on the deep swelling waves. &#8216;How many skulls gaze up from the ocean bed?&#8217; he wonders. &#8216;How many sunken hulks, weed-choked and silent, lie rotting on the wet sands? Ah, it&#8217;s always when we&#8217;re nearly home that my fancies turn morbid.&#8217;
+	</p>
+	<p><random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-6" section="381">The High King&#8217;s banner</outcome>
+		<outcome range="7-11" section="475">Plain sailing</outcome>
+		<outcome range="12" section="273">An uncanny awakening</outcome>
+	</outcomes>
+</section>

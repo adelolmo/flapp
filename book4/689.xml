@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="689">
+	<p>
+		You remember something you read in an old log book about the pyramid, during your sea-faring days on the Violet Ocean: &#8216;It is only possible to gain entrance when the gods are not looking.&#8217;
+	</p>
+	<p>
+		Taking no chances, you heave the idols round so they are looking away from the gate. Then you step inside. <goto section="172"/>.
+	</p>
+</section>

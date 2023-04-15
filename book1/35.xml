@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="35" image="35.jpg">
+	<p>
+		You come to the top of a windswept cliff. An ancient pillar of jumbled rock, pitted and weatherbeaten, stands at the cliff&#8217;s edge, like a broken finger pointing at the sky. Seagulls sing their song of desolation in the air.
+	</p>
+	<p>
+		Judging by the runes etched into the rock, the tor dates back to the time of the Shadar, a race that ruled Harkuna so long ago, they are lost in myth and legend.
+	</p>
+	<choices>
+		<choice section="515">Examine the runes</choice>
+		<choice section="97">Go down to the beach</choice>
+		<choice section="602">Take the road to Trefoille</choice>
+		<choice section="166">Take the road to Marlock City</choice>
+	</choices>
+</section>

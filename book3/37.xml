@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="37">
+	<p>
+		That was one of the hardest fights of your life.
+		<lose stamina="1d">Lose 1-6 Stamina</lose>.
+	</p>
+	<p>
+		<if dead="f">
+			If you survive, you have the chance to increase your COMBAT score by 1 if you can roll higher than your current score on
+			<training ability="combat" dice="2">two dice</training>.
+		</if>
+	</p>
+	<p>
+		After noting any alterations on your Adventure Sheet,
+		<goto section="44"/>.
+	</p>
+</section>

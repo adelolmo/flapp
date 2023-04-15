@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="740">
+	<p>
+		The pilgrims are on their way to the Abbey of Lacuna, the goddess of the moon.
+	</p>
+	<p>
+		<if god="Lacuna">
+			If you are an initiate of Lacuna, <goto section="655"/>.
+		</if>
+		Iif not, you can only bid them a safe journey, <goto section="355"/>.
+	</p>
+</section>

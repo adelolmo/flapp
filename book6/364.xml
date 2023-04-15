@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="364">
+	<p>
+		While your men go off to replenish the water supplies and catch a few birds, you stretch out under a shelf of rock. The lulling sound of the waves makes you feel sleepy, but just when you&#8217;re on the point of dozing off, a paladin in black and yellow livery appears and greets you in the name of his queen.
+	</p>
+	<p>
+		You look around for your men. They are not in sight. The paladin asks you to accompany him to see his queen.
+	</p>
+	<choices>
+		<choice section="608">Go with him</choice>
+		<choice section="629">Attack him</choice>
+	</choices>
+</section>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="203">
+	<p>
+		The vampire highwaymen close in. Each time if and when they wound you, they drain your blood, and you lose
+		<fightdamage type="add">
+			<curse name="Vampire's Kiss" cumulative="t">
+				<effect ability="combat" bonus="-1"/>
+				one point from your COMBAT rating
+			</curse>
+		</fightdamage>
+		<text/>as well as the usual Stamina.
+		Fight them as one opponent.
+	</p>
+	<fight name="Three Vampires" combat="10" defence="12" stamina="25"/>
+	<p>
+		If you win, <goto section="412"/>. If you lose, <goto section="684" dead="t"/>.
+	</p>
+</section>

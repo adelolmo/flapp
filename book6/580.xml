@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="580">
+	There is a grey mist covering the sea as you rise early in the
+	morning to set the new course.
+	<choices>
+		<choice section="641">Follow the coast north</choice>
+		<choice section="450">Sail west towards the Sea of Hydras</choice>
+		<choice section="601">Go south towards Gashmuru Gulf</choice>
+	</choices>
+</section>

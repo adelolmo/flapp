@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="264" boxes="1">
+	<p>
+		<if ticks="1">
+			If there is a tick in the box, <goto section="131"/>.
+		</if>
+		If not, <tick/>, and read on.
+	</p>
+	<p>
+		A large island made of reeds and plants, which grow out of a massive floating bed of kelp, drifts aimlessly across the waters. As you draw near, you see that a number of people have made their home there. The inhabitants hail you, and invite you ashore. <goto section="537"/>.
+	</p>
+</section>

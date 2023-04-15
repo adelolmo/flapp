@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="408">
+	It is a poor old friar who has been hit on the head and robbed.
+	You help him up and see that he is well enough to continue on
+	his way to Narai. In return for your kindness he gives you a
+	blessing. Write <gain blessing="luck"/>
+	in the Blessings box on your Adventure
+	Sheet. The blessing can be used once to allow you to reroll any
+	dice result. After using the blessing, remember to cross it off
+	your Adventure Sheet. You can have only one Luck blessing at
+	a time, so if you had one already the only thing the old friar can
+	give you is his gratitude. <goto section="671"/>.
+</section>

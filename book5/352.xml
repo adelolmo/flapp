@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="352">
+	<p>
+		Curse this place! A low roof spreads above your head and the musty odour of the grave fills your senses. You thought you were roaming on the surface, and certainly had no clue of any doorway - yet whatever trickery has occurred, it has lured you into the heart of one of the tombs itself.
+	</p>
+	<p><goto section="24"/>.</p>
+</section>

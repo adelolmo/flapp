@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="698">
+	Looting the wight&#8217;s burial mound, you discover treasure worth
+	200-1200 Shards
+	(<random dice="2" var="roll"/> and multiply by 100).
+	<set var="cash" value="roll*100"/>
+	<tick shards="cash">
+		Add this to the cash
+	</tick>
+	on your Adventure Sheet and then
+	<goto section="222"/>.
+</section>

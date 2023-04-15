@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="127" boxes="1">
+	<p>
+		<if ticks="1">
+			If there is a tick in the box, <goto section="13"/> immediately.
+		</if>
+		If not, <tick/> and read on.
+	</p>
+	<p>
+		The floor of the arena is solid rock, smooth as marble, but glowing slightly with an eerie greenish radiance.
+	</p>
+	<p>
+		The arena referees announce a bout between a shaman of the finmen, a race of aquatic humanoids, and a wizard dressed in orange robes who calls himself the Red Flame. They face each other across the arena.
+	</p>
+	<p>
+		You can bet on the outcome, if you wish, up to 50 Shards. Decide which contestant you will bet on (if you want to bet at all) and how much, then note it down. The odds are the same for both - evens - so if you bet 20 Shards and win, you'll get 20 Shards profit.
+		<tick price="x" hidden="t"/>
+		<i>[Choose now whether you want to bet on the <tick codeword="4.127.1" flag="x">finman shaman</tick> or <tick codeword="4.127.2" flag="x">the Red Flame</tick> --Ed]</i> When you are ready, <goto section="263"/>.
+	</p>
+	<moneycache name="4.127" text="Stake" max="50"/>
+</section>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="654">
+	<p>
+		You slip out of your chains, and hide inside an ore-laden mining cart. When it is taken out of the mine, you creep out, and run off into the hills. Eventually you reach Caran Baru.
+	</p>
+	<p><goto section="400"/>.</p>
+</section>

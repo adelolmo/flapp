@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="316" tag="temple">
+	<p>
+		The temple of Elnir is an imposing edifice of grey stone, inlaid with yellow marbling. Elnir is the god of the sky and of kingship. He is the ruler of the gods.
+	</p>
+	<p>
+		&#8216;His dreams are the clouds before a storm,&#8217; says a passing priest.
+		<tick codeword="StillInYellowport" hidden="t"/>
+	</p>
+	<choices>
+		<choice section="291">Become an initiate of Elnir</choice>
+		<choice section="143">Renounce his worship</choice>
+		<choice section="388">Seek a blessing</choice>
+		<choice section="10">Leave the temple</choice>
+	</choices>
+</section>

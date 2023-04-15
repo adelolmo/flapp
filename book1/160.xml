@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="160" boxes="1" image="160.jpg">
+	<p>
+		<if ticks="1">
+			If there is a tick in the box, <goto section="461"/> immediately.
+		</if>
+		If not, <tick/>, and read on.
+	</p>
+	<p>You learned the password &#8216;Rebirth&#8217; in the library of Dweomer.</p>
+	<p>
+		&#8216;My, aren&#8217;t we the wise one,&#8217; carps the door sarcastically. &#8216;Still, a job&#8217;s a job, eh?&#8217; it mutters.
+	</p>
+	<p>
+		The door lifts straight up, and you step into the shadows of the Tomb of the Wizard King. It is lit by still-burning torches that give off an eerie eldritch glow. In the middle of the large round chamber, a sarcophagus lies, surrounded by a pentacle drawn in blood. You notice the blood still seems fresh!
+	</p>
+	<p><difficulty ability="magic" level="10"/>.</p>
+	<outcomes>
+		<success section="674"/>
+		<failure section="309"/>
+	</outcomes>
+</section>

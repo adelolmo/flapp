@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="705">
+	<p>
+		Iron filings act as a painful barrier to all uncanny creatures, and salt purifies the ground so that unclean spirits cannot cross it. You sprinkle them round the cottage. All night long you listen to the ghoul pacing around outside, whimpering and snarling, until finally it is driven back to its lair with the onset of dawn.
+	</p>
+	<p>
+		Cross the
+		<lose item="salt and iron filings">
+			<b>salt and iron filings</b>
+		</lose>
+		off your list of possessions and <goto section="544"/>.
+	</p>
+</section>

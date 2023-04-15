@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="738">
+	You quicken your pace, sensing that something important lies
+	just ahead.
+	<choices>
+		<choice section="496">Go north</choice>
+		<choice section="521">Go south</choice>
+		<choice section="546">Go east</choice>
+		<choice section="762">Go west</choice>
+	</choices>
+</section>

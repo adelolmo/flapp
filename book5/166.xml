@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="166">
+	<p>
+		The castle stands unoccupied. No pennant flies above its turrets; no coat of arms is displayed above the gate. You see a peasant tending the moat, removing the weeds.
+	</p>
+	<p>'The lord was slain in the wars,' he tells you.</p>
+	<p>'Why do you continue to go about your chores?'</p>
+	<p>'I pledged my service to the old lord,' he says. 'Even now, I shall continue to serve him until the day of my own death.'</p>
+	<p>You continue on your way. <goto section="539"/>.</p>
+</section>

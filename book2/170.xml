@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="170">
+	<p>
+		You pass rumbling ox-drawn carts and mule trains laden with grain and cloth. Much trade passes up and down this road.
+	</p>
+	<p><random type="travel"/> for encounters:</p>
+	<outcomes>
+		<outcome range="2-6" section="574">A questing knight</outcome>
+		<outcome range="7" section="31">An uneventful journey</outcome>
+		<outcome range="8-12" section="598">A troubled farmer</outcome>
+	</outcomes>
+</section>

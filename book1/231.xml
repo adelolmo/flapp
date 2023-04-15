@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="231">
+	You notice that the figures have left footprints on the damp grass and cannot, therefore, be ghosts.
+	<choices>
+		<choice section="23">Step out and confront the figures</choice>
+		<choice section="541">Stay hidden and follow when they leave</choice>
+	</choices>
+</section>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="207">
+	<p>
+		You find a firm footing and prepare for battle as the creatures circle. Their skin is dark and leathery, and you cannot tell whether they are huge bats, vultures or worse. One swoops to attack while the others hover in anticipation. You must fight.
+	</p>
+	<fight name="Winged Predator" combat="3" defence="13" stamina="3"/>
+	<p>
+		If you win, the others fly away in fear, and you carry on - <goto section="53"/>. If you lose, <goto section="7" dead="t"/>.
+	</p>
+</section>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="97">
+	<p>
+		Rice paddies climb in sculpted green terraces towards the north. This is the fertile country between the Gai and Chu Rivers.
+	</p>
+	<p><random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-8" section="551">A peaceful journey</outcome>
+		<outcome range="9-12" section="160">A storm brewing</outcome>
+	</outcomes>
+</section>

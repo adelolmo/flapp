@@ -1,0 +1,16 @@
+<section name="Ithacus" profession="Wayfarer">
+	<p>
+		A clever and resourceful survivor, Ithacus suffers from a restless nature that forces him to stay on the move. He can never hold on to treasure for very long because he is always planning and outfitting his next great expedition. His latest ambition is to scale the Kenen Mountains and see if the rumours of silver mines are true.
+	</p>
+	<p>
+		You can play as Ithacus, or as a wayfarer with a different name (enter it in the 'Name' field). To begin your adventure, <goto section="1" force="f"/>.
+	</p>
+	<p>For another profession, choose from the following:</p>
+	<choices>
+		<choice section="Kintu">Warrior</choice>
+		<choice section="Panjang">Mage</choice>
+		<choice section="Abraxas">Priest</choice>
+		<choice section="Elektra">Troubadour</choice>
+		<choice section="Shikibu">Rogue</choice>
+	</choices>
+</section>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="460" image="460.jpg">
+	<p>
+		Dawatsu stands blinking in the entrance of the tomb. He is inconvenienced by the light, but after a moment&#8217;s hesitation he follows you outside.
+	</p>
+	<p>
+		&#8216;Pathetic,&#8217; he jeers. &#8216;I am no mere sheeted ghoul, to be sent cowering back to my coffin by the light of day. I am Morituri of the Dawatsu; I am next to the gods themselves!&#8217;
+	</p>
+	<fight name="Dawatsu Morituri" combat="10" defence="20" stamina="38" preDamage="MorDamage"/>
+	<p>
+		(Remember to reduce his Stamina score if you have managed to wound him already.)
+	</p>
+	<p>There is no retreating now. If you prevail, <goto section="489"/>.</p>
+</section>

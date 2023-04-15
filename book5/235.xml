@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="235">
+	<p>
+		Later that day, you are approached by a member of the household of Lord Elbistan.
+	</p>
+	<p>
+		'My lord is grateful,' he says. 'I am to teach you something about the ancient game of bokh.'
+	</p>
+	<p>
+		Bokh is a chess-like game of strategy, beloved of the masked lords of Uttaku.
+		<tick title="bokh" titlePattern="Circle {0} Master of bokh" titleValue="1" titalAdjust="1">
+			Note that you have gained one additional circle of bokh mastery
+		</tick>
+		(i.e. if you have no skill in bokh, note that you are now a 1st Circle Master of bokh).
+	</p>
+	<p>When you are ready, <goto section="444"/>.</p>
+</section>

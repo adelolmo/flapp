@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="478">
+	<p>
+		<if god="Nagil"><set var="cost" value="200"/></if>
+		<else><set var="cost" value="600"/></else>
+		Resurrection costs 200 Shards if you are an initiate, 600 Shards if not. It is the last word in insurance. Once you have arranged for resurrection you need not fear death, as you will be magically restored to life here at the temple.
+	</p>
+	<p>
+		To arrange resurrection, pay the fee and write
+		&#8216;<resurrection shards="cost" book="1" section="350" text="Temple of Nagil" god="Nagil"/>&#8217; in the Resurrection box on your Adventure Sheet. If you are later killed, turn to <b>350</b> in this book. You can have only one resurrection arranged at any one time. If you arrange resurrection later at a different temple, the original one is cancelled - cross it off your Adventure Sheet. You will not get a refund!
+	</p>
+	<p><goto section="71"/>.</p>
+</section>

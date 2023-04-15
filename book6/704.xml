@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="704">
+	<p>
+		One night, watching the moon pull free of a bamboo thicket, you hear flute music in the distance: it makes you think of the ancient Akatsurese poets.
+	</p>
+	<p><random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-9" section="732">A peaceful few days</outcome>
+		<outcome range="10-12" section="216">The urge to sing</outcome>
+	</outcomes>
+</section>

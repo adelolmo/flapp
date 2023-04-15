@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="311">
+	<p>
+		The woman looks up, displaying a featureless blank where her face ought to be.
+		<if codeword="Face">
+			If you have the codeword Face, <goto section="374"/>.
+		</if>
+		Otherwise read on.
+	</p>
+	<p>
+		Here in this desolate woodland spot, the sudden horror is more than you can take. You pass out, recovering much later to find that night has fallen. There is no sign of the faceless woman. She has left her sack, which is wriggling and squeaking as if filled with mice. You can&#8217;t bring yourself to look inside it. Instead you creep off into the undergrowth before the woman comes back. <goto section="529"/>.
+	</p>
+</section>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="672">
+	<p>
+		Vodhya is thriving under the benign rule of Duchess Nastasya, whom you freed from the evil clutches of Kaschuf. The villagers welcome you as their saviour. You can stay here and <rest>restore any lost Stamina points</rest>.
+	</p>
+	<p>
+		Duchess Nastasya will also see to it that you are
+		<lose disease="*">cured of any poison or disease</lose> you may be suffering from, such as the Blight of Nagil.
+	</p>
+	<p>
+		You can also get a blessing from the local priestess at no cost. <tick blessing="scouting">Mark SCOUTING</tick> in the Blessings box on your Adventure Sheet. The blessing works by allowing you to try again when you fail a SCOUTING roll. It is good for only one reroll. When you use the blessing, cross it off your Adventure Sheet. You can have only one SCOUTING blessing at any one time.
+	</p>
+	<p>When you are ready to leave, <goto section="398"/>.</p>
+</section>

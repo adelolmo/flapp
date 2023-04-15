@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="572">
+	No merchants are allowed into the inner stockade, where the
+	mansions of the Wistaria Clan stand proudly on the hillside.
+	Over all looms the massive curved roof of the palace of Lord
+	Hidehira, the patriarch of the clan.
+	<choices>
+		<choice section="533">Find a swordsmith</choice>
+		<choice section="548">Find an armourer</choice>
+		<choice section="565">Visit the patriarch</choice>
+		<choice section="587">Pray at a shrine</choice>
+		<choice section="8">Leave the inner keep</choice>
+	</choices>
+</section>

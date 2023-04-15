@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="715">
+	<p>
+		<!-- paid at 2.691 -->
+		Remember to cross off the 7 Shards. The pardoner gives you a special blessing. This allows you to reroll any failed SANCITY roll once. After making a second attempt at the roll, whether successful or not, the blessing is used up.
+	</p>
+	<p>
+		Write
+		<tick blessing="sanctity">SANCTITY reroll</tick> (one use) under the blessings on your Adventure Sheet. Then <goto section="11"/>.
+	</p>
+</section>

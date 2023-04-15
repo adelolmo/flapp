@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="650">
+	<p>
+		You explain that you have an urgent message for Lochos Veshtu, the head of the brotherhood here in Yarimura from The Master of Shadows, the head of the brotherhood in Aku.
+	</p>
+	<p>
+		You are shown in to see Lochos, who stares at you enigmatically from behind the shiny black mask he wears. You recite the message you memorized though you don&#8217;t know its meaning. Lochos understands though and he seems agitated. He thanks you, however, and rewards you with <gain shards="500"/>.
+	</p>
+	<p><lose codeword="East"/>.</p>
+	<p>You leave the brotherhood. <goto section="633"/>.</p>
+</section>

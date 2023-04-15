@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="506">
+	You set several cage traps, in the branches of trees, and on the forest floor, baited with worms and other insects but to no avail. After several days you have caught only a few sparrows.
+	<choices>
+		<choice section="151">Tempt one down with a song</choice>
+		<choice section="246">Climb a tree and try to grab one</choice>
+		<choice section="518">Leave the forest</choice>
+	</choices>
+</section>

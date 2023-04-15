@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="24">
+	Your next opponent is ushered into the arena. The referees announce him as Vulcis Embers from Metriciens, in Golnir. He is dressed in rich red and gold robes. The drum rattles once more, and the contest begins. Decide which spell to cast.
+	<choices>
+		<choice section="203">Wall of fire</choice>
+		<choice section="179">Wall of water</choice>
+		<choice section="151">Wall of thorns</choice>
+	</choices>
+</section>

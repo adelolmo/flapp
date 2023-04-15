@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="720" image="720.jpg">
+	<p>
+		The ghost leaps high into the air with a boom like lightning rebounding off a tree. Jiro steps forward to interpose himself in front of the Lord Chancellor, but the ghost dispatches him with a hellfire bolt.
+	</p>
+	<p>
+		You watch in horror as the smoking carcass falls to the ground at Kiyomori&#8217;s feet.
+	</p>
+	<p>&#8216;Time to die, chancellor,&#8217; cackles Akugenda&#8217;s voice.</p>
+	<p>Kiyomori stares at the ghost. &#8216;Do your worst.&#8217;</p>
+	<p>What will you do?</p>
+	<choices>
+		<choice section="362">Run for it</choice>
+		<choice section="40">Leap in front of Kiyomori</choice>
+		<choice section="61">Drive the ghost off with prayer</choice>
+	</choices>
+</section>

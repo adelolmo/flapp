@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="423">
+	You find yourself at the top of cliffs that seem to form the shore of a great sea of darkness. Far, far off in the black void you mark a few faint whirlpools of light, each seemingly made up of a thousand stellar pinpricks.
+	<choices>
+		<choice section="651">Climb down the cliffs</choice>
+		<choice section="362">Return south through the mountains</choice>
+	</choices>
+</section>

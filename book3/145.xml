@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="145">
+	<p>
+		Should you try to slow your crew&#8217;s breathing so that they can survive longer, or go for broke and try cancelling out the waterspout altogether? You must rely on your experience in such matters to guide you.
+	</p>
+	<p><difficulty ability="magic" level="14">Make a MAGIC roll at a Difficulty of 14</difficulty>.</p>
+	<outcomes>
+		<success section="163"/>
+		<failure section="181"/>
+	</outcomes>
+</section>

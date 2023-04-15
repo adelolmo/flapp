@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="540">
+	<p>
+		You come round on <lose staminato="1">1 Stamina point</lose>. The pirates strip you of everything you own and then jeeringly toss you into the sea. <lose ship="t" item="*" shards="*">Cross off your ship and crew as well as your possession and money</lose> - you'll never see them again, and it will be a miracle if you survive to see dry land.
+	</p>
+	<p><difficulty ability="scouting" level="15"/>.</p>
+	<outcomes>
+		<success section="716"/>
+		<failure section="7"/>
+	</outcomes>
+</section>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="83">
+	<p>The manbeast closes in. You must fight it.</p>
+	<fight name="Manbeast" combat="8" defence="5" stamina="10"/>
+	<p>
+		If you lose, <goto section="7" dead="t"/>.
+		If you win, <goto section="124"/>.
+	</p>
+</section>

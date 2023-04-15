@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="40">
+	The ghost raises its hands and you are outlined by a discharge of
+	eldritch energy.
+	<difficulty ability="magic" level="15">
+		Make a MAGIC roll of Difficulty 15
+	</difficulty>
+	to bear the brunt of its blast.
+	<outcomes>
+		<success section="158"/>
+		<failure section="140"/>
+	</outcomes>
+</section>

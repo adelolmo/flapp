@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="27">
+	<p>
+		The causeway ends in a massive iron door set into the cliff face. It is studded with huge irregular moonstones that look like chunks of frozen milk. You could not possible open this door on your own.
+	</p>
+	<p>
+		<if codeword="Cosy">
+			If you have the codeword Cosy, <goto section="84"/>.
+		</if>
+		If not, you must go back, <goto section="5"/>.
+	</p>
+</section>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="540">
+	<p>
+		Sure enough, when the scholar leaves, purse bulging with Shards, the two ruffians also leave. You follow at a slight distance. As you suspected, the ruffians wait for a suitable moment and then set about the scholar.
+	</p>
+	<p>&#8216;Help, help! Thieves!&#8217; cries the scholar in a thin, reedy voice.</p>
+	<choices>
+		<choice section="100">Return to the city centre</choice>
+		<choice section="433">Chase the muggers off</choice>
+	</choices>
+</section>

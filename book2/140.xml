@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="140">
+	You are on the coastal road that snakes along the windswept
+	clifftops between Ringhorn port and the market town of
+	Metriciens. <random type="travel"/>:
+	<outcomes>
+		<outcome range="2-5" section="702">Attacked by highwaymen</outcome>
+		<outcome range="6" section="353">Uneventful journey</outcome>
+		<outcome range="7-12" section="409">You meet a militia patrol</outcome>
+	</outcomes>
+</section>

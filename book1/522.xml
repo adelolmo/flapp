@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="522">
+	<p>
+		That night several sea centaurs emerge from the waters, their spiny skins glittering with phosphorescent flashes of light.
+	</p>
+	<p>
+		One of them speaks in a burbling voice. &#8216;Where is our brother, whom you caught in your cruel nets, this day?&#8217;
+	</p>
+	<p>
+		&#8216;He is dead, I&#8217;m afraid&#8217;, you reply, readying yourself for a fight.
+	</p>
+	<p>
+		The sea centaurs remain silent for a few moments, then the leader says, &#8216;His destiny was always bleak. We would be grateful if you were to return his body to us.&#8217;
+	</p>
+	<p>
+		You cannot think of a reason not to, so you pass the body down to them.
+	</p>
+	<p>
+		&#8216;We thank you,&#8217; burbles the sea centaur. &#8216;If you wish, we will give you the power to breathe the waters, so that you may swim down to the wreck that lies below, and take its treasures, those things that the surface-dwellers hold dear.&#8217;
+	</p>
+	<choices>
+		<choice section="513">Accept the offer</choice>
+		<choice section="408">Refuse the offer</choice>
+	</choices>
+</section>

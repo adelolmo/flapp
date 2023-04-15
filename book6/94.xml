@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="94">
+	<p>
+		<if god="Nai"><set var="cost" value="25"/></if>
+		<else><set var="cost" value="50"/></else>
+		To get Nai&#8217;s blessing you must donate 50 Shards (25 Shards if you&#8217;re an initiate of Nai) and
+		<group>
+			<text>make a CHARISMA roll of Difficulty 16</text>
+			<lose shards="cost"/>
+			<difficulty ability="charisma" level="16"/>
+		</group>.
+		<success>
+			If successful, write
+			<tick blessing="wrath">Divine Wrath</tick>
+			in the Blessings box.
+		</success>
+		The blessing can be used once at the start of a fight to inflict 1-6 Stamina points of damage on your opponent. The blessing is then used up and you should cross it off. You can have only one Divine Wrath blessing at any one time.
+	</p>
+	<p>Now <goto section="323"/>.</p>
+</section>

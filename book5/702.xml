@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="702">
+	<p>
+		You leave the princess to her fate and hurry on with your task. She flies away in search of another saviour.
+	</p>
+	<p>
+		You need to keep a running total of the number of weeks you have spent on your book. <tick name="EpistleWeeks" count="2">Note that the total stands at 2</tick> for the moment.
+	</p>
+	<p>
+		One afternoon, you are working at your book when one of the scholars who often frequent the archives drops a scroll on the way out. It is a map that leads to the treasure hoard of an ice dragon in the Icicle Woods!
+	</p>
+	<choices>
+		<choice section="491">Quest for the treasure</choice>
+		<choice section="319">Return to your writing</choice>
+	</choices>
+</section>

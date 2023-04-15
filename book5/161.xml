@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="161">
+	<p>
+		You are unable to control the demon. It burns the wizard and all his equipment to a crisp, but leaves you unhurt before returning to the underworld. The Uttakin hold an inquiry, and, as they cannot admit that an artificer of the nobles of Uttaku could be at fault, they decide that you murdered him. You are hauled off to the Red Garden for execution.
+	</p>
+	<p><goto section="170"/>.</p>
+</section>

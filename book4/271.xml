@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="271">
+	<p>
+		The Peaks at the Edge of the World dominate the skyline like the battlements of a castle of the gods. You find wide marble stairs hacked into the side of a mountain, which spiral upwards to a volcano that coughs black smoke into the heavens.
+	</p>
+	<choices>
+		<choice section="14">Ascend the stairs</choice>
+		<choice section="472">Return to the pyramid</choice>
+	</choices>
+</section>

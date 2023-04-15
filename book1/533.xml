@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="533">
+	<p>
+		The man takes the money, bites a coin and spits. Satisfied he says, &#8216;The Witches&#8217; Cauldron - that&#8217;s where you&#8217;ll find him.&#8217;
+	</p>
+	<p>
+		Later, you find the Witches&#8217; Cauldron Tavern in a maze of backstreets. Looking through a window, you spot a man with a velvet eyepatch sitting at a table, eating a meal.
+	</p>
+	<choices>
+		<choice section="589">Walk in and challenge him</choice>
+		<choice section="211">Ambush him when he leaves</choice>
+	</choices>
+</section>

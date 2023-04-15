@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="427">
+	<p>
+		To renounce the worship of Nai, you must pay 40 Shards to the priesthood by way of compensation.
+	</p>
+	<p>
+		A samurai watches and sneers, &#8216;Now that you have lost the goodwill of Nai, you will be easy meat for your enemies.&#8217;
+	</p>
+	<p>
+		Do you want to change your mind?
+		<if god="Nai"><if shards="40">
+				If you are determined to renounce your faith, pay the 40 Shards and
+				<group>
+					<text>delete Nai from the God box</text>
+					<lose shards="40"/>
+					<lose god="Nai"/>
+				</group>
+				on your Adventure Sheet.
+		</if></if>
+	</p>
+	<p>When you have finished here, <goto section="58"/>.</p>
+</section>

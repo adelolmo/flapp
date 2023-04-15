@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="106">
+	<lose shards="25">Cross off the money</lose>. The young man smiles ingratiatingly, and hands you the pearls. <difficulty ability="magic" level="10">Make a MAGIC roll at a Difficulty of 10</difficulty>.
+	<outcomes>
+		<success section="306"/>
+		<failure section="489"/>
+	</outcomes>
+</section>

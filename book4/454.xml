@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="454">
+	<p>
+		The man, whose name is Szgano, leads you north to the pyramid of Xinoc.
+	</p>
+	<p>
+		At the top of the pyramid, the light from several burning torches casts a greenish glow over the scene. Five robed and hooded men stand around a woman who is stretched out on the flat top of the pyramid. The hooded figures chant ominously, and one wields a long, silver-tipped javelin. The woman is manacled with silver chains, and she wrestles and twists against her bonds, screaming and cursing in a most unladylike manner.
+	</p>
+	<p>
+		You and Szgano race up the steps carved into the side of the pyramid, and confront them.
+	</p>
+	<p>
+		&#8216;Hold!&#8217; you shout. &#8216;I will not let fiends butcher an innocent woman.&#8217;
+	</p>
+	<p>
+		The captive stops struggling and looks at you with hope-filled eyes that are as green as emeralds. Her hair is as white as snow, although she cannot be much more than sixteen years old. Her skin is pale like the moon. She is quite beautiful.
+	</p>
+	<p>
+		The man with the javelin throws back his hood, revealing the wind-ravaged face of an old nomad shaman.
+	</p>
+	<p>
+		&#8216;You stupid outlander!&#8217; he bellows. &#8216;Innocent? She is the Ruzbahn, the vampire witch! Many of the babes of our tribe have been taken by her to feed her monstrous appetite and to keep her young. Szgano there is nothing but her slave, a dupe, sworn to serve her.&#8217;
+	</p>
+	<p>
+		&#8216;Lies, lies!&#8217; shouts Szgano, &#8216;She is Ruzbahn all right. But that&#8217;s just her name, and she is my betrothed. These stinking necromancers want to sacrifice her to their dark god, because she has white hair and green eyes.&#8217;
+	</p>
+	<p>
+		&#8216;Not so,&#8217; counters the shaman. &#8216;This ritual is the only way to destroy the Ruzbahn - a silver spear, on ground consecrated to the old gods.&#8217;
+	</p>
+	<p>You stand unsure for a moment.</p>
+	<p>
+		&#8216;Bah! We have no time for this,&#8217; says the shaman, who turns his back on you.
+	</p>
+	<p>
+		He signals to his companions, who draw wicked daggers and advance on Szgano, eyeing you warily.
+	</p>
+	<p>&#8216;Save me, save me!&#8217; implores the woman huskily.</p>
+	<p>
+		&#8216;Silence, witch!&#8217; shouts the shaman, clasping a hand over her mouth.
+	</p>
+	<choices>
+		<choice section="371">Fight the shamans</choice>
+		<choice section="270">Help the shamans</choice>
+	</choices>
+</section>

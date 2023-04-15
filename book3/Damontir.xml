@@ -1,0 +1,16 @@
+<section name="Damontir the Mad" profession="Mage">
+	<p>
+		Haunted by memories of a former life in which he wielded great power, Damontir would willingly pledge his lifeblood to the demons of darkness if he stood to gain a snippet of magical lore. Power is his only goal, and so his primary objective is to enrol at one of the sorcerous academies in Dweomer.
+	</p>
+	<p>
+		You can play as Damontir, or as a mage with a different name (enter it in the 'Name' field). To begin your adventure, <goto section="1" force="f"/>.
+	</p>
+	<p>For another profession, choose from the following:</p>
+	<choices>
+		<choice section="Jaluda">Warrior</choice>
+		<choice section="Arcadia">Priest</choice>
+		<choice section="Silas">Troubadour</choice>
+		<choice section="Greymalkin">Rogue</choice>
+		<choice section="Varkung">Wayfarer</choice>
+	</choices>
+</section>

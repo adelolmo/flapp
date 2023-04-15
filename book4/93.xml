@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="93">
+	<p>You order the crew to sail into the fog.</p>
+	<p>
+		The first mate says, 'They'll not follow you there, cap'n. It'll be mutiny if you go on.'
+	</p>
+	<p>
+		The men stand around shuffling their feet nervously, looking at the fog with fearful glances.
+	</p>
+	<p>
+		If you decide against taking the ship into the fog, <goto section="296" force="f"/> and choose again.
+	</p>
+	<p>
+		<lose codeword="CharismaBonus" hidden="t"/>
+		If you want to try to persuade the crew to follow you to the isle,
+		<difficulty ability="charisma" level="13" force="f">
+			<adjust value="-1"/>
+			<adjust ability="rank"/>
+			<adjust crew="good" value="1"/>
+			<adjust crew="excellent" value="1"/>
+			<adjust name="CharismaBonus"/>
+		</difficulty>.
+		For every Rank you are above one, you can add one to the die roll (i.e. if you are 5th Rank, add four to the roll; if you are 3rd Rank, add two to the roll), and for every <lose shards="50" price="x">50 Shards</lose> you cross off and give to the crew, you can <tick name="CharismaBonus" count="1" flag="x">add one</tick>. You can also add one if the crew is of good or excellent quality.
+	</p>
+	<field name="CharismaBonus" label="Bribery bonus"/>
+	<p>
+		<success>If you succeed, <goto section="138"/>.</success>
+		<failure>
+			If you fail, they refuse and you'll have to
+			<goto section="296"/> and choose again.
+		</failure>
+	</p>
+</section>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="182">
+	<p>
+		Amid the treasure in the chamber you find a magical book that re-opens the enchanted portal.
+	</p>
+	<p>
+		You manage to get back to the garden with <gain shards="500"/>, a <tool name="sextant" ability="scouting" bonus="3"/>, <armour name="splint armour" bonus="4"/> and a pair of <tool name="gloves of Sig" ability="thievery" bonus="3"/>.
+	</p>
+	<p><goto section="84"/>.</p>
+</section>

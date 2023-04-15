@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="393">
+	The countryside is dotted with farmsteads and the occasional hamlet.
+	<choices>
+		<choice section="539">East</choice>
+		<choice section="421">West into the Mixen Sumps</choice>
+		<choice section="181">North towards Thurlings</choice>
+		<choice section="213">North-west to the Hall of Heroes</choice>
+	</choices>
+</section>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="361">
+	<p>
+		<lose codeword="GoddessMirror" hidden="t"/>
+		The high priestess greets you. You explain how you found the mirror of the Sun Goddess at great risk to yourself, but that you lost it after a terrible calamity befell you. But she doesn&#8217;t seem bothered.
+	</p>
+	<p>
+		&#8216;Indeed, though you say you lost it, Nisoderu chose to guide it back to us. A woman from the south, called Lauria, returned it to us. I&#8217;m afraid she has already collected the reward. And we have nothing left to give - after all, we have only your word that you ever saw it, let alone recovered it.&#8217;
+	</p>
+	<p>You leave, somewhat disgruntled. <goto section="58"/>.</p>
+</section>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="491" boxes="1">
+	<p>
+		Night is falling and it becomes ever more cold as the last of the sun&#8217;s warmth leaves the Great Steppes. You stumble across an ancient ruined tower. There is little left of the roof but you manage to huddle in a corner which shelters you from the cold wind.
+	</p>
+	<p>
+		<if ticks="1">
+			If there is a tick in the box, <goto section="321"/> immediately.
+		</if>
+		If not, <tick/>, and read on.
+	</p>
+	<p>
+		You sleep uninterrupted for a few hours but you are woken by a rustling sound. At first you see nothing but then you manage to make out two small red lights a few feet away from you, then another two, then four more.
+	</p>
+	<p>
+		You realise they are not lights but fiery red eyes just as a fireball is thrown to the floor by one of the creatures. The fireball lights up the whole ruin - you can see you are surrounded by redcaps, a particularly unpleasant type of goblin.
+	</p>
+	<p><difficulty ability="magic" level="12"/>.</p>
+	<outcomes>
+		<success section="283"/>
+		<failure section="167"/>
+	</outcomes>
+</section>

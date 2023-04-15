@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="165">
+	<p>
+		To renounce the worship of Nisoderu, you must pay 40 Shards to the temple by way of compensation.
+	</p>
+	<p>
+		A passing nun says disdainfully, 'If you are not pure enough to remain an initiate, then the sun will burn you, mark my words.'
+	</p>
+	<p>
+		Do you want to change your mind?
+		<if god="Nisoderu"><if shards="40">
+				If you are determined to renounce your faith,
+				<group>
+					<text>pay the 40 Shards and delete Nisoderu from the God box</text>
+					<lose shards="40"/>
+					<lose god="Nisoderu"/>
+				</group>
+				on your Adventure Sheet.
+				<i>[If you had a resurrection arranged with Nisoderu, you will lose that as well --Ed]</i>
+		</if></if>
+	</p>
+	<p>When you have finished here, <goto section="89"/>.</p>
+</section>

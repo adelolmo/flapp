@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="239">
+	The climb is long and hard, but at last you heave yourself up on to the top of Devil&#8217;s Peak - a flat expanse of weathered black rock.
+	<if codeword="Altitude">
+		If you have the codeword Altitude, <goto section="126"/>.
+	</if>
+	Otherwise, <goto section="199"/>.
+</section>

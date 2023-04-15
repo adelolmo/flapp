@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="715">
+	<p>
+		The gypsies offer you cash for any of the following items, if you have them and are willing to trade.
+	</p>
+	<market buy="f" sell="t">
+		<header header1="Items" header2="To sell"/>
+		<item name="rope" sell="20"/>
+		<item name="lantern" tags="light" sell="60"/>
+		<item name="candle" tags="light,useonce" sell="5"/>
+		<item name="water flask" sell="20"/>
+		<item name="coral-red tresses" sell="500"/>
+		<item name="golden katana" sell="3000"/>
+		<item name="smoulder fish" sell="90"/>
+		<tool name="cross-staff" ability="scouting" bonus="2" sell="500"/>
+		<item name="violin" sell="50"/>
+		<item name="parrot" sell="90"/>
+		<item name="fishing hook" sell="2"/>
+		<item name="boar's tusk" sell="75"/>
+		<item name="green gem" sell="100"/>
+	</market>
+	<p>
+		When you have finished your selling,
+		<if shards="100">
+			if you have enough money to pay the gypsies the 100 Shards they want for cutting out of the seaweed,
+			<group>
+				<text>turn to <b>50</b></text>
+				<lose shards="100"/>
+				<goto section="50"/>
+			</group>.
+		</if>
+		If not, <goto section="570"/>.
+	</p>
+</section>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="605">
+	<p>
+		You can bank money with the merchants&#8217; guild simply by writing the sum you wish to deposit in the box here. (Remember to cross it off your Adventure Sheet.) If you have banked any money with the guild in another book in the <i>Fabled Lands</i> series, add it now to this box and erase it from the other book.
+	</p>
+	<moneycache name="MerchantBank" text="Money banked" withdrawCharge="0.1"/>
+	<p>
+		To withdraw money from your account, simply transfer it from the box to your Adventure Sheet. The guild charges 10% on any withdrawals. (So if you withdrew 50 Shards, for example, the guild would deduct 5 Shards as its cut. Round fractions in the guild&#8217;s favour.)
+		<tick codeword="StillInYellowport" hidden="t"/>
+	</p>
+	<p>When you are ready to leave:</p>
+	<choices>
+		<choice box="1.605.1" section="10">In Yellowport</choice>
+		<choice box="1.605.2" section="100">In Marlock City</choice>
+		<choice box="1.605.3" section="400">In Caran Baru</choice>
+		<!-- no ransoms in book 1!
+		<choice section="501">If paying a ransom</choice>
+		-->
+	</choices>
+</section>

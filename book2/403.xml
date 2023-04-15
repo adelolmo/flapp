@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="403">
+	<p>
+		As a hunter yourself, you doubt the cats have reformed quite that readily. Catching a mouse, you fling it in among them and the congregation dissolves into the usual feline squabbling and cruelty.
+	</p>
+	<p>
+		With an angry oath, the stranger vanishes in a puff of brimstone smoke, leaving behind a diamond worth <tick shards="300"/>. Note this as cash on your Adventure Sheet, then <goto section="153"/>.
+	</p>
+</section>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="432">
+	You crouch down behind a bank of ferns to see what will
+	transpire.
+	<difficulty ability="thievery" level="12">
+		Make a THIEVERY roll at a Difficulty of 12
+	</difficulty>.
+	<outcomes>
+		<success section="507"/>
+		<failure section="532"/>
+	</outcomes>
+</section>

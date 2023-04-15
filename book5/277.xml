@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="277">
+	<p><tick codeword="Efreet"/>.</p>
+	<p>
+		Grindel dies gurgling his defiance to the last. Misgee is astonished at your success, and eyes you with awe and fear. You head back to the Hall of Heroes with Grindel's severed head. You are welcomed as a hero, and celebrations go on for days. Strangely, Bylewyn Buskle seems upset at the news; none the less the reward is forthcoming. Add <gain shards="300"/> to your Adventure Sheet.
+	</p>
+	<p>
+		You can <rest>stay at the inn</rest> free of charge until all your wounds are healed. When you are ready, you set off on your adventures once more. <goto section="11"/>.
+	</p>
+</section>

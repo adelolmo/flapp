@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="580">
+	You are sailing close to Yarimura.
+	<choices>
+		<choice section="310">Sail south towards Disaster Bay</choice>
+		<choice section="141">Enter the harbour of Yarimura</choice>
+		<choice section="415">East into the Unbounded Ocean</choice>
+		<choice section="333">Head north into uncharted waters</choice>
+	</choices>
+</section>

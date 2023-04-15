@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="518">
+	You are on the road between the Citadel of Velis Corin and Fort Mereth. This is quite rarely travelled - the military guardposts are few and far between. <random type="travel" dice="1"/>.
+	<outcomes>
+		<outcome range="1,2">
+			<lose shards="10">Lose 10 Shards</lose> gambling (if you have it)
+		</outcome>
+		<outcome range="3,4">Nothing happens</outcome>
+		<outcome range="5,6">
+			A sweet spring <rest stamina="3">heals you of up to 3 Stamina points</rest>
+		</outcome>
+	</outcomes>
+	When you are ready, you can:
+	<choices>
+		<choice section="495">Go to Disaster Bay</choice>
+		<choice section="271">Head for the Citadel of Velis Corin</choice>
+		<choice section="299">Travel to Fort Mereth</choice>
+		<choice section="60">Go south west into wild country</choice>
+	</choices>
+</section>

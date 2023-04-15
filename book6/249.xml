@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="249">
+	<p>
+		&#8216;There is not much these days to be seen in the countryside hereabouts,&#8217; says a voice.
+	</p>
+	<p>
+		You look round. Beyond a fretwork screen hovers an indistinct shadow.
+	</p>
+	<p>&#8216;How did you know I was thinking of travelling on?&#8217;</p>
+	<p>
+		The shadow gives a thin old laugh. &#8216;Your eyes. They have a gleam of wanderlust.&#8217;
+	</p>
+	<choices>
+		<choice section="457">Set out into the countryside</choice>
+		<choice section="302">Go to the harbour</choice>
+	</choices>
+</section>

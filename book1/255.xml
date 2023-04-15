@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="255">
+	<p>
+		The provost marshal takes you to an empty side chamber, away from prying ears. Over a glass of fine wine you tell him of your adventures in the Coldbleak Mountains. When you give him the Royal Ring of the House of Corin, he knows that Nergan is dead. <lose item="royal ring">Cross the <b>royal ring</b> off</lose> your Adventure Sheet.
+	</p>
+	<p>
+		Marloes Marlock is pleased indeed. He pays you <gain shards="500"/> and awards you the title <gain title="Protector of Sokara"/>. Note it in your Titles and Honours box. The title will give you instant respect and command obedience in Sokara.
+	</p>
+	<p>
+		Also, after completing such a difficult test, you find the experience has taught you much - <gain ability="rank" amount="1">gain 1 Rank</gain> and <random dice="1" var="x"/>. The result is the number of Stamina points you gain permanently. <gain ability="stamina" amount="x">Note the increase</gain> on your Adventure Sheet. Also, don&#8217;t forget to increase your Defence by 1 as a result of your gain in Rank.
+	</p>
+	<p>
+		<tick codeword="StillInYellowport" hidden="t"/>
+		<goto section="10">Return to 10</goto> and choose again.
+	</p>
+</section>

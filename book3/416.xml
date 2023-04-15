@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="416">
+	<p>
+		The pirates take your cargo, all your possessions and your cash. They also seize your ship for themselves.
+		<lose shards="*" item="*" ship="t">Cross all these off</lose>
+		your Adventure Sheet and Ship&#8217;s Manifest. They are convinced it is worth leaving you alive, at least.
+	</p>
+	<p>
+		&#8216;Yes, that way we can prey on you again in the future,&#8217; says their leader with a feral grin. &#8216;Every good fisherman knows to throw some of his catch back!&#8217;
+	</p>
+	<p>
+		You are put off in Dweomer. As the pirates sail off, you vow revenge. <goto section="100"/>.
+	</p>
+</section>

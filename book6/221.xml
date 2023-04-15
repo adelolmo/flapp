@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="221">
+	You are on the road running west from the capital towards Oni
+	Province, a place of sinister renown. Pine trees throw stripes of
+	shade across a dusty road washed with sunlight, so that it seems a
+	giant tiger lies lazily across the landscape.
+	<choices>
+		<choice section="500">Follow the road west</choice>
+		<choice section="79">Travel to the capital</choice>
+		<choice section="337">Strike out due north</choice>
+	</choices>
+</section>

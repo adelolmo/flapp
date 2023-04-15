@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="19" tag="temple">
+	<p>
+		The Three Fortunes are the goddesses of fate, who weave the tapestry of all men&#8217;s lives. A placard outside the temple declares: &#8216;Join the temple and see your luck change overnight!&#8217; Inside, a vast wall painting shows a three-faced deity with six limbs hurling down nuggets of gold from a palace among the clouds.
+	</p>
+	<p>
+		Do you have the title Beloved of the Three Fortunes?
+		<if title="Beloved of the Three Fortunes">
+			If so, <goto section="180"/>.
+		</if>
+		If not, <goto section="203"/>.
+	</p>
+</section>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="226">
+	You take a stroll through the streets - Marlock City has a busy night life.
+	<choices>
+		<choice section="15">Explore the barracks area</choice>
+		<choice section="129">Go to the Street of Entertainers</choice>
+		<choice section="619">Search the residential quarter</choice>
+	</choices>
+</section>

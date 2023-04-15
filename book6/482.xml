@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="482" dock="Narai">
+	<p>
+		In order to trade you must have the codeword <i>Frame</i>.
+		<if codeword="Frame" not="t">
+			If you don&#8217;t, the local merchants refuse to have anything to do with you and you should <goto section="155"/>.
+		</if>
+		<else>If you have <i>Frame</i>, read on.</else>
+	</p>
+	<p>
+		You must have a ship docked in Narai harbour to transport goods. The prices given here are for single Cargo Units, which are much more than one person could hope to carry. Any cargo you buy will be delivered to your ship in the harbour, so note it on the Ship&#8217;s Manifest.
+	</p>
+	<market>
+		<header type="cargo"/>
+		<trade cargo="furs" buy="220" sell="150"/>
+		<trade cargo="grain" buy="100" sell="75"/>
+		<trade cargo="metals" buy="700" sell="550"/>
+		<trade cargo="minerals" buy="550" sell="500"/>
+		<trade cargo="spices" buy="700" sell="600"/>
+		<trade cargo="textiles" buy="180" sell="150"/>
+		<trade cargo="timber" buy="180" sell="140"/>
+	</market>
+	<p>
+		When you have completed your business arrangements,
+		<goto section="155"/>.
+	</p>
+</section>

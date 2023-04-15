@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="581">
+	<p>
+		He mutters a spell and another jet of flame takes the balloon aloft. You watch the ground drop away until the fields and treetops look like tiny details in a painted mural.
+		<if codeword="Cheese">
+			<if codeword="Fortress" not="t">
+				If you have the codeword <i>Cheese</i> but not the codeword Fortress, <goto section="19">turn now to 19</goto>.
+		</if></if>
+		Otherwise read on.
+	</p>
+	<p>
+		The wizard tells you his invention uses hot air to stay airborne. &#8216;Let&#8217;s face it, that&#8217;s a commodity that will never be in short supply,&#8217; he says with a laugh.
+	</p>
+	<p><random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2" section="622"/>
+		<outcome range="3-12" section="428"/>
+	</outcomes>
+</section>

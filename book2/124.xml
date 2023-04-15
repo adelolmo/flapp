@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="124">
+	The wind rips between high craggy tors, producing the eerie
+	keening sound that gives the heath its name.
+	<choices>
+		<choice section="714">Go east</choice>
+		<choice section="642">Go west</choice>
+		<choice section="666">Go north</choice>
+		<choice section="690">Go south</choice>
+	</choices>
+</section>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="493">
+	<p>
+		Gills grow out of your neck as soon as you have read the runes aloud! You make your way down a track to the beach, and swim out to sea. The gills work perfectly, and you find yourself swimming in the eerie silence of a submarine world.
+	</p>
+	<p>
+		Suddenly, a hideous form looms out of the murk. It is rather like a giant squid, but it carries a spear in one of its many tentacles and wears rudimentary armour. Great black eyes shine with an implacable alien intelligence.
+	</p>
+	<p>
+		<if codeword="Anchor">
+			If you have the codeword Anchor, <goto section="116"/>.
+		</if>
+		Otherwise, <goto section="238"/>.
+	</p>
+</section>

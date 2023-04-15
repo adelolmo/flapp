@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="238">
+	<p>
+		The vile-looking creature shoots towards you with a terrifying predatory speed. You have no choice but to fight it.
+		<tick special="attack" bonus="-2" hidden="t"/>
+	</p>
+	<fight name="Repulsive One" combat="5" defence="10" stamina="10"/>
+	<p>
+		You must subtract 2 from your dice rolls for this fight, as you are unused to underwater combat. If you win <goto section="53"/>. If you lose, your adventuring days are over, unless you have a <resurrection>resurrection deal</resurrection>.
+	</p>
+</section>

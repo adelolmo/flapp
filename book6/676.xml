@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="676" dock="Mukogawa">
+	<p>
+		Senior members of the Moonrise Clan supervise all trade at the warehouses to make sure that they have ample supplies for the coming war.
+	</p>
+	<p>
+		The prices quoted here are for entire Cargo Units - much more than a single person can carry. You will need a ship to transport goods in these quantities.
+	</p>
+	<market>
+		<header type="cargo"/>
+		<trade cargo="furs" buy="200" sell="150"/>
+		<trade cargo="grain" buy="300" sell="250"/>
+		<trade cargo="metals" buy="950" sell="800"/>
+		<trade cargo="minerals" buy="600" sell="550"/>
+		<trade cargo="spices" buy="700" sell="650"/>
+		<trade cargo="textiles" buy="250" sell="180"/>
+		<trade cargo="timber" buy="300" sell="250"/>
+	</market>
+	<p>When your business is complete, <goto section="281"/>.</p>
+</section>

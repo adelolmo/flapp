@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="378">
+	<p>
+		You make your way past fields where peasants stand knee-deep amid the flooded rice shoots. By day you listen to their songs, by night you sleep under a roof of leaves and stars.
+	</p>
+	<p><random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-7" section="397">An uneventful journey</outcome>
+		<outcome range="8-12" section="455">A penniless actor</outcome>
+	</outcomes>
+</section>

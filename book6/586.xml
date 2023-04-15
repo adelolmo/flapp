@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="586" dock="Hagashin">
+	<p>
+		In every port there are always unemployed sailors in search of work. You can upgrade a poor crew to average for
+		<buy crew="average" shards="25"/>,
+		an average crew to good for
+		<buy crew="good" shards="50"/>,
+		and a good crew to excellent for
+		<buy crew="excellent" shards="90"/>.
+	</p>
+	<p>
+		Once you&#8217;ve recorded any changes on the Ship&#8217;s Manifest, <goto section="302"/>.
+	</p>
+</section>

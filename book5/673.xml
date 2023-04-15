@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="673">
+	<p>
+		This time, you find several members of the Soulwatch milling about the entrance to the pavilion. They appear angry and frustrated. A sign has been posted at the entrance of the pavilion. It reads: 'The Purveyor of Prophecies has left town. I have foreseen that the Soulwatch intends to arrest me for heresy. Farewell, Uttaku!'
+	</p>
+	<p><goto section="101"/>.</p>
+</section>

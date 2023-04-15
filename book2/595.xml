@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="595">
+	<p>
+		<lose codeword="2.595.f" hidden="t"/>
+		You are attacked without warning by an ogre who runs out from his hiding place behind one of the tors.
+	</p>
+	<fight name="Ogre" combat="5" defence="8" stamina="10"/>
+	<p>
+		<flee>
+			If you run away, the ogre will get a final swipe at your retreating back, inflicting
+			<lose stamina="1d">1-6 Stamina points</lose> of injury.
+			<tick codeword="2.595.f" hidden="t"/>
+		</flee>
+	</p>
+	<choices>
+		<choice box="2.595.f" section="124">Run away</choice>
+		<choice section="496">Kill the ogre</choice>
+	</choices>
+</section>

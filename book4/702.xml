@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="702">
+	You come across the body of a nomad. He has been dead for quite a while, judging by the smell.
+	<choices>
+		<choice section="648">Examine the corpse</choice>
+		<choice section="698">Leave it alone</choice>
+	</choices>
+</section>

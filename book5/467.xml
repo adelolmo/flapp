@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="467" boxes="1">
+	<p>
+		<if ticks="1">If there is a tick in the box, <goto section="576"/> immediately.</if> If not, <tick>put a tick there now</tick>, and read on.
+	</p>
+	<p>
+		The Blender of Spices is looking for someone to fetch him the seeds of an abzu plant. Its leaves are used as an ingredient in an ancient recipe used to promote youtfulness and well-being. It is said to have been the favourite dish of the legendary founder of the Uttakin dynasty, Ammunas the Baptizer. The Blender of Spices would dearly love to be able to serve this dish at the up-and-coming state banquet called the Celebration of the Subjugation of All.
+	</p>
+	<p>'And where is this herb, Great Blender?' you ask.</p>
+	<p>
+		'Ah, now there's the rub,' he replies. 'It has been extinct for a thousand years. Holyamu the Unbidden is said to own the Incredible Aoristic Pool which enables a swimmer to travel through time - maybe he'll let you use it, for a price, though he can be quite arbitrary and whimsical. You could go back into the past, and find an abzu plant, or a seed.'
+	</p>
+	<p>
+		<tick codeword="Ethereal">Record the codeword Ethereal</tick>
+		and
+		<goto section="401"/>.
+	</p>
+</section>

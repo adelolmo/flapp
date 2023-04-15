@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="494">
+	The road runs from Chompo to Mukogawa, both the centres of
+	power of great aristocratic clans.
+	<choices>
+		<choice section="495">Take the road south</choice>
+		<choice section="73">Take the road north</choice>
+		<choice section="515">Travel west</choice>
+	</choices>
+</section>

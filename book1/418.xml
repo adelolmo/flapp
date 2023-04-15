@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="418">
+	You have heard that the man with the velvet eyepatch should be in Caran Baru. If you want to search for him now, <goto section="117" force="f"/>. If not, <goto section="400"/> and choose from the options there.
+</section>

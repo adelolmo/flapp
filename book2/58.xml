@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="58">
+	You are on the road between Goldfall and the crossroads where
+	Tekshin, the wingless Mannekyn, has his tavern.
+	<choices>
+		<choice section="81">Head towards Goldfall</choice>
+		<choice section="333">Head towards Tekshin&#8217;s Tavern</choice>
+		<choice section="123">Leave the road</choice>
+	</choices>
+</section>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="638">
+	<p>
+		You know from ancient texts of arcane lore that the repulsive ones cannot stand bright light. Using all your magical power, you cause the glowing moss to emit a dazzling flash of yellow light. Blinded for a few seconds, the repulsive ones mill about helplessly, and you dart in and seize the <item name="golden net"/> (note it on your Adventure Sheet).
+	</p>
+	<p>
+		You swim for the Shadar Tor as fast as you can. From here, you can:
+	</p>
+	<choices>
+		<choice section="602">Take the road to Trefoille</choice>
+		<choice section="166">Take the road to Marlock City</choice>
+	</choices>
+</section>

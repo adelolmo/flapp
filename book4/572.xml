@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="572">
+	<p>
+		<lose codeword="Draw">Erase the codeword Draw</lose>
+		and
+		<tick codeword="Dove">gain the codeword Dove</tick>.
+	</p>
+	<p>
+		You recognize the stela as the Shadar Runestone whose runes Runciman, the chief mage on the Isle of Mystery, asked you to copy. You perform your task, and leave. <goto section="224"/>.
+	</p>
+</section>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="293">
+	You are too slow to realize that the figure in front is not the real threat. An arm snakes around your neck from behind and you feel the sharp prick of a dagger in your shoulder. <lose stamina="1">Lose 1 Stamina point</lose>, then, if you still live, <goto section="184"/>.
+</section>

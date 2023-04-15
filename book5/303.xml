@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="303">
+	You enter the parlour of the Hall of Heroes tavern. Which of these codewords do you have?
+	<outcomes>
+		<outcome codeword="Efreet" section="627"/>
+		<outcome codeword="Epicure" section="560"/>
+		<outcome codeword="Elephant" section="450"/>
+		<outcome codeword="Echo" section="110"/>
+		<outcome section="598">None of the above</outcome>
+	</outcomes>
+</section>

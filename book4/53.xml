@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="53">
+	<p>
+		<if title="Arena Champion">
+			If you have the title Arena Champion,
+			<goto section="71"/>.
+		</if>
+		If not, read on.
+	</p>
+	<p>
+		Starstone Arena is so called because it is built upon a flat bed of rock - a meteorite that fell to earth many centuries ago. The rock has strange properties. It enables those trained in the magical arts to cast powerful spells based on the elements of fire, water and wood. Magicians battle it out in the arena on a regular basis, each struggling for the coveted title of Arena Champion, and the rewards that go with it. To earn the title, you must win two bouts. Only Mages can enter the contest.
+	</p>
+	<choices>
+		<choice profession="mage" section="117">Fight in the arena</choice>
+		<choice section="127">Watch a contest</choice>
+		<choice section="111">Visit the market</choice>
+		<choice section="637">Go to the temple of Molhern</choice>
+		<choice section="455">Go to the White Warlock Tavern</choice>
+		<choice section="403">Visit the chief mage</choice>
+		<choice section="90">Leave the City of Mystery</choice>
+	</choices>
+</section>

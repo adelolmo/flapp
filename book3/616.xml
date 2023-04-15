@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="616">
+	<p>
+		The ship is swept far out to sea. Men and goods are washed overboard by huge waves that snap your hawsers like twine.
+		<lose cargo="?">Lose 1 Cargo Unit</lose> (if you have any cargo) and
+		<lose crew="1">reduce your crew quality by one step</lose> - i.e. an excellent crew becomes good, a good crew becomes average, and an average crew becomes poor.
+	</p>
+	<p>
+		At last the storm blows itself out. You are left drifting in unknown waters. <goto section="50"/>.
+	</p>
+</section>

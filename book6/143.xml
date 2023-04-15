@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="143">
+	<p>
+		You take a lighted taper to the altar and silently
+		<lose god="Nai">announce your decision</lose>
+		to the god. As you depart, a slight tremor makes the ground shake under your feet. No one else seems to have noticed. Could it just be a message to you from Nai himself? And if so, what does it portend?
+	</p>
+	<p><goto section="323"/>.</p>
+</section>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="714" boxes="1">
+	<p>
+		<if ticks="1">
+			If there is a tick in the box, <goto section="260"/> immediately.
+		</if>
+		If not, read on.
+	</p>
+	<p>
+		Your boots become caked in red dust as you clamber through the mountains of the central Grumes. The path opens out over a narrow, steep valley, at the north end of which is a curious-looking cave. If you want to investigate the cave, put a tick in the above box,
+		<group>
+			and turn to <b>86</b>
+			<tick/>
+			<goto section="86"/>
+		</group>.
+	</p>
+	<p>To continue with your journey <goto section="260"/>.</p>
+</section>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="347">
+	<p>
+		You stoop and start shifting the rocks. In this cramped space it is hard work, made no easier by the stale air. You are soon sweating inside your jerkin in spite of the cold.
+	</p>
+	<p>
+		At last you clear a hole that is big enough to squeeze through. You are astounded at what lies before you. It is a burial chamber heaped with trinkets of silver and blue jade.
+	</p>
+	<p>
+		Before you can start to fill your pockets, there comes a heavy slithering sound from the main tunnel. A giant serpentine shape heaves its bulk across the hole, blocking off your escape route. You pound and jab at its leathery flank to no avail - it seems impervious to injury.
+	</p>
+	<p>
+		At last, exhausted, you slump to the floor of the chamber. There is no escape. Surrounded by treasure, you can only wait for a lingering death by asphyxiation or dehydration. <goto section="7"/>.
+	</p>
+</section>

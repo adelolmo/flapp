@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="486">
+	<p>
+		Everything indicated the cave is empty so you approach carefully, on the look out for attack from behind. Suddenly, something rushes out of the cave, taking you by surprise! It is a gorlock, a beast with legs like a bird, a body like a reptile, with two short forelimbs and a beaked, lizard-like head. You see that its two legs end in backward-pointing feet - the tracks it leaves will always show the wrong direction of travel!
+	</p>
+	<p>
+		It bites at you savagely, and you <lose stamina="4">lose 4 Stamina points</lose>. If you still live, you will have to fight.
+	</p>
+	<fight name="Gorlock" combat="4" defence="6" stamina="7"/>
+	<p>
+		If you win, <goto section="315"/>.
+		If you lose, your bones will join the others at the entrance of the cave - <goto section="680" dead="t"/>.
+	</p>
+</section>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="635">
+	<p><tick codeword="Ectoplasm">Gain the codeword Ectoplasm</tick>.</p>
+	<p>
+		<tick codeword="BladeSeven" hidden="true"/>
+		You only get the chance to take one of the blades.
+		<goto section="223"/>.
+	</p>
+</section>

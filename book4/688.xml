@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="688">
+	A passing merchantman spots you on the shore. They think you have been marooned, and send a small boat to pick you up. The captain offers to take you to Yarimura in the north.
+	<choices>
+		<choice section="10">Hitch a lift</choice>
+		<choice section="32">Climb up the cliff</choice>
+	</choices>
+</section>

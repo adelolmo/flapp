@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="149">
+	<tick codeword="Frog">Get the codeword Frog</tick>
+	if you didn&#8217;t have it already.
+	<if shards="100" cache="6.496.1">
+		Also, if you
+		gave the priests at least 100 Shards, you receive a blessing of
+		<tick blessing="storm">Safety from Storms</tick>.
+	</if>
+	When you are ready to resume your voyage, <goto section="745"/>.
+</section>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="446">
+	<p>
+		A narrow, desolate strip of land separates the jagged smoke-blue shadow of the Kenen Mountains from the gunmetal grey of the Unbounded Ocean.
+	</p>
+	<p><random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-8" section="33">No one and nothing</outcome>
+		<outcome range="9-12" section="734">Hungry ghosts</outcome>
+	</outcomes>
+</section>

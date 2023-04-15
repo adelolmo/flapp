@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="699">
+	&#8216;I believe I&#8217;ve encountered this isle before,&#8217; says the navigator,
+	&#8216;but it never shows up at exactly the place I last marked it on my
+	charts.&#8217;
+	<choices>
+		<choice section="682">Put in at the island</choice>
+		<choice section="283">Sail on</choice>
+	</choices>
+</section>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="222">
+	Your ship is sailing in the coastal waters near Marlock City.
+	<random type="travel"/>.
+	<outcomes>
+		<outcome range="2-4" section="124">Storm</outcome>
+		<outcome range="5-9" section="420">An uneventful voyage</outcome>
+		<outcome range="10-12" section="169">Sea battle</outcome>
+	</outcomes>
+</section>

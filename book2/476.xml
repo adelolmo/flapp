@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="476">
+	<p>
+		He is outraged that you rescued his lady love. &#8216;That was my own sworn task, you varlet!&#8217; he cries, charging at you with raised mace.
+	</p>
+	<fight name="Angry Knight" combat="5" defence="9" stamina="6"/>
+	<p>
+		If you win, you can take his <weapon name="mace"/>,
+		<weapon name="diamond lance" bonus="2"/> and
+		<armour name="chain mail" bonus="3"/>.
+		Then <lose codeword="Brisket">lose the codeword Brisket</lose> and
+		<goto section="31"/>.
+	</p>
+</section>

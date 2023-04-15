@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="495">
+	<p>
+		The trau come burrowing straight up out of the ground, leaving piles of soil like huge molehills. Rushing around, fluttering like busy black moths in the moonlight, they quickly erect stalls with luminous silk awnings. Then they look at you with wide grins and invite you to trade.
+	</p>
+	<p>
+		Note that the trau do not accept Shards. You must use the odd onyx coins called Mithrals if you wish to do business with them.
+	</p>
+	<market currency="Mithral">
+		<header type="armour"/>
+		<armour name="vulcanium" bonus="7" buy="1600" sell="1000"/>
+
+		<header type="weapon"/>
+		<weapon bonus="3" buy="900" sell="600"/>
+		<weapon bonus="4" buy="1200" sell="900"/>
+
+		<header type="magic"/>
+		<tool name="cobalt wand" ability="magic" bonus="3" buy="1800" sell="1200"/>
+		<tool name="selenium wand" ability="magic" bonus="4" buy="2000" sell="1333"/>
+
+		<header type="other"/>
+		<item name="faery mead" buy="1000" sell="900"/>
+		<item name="four-leaf clover" buy="25" sell="20"/>
+		<item name="boar's tusk" buy="20" sell="15"/>
+	</market>
+	<p>
+		When you have finished your business with the Trau, <goto section="545"/>.
+	</p>
+</section>

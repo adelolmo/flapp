@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="665">
+	<p>
+		<if title="Hatamoto">
+			If you have the title Hatamoto, <goto section="256"/>.
+		</if>
+		If not, read on.
+	</p>
+	<p>
+		You are turned away from the palace gates. Only members of the White Spear Clan are allowed within. <goto section="10"/>.
+	</p>
+</section>

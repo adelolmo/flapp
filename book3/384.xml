@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="384">
+	<p>
+		The terrified islanders swarm about your ship. Women and children are put in the hold, and any cargo you had is jettisoned
+		(<lose cargo="*">cross it off</lose> the Ship&#8217;s Manifest).
+		Others must cling to the rigging or perch on the rail. The extra load makes the ship float alarmingly low in the water.
+	</p>
+	<p>
+		As you put out from the shore, the volcano is already starting to spit out long fiery torrents of lava. But the danger isn&#8217;t over yet.
+	</p>
+	<p>
+		<random dice="1">
+			<adjust ship="barque" amount="-1"/>
+			<adjust ship="galleon" amount="1"/>
+		</random>.
+		Subtract 1 if your ship is a barque; add 1 if it is a galleon.
+	</p>
+	<outcomes>
+		<outcome range="0-2" section="486">The ship capsizes</outcome>
+		<outcome range="3-7" section="366">Luck is with you</outcome>
+	</outcomes>
+</section>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="146">
+	<p>
+		The nomad looks you up and down. He seems satisfied by what he sees, and offers you a seat. His name is Luroc Bans, a man of the steppes who has taken up a new life in Yarimura.
+	</p>
+	<p>
+		'I like to steal from the townsfolk,' he says unashamedly. 'And I might have need of someone like you.'
+	</p>
+	<p>
+		The woman's name is Floril Dellas. She is a washerwoman, and she works for a rich merchant from Metriciens called Avar Hordeth, who owns a villa just outside town. According to the washerwoman, his treasure vault is stuffed full of wealth.
+	</p>
+	<p>
+		Luroc Bans says, 'Floril's given me a map of the place. I can get in there but we need a tough accomplice to help deal with whatever is guarding the treasure. Something is, but no one knows what. Once we've grabbed the loot, and got out, we split everything three ways. What do you say - you in or out?'
+	</p>
+	<choices>
+		<choice section="488">Join them</choice>
+		<choice section="406">Refuse</choice>
+	</choices>
+</section>

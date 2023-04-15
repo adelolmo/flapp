@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="642">
+	You are wandering across the gloomy dales of the Whistling Heath.
+	<choices>
+		<choice section="496">Go north</choice>
+		<choice section="421">Go south</choice>
+		<choice section="521">Go east</choice>
+		<choice section="546">Go west</choice>
+	</choices>
+</section>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="473">
+	<p>
+		The new Reaver King, Isthmus Jack, is a strutting rogue with a broad bald brow and a beard like shavings of red gold. He has none of Amcha&#8217;s cold intensity, but behind that cavalier grin you get a feeling of simmering menace.
+	</p>
+	<p>&#8216;Ah,&#8217; he says, &#8216;you slew my predecessor, I believe?&#8217;</p>
+	<choices>
+		<choice section="512">Admit to killing Amcha</choice>
+		<choice section="400">Deny it</choice>
+	</choices>
+</section>

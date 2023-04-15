@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="151">
+	<p>
+		You have been washed up in a small harbour. Many fishing boats painted in gay colours lie on the tide-streaked mud. A pretty town of white-washed cottages stretches steeply up from the quayside towards high cliffs.
+	</p>
+	<p>
+		You climb the harbour steps and explore the streets. You soon discover that the place is under a curse, as all the villagers stand frozen like statues.
+	</p>
+	<choices>
+		<choice section="411">Take a boat to sea</choice>
+		<choice section="540">Ascend the cliffs</choice>
+		<choice section="467">Pray for guidance</choice>
+		<choice section="524">Rest in one of the houses</choice>
+		<choice section="449">Leave the town</choice>
+	</choices>
+</section>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="703">
+	<p>&#8216;Correct,&#8217; says Talanexor, arching his eyebrows. &#8216;Good guess.&#8217;</p>
+	<p>
+		No wimpy maths questions for you. This is meant to be a magical duel, isn&#8217;t it? You toss the Curse of the Creeping Entrails at him, swiftly following it with a puissant hex you learned off an old village witch when you were a toddler.
+	</p>
+	<p>
+		<if profession="mage">
+			<difficulty ability="magic" level="13"/>
+			if you&#8217;re a Mage,
+		</if>
+		<else>
+			<difficulty ability="magic" level="17">
+				Difficulty 17
+			</difficulty> if you&#8217;re any other profession.
+		</else>
+	</p>
+	<outcomes>
+		<success section="383"/>
+		<failure section="365"/>
+	</outcomes>
+</section>

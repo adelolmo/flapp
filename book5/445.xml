@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="445">
+	<p>
+		You attempt to find refuge from the furious storm but the best you can do is cower in the lee of a steep slope. You strip off your equipment and try to keep your clothes dry.
+	</p>
+	<p>
+		To your horror, you turn to see your equipment sliding down the muddy incline and into a torrent of blood-red mud. You scramble down to
+		<lose item="*" chance="1/3">salvage what you can</lose>.
+	</p>
+	<p>
+		For each item on your equipment list, roll one die. If a five or a six comes up, the item is washed away and lost. Cross it off your Adventure Sheet.
+	</p>
+	<p>You also <lose stamina="1">lose a point of Stamina</lose> from the cold.</p>
+	<p>The next day, you carry on. <goto section="307"/>.</p>
+</section>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="584">
+	<p>
+		You pick up the <item name="black cat"/>. The sailors all slope off with sullen looks.
+	</p>
+	<p>
+		&#8216;I suppose they think I&#8217;ve ruined their fun?&#8217; you remark to the bosun. &#8216;How could you be so cruel as to even think of hurting this poor animal?&#8217;
+	</p>
+	<p>
+		&#8216;It wasn&#8217;t for the sake of cruelty,&#8217; he protests. &#8216;Any living thing aboard means that the ship doesn&#8217;t count as abandoned, and we can&#8217;t help ourselves to her cargo.&#8217;
+	</p>
+	<choices>
+		<choice profession="Mage" section="602">If you are a Mage</choice>
+		<choice section="620">If any other profession</choice>
+	</choices>
+</section>

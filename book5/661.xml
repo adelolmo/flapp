@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="661">
+	<p>
+		You jump into a barrel which turns out to be full of blue dye. The mercenaries run past, and when you get out of the barrel some minutes later, you find your skin has been stained a bright blue colour. Note in the Titles box that you have <tick title="blue skin"/>.
+	</p>
+	<p>
+		When you leave the warehouse you find the mercenaries milling about in the village square, looking for you. They do not recognise you now. In fact, blue skin is the hereditary mark of the Uttakin nobility. The purebred aristocrats of Uttaku are born with blue skin. The mercenaries mistake you for a great lord of Aku and make way for you.
+	</p>
+	<p>You journey on. <goto section="168"/>.</p>
+</section>

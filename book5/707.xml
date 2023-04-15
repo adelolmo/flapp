@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="707" image="707.jpg">
+	<p>
+		To your amazement, the rite has acquitted you! A masked priest of the Chosen of Ebron says, 'Ebron has deferred judgement to give you a chance to redeem yourself. Mend your ways!'
+	</p>
+	<p>You are released. <goto section="444"/>.</p>
+</section>

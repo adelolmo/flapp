@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="666">
+	A pirate galley bears down on you with the swift ferocity of a
+	panther scenting a kill.
+	<choices>
+		<choice section="684">Make a run for it</choice>
+		<choice section="373">Parley</choice>
+		<choice section="392">Fight it out</choice>
+	</choices>
+</section>

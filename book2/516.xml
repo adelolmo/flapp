@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="516">
+	<p>
+		&#8216;I have heard many stories of a strange land called Akatsurai,&#8217; says the baroness. &#8216;Travel to this land and seek out its ruler. Convey my best wishes to him or her, and enquire whether a legate may be sent to in order to strengthen diplomatic and trading links.&#8217;
+	</p>
+	<p>
+		With that, she gives an imperious wave and Sir Debrumas escorts you out. <goto section="342"/>.
+	</p>
+</section>

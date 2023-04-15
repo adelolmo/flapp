@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="748">
+	<p>
+		You ease the door open with bated breath, fearing at any moment that something horrible will leap out to confront you. But the snake was as good as its word - or as good as its thought, rather. Beyond the door lies a heap of treasure amounting to <tick shards="400"/>. Add this sum to your Adventure Sheet.
+	</p>
+	<p>
+		<i>There you are</i>, says the snake telepathically. You sense an undercurrent of satisfaction in its mind. Has it tricked you somehow? Is there an even greater treasure behind the other door?
+	</p>
+	<choices>
+		<choice section="724">Open the other closed door as well</choice>
+		<choice section="93">Leave now</choice>
+	</choices>
+</section>

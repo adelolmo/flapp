@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="504">
+	<p>
+		You sail into the stretch of ocean known as the Sea of Reeds, which lies between Braelak and the Unnumbered Isles.
+	</p>
+	<p><random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-3" section="598">Storm</outcome>
+		<outcome range="4-6" section="480">A gypsy caravan?</outcome>
+		<outcome range="7-8" section="50">An uneventful voyage</outcome>
+		<outcome range="9-12" section="516">A bank of reeds</outcome>
+	</outcomes>
+</section>

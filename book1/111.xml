@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="111">
+	Your knowledge of the arcane arts is too limited to help you here.
+	<choices>
+		<choice section="121">Fight your way to the <b>golden net</b></choice>
+		<choice section="35">Swim back to Shadar Tor</choice>
+	</choices>
+</section>

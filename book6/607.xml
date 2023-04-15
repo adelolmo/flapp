@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="607" tag="temple">
+	<p>
+		At the temple you can get medical treatment for only
+		<rest stamina="2d" shards="8">8 Shards</rest>.
+		The treatment allows you to regain 2-12 lost Stamina points, up to the limit of your unwounded Stamina score.
+	</p>
+	<p>
+		<if title="Initiate of the Sage of Peace" not="t">
+			If you wish to become an initiate of the Sage of Peace, the monks will instruct you in the sacred doctrine. To comprehend this doctrine requires
+			<difficulty ability="sanctity" level="15" force="f">
+				a SANCTITY roll at a Difficulty of 15
+			</difficulty>.
+			<success>
+				If successful you are
+				<gain title="Initiate of the Sage of Peace">
+					accepted as an initiate
+				</gain>. (The monks are open minded and don&#8217;t mind if you were already an initiate of another god.)
+			</success>
+			<failure>
+				If you try the SANCTITY roll and fail, the doctrine turns out to be so confusing that you
+				<lose ability="sanctity" amount="1">
+					lose 1 from your SANCTITY score
+				</lose>.
+			</failure>
+		</if>
+	</p>
+	<p>
+		The advantage of being an initiate is that you can get a blessing. The Sage of Peace bestows these on his initiates for free.
+		<if title="Initiate of the Sage of Peace">
+			If you are an initiate, write
+			<gain blessing="luck"/>
+			in the Blessings box on your Adventure Sheet. The blessing can be used once to allow you to reroll any dice result. After using the blessing, remember to cross it off your Adventure Sheet. You can have only one Luck blessing at a time.
+		</if>
+	</p>
+	<p>When you are through at the temple, <goto section="8"/>.</p>
+</section>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="298">
+	&#8216;Where to now, skipper?&#8217; asks the helmsman as he takes the ship
+	out of Vervayens harbour.
+	<choices>
+		<choice section="119">Steer north</choice>
+		<choice section="263">Steer south</choice>
+		<choice section="42">Steer west</choice>
+		<choice section="303">Steer east</choice>
+	</choices>
+</section>

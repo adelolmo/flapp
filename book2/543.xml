@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="543">
+	No one has ever made a comprehensive map of these
+	mountains. If you wish to attempt it, you will need to explore
+	this region and the peaks extending off to the east. To do this,
+	you must first possess a <b>parchment</b>.
+	<if item="parchment">
+		If you do,
+		<difficulty ability="scouting" level="15">
+			make a SCOUTING roll at a Difficulty of 15
+		</difficulty>.
+	</if>
+	<outcomes>
+		<success section="568"/>
+		<failure section="592"/>
+		<choice section="518">No <b>parchment</b></choice>
+	</outcomes>
+</section>

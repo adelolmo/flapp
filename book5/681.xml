@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="681">
+	<p>
+		Holyamu the Unbidden (for it is he) speaks a magic word and points at you, before flying away on his throne laughing like a madman. He has changed your hair into threads of spun gold!
+	</p>
+	<p><tick codeword="Elk"/>.</p>
+	<p>
+		<!-- TODO: implement gold-hair effects -->
+		This can be useful. Note than whenever you travel to another book in the <i>Fabled Lands</i> series you can add 20 Shards to your Adventure Sheet. This represents your hair growing, and you cutting it and selling the gold!
+	</p>
+	<p>When you are ready, <goto section="211"/>.</p>
+</section>

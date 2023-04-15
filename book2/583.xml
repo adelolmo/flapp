@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="583">
+	<p>Thick black clouds pile up along the horizon.</p>
+	<p>
+		<if blessing="storm">
+			If you have the blessing of Alvir and Valmir, which confers Safety from Storms, you can ignore the storm.
+			<lose blessing="storm">Cross off your blessing</lose>
+			and <goto section="198"/>.
+		</if>
+	</p>
+	<p>
+		Otherwise the storm hits with full fury.
+		<if ship="barque">
+			<random dice="1">
+				<adjust crew="good" amount="1"/>
+				<adjust crew="excellent" amount="2"/>
+			</random> if your ship is a barque,
+		</if>
+		<elseif ship="brigantine">
+			<random dice="2">
+				two dice<adjust crew="good" amount="1"/>
+				<adjust crew="excellent" amount="2"/>
+			</random> if it is a brigantine,
+		</elseif>
+		<else>
+			or
+			<random dice="3">
+				three dice<adjust crew="good" amount="1"/>
+				<adjust crew="excellent" amount="2"/>
+			</random> if a galleon.
+		</else>
+		Add 1 to the roll if you have a good crew; add 2 if you have an excellent crew.
+	</p>
+	<outcomes>
+		<outcome range="1-3" section="459">Ship sinks</outcome>
+		<outcome range="4-5" section="534">The mast splits</outcome>
+		<outcome range="6-20" section="14">You weather the storm</outcome>
+	</outcomes>
+</section>

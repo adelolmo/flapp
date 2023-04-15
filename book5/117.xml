@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="117">
+	<p>
+		<if item="chameleon cloak">If you have a <b>chameleon cloak</b>, <goto section="590"/> immediately.</if>
+		If not, read on.
+	</p>
+	<p>
+		You hear an ominous rustling in the branches overhead. Looking up, you spot a pair of bulbous eyes swivelling round towards you. It is a giant chameleon - a creature at least twelve feet long - its skin as green and mottled as the forest itself.
+	</p>
+	<p>
+		It spits out its long, thick tongue, trying to suck you into its massive jaws. You dodge aside, but trip on some brambles and fall on to a pile of rotting gurul fruit.
+	</p>
+	<p><difficulty ability="scouting" level="13"/>.</p>
+	<outcomes>
+		<success section="685"/>
+		<failure section="368"/>
+	</outcomes>
+</section>

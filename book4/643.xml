@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="643">
+	Grasslands - an infinite sea of flat plains. You begin to dream of rolling hills, and cities awash with people. Here there is only desolation. <random type="travel"/>.
+	<outcomes>
+		<outcome range="2-5" section="680">A beguiling flute</outcome>
+		<outcome range="6-7" section="224">No event</outcome>
+		<outcome range="8-12" section="84">A ring of stones</outcome>
+	</outcomes>
+</section>

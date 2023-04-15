@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="69">
+	<p>
+		(If you just ticked the third box, this is your third and final rebirth. Delete the entry in the Resurrection box on your Adventure Sheet.)
+	</p>
+	<p>
+		You step out from the interior of one of the trees as though emerging from an egg. Your Stamina is back to its normal score, but you have
+		<lose shards="*" item="*">lost any cash and possessions</lose>
+		that you were carrying at the time of your death.
+	</p>
+	<p>Your problem now is how to get off the island.</p>
+	<p><goto section="177"/>.</p>
+</section>

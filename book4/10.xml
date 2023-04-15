@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="10" image="10.jpg">
+	<p>
+		Yarimura is a young city. Its buildings are finely constructed houses of wood and stone with pagoda-style roofs.
+	</p>
+	<p>
+		The Clan of the White Spear, exiles from the east, rule the city. A hundred years ago, civil war raged in Akatsurai. The clan was forced to flee in its ships to the west. Unable to find refuge in Sokara, the clan founded Yarimura - the clan&#8217;s fiercely loyal samurai warriors easily suppressing the local nomad tribes.
+	</p>
+	<p>
+		The current daimyo - the chief of the clan - is Lord Kumonosu. He dreams of the day he will return to Akatsurai as Shogun of the empire.
+	</p>
+	<p>
+		Yarimura&#8217;s streets and plazas are cosmopolitan indeed. Finely dressed samurai swagger and strut alongside nomad traders from the plains and merchants and mercenaries from Sokara and Golnir. This is a city where east meets west. The Clan of the White Spear, however, governs it with a rod of iron. Yarimura is in a perpetual state of readiness for war as the armies and fleets of Akatsurai constantly seek to seize the city for the empire.
+	</p>
+	<p>
+		<if not="t" codeword="4.10.1">
+			You can buy a town house in Yarimura for 150 Shards. Owning a town house gives you a place to rest, and to store equipment.
+			<if shards="150">
+				If you buy one, tick the box by the town house option, and
+				<group>
+					<text>cross off 150 Shards</text>
+					<tick codeword="4.10.1"/>
+					<lose shards="150"/>
+				</group>
+			</if>
+		</if>
+	</p>
+	<p>
+		To leave Yarimura by sea, or to buy and sell ships, visit the
+		harbourmaster at the Sea Barrier. To buy or sell cargo, visit the Silk Market.
+	</p>
+	<p>
+		Tambu, the great spirit of the plains people, has a temple here. The invaders, however, have brought the religion of Akatsurai with them: their temples can be found in the Plaza of the New Gods.
+	</p>
+	<choices>
+		<choice section="160" box="4.10.1">Visit your town house {box} (if box ticked)</choice>
+		<choice section="33">Go to the temple of Tambu</choice>
+		<choice section="58">Go to the Plaza of the New Gods</choice>
+		<choice section="77">Explore the south sector</choice>
+		<choice section="101">Go to the daimyo&#8217;s palace</choice>
+		<choice section="182">Go to the Thieves&#8217; Kitchen</choice>
+		<choice section="199">Go to the Tower of Bakhan</choice>
+		<choice section="220">Go to the merchants&#8217; guild</choice>
+		<choice section="252">Go to the Silk Market</choice>
+		<choice section="141">Visit the harbourmaster</choice>
+		<choice section="231">Go to the Horse Market</choice>
+		<choice section="280">Leave the city</choice>
+	</choices>
+</section>

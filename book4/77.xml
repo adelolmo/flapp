@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="77">
+	<p>
+		The south sector is a part of the city given over to visitors to the city. It is known as the Foreigners' Quarter.
+	</p>
+	<p>
+		<if codeword="Dirk">
+			If you have the codeword Dirk, <goto section="686"/>.
+		</if> If not, read on.
+	</p>
+	<p>You find an inn, called the Nomad's Rest.</p>
+	<choices>
+		<choice section="542">Visit the inn</choice>
+		<choice section="10">Leave the south sector</choice>
+	</choices>
+</section>

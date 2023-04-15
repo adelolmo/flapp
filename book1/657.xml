@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="657" image="657.jpg">
+	<p>
+		The creature falls dead. You can squeeze a little of its venom from its sting - if you do so, note the <item name="scorpion venom"/> on your Adventure Sheet.
+	</p>
+	<p>
+		<if codeword="ScorpionSting">
+			<lose codeword="ScorpionSting" hidden="t"/>
+			If you were wounded in the fight, you have been
+			<poison name="Scorpion Poison">
+				poisoned<effect ability="combat" bonus="-1"/>
+				<effect ability="thievery" bonus="-1"/>
+				<effect ability="scouting" bonus="-1"/>
+			</poison>
+			by the scorpion man&#8217;s venom. Subtract 1 from your COMBAT, THIEVERY, and SCOUTING abilities, as you are severely weakened (although no ability can drop to zero). Note that you are poisoned - you can restore your abilities to normal if you get cured.
+		</if>
+		<if poison="Scorpion Poison">
+			<if item="scorpion antidote">
+				If you have some <b>scorpion antidote</b>, it will <lose poison="Scorpion Poison">cure the poison</lose> immediately - <lose item="scorpion antidote">cross the <b>antidote</b> off</lose> your Adventure Sheet.
+		</if></if>
+	</p>
+	<p>
+		You wander on until you come to a ridge. Down below, in a shallow valley, is a great mound of earth. Many burrows have been dug through it, and scorpion men are crawling in and out. This is the mound of the scorpion men - their home.
+	</p>
+	<p>
+		<if codeword="Artefact">
+			If you have the codeword Artefact, <goto section="406"/>.
+		</if>
+		If not, you realize that it would simply be too dangerous to venture down there. You head back towards Venefax. <goto section="492"/>.
+	</p>
+</section>

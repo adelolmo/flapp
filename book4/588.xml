@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="588">
+	<p>
+		<if codeword="Drizzle">
+			If you have the codeword Drizzle, <goto section="437"/>.
+		</if>
+		If not, read on.
+	</p>
+	<p>
+		King Nergan asked you to talk to Beladai, and see what assistance you could give him. The guards at the stockade take you to Beladai&#8217;s tent, a large pavillion of purple silk.
+	</p>
+	<p>
+		Inside, General Beladai, a tall, grey-haired veteran of many campaigns, is there to meet you. His face is fixed into an expression of determined efficiency, like a granite slab. Around him are the other leaders. Lek, Wing-warrior Chief of the Mannekyn People, is a small, purple-furred, bat-winged humanoid. The trau warlord, Marack Mander, squats in a shadowy corner, wreathed in shadows. Olog Khan, a wiry, hawk-nosed nomad, is leader of the troops of the Horde of the Thousand Winds.
+	</p>
+	<p>
+		They explain that the citadel is all but invulnerable to their army, as they have no means of breaching the walls.
+	</p>
+	<p>
+		&#8216;You are our only hope,&#8217; growls General Beladai. &#8216;A single spy could infiltrate the citadel and open the Great Gate from the inside.&#8217;
+	</p>
+	<p>
+		If you take up the mission, <goto section="241" force="f"/>. If not, you are shown out.
+	</p>
+	<p>&#8216;Come back if you change your mind,&#8217; grunts Beladai.</p>
+	<p><goto section="145"/>.</p>
+</section>

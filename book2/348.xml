@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="348">
+	<p>
+		<tick special="lock" cache="2.348" hidden="t"/>
+		You can leave possessions and money here to save having to carry them around with you. Record in the box anything you wish to leave. Each time you return, <random/>:
+	</p>
+	<outcomes>
+		<outcome range="2-9">Your possessions are safe</outcome>
+		<outcome range="10">
+			A thief; <lose shards="*" cache="2.348">all the money</lose> you left here has gone
+		</outcome>
+		<outcome range="11">
+			A gang of burglars; <lose item="*" cache="2.348">lose all possessions</lose> you left here
+		</outcome>
+		<outcome range="12">
+			A fire; your town house and all its contents have been
+			<group>
+				<text>destroyed</text>
+				<lose item="*" cache="2.348"/>
+				<lose shards="*" cache="2.348"/>
+				<lose codeword="2.217"/>
+			</group>
+		</outcome>
+	</outcomes>
+	<p>
+		<tick special="unlock" cache="2.348" hidden="t"/>
+		You can also <rest>rest</rest> at your town house for as long as you wish. If injured, restore your Stamina to its normal unwounded score.
+	</p>
+	<p>
+		When you&#8217;ve finished at your town house, <goto section="217"/> (and remember to erase the tick in the town house box there if it was destroyed by fire).
+	</p>
+	<itemcache name="2.348" text="Items at town house"/>
+</section>

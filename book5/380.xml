@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="380">
+	<p>
+		<lose codeword="BladeSeven" hidden="true"/>
+		The sword of air is almost invisible, and while you carry it, you find that people tend not to notice you. You blend into crowds and into shadows, and at times vanish into thin air. While you carry the blade, increase your THIEVERY by 2. Note the
+		<weapon name="sword of air">
+			<effect type="aura" ability="thievery" bonus="2"/>
+		</weapon>
+		on your Adventure Sheet.
+	</p>
+	<p>
+		After attuning the sword, you swim back to shore in high spirits. <goto section="268"/>.
+	</p>
+</section>

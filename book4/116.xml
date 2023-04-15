@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="116">
+	<p>
+		You vault nimbly on to its back. Instantly, it neighs wildly and leaps into the river. As soon as it hits the water, it begins to change shape, sprouting fins, and webbed hands and feet. It dives deep into the river, and out of sight. You are left floundering in the water.
+	</p>
+	<p>
+		When you manage to pull yourself up on the bank, you discover you have lost some possessions.
+		<lose item="?">Cross</lose>
+		<lose item="?">three</lose>
+		<lose item="?">items</lose>
+		(your choice) off your Adventure Sheet.
+	</p>
+	<p><goto section="676"/>.</p>
+</section>

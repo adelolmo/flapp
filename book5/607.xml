@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="607" image="607.jpg">
+	<p>
+		You report the position of the raiders. The army moves against them, and a short battle ensues in which the nomad warband is defeated. It transpires that a prince of the Court of Hidden Faces happened to be in the village at the time on a hunting trip; he would have been killed or captured by the nomads had you not been successful in your scouting mission. When the army returns to Aku, you are given your freedom as a reward. The prince is also generous - he gives you <gain shards="100"/>, and a <item name="scroll of Ebron"/>. You also get to keep the regulation issue of a janissary - a <armour name="leather jerkin" bonus="1"/>, a <weapon name="sword"/>, some <item name="rope"/>, and a <item name="spotted scarf"/>.
+	</p>
+	<p>You leave the barracks. <goto section="444"/>.</p>
+</section>

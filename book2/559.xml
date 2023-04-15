@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="559">
+	You wake to find you have been washed up on a beach. Cold
+	rain lances down on the sea breeze. You are dazed and bleeding,
+	but lucky to be alive. <goto section="705"/>.
+</section>

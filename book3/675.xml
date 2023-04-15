@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="675" image="675.jpg">
+	You are just passing the steps of Sinistrum College when you are
+	set upon by three scholars. They have turned to robbery as a
+	way of supplementing their meagre grants but, being of good
+	families, your assailants are sporting enough to fight you one at a
+	time.
+	<fight name="First Scholar" combat="3" defence="4" stamina="3"/>
+	<fight name="Second Scholar" combat="4" defence="5" stamina="4"/>
+	<fight name="Third Scholar" combat="3" defence="4" stamina="4"/>
+	<choices>
+		<choice flee="t" section="640">Surrender</choice>
+		<choice section="571">Fight on and win</choice>
+	</choices>
+</section>

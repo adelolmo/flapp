@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="290">
+	<p>
+		As soon as you pass through the arch, a huge slab of solid stone slams down over the portal, sealing you within. You are trapped inside a circular chamber. Its smooth walls rise up and up to the top of the pyramid, where small holes let in thin shafts of light. The floor is crawling with large stag beetles, and the dim, dusty room is filled with the unpleasant sound of their mandibles working back and forth. You look around but there is no way out.
+	</p>
+	<p>
+		As you are pondering your own death by starvation, the walls begin to glow and you are bathed in a soft, dirty-yellow light. Your clothes begin to grow. Or is it you that is growing smaller? In fact, you are shrinking fast, and your clothes and belongings fall around you. Within moments you are reduced to a height of only one foot.
+	</p>
+	<p><goto section="586"/>.</p>
+</section>

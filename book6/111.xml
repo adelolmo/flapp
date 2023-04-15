@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="111" image="111.jpg">
+	You come to a shrine gateway that stands close to the outskirts
+	of Kwaidan Forest. Dawn sunlight is turning the morning mist
+	to gold dust and the trees to faded watercolours, but strangely
+	there are no birds singing. You look in through the gate. The
+	courtyard is filled with long grass and weeds. The shrine
+	buildings look derelict and overgrown. Then you notice a man
+	standing on the porch of the main shrine.
+	<choices>
+		<choice section="47">Go through the gate</choice>
+		<choice section="398">Continue on your way</choice>
+	</choices>
+</section>

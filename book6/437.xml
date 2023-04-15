@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="437">
+	<p>
+		The inn is run by a young widow who has several small children. She charges only
+		<rest stamina="1" shards="1">1 Shard a day</rest>,
+		though you might like to give her a little more if you&#8217;re feeling charitable. Each day you spend at the inn allows you to recover 1 lost Stamina point, up to the maximum set by your normal Stamina score when unwounded.
+	</p>
+	<p>When you are ready to move on, <goto section="494"/>.</p>
+</section>

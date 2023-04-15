@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="134">
+	<moneycache name="2.134" text="Stake" multiples="10"/>
+	<p>
+		<tick special="unlock" cache="2.134" hidden="t"/>
+		You can gamble in multiples of 10 Shards. Decide how much you are wagering, then
+		<group force="t">
+			<text>roll two dice</text>
+			<tick special="lock" cache="2.134"/>
+			<random/>
+		</group>:
+	</p>
+	<outcomes>
+		<outcome range="2-4">
+			<group force="t">
+				<text>Lose your entire stake</text>
+				<adjustmoney name="2.134" multiply="0"/>
+				<tick special="unlock" cache="2.134"/>
+			</group>
+		</outcome>
+		<outcome range="5-7">
+			<group force="t">
+				<text>Lose 50% of your stake</text>
+				<adjustmoney name="2.134" multiply="0.5"/>
+				<tick special="unlock" cache="2.134"/>
+			</group>
+		</outcome>
+		<outcome range="8-9">No gain or loss</outcome>
+		<outcome range="10-11">
+			<group force="t">
+				<text>Get back stake plus 50%</text>
+				<adjustmoney name="2.134" multiply="1.5"/>
+				<tick special="unlock" cache="2.134"/>
+			</group>
+		</outcome>
+		<outcome range="12">
+			<group force="t">
+				<text>Get back stake plus 100%</text>
+				<adjustmoney name="2.134" multiply="2"/>
+				<tick special="unlock" cache="2.134"/>
+			</group>
+		</outcome>
+	</outcomes>
+	<p>After one wager, <goto section="203"/>.</p>
+</section>

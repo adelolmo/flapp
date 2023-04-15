@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="6">
+	The village of Delpton flourishes by the shipping of grain
+	downriver to Ringhorn.
+	<choices>
+		<choice section="393">Visit the market</choice>
+		<choice section="418">Stop at an inn</choice>
+		<choice section="29">Leave Delpton</choice>
+	</choices>
+</section>

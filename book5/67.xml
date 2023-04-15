@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="67">
+	<p>You call on the divine aid of the gods to repel these foul undead.</p>
+	<p><difficulty ability="sanctity" level="14"/>.</p>
+	<outcomes>
+		<success section="242"/>
+		<failure section="323"/>
+	</outcomes>
+</section>

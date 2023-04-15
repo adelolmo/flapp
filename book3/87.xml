@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="87">
+	<p><lose codeword="Certain">Lose the codeword Certain</lose>.</p>
+	<p>
+		A small boat comes sailing out of a clear horizon. Its single passenger is a bare-chested man in black breeches who leaps aboard with the lithe grace of a big cat.
+	</p>
+	<choices>
+		<choice section="235">Challenge the fellow</choice>
+		<choice section="197">Order him seized</choice>
+		<choice section="217">Offer hospitality</choice>
+	</choices>
+</section>

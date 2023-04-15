@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="450">
+	<p>
+		A wooden stockade encloses the springs. At the gate, two militiamen stand on guard, and a priest, dressed in blue robes, sits behind a desk.
+	</p>
+	<p>&#8216;Thirty-five Shards to enjoy the divine spa,&#8217; says the priest.</p>
+	<choices>
+		<choice shards="35" section="378">Pay 35 Shards and enter</choice>
+		<choice section="510">Cannot or will not pay</choice>
+	</choices>
+</section>

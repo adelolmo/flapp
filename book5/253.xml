@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="253">
+	<p>
+		The wizard pauses. 'A good point. But on the other hand, you aren't a native-born Uttakin, and I don't have to keep my word to a foreigner!' He resumes his spell.
+	</p>
+	<p>
+		'Ah, but according to the holy texts of Ebron, it is a sin to break your word, once given. Indeed, some would say - and here I am thinking of such groups as the Soulwatch - that to break your word could even be a heresy,' you add hastily.
+	</p>
+	<p>
+		He pauses again. 'Hmm, an abstruse point, but technically correct ... On second thoughts, I'm sure someone else will come along.'
+	</p>
+	<p>He spares you and hands over <gain shards="50"/> for the ore.</p>
+	<p>'Fifty Shards? Selenium is worth more than that!' you splutter.</p>
+	<p>
+		'Bah, you ingrate!' he yells. 'Just be thankful you can leave here with your heart still in your chest!'
+	</p>
+	<p>
+		You decide not to push it any further, and leave. <goto section="293"/>.
+	</p>
+</section>

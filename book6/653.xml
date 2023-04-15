@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="653">
+	<p>
+		Pine trees line the flanks of the Urushi Mountains, where meltwater streams down in quicksilver torrents and the sunlight sparkles across fields of flowers.
+	</p>
+	<p><random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-8" section="297">An uneventful journey</outcome>
+		<outcome range="9-12" section="698">A challenge is issued</outcome>
+	</outcomes>
+</section>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="6">
+	<p>
+		At last the storm abates. The navigator has no idea of the ship&#8217;s current position. After makeshift repairs, you limp towards the coast to try to get your bearings.
+	</p>
+	<p><random dice="1"/>.</p>
+	<outcomes>
+		<outcome range="1-2" section="184"/>
+		<outcome range="3" section="662"/>
+		<outcome range="4-5" section="471"/>
+		<outcome range="6" section="543"/>
+	</outcomes>
+</section>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="177">
+	The island appears to have sufficient food and fresh water to
+	sustain you, but it will not be like living in the lap of luxury.
+	<choices>
+		<choice section="88">Try to survive off the land</choice>
+		<choice section="108">Set to work building a raft</choice>
+		<choice section="126">Pray for deliverance</choice>
+	</choices>
+</section>

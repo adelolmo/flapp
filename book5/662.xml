@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="662">
+	<p>
+		You hand over the <b>tatsu pearl</b>. <lose item="tatsu pearl">Cross it off</lose> your Adventure Sheet.
+	</p>
+	<p>
+		One of the Faceless King's ministers, known only as The Hand, takes the pearl. Obviously it wouldn't be right for the king himself to handle anything that had been touched by a commoner until it has been ritually cleansed.
+	</p>
+	<p>
+		The king rewards you with a title. <gain ability="rank" amount="1">Gain 1 Rank</gain>. <random dice="1" var="x">Roll one die</random> and <gain ability="stamina" amount="x">add the result</gain> to your total, unwounded Stamina score permanently. Don't forget that going up in Rank will also increase your Defence by one.
+	</p>
+	<p>
+		Note the title <if gender="m"><gain title="Masked Lord">Masked Lord</gain></if><else><text/>(or <gain title="Masked Lady">Masked Lady</gain>)</else> on your Adventure Sheet in the Titles box. The Hand gives you a mask to wear, signifying you are now a fully fledged member of the Court of Hidden Faces, and a High Lord of Uttaku. You will have your own suite of apartments in the palace. <goto section="224"/>.
+	</p>
+</section>

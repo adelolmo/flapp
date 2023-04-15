@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="591">
+	No sooner have you left the square than you are set upon by a typical local - a huge, hulking bear of a man, his breath sour with ale. He wields a large cudgel, and is intent on robbing you. You must fight.
+	<fight name="Mugger" combat="5" defence="6" stamina="10"/>
+	If you win, <goto section="322"/>.
+	If you lose, <goto section="169" dead="t"/>.
+</section>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="90">
+	A young mage accosts you on the way out. 'Wait, sir!' he wheedles. 'Why slog your way home by the mundane means used by the common mass of men? I, Firgol the Accomplished, can cast a spell that will take you to the city of Yarimura in an instant! And for only a paltry 100 Shards.'
+	<choices>
+		<choice shards="100" section="280">Pay 100 Shards for the teleport</choice>
+		<choice section="407">Leave the city on foot</choice>
+	</choices>
+</section>

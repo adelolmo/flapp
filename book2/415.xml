@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="415">
+	The smugglers stop rolling their barrels of whisky up the beach and stare in amazement as you approach.
+	<difficulty ability="charisma" level="12">
+		Make a CHARISMA roll at a Difficulty of 12
+	</difficulty>.
+	<outcomes>
+		<success section="539"/>
+		<failure section="564"/>
+	</outcomes>
+</section>

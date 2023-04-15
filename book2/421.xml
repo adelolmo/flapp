@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="421">
+	The wind thunders across the heath, rattling a small heap of
+	pebbles stacked up by other travellers to mark the way.
+	<choices>
+		<choice section="496">Go north</choice>
+		<choice section="521">Go south</choice>
+		<choice section="762">Go east</choice>
+		<choice section="546">Go west</choice>
+	</choices>
+</section>

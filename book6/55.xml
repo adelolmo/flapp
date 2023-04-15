@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="55">
+	<p>
+		&#8216;Varlet!&#8217; he says darkly. &#8216;I will teach you not to defy a knight of the Sovereign&#8217;s court.&#8217;
+	</p>
+	<p>
+		With no further ado, he draws his sword and leaps at you while passers-by look on aghast.
+	</p>
+	<fight name="Imperial Guard" combat="7" defence="11" stamina="14"/>
+	<p>
+		<if dead="f">
+			If you defeat him, <tick codeword="Fracas">get the codeword Fracas</tick>. You can also take his <weapon name="sword"/> if you wish. Then <goto section="79"/>.
+		</if>
+	</p>
+</section>

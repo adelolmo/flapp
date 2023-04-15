@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="168">
+	<p>
+		You stumble and fall, and the guards catch you. You are overwhelmed by sheer force of numbers, disarmed, beaten savagely, and brought before Avar Hordeth.
+	</p>
+	<p>
+		He strips you of all the money and items you were carrying. <lose shards="*" item="*">Cross them off</lose> your Adventure Sheet. Later, you are taken to Yarimura, where he sells you to the city's small navy. You are put to work as a galley slave. <goto section="222"/>.
+	</p>
+</section>

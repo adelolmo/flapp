@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="512">
+	<p>
+		Your answer seems to put Isthmus Jack in a good mood. He bellows with vicious laughter and tells several stories that portray the old king, Amcha One-Eye, in a bad light.
+	</p>
+	<p>
+		Suddenly he stops laughing and gives you a long hard stare. It is at this moment that you realize he&#8217;s quite insane.
+	</p>
+	<p>
+		<if item="pirate captain's head">
+			If you have a <b>pirate captain&#8217;s head</b>,
+			<goto section="638"/>.
+		</if>
+		Otherwise, <goto section="656"/>.
+	</p>
+</section>

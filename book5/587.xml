@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="587">
+	<p>
+		Holyamu flies in, points at you, mumbles something, and flies off again, giggling. This time, he has turned your hair back to normal.
+	</p>
+	<p>
+		<!-- TODO: implement gold-hair effects -->
+		<lose codeword="Elk">Lose the codeword Elk</lose>.
+		You can no longer receive 20 Shards every time you travel to another book. When you are ready, <goto section="211"/>.
+	</p>
+</section>

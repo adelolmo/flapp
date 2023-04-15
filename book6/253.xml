@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="253">
+	Taking your weapons, you set off through the woods in search of game. Around midday, just as you are thinking of taking a break, a shaft of sunlight picks out a badger in the gloom under the trees. It lumbers off into the undergrowth as you approach. It seemed to be limping - an injury might explain why it is out and about in the middle of the day. To track the badger to its set you will need to
+	<difficulty ability="scouting" level="14">
+		make a SCOUTING roll of Difficulty 14
+	</difficulty>.
+	<outcomes>
+		<success section="305"/>
+		<failure section="288"/>
+	</outcomes>
+</section>

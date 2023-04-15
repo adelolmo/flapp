@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="396">
+	<p>
+		The market square in Marlock City is huge. Armed guards stand around the edge to enforce General Marlock&#8217;s will. Merchants and traders from all over Harkuna hawk their goods in a dozen languages.
+	</p>
+	<p>
+		Items with no purchase price listed are not available locally. The general has imposed a sales tax on all trade; the tax has been included in all the prices listed.
+	</p>
+	<market>
+		<header type="armour"/>
+		<armour name="leather" bonus="1" buy="70" sell="25"/>
+		<armour name="ring mail" bonus="2" buy="120" sell="70"/>
+		<armour name="chain mail" bonus="3" buy="220" sell="160"/>
+		<armour name="splint armour" bonus="4" buy="420" sell="340"/>
+		<armour name="plate armour" bonus="5" sell="700"/>
+		<armour name="heavy plate" bonus="6" sell="1420"/>
+
+		<header type="weapon"/>
+		<weapon bonus="0" buy="70" sell="20"/>
+		<weapon bonus="1" buy="270" sell="180"/>
+		<weapon bonus="2" sell="380"/>
+		<weapon bonus="3" sell="780"/>
+
+		<header type="magic"/>
+		<tool name="amber wand" ability="magic" bonus="1" buy="520" sell="380"/>
+		<tool name="ebony wand" ability="magic" bonus="2" sell="780"/>
+		<tool name="cobalt wand" ability="magic" bonus="3" sell="1580"/>
+		
+		<header type="other"/>
+		<tool name="mandolin" ability="charisma" bonus="1" buy="300" sell="250"/>
+		<tool name="lockpicks" ability="thievery" bonus="1" buy="300" sell="250"/>
+		<tool name="holy symbol" ability="sanctity" bonus="1" buy="220" sell="80"/>
+		<tool name="compass" ability="scouting" bonus="1" buy="520" sell="430"/>
+		<item name="rope" buy="70" sell="25"/>
+		<item name="lantern" tags="light" buy="120" sell="70"/>
+		<item name="climbing gear" buy="120" sell="70"/>
+		<item name="bag of pearls" sell="80"/>
+		<item name="rat poison" buy="80" sell="30"/>
+		<item name="silver nugget" sell="190"/>
+	</market>
+	<p>To return to the city centre, <goto section="100"/>.</p>
+</section>

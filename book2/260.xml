@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="260">
+	You are walking along the bank of the River Grimm - called
+	the &#8216;River of Souls&#8217; because it is said to carry ghost barges laden
+	with the souls of the dead. <random type="travel"/>:
+	<outcomes>
+		<outcome range="2-6" section="548">Travellers from Sokara</outcome>
+		<outcome range="7-8" section="130">An uneventful journey</outcome>
+		<outcome range="9-12" section="573">River Wraiths</outcome>
+	</outcomes>
+</section>

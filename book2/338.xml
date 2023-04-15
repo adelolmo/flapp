@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="338">
+	The ground rises, becoming drier, and you realize you are
+	leaving the Magwort Fens.
+	<choices>
+		<choice section="306">Go north</choice>
+		<choice section="217">Go west to Wishport</choice>
+		<choice section="130">Go east</choice>
+	</choices>
+</section>

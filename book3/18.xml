@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="18">
+	<p>
+		The temple of Badogor is just a hut set in a clearing some distance from town. You enter to be instantly assailed by a horde of cultists whose teeth are as sharp as knife-points.
+	</p>
+	<p>
+		<difficulty ability="combat" level="17">
+			Make a COMBAT roll at a Difficulty of 17
+		</difficulty>
+		to fight your way to safety.
+	</p>
+	<outcomes>
+		<success section="37"/>
+		<failure section="123"/>
+	</outcomes>
+</section>

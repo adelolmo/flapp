@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="668">
+	<if codeword="Blemish">
+		If you have the codeword Blemish, <goto section="682"/>.
+	</if>
+	If not, <goto section="706"/>.
+</section>

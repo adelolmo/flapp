@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="219">
+	You slip, grab a handful of weathered rock that crumbles under
+	your fingers, and slide back down the ravine. Sharp rocks tear at
+	your clothing and batter your tumbling body.
+	<if item="rope|climbing gear" not="t">
+		Lose 3-18 Stamina points
+		(<lose stamina="3d">roll three dice</lose>)
+	</if>
+	<else>
+		unless you have <b>rope</b> or <b>climbing gear</b>, in which case
+		<lose stamina="1d">lose only 1-6 Stamina</lose>.
+	</else>
+	If still alive, <goto section="319"/>.
+</section>

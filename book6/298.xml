@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="298">
+	<p>
+		You are at the north-western tip of Toho Island, in desolate territory where no sane man would make his home.
+	</p>
+	<p>Choose your next move:</p>
+	<choices>
+		<choice section="554">South</choice>
+		<choice section="446">East</choice>
+		<choice section="319">South-east</choice>
+	</choices>
+</section>

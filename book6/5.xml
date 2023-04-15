@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="5">
+	You are on the lower slopes of the massive Kenen range. Even
+	here there is a dusting of snow on the pine trees. Further up you
+	can see long valleys stretching up the mountainsides, like
+	wounds gouged into the rock, where the wind whips up an
+	eternal mist of ice.
+	<choices>
+		<choice section="137">Descend</choice>
+		<choice section="185">Ascend</choice>
+	</choices>
+</section>

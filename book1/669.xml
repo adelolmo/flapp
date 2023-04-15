@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="669">
+	<p>
+		You are recognised by an official, and a few moments later, you are summoned to see the general himself! You are taken to the throne room, which has been converted to a military style headquarters.
+		<if codeword="Assist">
+			If you have the codeword Assist, <goto section="102"/> immediately.
+		</if>
+		If not, read on.
+	</p>
+	<p>
+		Grieve Marlock is a tall, hook-nosed man, with cold, penetrating green eyes.
+	</p>
+	<p>
+		&#8216;You come highly recommended by my brother, the governor of Yellowport - I was hoping you would turn up,&#8217; he says in a commanding voice. &#8216;You did me a great service by getting rid of that pompous fool, Nergan.
+	</p>
+	<p>
+		&#8216;Now there is one more thing I need you for. The Citadel of Velis Corin, which sits astride the Pass of Eagles in the far north, is under imminent attack from an army of the steppes. The attackers are a rag-tag bunch of malcontents - nomads, Mannekyn People, some trau even, and of course, the usual traitorous dogs still loyal to the old king - may his soul burn in the hells, ha, ha, ha!&#8217;
+	</p>
+	<p>
+		&#8216;I need you to go to the citadel, discuss the situation with Commandant Orin Telana, and do all you can to make sure that the citadel doesn&#8217;t fall. I&#8217;m relying on you!&#8217;
+	</p>
+	<p><tick codeword="Assist">Record the codeword Assist</tick>.</p>
+	<p>
+		<if item="coded missive">
+			If you have a <b>coded missive</b>, <goto section="677"/> immediately.
+		</if>
+		If not, you are escorted out. <goto section="100"/>.
+	</p>
+</section>

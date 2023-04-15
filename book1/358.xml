@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="358" image="358.jpg">
+	<p>
+		&#8216;Welcome to the City of the Trees,&#8217; says a passing woman, dressed in the garb of a druid.
+	</p>
+	<p>
+		The city has been built amid the branches of several mighty oaks. Ladders run up and down the trees to houses that perch like nests in the branches. You are not allowed into any houses, but the druids allow you to barter at the market.
+	</p>
+	<p>Items with no purchase price are not available locally.</p>
+	<market>
+		<header type="armour"/>
+		<armour name="leather" bonus="1" buy="50" sell="45"/>
+		<armour name="ring mail" bonus="2" sell="90"/>
+
+		<header type="weapon"/>
+		<weapon bonus="0" buy="50" sell="40"/>
+		<weapon bonus="1" buy="250" sell="200"/>
+
+		<header type="magic"/>
+		<tool name="amber wand" ability="magic" bonus="1" buy="500" sell="400"/>
+		<tool name="ebony wand" ability="magic" bonus="2" buy="1000" sell="800"/>
+		<tool name="cobalt wand" ability="magic" bonus="3" sell="1600"/>
+
+		<header type="other"/>
+		<tool name="mandolin" ability="charisma" bonus="1" sell="270"/>
+		<tool name="silver holy symbol" ability="sanctity" bonus="2" buy="800" sell="750"/>
+		<tool name="gold compass" ability="scouting" bonus="2" buy="900" sell="800"/>
+		<item name="rope" buy="50" sell="45"/>
+		<item name="lantern" tags="light" buy="100" sell="90"/>
+		<item name="silver nugget" sell="150"/>
+	</market>
+	<p>
+		<if profession="wayfarer">
+			When you are finished, if you are a Wayfarer by profession, <goto section="645"/>.
+		</if>
+		Otherwise you leave the City of Trees. <goto section="678"/>.
+	</p>
+</section>

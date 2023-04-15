@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="401">
+	<p>
+		&#8216;We&#8217;ve been on a diplomatic mission to Baroness Ravayne,&#8217; says the leader of the Sokaran group. &#8216;She&#8217;s promised sanctuary to our royal master if he should require it. Here, you must take this to him without delay.&#8217;
+	</p>
+	<p>You are handed a <item name="coded missive"/>. <goto section="287"/>.</p>
+</section>

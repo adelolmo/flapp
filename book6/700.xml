@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="700">
+	<p>
+		Loud shrieking laughter rings out from high above as a shower of pebbles, soil and pine cones is flung down on your head.
+		<random dice="1" var="x">Roll a die</random>:
+		the number you roll is
+		<lose stamina="x">how many Stamina points you lose</lose>,
+		regardless of armour.
+		<if var="x" equals="6">
+			<while var="y">
+				If you get a six,
+				<random dice="1" var="x">roll the die again</random>
+				and
+				<lose stamina="x">take that many Stamina points</lose> as well - rolling yet again if you get another six, and so on.
+				<if var="x" equals="6" not="t"><set var="y" value="1"/></if>
+			</while>
+		</if>
+	</p>
+	<p>
+		If you survive, you hear a fluttering as your attackers flit off into the depths of the wood. Soon you find a stream which must surely lead down towards the forest&#8217;s edge. <goto section="529"/>.
+	</p>
+</section>

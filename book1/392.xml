@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="392">
+	<p>
+		You pass your hands over the mad beggar, mumbling a prayer to the gods.
+	</p>
+	<p>
+		The beggar cries out, &#8216;A cloud has been lifted from my mind! The curse is dispelled! I remember all!&#8217;
+	</p>
+	<p>
+		His name, he tells you, is Akradai, the Azure Prince of the Horde of the Thundering Skies, nomads of the steppes. &#8216;I was cursed with madness by Shazir of the Ruby Citadel but now you have cured me!&#8217; he says. &#8216;I am forever in your debt!&#8217;
+	</p>
+	<p>
+		He leaves, with a parting cry, &#8216;Seek me on the steppes and I shall reward you.&#8217;
+	</p>
+	<p>
+		<tick codeword="StillInYellowport" hidden="t"/>
+		<tick codeword="Azure">Gain the codeword Azure</tick>.
+		<goto section="10"/>.</p>
+</section>

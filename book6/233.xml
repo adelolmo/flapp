@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="233" boxes="1">
+	<p>
+		It is with a feeling of exhilaration that you stride the snow-clad slopes just below the highest peaks. Blazing white snow makes the clear backdrop of the sky seem as dark as ink.
+	</p>
+	<p>
+		<if ticks="0">
+			If the box above is empty,
+			<tick>put a tick in it now</tick>
+			and <goto section="257"/>.
+		</if>
+		If it was already ticked, <goto section="88"/>.
+	</p>
+</section>

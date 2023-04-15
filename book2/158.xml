@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="158">
+	<p>
+		To renounce the worship of Tyrnai, you must pay 50 Shards to the priest. This purchases his intercession with the god on your behalf, so that Tyrnai does not strike you down.
+	</p>
+	<p>
+		<if god="Tyrnai">
+			If you renounce your initiate status, pay the <lose shards="50" price="x"/> and <lose god="Tyrnai" flag="x">delete Tyrnai from the God box</lose> on your Adventure Sheet. If you earlier arranged a resurrection here, it is cancelled with no refund.
+		</if>
+		When you have finished, <goto section="43"/>.
+	</p>
+</section>

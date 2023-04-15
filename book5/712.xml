@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="712">
+	<p><tick codeword="Expunge"/>.</p>
+	<p>
+		You manage to invoke the power of the runes, and the door opens. Beyond, you find three stone coffins. Inside each is a sleeping vampire. It is an easy matter to drive a stake through each of their black hearts, and rid the world of a dark evil.
+	</p>
+	<p>
+		You find their treasure hoard - <gain shards="200"/>,
+		a nugget of <item name="selenium ore"/>,
+		a suit of <armour name="chain mail" bonus="3"/>,
+		an <tool name="ebony wand" ability="magic" bonus="2"/>
+		and a book called the
+		<item name="Black Diptych">
+			<effect type="use" verb="Read" text="Court of Hidden Faces 410">
+				<desc><i>Court of Hidden Faces</i> <b>410</b></desc>
+				<goto book="5" section="410" hidden="t"/>
+		  	</effect>
+		</item>
+		It is a map of the tombs in the Crags of the Long Homes. Note the <b>Black Diptych</b>, <i>Court of Hidden Faces</i> <b>410</b>. Whenever you want to consult the book, note the paragraph you are at and <goto section="410" force="f"/>.
+	</p>
+	<p>
+		When you are ready, you journey on. <goto section="393"/>.
+	</p>
+</section>

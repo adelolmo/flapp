@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="426">
+	<p>You attempt a blessing in the name of Ebron.</p>
+	<p>
+		'Wait a minute,' one of them says. 'That's not the correct catechism!' They glare at you suspiciously.
+	</p>
+	<p>'Impostor!' screams one.</p>
+	<p>'Stinking blaspheming heretic!' howls another.</p>
+	<p>'Stone the apostate devil!' they all shout.</p>
+	<p>
+		You run for it, as the zealots start pelting you with rocks and stones. <lose stamina="3d">Lose 3-18 points of Stamina</lose> (the roll of three dice). If this kills you, <goto section="7" dead="t"/>.
+	</p>
+	<p>If you still live, you manage to escape.</p>
+	<p><goto section="589"/>.</p>
+</section>

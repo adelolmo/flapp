@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="100">
+	You are travelling through the mountains.
+	<choices>
+		<choice book="2" section="282">Go south</choice>
+		<choice section="643">Go north to the steppes</choice>
+	</choices>
+</section>

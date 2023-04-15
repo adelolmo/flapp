@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="309">
+	<p>
+		The road wends its way past countless numbers of farms, passing through villages where the peasants live well on their bountiful harvests.
+	</p>
+	<p><random type="travel"/> for encounters:</p>
+	<outcomes>
+		<outcome range="2-5" section="475">A loathly lady</outcome>
+		<outcome range="6-7" section="35">An uneventful journey</outcome>
+		<outcome range="8-12" section="500">A minstrel</outcome>
+	</outcomes>
+</section>

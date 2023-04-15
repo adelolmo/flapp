@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="634">
+	Two roads leave Chompo - for Narai, far west along the coat,
+	and Mukogawa to the south.
+	<choices>
+		<choice section="194">Take the road to Narai</choice>
+		<choice section="73">Set out for Mukogawa</choice>
+		<choice section="282">Go west over open country</choice>
+		<choice section="242">Explore the land to the east</choice>
+	</choices>
+</section>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="75">
+	The region between Delpton and Castle Ravayne is a
+	patchwork of tranquil fields and meadows. It seems that nothing
+	intrudes on the slow contented pace of daily life hereabouts, but
+	<random/> for encounters in any case:
+	<outcomes>
+		<outcome range="2-4" section="593">Molhern&#8217;s smithy</outcome>
+		<outcome range="5-8" section="97">Uneventful journey</outcome>
+		<outcome range="9-12" section="423">A rascal</outcome>
+	</outcomes>
+</section>

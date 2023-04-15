@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="169">
+	You approach the captain of a two-masted merchantman. He
+	looks you up and down and rubs his jaw thoughtfully. &#8216;Where
+	are you bound?&#8217; he asks. You soon discover that passage to
+	Dweomer or Marlock City will cost you 10 Shards, while
+	passage to either Yellowport or Aku costs 15 Shards. You can
+	pay the fare and set sail at once, or give up and review your
+	other options instead.
+	<choices>
+		<choice section="307" shards="15">Set sail for Yellowport</choice>
+		<choice section="261" shards="10">Set sail for Dweomer</choice>
+		<choice section="238" shards="15">Set sail for Aku</choice>
+		<choice section="215" shards="10">Set sail for Marlock City</choice>
+		<choice section="255">Don&#8217;t put to sea yet</choice>
+	</choices>
+</section>

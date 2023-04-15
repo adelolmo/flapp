@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="598">
+	<p>
+		You strip off, and wade into the bubbling waters. The effect is astonishing! You feel a sense of well-being coursing through your body. If you are suffering from disease or poison, you are <lose disease="*" poison="*">cured instantly</lose>, and can restore your abilities to normal.
+	</p>
+	<p>When you are ready to leave, <goto section="510"/>.</p>
+</section>

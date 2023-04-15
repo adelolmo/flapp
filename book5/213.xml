@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="213" image="213.JPG">
+	<p>
+		The Hall of Heroes is a large tavern that spans the Ruby River. It is really a bridge that has been built up into a many-roomed river hotel, with chambers overlooking the crimson waters of the river. The Ruby River is red with rusty ore, carried down from the Grumes.
+	</p>
+	<choices>
+		<choice section="303">Enter the hall</choice>
+		<choice section="11">Leave this area</choice>
+	</choices>
+</section>

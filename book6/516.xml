@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="516">
+	<p>
+		The place that mortals know as the Dragon Isle is in reality Horai. It is the home of the sea elves, who keep it veiled under a frightening illusion to deter visitors. You are able to see it as it really is: pretty green gardens dotted with crystal lakes and phantasmagoric woodland. The air is filled with perfume and sweet music and the animals are so tame that they will eat from your hand.
+	</p>
+	<p>
+		The sea elves come down to the shore to greet you - a carefree company in pastel silks with pale eyes and long hair that floats like golden mist on the breeze. They give you magic fruit that
+		<rest>restores your Stamina to normal</rest>
+		if you were injured. Also
+		<lose crew="-1">increase your crew&#8217;s quality by one step</lose>
+		(poor to average, average to good, or good to excellent).
+	</p>
+	<p>When you are ready to sail away, <goto section="122"/>.</p>
+</section>

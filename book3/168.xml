@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="168">
+	<p>
+		Lightning unfolds like vast snapping banners across a sky filled with wind-tossed clouds.
+		<if blessing="storm">
+			If you have a blessing of Safety from Storms,
+			<lose blessing="storm">cross it off</lose> and
+			<goto section="352"/>.
+		</if>
+	</p>
+	<p>
+		Otherwise splinters of lightning fall from the sky and leap along the spars.
+		<random dice="2">
+			<adjust item="copper ore" amount="1"/>
+		</random>;
+		add 1 to the roll if you possess a lump of <b>copper ore</b>.
+	</p>
+	<outcomes>
+		<outcome range="2-4" section="212">The mainmast topples</outcome>
+		<outcome range="5-10" section="135">
+			Several sailors lost;
+			<lose crew="3">reduce Crew Quality to poor</lose>
+		</outcome>
+		<outcome range="11+" section="123">Struck by lightning</outcome>
+	</outcomes>
+</section>

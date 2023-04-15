@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="436">
+	You must fend for yourself, surviving on little more than wild
+	berries and cold spring water while you scour the bleak hills.
+	<difficulty ability="scouting" level="14">
+		Make a SCOUTING roll at a Difficulty of 14
+	</difficulty>.
+	<outcomes>
+		<success section="546"/>
+		<failure section="601"/>
+	</outcomes>
+</section>

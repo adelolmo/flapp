@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="648" boxes="1">
+	<p>
+		<if ticks="1">If there is a tick in the box, <goto section="147"/> immediately.</if> If not, <tick>put a tick there now</tick>, and read on.
+	</p>
+	<p>You have picked up much information about the state of Uttaku.</p>
+	<p>
+		<tick codeword="Element">Tick the codeword Element</tick>
+		and <goto section="147"/>.
+	</p>
+</section>

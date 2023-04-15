@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="769">
+	<p>
+		You line up at a coconut shy, only instead of coconuts the cups contain human heads. When you point out to the stall-holder that this is a rather grisly joke, he can only shrug. &#8216;I am a worshipper of the god Nagil, and dead things do not revolt me in the least. Anyhow, look along the queue. There are plenty of people willing to throw a few balls if you&#8217;re not.&#8217;
+	</p>
+	<p>
+		You throw three balls and manage to win a
+		<item name="pirate captain's head"><b>pirate captain&#8217;s head</b></item>.
+		Note it on your Adventure Sheet and <goto section="199"/>.
+	</p>
+</section>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="252">
+	You lead them a merry chase through the backstreets of Yellowport but unfortunately for you, you ran smack dab into another patrol. You are captured and thrown into the dungeons to await your fate but not before the militiamen <lose shards="*" item="*">take all your money and possessions</lose>. <goto section="454"/>.
+</section>

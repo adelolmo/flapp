@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="657">
+	You make your way back down the silent corridors towards the
+	palace entrance. A glimmer of lamplight warns you that
+	someone is coming this way. You look around. The only place
+	to hide is behind a painted screen that shows hunters riding on
+	horseback across a landscape of clouds.
+	<choices>
+		<choice section="486">Hide behind the screen</choice>
+		<choice section="678">Stand your ground</choice>
+	</choices>
+</section>

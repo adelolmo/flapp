@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="630">
+	<tick price="a" hidden="t"/>
+	It is not easy for a person to find Gaman Monastery if his mind is
+	rooted in worldly matters. To locate the monastery you will
+	need either
+	<difficulty ability="scouting" level="15" force="f" flag="a">
+		a SCOUTING roll at Difficulty 15
+	</difficulty>
+	or
+	<difficulty ability="sanctity" level="13" force="f" flag="a">
+		a SANCTITY roll at Difficulty 13
+	</difficulty>.
+	<outcomes>
+		<success section="402">Successful roll</success>
+		<choice section="675">Failed roll (or not making the attempt)</choice>
+	</outcomes>
+</section>

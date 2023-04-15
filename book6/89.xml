@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="89">
+	<p>
+		You come across two knights in threadbare robes who are making a pilgrimage to the Clearwater Shrine. They invite you to travel with them.
+	</p>
+	<p>
+		<if item="ivory-handled katana">
+			If you have an <b>ivory-handled katana</b>, <goto section="115"/>.
+		</if>
+		If not, <goto section="138"/>.
+	</p>
+</section>

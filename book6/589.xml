@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="589">
+	<p>
+		The sky becomes overcast, casting a dreary shadow over the land. You sense the displeasure of the gods. <random dice="1"/>.
+	</p>
+	<outcomes>
+		<outcome range="1-2">
+			Ill-fated; <lose blessing="*">lose all blessings</lose>
+		</outcome>
+		<outcome range="3-4">
+			Doomed; <lose resurrection="t">lose resurrection deal</lose>
+		</outcome>
+		<outcome range="5">
+			Forsaken;
+			<group force="t">
+				<text>lose initiate status</text>
+				<tick god=""/>
+				<lose title="Initiate of the Sage of Peace"/>
+				<lose title="Chosen One of Nagil"/>
+			</group>
+			(if any)
+		</outcome>
+		<outcome range="6">
+			Cursed; <lose ability="stamina" amount="1">lose 1 Stamina permanently</lose>
+		</outcome>
+	</outcomes>
+	<p>
+		The gods treat mortals in the same way that small boys treat insects - toying with us for their amusement. <goto section="630"/>.
+	</p>
+</section>

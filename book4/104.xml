@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="104">
+	<p>
+		You slip on a loose tile; you and it crash to the ground with a shattering clatter.
+	</p>
+	<p>'Idiot!' hisses Luroc, as he scrambles back down.</p>
+	<p>
+		The noise has brought some guards, and at the sight of you, they raise a hue and cry.
+	</p>
+	<p>
+		'Run!' he screams and races off into the shadows, leaving you pursued by half a dozen armed men. You will have to try to lose them in the night.
+	</p>
+	<p><difficulty ability="scouting" level="14"/>.</p>
+	<outcomes>
+		<success section="133"/>
+		<failure section="168"/>
+	</outcomes>
+</section>

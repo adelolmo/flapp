@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="283">
+	<p>
+		You remember what you were taught about redcaps. They are found in old ruins where great battles have been fought in the past. The more blood spilt during the battle, the happier the redcaps are. They delight in carrying out murderous acts so they can dye their caps with the freshly spilt blood of their victims.
+	</p>
+	<p>
+		The only way to drive them away (short of killing them, that is) is with the holy texts of the gods. <difficulty ability="sanctity" level="13"/> to remember the relevant text.
+	</p>
+	<outcomes>
+		<success section="507"/>
+		<failure section="432"/>
+	</outcomes>
+</section>

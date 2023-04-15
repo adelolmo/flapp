@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="240">
+	You race down the side of the hill and launch yourself into the
+	fray. Even with you on their side, the knights are still
+	outnumbered. You will need to
+	<difficulty ability="combat" level="14"/>
+	to turn the tide of battle.
+	<outcomes>
+		<success section="217"/>
+		<failure section="140"/>
+	</outcomes>
+</section>

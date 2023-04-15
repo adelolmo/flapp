@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="188">
+	The guild here in Wheatfields does not only organize banking
+	facilities for its members. It also stimulates trade by putting
+	buyers and sellers in contact with each other. You soon learn
+	that the best buys locally are grain and furs.
+	<tick codeword="Brush">Acquire the codeword Brush</tick>.
+	<lose codeword="2.36.1" hidden="t"/>
+	<lose codeword="2.36.2" hidden="t"/>
+	<lose codeword="2.36.3" hidden="t"/>
+	<tick codeword="2.36.4" hidden="t"/>
+	<lose codeword="2.36.5" hidden="t"/>
+	<choices>
+		<choice section="49">Make an investment</choice>
+		<choice section="107">Check on investments</choice>
+		<choice section="36">Deposit or withdraw money</choice>
+		<choice section="71">Return to the town centre</choice>
+	</choices>
+</section>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="549">
+	<p>
+		You are washed up on the beaches near the city of Yarimura. With nowhere else to go, you head into the city.
+	</p>
+	<p><goto section="10"/>.</p>
+</section>

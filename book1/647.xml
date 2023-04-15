@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="647">
+	As you reach for the back of the golem&#8217;s head, it turns and grabs your arm, yanking you to the ground. Then it swings its club at your head.
+	<choices>
+		<choice section="349">Run away</choice>
+		<choice section="81">Fight the golem</choice>
+	</choices>
+</section>

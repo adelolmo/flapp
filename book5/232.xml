@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="232">
+	<p>
+		<set var="keepblessing" value="1" hidden="t"/>
+		Don't forget to <lose shards="15">pay the fare</lose> for your journey. The ship sets sail and is soon making good headway. <random dice="2" type="travel" var="x"/>.
+		<if not="t" var="keepblessing" equals="1">
+			<lose blessing="storm" hidden="t"/>
+		</if>
+	</p>
+	<outcomes>
+		<outcome range="2-3" var="x" section="321">Captured by slavers</outcome>
+		<outcome range="4-10" var="x" section="100">You reach Kunrir safely</outcome>
+		<outcome range="11-12" var="x" section="510" blessing="storm">The ship capsizes in a gale</outcome>
+	</outcomes>
+	<p>
+		<if var="x" greaterthan="10">
+			<if blessing="storm">
+				<set var="keepblessing" value="0" hidden="t"/>
+				If you roll 11-12 and have a blessing of Safety from Storms, lose the blessing and
+				<reroll/>.
+			</if>
+		</if>
+	</p>
+</section>

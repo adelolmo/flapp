@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="164">
+	Sailing away from the Unnumbered Isles after divers adventures.
+	<choices>
+		<choice section="504">Steer westwards</choice>
+		<choice section="402">Steer north towards the mainland</choice>
+		<choice section="42">Steer south for Ankon-Konu</choice>
+		<choice section="81">Steer east</choice>
+	</choices>
+</section>

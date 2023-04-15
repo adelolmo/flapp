@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="651">
+	<p>
+		The trau, realizing its fate, sinks into a dark clouding silence. You haul it off to the mines where the overseer, a fat, cruel-looking man, gives you <gain shards="150"/> for the trau.
+	</p>
+	<p>You return to town. <goto section="400"/>.</p>
+</section>

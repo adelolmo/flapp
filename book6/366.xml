@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="366">
+	A smiling monk approaches from the direction of the woods.
+	What makes this odd is that he is sitting cross-legged in
+	meditation and hovering through the air.
+	<if codeword="Fusty">
+		If you have the codeword Fusty, <goto section="15"/>.
+	</if>
+	If not, <goto section="405"/>.
+</section>

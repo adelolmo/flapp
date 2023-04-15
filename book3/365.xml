@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="365">
+	<p>
+		The matter is judged a draw. Neither you nor Talanexor are satisfied, but you must abide by the local duelling code. You stomp off without speaking a word to each other.
+	</p>
+	<p><goto section="571"/>.</p>
+</section>

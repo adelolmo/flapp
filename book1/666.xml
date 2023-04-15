@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="666">
+	<p>
+		A trader from the far north tells a story about a great wizard, Targdaz the Magnificent, who was tricked by a shaman of the Horde of the Thousand Winds on the Great Steppes.
+	</p>
+	<p>
+		&#8216;He imprisoned Targdaz inside a giant ruby, and proceeded to loot Targdaz&#8217;s tower. But in his stupidity, he opened the great wizard&#8217;s Casket of Imponderables, and unleashed a terrible storm that swept across the steppes, scattering many of the tribes far and wide. The shaman was killed, of course, but as far as anyone knows, Targdaz is still trapped in the ruby, waiting patiently for release - perhaps for another hundred years, who knows? One thing&#8217;s for certain - it won&#8217;t be me trying to get him out!&#8217;
+	</p>
+	<p>When you are ready, you can go:</p>
+	<choices>
+		<choice section="558">South</choice>
+		<choice section="347">North</choice>
+		<choice section="47">West in the Forest of Larun</choice>
+		<choice section="135">East to the lake and Cadmium</choice>
+	</choices>
+</section>

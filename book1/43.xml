@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="43">
+	<!-- Note that we don't check whether the player is
+	     actually wielding the magic weapon: see 309 -->
+	You must fight. Luckily, your magic weapon will be effective.
+	<fight name="Tomb Guardian" combat="6" defence="8" stamina="12"/>
+	If you win, <goto section="490"/>. If you lose, you are dead, unless you have a <resurrection>resurrection deal</resurrection>.
+</section>

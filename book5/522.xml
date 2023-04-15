@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="522" image="522.jpg">
+	<p>Cross off the money.</p>
+	<p>
+		You hold out the Shards. The skirits form a chain hanging down from the tree and the smallest, on the end, grabs the money. At the same time it spits on your shoe and giggles uncontrollably. The laughter ripples through the skirits, and the largest one anchoring them all to the tree lets go. Seconds later they are scurrying around on the floor like rodents, then they disappear into the hollow tree trunk in a panic.
+	</p>
+	<p>
+		The skirits have yet to tell you anything, so you reach in and grab one. He tells you to head to where the sun sets then head north when you reach the blue rock.
+	</p>
+	<p>
+		'You'll find a five-trunked popra tree - eat one of its berries, and you'll learn something,' squeaks the skirit.
+	</p>
+	<choices>
+		<choice section="361">Follow his instructions</choice>
+		<choice section="47">Move on</choice>
+	</choices>
+</section>

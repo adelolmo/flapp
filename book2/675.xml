@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="675">
+	A heavy hand descends on your shoulder. Hot blood-soaked
+	breath warms your neck but chills your spine.
+	<if item="peacock feather">
+		If you have a <b>peacock feather</b>, <goto section="699"/>.
+	</if>
+	<else>
+		Otherwise you are gobbled up suddenly by the fiend and that is the end of you, <goto section="560"/>.
+	</else>
+</section>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="55">
+	You remember that this is a trap set up by the cannibal cultists of Badogor. While one pretends to be hurt, two other skulk in the shadows, waiting to ambush the curious. Forewarned you are able to take them by surprise. You cut one down in seconds and the figure on the ground runs off with a shriek of terror. The third cultist, however, turns to fight you.
+	<fight name="Cultist" combat="3" defence="5" stamina="7"/>
+	If you win, you find a <item name="bag of pearls"/> on his body.
+	<tick codeword="StillInYellowport" hidden="t"/>
+	<goto section="10"/>.
+</section>

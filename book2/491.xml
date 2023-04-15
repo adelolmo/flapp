@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="491">
+	<p>
+		You wait in a long queue of courtiers who are being presented to Vanna. When it is your turn, she gives you a look of palpable displeasure, saying only a few curt words before passing on to the next person.
+	</p>
+	<p>
+		&#8216;How have I displeased the baroness?&#8217; you ask Sir Debrumas as he shows you out.
+	</p>
+	<p>
+		&#8216;Return with better tidings next time you come,&#8217; is all he will say. <goto section="315"/>.
+	</p>
+</section>

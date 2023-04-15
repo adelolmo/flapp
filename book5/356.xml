@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="356">
+	<p>
+		You have an uneasy feeling - a gnawing in the pit of your stomach. You feel your throat tighten - an avenging ghost, the hangman of the Shadar, has caught up with you after your desecration of the tombs in the Crags of the Long Homes! A tall shadow approaches you. You know that unless you lift this curse, this will not be the last time he attacks. You must fight.
+	</p>
+	<fight name="The Hangman" combat="10" defence="12" stamina="25"/>
+	<p>
+		<fightdamage type="replace">
+			Each time the hangman strikes you, do not lose Stamina - instead, subtract 1 point from one of your abilities permanently (<random dice="1" var="A">roll one die</random> to choose which one;
+			<if var="A" equals="1">1 -
+				<lose ability="charisma" amount="1" fatal="t">
+					CHARISMA
+			</lose></if>;
+			<if var="A" equals="2">2 -
+				<lose ability="combat" amount="1" fatal="t">
+					COMBAT
+			</lose></if>;
+			<if var="A" equals="3">3 -
+				<lose ability="magic" amount="1" fatal="t">
+					MAGIC
+			</lose></if>;
+			<if var="A" equals="4">4 -
+				<lose ability="scouting" amount="1" fatal="t">
+					SCOUTING
+			</lose></if>;
+			<if var="A" equals="5">5 -
+				<lose ability="sanctity" amount="1" fatal="t">
+					SANCTITY
+			</lose></if>;
+			<if var="A" equals="6">6 -
+				<lose ability="thievery" amount="1" fatal="t">
+					THIEVERY
+			</lose></if>).
+			If any ability falls to zero, you have paid the ultimate price - death - for your sacrilege.
+		</fightdamage>
+	</p>
+	<p>If you lose, <goto section="7" dead="t"/>.</p>
+	<p>
+		If you defeat the hangman, the tightening around your throat eases - but not fully. Will you ever be rid of the hangman? Now <return>turn back</return> to the paragraph you noted.
+	</p>
+</section>

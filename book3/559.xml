@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="559">
+	<p>
+		The enemy ship&#8217;s hold is full of slaves, many of whom are wealthy men. You are rewarded with <gain shards="950"/> for freeing them.
+	</p>
+	<p>
+		&#8216;What shall we do with the surviving Uttakin, cap&#8217;n?&#8217; asks the master at arms.
+	</p>
+	<p>
+		&#8216;Leave them to the mercy of their former captives,&#8217; you tell him. &#8216;We&#8217;ve bigger fish to fry elsewhere.&#8217;
+	</p>
+	<p>
+		<set var="r" value="rank" modifier="natural"/>
+		After surviving such a tough scrape you might go up in Rank.
+		<random dice="2" var="roll"/>,
+		<if var="roll" greaterthan="r">
+			and if the result is greater than your current Rank then you <gain ability="rank" amount="1">gain a Rank</gain>. You also
+			<gain ability="stamina" amount="1d">gain 1-6 Stamina points permanently</gain>: increase your normal (unwounded) Stamina score by the roll of one die. Remember that going up a Rank increases your Defence by 1.
+		</if>
+	</p>
+	<p>
+		Once you have made the necessary adjustments to your Adventure Sheet, <goto section="300"/>.
+	</p>
+</section>

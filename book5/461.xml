@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="461">
+	<p>
+		You borrow a rod and line, cast a spell on the fishing hook, and sure enough, you catch a fish. When you cut it open, you find the diamond ring inside! The princess squeals with delight, and claps her hands. She gives you a <item name="courtier's mask"/>, a <item name="scroll of Ebron"/> and <gain shards="20"/> before wending her way back to the palace.
+	</p>
+	<p>You head back to town. <goto section="444"/>.</p>
+</section>

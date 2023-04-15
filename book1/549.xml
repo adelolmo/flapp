@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="549">
+	<p>
+		The priestess, dressed in a cloak made entirely of the leaves of trees, with her face smeared with moss, greets you. &#8216;A tusk!&#8217; she exclaims. &#8216;But I have no need of another.&#8217;
+	</p>
+	<p>
+		You ask if she might need it for the next time. &#8216;Next time? Mmm, maybe you have a point.&#8217;
+	</p>
+	<p>
+		She offers you 15 Shards. If you accept,
+		<group>
+			<text>cross off the <b>boar&#8217;s tusk</b></text>
+			<tick shards="15"/>
+			<lose item="boar's tusk"/>
+		</group>. Either way, when you leave, <goto section="195"/>.
+	</p>
+</section>

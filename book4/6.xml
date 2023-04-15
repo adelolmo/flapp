@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="6">
+	<p>
+		The interior of the cave is jet black and has the pungent small of ammonia. 'Bat guano...' breathes the bosun with a shudder. 'I hate bats.'
+	</p>
+	<p>
+		Without a source of light, such as a <b>candle</b> or <b>lantern</b>, you are unable to proceed.
+	</p>
+	<choices>
+		<choice section="115" item="?" tags="light">Proceed with a source of light</choice>
+		<choice section="191">Return to the ship</choice>
+		<choice section="41">Push further inland</choice>
+	</choices>
+</section>

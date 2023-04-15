@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="189">
+	<p>
+		A strong tropical wind strains the sails. &#8216;Best we strike the topsail,&#8217; says the mate. &#8216;If a storm hits we&#8217;re in danger of capsizing.&#8217;
+	</p>
+	<p><random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-4" section="174">Storm</outcome>
+		<outcome range="5-8" section="209">Nothing of note</outcome>
+		<outcome range="9-12" section="106">Madness</outcome>
+	</outcomes>
+</section>

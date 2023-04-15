@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="215">
+	<p>
+		Inside the cave is a stone sarcophagus that smells of brimstone and ammonia. Strewn around it, spotted with bat droppings and gobbets of rancid gristle, are piles of gold plate, coin and jewellery. Rubies sparkle like drops of black blood in the rays of the rising moon. Emeralds gleam like myriad cats&#8217; eyes. Sapphires are strewn about like crystalline petals.
+	</p>
+	<p>
+		The total value of the haul is <gain shards="6000"/>.
+		Add this to your petty cash and <goto section="41"/>.
+	</p>
+</section>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="98">
+	<p>The soldier recognizes you and bows.</p>
+	<p>
+		&#8216;My lord,&#8217; he says, &#8216;We are a small group now, left here to act as raiders behind enemy lines. Thanks to your heroic actions, the Citadel of Velis Corin is now ours - the king has moved his court there. Go to the citadel if you would speak with the king.&#8217;
+	</p>
+	<p>
+		There is nothing else of interest in the mountains, so you return to the foothills. <goto section="474"/>.
+	</p>
+</section>

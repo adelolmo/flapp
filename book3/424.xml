@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="424">
+	<p>
+		The rider is an adventurer from Atticala, the lands that lie across the Sea of Stilts.
+	</p>
+	<p>
+		&#8216;I am flying to the top of Sky Mountain,&#8217; he declares, &#8216;where I expect to confront the gods themselves!&#8217;
+	</p>
+	<choices>
+		<choice section="367">Ask to go with him</choice>
+		<choice section="385">Advise him not to go</choice>
+		<choice section="135">Bid him farewell</choice>
+	</choices>
+</section>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="194">
+	The road curves down towards Chompo with farmland to either side.
+	Where now?
+	<choices>
+		<choice section="59">To Chompo</choice>
+		<choice section="98">To the coast</choice>
+		<choice section="242">Due east</choice>
+		<choice section="282">Due west</choice>
+	</choices>
+</section>

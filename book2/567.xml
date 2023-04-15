@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="567">
+	<if not="t" codeword="2.567.1b">
+		<if item="scarab amulet">
+			<tick codeword="2.567.1a" hidden="t"/>
+		</if>
+		<else><lose codeword="2.567.1a" hidden="t"/></else>
+	</if>
+	<if not="t" codeword="2.567.2b">
+		<if item="coral-red tresses">
+			<tick codeword="2.567.2a" hidden="t"/>
+		</if>
+		<else><lose codeword="2.567.2a" hidden="t"/></else>
+	</if>
+	<if not="t" codeword="2.567.3b">
+		<if item="golden katana">
+			<tick codeword="2.567.3a" hidden="t"/>
+		</if>
+		<else><lose codeword="2.567.3a" hidden="t"/></else>
+	</if>
+	<if codeword="2.567.1b"><if codeword="2.567.2b"><if codeword="2.567.3b">
+				<tick codeword="2.567.4b" hidden="t"/>
+	</if></if></if>
+	You tell Estragon you have brought him an item he needs for
+	his experiments. Before turning to the entry listed here, put a
+	tick in the box to remind you you&#8217;ve completed that errand.
+	(You can&#8217;t run the same errand twice!)
+	<i>[I've modified this to only enable the appropriate choices --Ed]</i>
+	<choices>
+		<choice box="2.567.1a" section="515"><b>scarab amulet</b></choice>
+		<choice box="2.567.2a" section="589"><b>coral-red tresses</b></choice>
+		<choice box="2.567.3a" section="637"><b>golden katana</b></choice>
+		<choice section="540">None of these items</choice>
+		<choice section="390" box="2.567.4b">If all boxes ticked</choice>
+	</choices>
+</section>

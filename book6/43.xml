@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="43">
+	<if cache="6.455" shards="100">
+		If you bought the <item name="dragon mask"/>,
+		remember to add it to your list of possessions.
+		Then, if you paid the actor more than 250 Shards,
+		<if cache="6.455" shards="251">
+			<goto section="232"/>.
+		</if>
+	</if>
+	Otherwise <goto section="397"/>.
+</section>

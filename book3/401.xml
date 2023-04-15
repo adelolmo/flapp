@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="401">
+	<p>
+		Lauria goes through a doorway. A few moments later an upstairs light comes on and you see her outlined against the window pane. You glance around to find out the name of the street, but you can hardly see ten paces because of the dense fog.
+	</p>
+	<p>
+		The light goes out. You wait outside until Lauria must be asleep, then you let yourself into the house and tiptoe upstairs. <difficulty ability="thievery" level="13"/>.
+	</p>
+	<outcomes>
+		<success section="421"/>
+		<failure section="514"/>
+	</outcomes>
+</section>

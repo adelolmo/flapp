@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="117">
+	<lose codeword="CharismaBonus" hidden="t"/>
+	Small glassy eyes peer back at you from the darkness above the
+	rafters.
+	<difficulty ability="charisma" level="17" force="f">
+		Make a CHARISMA roll at a Difficulty of 17<adjust name="CharismaBonus"/>
+	</difficulty>.
+	You can <tick name="CharismaBonus" count="1" flag="x">add 1 to the dice roll</tick> for every <lose shards="50" price="x">50 Shards</lose> you offer to tempt the creatures down (remember to cross the money off).
+	<field name="CharismaBonus" label="Bonus for offering"/>
+	<outcomes>
+		<success section="165"/>
+		<failure section="141"/>
+	</outcomes>
+</section>

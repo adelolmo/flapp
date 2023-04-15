@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="637">
+	You utter a curse of undeflectable force and the aged scholar falls
+	clutching his heart. You search his body and find a
+	<tool name="spirit mirror" ability="magic" bonus="4"/>.
+	Add this to your list of possessions if you
+	want it. Now it is time you made yourself scarce: <goto section="79"/>.
+</section>

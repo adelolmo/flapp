@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="186">
+	<p>
+		The knights demand satisfaction. One of them stands back as his cousin advances with drawn sword. At least it looks like you will get a fair fight, since they are not both attacking you at once. Fight them one at a time.
+	</p>
+	<fight name="First Knight" combat="7" defence="13" stamina="14"/>
+	<fight name="Second Knight" combat="8" defence="14" stamina="17"/>
+	<p>
+		<if dead="f">
+			If you defeat them you can have their two sets of
+			<armour name="ring mail" bonus="2" quantity="2"/>
+			and their
+			<weapon name="sword" quantity="2"><b>swords</b></weapon>.
+			There is also a pouch containing <gain shards="9"/>.
+		</if>
+	</p>
+	<p>After looting the bodies, <goto section="243"/>.</p>
+</section>

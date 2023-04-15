@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="376">
+	At last you locate a narrow winding path which leads to the
+	Abbey of Lacuna. The moss-covered roofs of the abbey building
+	loom above a hedgerow. As you approach the broad wooden
+	lich-gate, you see nuns in their green-and-brown robes working
+	in the gardens. <goto section="61"/>.
+</section>

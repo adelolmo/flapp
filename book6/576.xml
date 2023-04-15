@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="576">
+	<p>
+		You go to your personal apartments, located in the east wing of the palace.
+	</p>
+	<p>
+		Outside your room is a terrace that overlooks a serene courtyard of raked white sand on which rocks have been laid out in a mystical pattern. The pattern is supposed to represent the forces of nature and you find it relaxing to gaze on while meditating.
+	</p>
+	<p>
+		<tick special="lock" cache="6.576" hidden="t"/>
+		You can rest in your apartment to
+		<rest>recuperate</rest>
+		any lost Stamina points. Also you can leave money and possessions here to save having to carry them around with you. Each time you return,
+		<random dice="2"/>.
+	</p>
+	<outcomes>
+		<outcome range="2">You receive a gift of <gain shards="50"/></outcome>
+		<outcome range="3">
+			Bad tidings;
+			<goto section="739">turn immediately to 739</goto>
+		</outcome>
+		<outcome range="4-9">Everything is fine</outcome>
+		<outcome range="10-12">
+			There has been a fire;
+			<lose item="*" shards="*" cache="6.576">
+				cross off any money and possessions
+			</lose>
+			left here
+		</outcome>
+	</outcomes>
+	<p>
+		<tick special="unlock" cache="6.576" hidden="t"/>
+		When you are ready to leave, <goto section="79"/>.
+	</p>
+	<itemcache name="6.576" text="Apartments"/>
+</section>

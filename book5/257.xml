@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="257">
+	You get in and out without being spotted. You come away with <gain shards="500"/>, a <tool name="gold holy symbol" ability="sanctity" bonus="3"/> and a <weapon name="hero's sword" bonus="3"/>. You hurry back to the archives to complete your book. <goto section="301"/>.
+</section>

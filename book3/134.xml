@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="134">
+	If you have a ship docked at Smogmaw you can either put to sea
+	or sail upriver. Alternatively you may be able to hire passage
+	aboard a merchant ship. In either case you will need to go to the
+	quayside. It is also possible to travel on from here on foot, of
+	course, but you are warned that the hinterland consists of wild
+	jungle and dangerous marshes.
+	<choices>
+		<choice section="71">Go to the quayside</choice>
+		<choice section="90">Travel overland</choice>
+		<choice section="44">Remain in Smogmaw</choice>
+	</choices>
+</section>

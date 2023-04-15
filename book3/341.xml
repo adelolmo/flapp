@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="341">
+	<p><lose codeword="Coracle">Lose the codeword Coracle</lose>.</p>
+	<p>
+		You put into a bay on a small uncharted island. Going ashore to replenish your supplies, you come across a huge serpent with skin like tree-bark lying in the shade of the trees. It watches you with cold intensity.
+	</p>
+	<p>&#8216;Shall we kill it, skipper?&#8217; asks the master of arms.</p>
+	<choices>
+		<choice section="328">Have the men attack it</choice>
+		<choice section="211">Kill it yourself</choice>
+		<choice section="125">Leave without disturbing it</choice>
+	</choices>
+</section>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="190">
+	<p>
+		Cross off the <lose item="amulet of Ebron"/>. Holyamu casts a spell, and a large pool of glittering silvery water, heavy and viscous like mercury, appears on the floor.
+	</p>
+	<p>
+		'All you have to do is dive in!' he says with a giggle. 'I've set it to take you back a thousand years.'
+	</p>
+	<p>You step into the pool. <goto section="2"/>.</p>
+</section>

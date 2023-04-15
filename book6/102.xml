@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="102">
+	<p>
+		Akatsurai is an empire comprising three islands. You are sailing close to the straits that separate the southern island from the rest of the country.
+	</p>
+	<p>
+		<rest stamina="1">Recover 1 Stamina point</rest> if injured,
+		then <random type="travel"/>.
+	</p>
+	<outcomes>
+		<outcome range="2-10" section="443">Peace and quiet</outcome>
+		<outcome range="11-12" section="145">Pirates</outcome>
+	</outcomes>
+</section>

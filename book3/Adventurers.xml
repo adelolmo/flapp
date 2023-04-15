@@ -1,0 +1,27 @@
+<adventurers>
+  <abilities>
+    <header>Charisma Combat Magic Sanctity Scouting Thievery</header>
+    <profession name="Priest">5 3 4 7 5 2</profession>
+    <profession name="Mage">3 3 7 1 6 4</profession>
+    <profession name="Rogue">6 5 5 2 3 7</profession>
+    <profession name="Troubadour">7 4 5 4 3 5</profession>
+    <profession name="Warrior">4 7 2 5 4 3</profession>
+    <profession name="Wayfarer">3 6 3 4 7 5</profession>
+  </abilities>
+  <stamina amount="16"/>
+  <rank amount="3"/>
+  <gold amount="40"/>
+  <items>
+    <weapon name="sword"/>
+    <armour name="chain mail" bonus="3"/>
+    <item name="map"/>
+  </items>
+  <starting>
+	  <adventurer name="Jaluda the Black" profession="Warrior" gender="F"/>
+	  <adventurer name="Damontir the Mad" profession="Mage" gender="M"/>
+	  <adventurer name="Arcadia Ego" profession="Priest" gender="F"/>
+	  <adventurer name="Silas Cumberbatch" profession="Troubadour" gender="M"/>
+	  <adventurer name="Greymalkin Smith" profession="Rogue" gender="M"/>
+	  <adventurer name="Varkung of Metriciens" profession="Wayfarer" gender="M"/>
+  </starting>
+</adventurers>

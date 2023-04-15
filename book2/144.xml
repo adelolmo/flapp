@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="144">
+	You sail downriver until you reach Delpton. You can disembark
+	here or remain on board as the boat heads further south.
+	<choices>
+		<choice section="6">Get out at Delpton</choice>
+		<choice section="121">Continue downriver</choice>
+	</choices>
+</section>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="438">
+	<p>
+		You are travelling across the farmland between Aku and the Ruby River. The occasional village and summer lodge breaks up the monotony of the grain fields. The peasants are bonded serfs, working for the landowners, the masked lords of Uttaku.
+	</p>
+	<p><random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-5" section="505">An unbidden visitation</outcome>
+		<outcome range="6-7" section="443">No event</outcome>
+		<outcome range="8-12" section="212">A wizard's workshop</outcome>
+	</outcomes>
+</section>

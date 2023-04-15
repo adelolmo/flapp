@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="232">
+	<p>
+		You help yourself to the pirates&#8217; treasure, which amounts to
+		<gain shards="250"/>. Record it on your Adventure Sheet.
+	</p>
+	<p>
+		Their ship&#8217;s hold contains
+		<buy cargo="spices" shards="0" quantity="2">
+			2 Cargo Units of spices
+		</buy>, which you can add to your own cargo if your ship has enough room for them.
+	</p>
+	<p>
+		Once you have made the necessary adjustments to your Adventure Sheet, <goto section="245"/>.
+	</p>
+</section>

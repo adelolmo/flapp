@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="668">
+	<p>
+		You are travelling across the plains. To the south lie the mountains of the Spine of Harkun, with white-peaked Sky Mountain towering above the rest.
+	</p>
+	<p>Night falls, and you make camp.</p>
+	<p>
+		The plains are flat and desolate, and you need to hunt for food.
+		<difficulty ability="scouting" level="11"/>.
+		<success>If you succeed, you find a grouse to eat.</success>
+		<failure>
+			If you fail, you go hungry and must <lose stamina="1">lose 1 Stamina point</lose>.
+		</failure>
+	</p>
+	<p>
+		If you still live, the new day dawns. Sky Mountain casts its morning shadow over you.
+	</p>
+	<choices>
+		<choice section="266">Go west</choice>
+		<choice section="145">Go east</choice>
+		<choice section="44">Go north</choice>
+		<choice section="175">Climb up Sky Mountain</choice>
+	</choices>
+</section>

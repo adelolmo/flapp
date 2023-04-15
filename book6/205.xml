@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="205">
+	You walk around the corner out of sight, melt into the shadows
+	and double-back into the mansion. But Kiyomori has not risen
+	to be dictator of Akatsurai by being careless, and there are guards
+	at the end of every corridor.
+	<difficulty ability="thievery" level="16">
+		Make a THIEVERY roll at a Difficulty of 16
+	</difficulty>.
+	<outcomes>
+		<success section="670"/>
+		<failure section="693"/>
+	</outcomes>
+</section>

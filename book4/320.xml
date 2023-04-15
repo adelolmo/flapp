@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="320">
+	<p>
+		<if codeword="Diamond">
+			If you have the codeword Diamond, <goto section="687"/>.
+		</if>
+		If not, read on.
+	</p>
+	<p>
+		You have come to the ice-bound shores of the Rimewater. The lake is completely frozen over, and the ice has a strange sheen to it. Three sluggish rivers, thick with half-frozen water, debouch into the lake from the north. On the southern shore of the lake sits a small complex of buildings, from which smoke spirals into the clear, crisp sky - the ice mine.
+	</p>
+	<choices>
+		<choice section="373">Visit the ice mine</choice>
+		<choice section="91">Go north to the river plain</choice>
+		<choice book="5" section="35">Head into the mountains</choice>
+	</choices>
+</section>

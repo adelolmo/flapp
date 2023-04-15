@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="449">
+	<p>
+		From your hiding-place you watch the man with the lamp glide past. He is tall and thin as a candle, with deep-set eyes and a face of ascetic concentration. From his bizarrely patterned robes you guess he might be a sorcerer - that, and the way the lantern floats obediently in the air just above his head. A good thing you stayed out of sight.
+	</p>
+	<p>You slip out into the street. <goto section="79"/>.</p>
+</section>

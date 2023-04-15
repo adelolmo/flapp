@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="394">
+	<p>
+		An insane old man dressed in a long grey robe comes stumbling up the path towards you waving a stout stick. His spittle-streaked beard and wild mane of hair remind you of the temple images of Nagil, the Lord of the Departed.
+	</p>
+	<p>
+		&#8216;The world will soon end!&#8217; he cries. &#8216;What will it profit you then to have the goodwill of the gods? They are doomed just as we are, fool!&#8217;
+	</p>
+	<p>
+		He touches you with his stick and barges past, disappearing around a bend in the trail. When you hurry to catch up, you find he has vanished.
+	</p>
+	<p>
+		<lose blessing="*" resurrection="t">
+			Lose any blessings or resurrection arrangements you had
+		</lose>, then
+		<goto section="172"/>.
+	</p>
+</section>

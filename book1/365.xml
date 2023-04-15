@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="365">
+	<p>
+		Sul Veneris wakes up the moment you remove the stake. He rips the other stakes out of the ground, and soars into the air, with a shout like a clap of thunder. He swings his hammer around his head, and bolts of lightning leap forth to strike the storm demons.
+	</p>
+	<p>
+		As he rises into the clouds in pursuit of the demons, a bolt of lightning streaks from his hand and strikes you full force! You are thrown backwards but to your amazement you are unhurt. In fact, you feel empowered by the blast. <gain ability="stamina" amount="3">Gain 3 points of Stamina permanently</gain>.
+	</p>
+	<p>
+		You have freed Sul Veneris, the Lord of Thunder. <tick codeword="Aloft">Record the codeword Aloft</tick> before climbing down to the bottom. <goto section="658"/>.
+	</p>
+</section>

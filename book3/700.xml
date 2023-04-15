@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="700">
+	The crewmen are all dead, leaving you alone on your ship. You
+	cannot sail her without help. In the rowboat it is possible you
+	might be able to reach the mainland, but that would mean
+	abandoning your cargo and supplies.
+	<choices>
+		<choice section="423">Put to sea in the rowboat</choice>
+		<choice section="518">Remain aboard the ship</choice>
+	</choices>
+</section>

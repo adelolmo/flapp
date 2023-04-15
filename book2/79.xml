@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="79">
+	From Metriciens, you have the option to put to sea or journey
+	overland. To travel by sea, you must either posses a ship which
+	is docked in the harbour here (check your Adventure Sheet) or
+	find a sea captain who is willing to take you as his passenger.
+	<choices>
+		<choice section="33">Go to the harbour</choice>
+		<choice section="32">Take the coast road west</choice>
+		<choice section="147">Take the road to Wheatfields</choice>
+		<choice section="216">Take the road to Haggart&#8217;s Corner</choice>
+	</choices>
+</section>

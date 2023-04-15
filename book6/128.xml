@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="128" dock="Kaiju">
+	Beyond the warehouses and shipyards lining the seafront, you
+	can see the pretty blue-lacquered lodges of Kaiju rising up the
+	high tree-lined slopes at the back of the bay.
+	<choices>
+		<choice section="270">Go into town</choice>
+		<choice section="153">Visit the warehouses</choice>
+		<choice section="105" sail="t">Go aboard your ship (if docked here)</choice>
+		<choice section="176">Buy a ship</choice>
+		<choice section="199">Pay for passage on a ship</choice>
+	</choices>
+</section>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="375">
+	<if god="Sig"><tick codeword="2.375.1" hidden="t"/></if>
+	<else><lose codeword="2.375.1" hidden="t"/></else>
+	To renounce the worship of Sig, you must pay 50 Shards in
+	compensation to the priesthood. &#8216;You will also lose the good
+	will of the deity,&#8217; the high priest warns you darkly.
+	<choices>
+		<choice section="347">Stay an intiate after all</choice>
+		<choice shards="50" box="2.375.1" section="59">Pay 50 Shards and renounce your faith</choice>
+	</choices>
+</section>

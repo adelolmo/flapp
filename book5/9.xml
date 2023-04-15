@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="9">
+	<p>
+		The High King dispatches his retinue to open the castle rooms. Meanwhile, he climbs with you to the battlements and surveys the realm.
+	</p>
+	<p>
+		'The people have suffered in my absence,' he says. 'That will change. In the ages of mankind, as in nature, each time has its season. The winter of evil is passed; the age of prosperity is dawning again.'
+	</p>
+	<p>'And the Uttakin, my liege?' you ask him.</p>
+	<p>
+		He stares bleakly towards the west. 'Decadence has sapped their fighting spirit. The conquerors who swept us from our land have left feeble progeny. Soon I shall visit the sins of the fathers on those sons of Aku.'
+	</p>
+	<p>
+		The High King takes his leave, to organize the refit of the castle. Within a few days the whole place has been returned to its former glory. <goto section="112"/>.
+	</p>
+</section>

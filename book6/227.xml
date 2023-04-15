@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="227">
+	<p>
+		You examine the flute. Sometimes these old heirlooms lie untended in a drawer for years. You are careful to blow all the dust out of it before starting to play.
+	</p>
+	<p><goto section="324"/>.</p>
+</section>

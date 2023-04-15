@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="314">
+	<p>
+		The tavern is just a wooden hut with curtains of woven pandanus leaves serving as partitions. Customers sit or squat on mats on the floor. The place reeks of sharp liquor and pipe smoke.
+	</p>
+	<p>
+		<if codeword="Church">
+			If you have the codeword Church, <goto section="331"/>.
+		</if>
+	</p>
+	<p>
+		If not, you can get a bed here for
+		<lose shards="1" price="x">1 Shard a day</lose>. Each day you spend resting at the tavern, <random dice="1" flag="x"/>.
+	</p>
+	<outcomes>
+		<outcome flag="x" range="1">
+			Dysentery;
+			<lose stamina="1">lose 1 Stamina point</lose>
+		</outcome>
+		<outcome flag="x" range="2">No gain or loss of Stamina</outcome>
+		<outcome flag="x" range="3-6">
+			A good rest;
+			<rest stamina="1">recover 1 Stamina</rest> if injured
+		</outcome>
+	</outcomes>
+	<p>When you are ready to leave, <goto section="44"/>.</p>
+</section>

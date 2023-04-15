@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="213">
+	The pedlar is a nomad trapper, heading for Yarimura. He'll sell you a <buy item="wolf pelt" shards="75" quantity="1"/> for 75 Shards if you want to buy one. When you are ready, <goto section="144"/>.
+</section>

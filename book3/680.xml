@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="680" boxes="1">
+	<p>You reach the chamber at the top of the tower.</p>
+	<p>
+		<if ticks="1">
+			If the box above was already ticked,
+			immediately <goto section="662"/>.
+		</if>
+	</p>
+	<p>
+		If the box is empty there is a wand sealed here inside a crystalline casket. You can attempt to open it by
+		<group>
+			<text>making a MAGIC roll at Difficulty 16</text>
+			<difficulty ability="magic" level="16"/>
+			<gain price="x" hidden="t"/>
+		</group>.
+	</p>
+	<p>
+		<success>
+			If you succeed, <tick>put a tick in the box</tick>
+			and then <goto section="644"/>.
+		</success>
+		<failure>
+			If you fail, leave the box empty and <goto section="626"/>.
+		</failure>
+		Or you can just leave the tower, <goto section="407" price="x"/>.
+	</p>
+</section>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="298">
+	Tendrils of magical force hold you rooted to the spot. The
+	corpse&#8217;s bleak gaze burrows into your soul like a maggot into
+	decaying flesh. To escape its clutches you must
+	<difficulty ability="magic" level="15"/>.
+	<outcomes>
+		<success section="321"/>
+		<failure section="275"/>
+	</outcomes>
+</section>

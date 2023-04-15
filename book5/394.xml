@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="394">
+	The chest is enchanted in some way, 
+	but you cannot divine its exact nature.
+	<choices>
+		<choice section="638">Open it</choice>
+		<choice section="346">Rebury it and leave</choice>
+	</choices>
+</section>

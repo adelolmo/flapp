@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="634">
+	<p>
+		The ship grinds to a halt as submerged rocks rip her open below the waterline.
+	</p>
+	<p>
+		'Abandon ship!' cries the bosun as water gushes up out of the hold.
+	</p>
+	<p>
+		The crew gets safely to shore in time to watch the ship keel over and lodge half-sunk in the harbour entrance.
+	</p>
+	<p>
+		'Can you pay to have your vessel refloated and repaired?' asks an Uttakin overseer. 'If not we'll have to break her up - she's a danger to shipping.'
+	</p>
+	<p>
+		The cost of salvaging the ship is
+		<group>
+			<text>90 Shards</text>
+			<lose shards="90"/>
+			<lose cargo="grain"/>
+			<lose cargo="textiles"/>
+			<lose cargo="spices"/>
+			<lose cargo="slaves"/>
+			<set dock="Aku"/>
+		</group>.
+		If you can't afford that,
+		<lose ship="t">cross her off the Ship's Manifest</lose>
+		along with any cargo. If you do salvage the ship, note that she is docked at Aku. If you were carrying Cargo Units of grain, textiles, spices or slaves they are lost.
+	</p>
+	<p><goto section="88"/></p>
+</section>

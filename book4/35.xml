@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="35">
+	<p>
+		<if codeword="Deep|Dim">
+			If you have the codeword Deep or Dim, <goto section="289"/>.
+		</if> If not, read on.
+	</p>
+	<p>
+		You come to a network of underground tunnels that run under the mountains. It is pitch dark, and you must have a <b>lantern</b> or <b>candle</b> to proceed.
+	</p>
+	<choices>
+		<choice section="174" item="?" tags="light">Explore the tunnels</choice>
+		<choice section="558">No source of light</choice>
+	</choices>
+</section>

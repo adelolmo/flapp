@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="596">
+	<p>
+		You are bitten by a large spider which drops from the door handle on to your wrist. Its venom causes your hand to go stiff, the fingers permanently crooked.
+		<if blessing="poison" not="t">
+			<lose ability="combat" amount="1">
+				Lose 1 from your COMBAT score
+			</lose>
+		</if>
+		<else>
+			unless you have a blessing of
+			<lose blessing="poison">Immunity to Disease/Poison</lose>.
+		</else>
+	</p>
+	<p>There is nothing else here.</p>
+	<choices>
+		<choice section="497">Open the left-hand door</choice>
+		<choice section="522">Open the central door</choice>
+		<choice section="373">Leave the fort</choice>
+	</choices>
+</section>

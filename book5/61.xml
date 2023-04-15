@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="61">
+	<p>
+		You arrive at the great castle known as the High King's Seat. <if codeword="Diamond">If you have the codeword Diamond, <goto section="195"/>.</if> If not, <goto section="379"/>.
+	</p>
+</section>	

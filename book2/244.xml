@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="244">
+	Under the carpet of dead leaves you find some shallow graves
+	filled with yellow skeletons. Each has dried blood on its jaws.
+	You break branches of an oak tree, sharpen them into stakes,
+	and drive one through the ribcage of each skeleton. Only then
+	do you feel safe enough to search the graves thoroughly,
+	discovering <tick shards="200"/> in old coins.
+	Add this to your money and then
+	<goto section="349"/>.
+</section>

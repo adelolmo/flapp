@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="596" image="596.jpg">
+	<p>
+		You thread your way through the ranks of trees. In places, the forest canopy almost blocks out the sunlight completely, and you are wandering in deep shadow, haunted by the cries of the creatures of the forest.
+		<if item="oak staff">
+			If you have an <b>oak staff</b>, <goto section="653"/> immediately.
+		</if>
+		If not, read on.
+	</p>
+	<p>
+		You hack your way through the undergrowth until you stumble across an old ruin. Creepers, and forest moss have grown over most of it, but you can see mask-like faces set into the walls, glaring down at you as if in angry outrage at your intrusion. You come to a massive stone slab - clearly a door. Set into the middle of it is a round, granite face, the visage of a sleeping demon. Suddenly, an eye pops open, and regards you curiously.
+	</p>
+	<p>
+		&#8216;By the Tentacles of Tantallon!&#8217; exclaims the face in a gravelly voice. &#8216;A human! I haven&#8217;t seen one of you lot for a hundred years.&#8217; An expression of suspicion forms on its rocky features. &#8216;What do you want, anyway?&#8217;
+	</p>
+	<p>&#8216;Just passing through,&#8217; you comment airily.</p>
+	<p>
+		&#8216;Well you can&#8217;t pass through me unless you know the password. And that was given to me by Astrallus the Wizard King, umm... let me see, now... a thousand years ago, by Ebron! This is his tomb, you know.&#8217;
+	</p>
+	<p>
+		<if codeword="Crag">
+			If you have the codeword Crag, <goto section="160"/>.
+		</if>
+		Otherwise, read on.
+	</p>
+	<p>&#8216;How do I find the password then?&#8217; you ask.</p>
+	<p>
+		&#8216;Well,&#8217; says the demon door, &#8216;Astrallus was a wizard, so why don't you ask some wizards?&#8217;
+	</p>
+	<p>&#8216;Where would I find some wizards?&#8217; you ask.</p>
+	<p>
+		&#8216;How would I know?&#8217; replies the door testily. &#8216;I&#8217;ve been stuck here for a thousand years!&#8217;
+	</p>
+	<p>You decide it is time to leave.</p>
+	<choices>
+		<choice section="110">North to the Bronze Hills</choice>
+		<choice section="333">West to the River Grimm</choice>
+		<choice section="560">South into the country</choice>
+		<choice section="387">East to the road</choice>
+	</choices>
+</section>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="177">
+	<p>
+		To find out how well your investments have done,
+		<random>
+			<adjust god="The Three Fortunes" amount="1"/>
+			<adjust codeword="Eldritch" amount="1"/>
+		</random>.
+		Add 1 to the dice roll if you are an initiate of the Three Fortunes. Also add 1 if you have the codeword <i>Eldritch</i>.
+	</p>
+	<outcomes>
+		<outcome range="2-4">
+			<adjustmoney name="2.154" multiply="0.6">
+				Lose of 40%
+			</adjustmoney>
+		</outcome>
+		<outcome range="5-6">
+			<adjustmoney name="2.154" multiply="0.8">
+				Loss of 20%
+			</adjustmoney>
+		</outcome>
+		<outcome range="7">
+			No change in investment
+		</outcome>
+		<outcome range="8-9">
+			<adjustmoney name="2.154" multiply="1.1">
+				Profit of 10%
+			</adjustmoney>
+		</outcome>
+		<outcome range="10-11">
+			<adjustmoney name="2.154" multiply="1.25">
+				Profit of 25%
+			</adjustmoney>
+		</outcome>
+		<outcome range="12-13">
+			<adjustmoney name="2.154" multiply="1.5">
+				Profit of 50%
+			</adjustmoney>
+		</outcome>
+		<outcome range="14">
+			<adjustmoney name="2.154" multiply="1.75">
+				Profit of 75%
+			</adjustmoney>
+		</outcome>
+	</outcomes>
+	<p>
+		Now <goto section="154"/>, where you can withdraw the sum written in the box there after adjusting it according to the result rolled.
+	</p>
+</section>

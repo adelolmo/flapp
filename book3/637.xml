@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="637">
+	<p>
+		It isn&#8217;t much of a boat - just bundles of twigs and bracken lashed together to make a kind of crude pontoon. With fair weather and the kindness of the gods you might just stay afloat long enough to reach civilization.
+	</p>
+	<p>
+		<random type="travel" dice="1">
+			<adjust profession="wayfarer" amount="1"/>
+		</random>;
+		you can add 1 to the roll if you are a Wayfarer.
+	</p>
+	<outcomes>
+		<outcome range="1-2" section="123">The boat sinks</outcome>
+		<outcome range="3-4" section="472">Picked up by pirates</outcome>
+		<outcome range="5" section="505">Swept ashore on an island</outcome>
+		<outcome range="6-7" section="673">Reach a port</outcome>
+	</outcomes>
+</section>

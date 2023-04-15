@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="104">
+	<p>
+		The combined strength of all your men is just enough to push the iron doors open. Within lies a hidden valley entirely surrounded by high cliffs - a paradise of bubbling brooks, emerald lawns, fruit trees and scented flowers. Strewn all around are gold, silver and gems as plentiful as pebbles in a merchant&#8217;s garden. With wild cries of delight, your men stuff their pockets with all they can carry.
+	</p>
+	<p>
+		<set var="curr" value="stamina"/>
+		<set var="max" value="stamina" modifier="affected"/>
+		<if var="curr" lessthan="max">
+			<set var="wounded" value="1"/>
+		</if>
+		<else><set var="wounded" value="0"/></else>
+		You yourself pick up jewels worth <gain shards="5000"/>. The air here is so clean and fresh that, if wounded, you can
+		<if var="wounded" equals="1">
+			<rest>restore your Stamina to its normal score</rest>
+		</if>. If you were not wounded you can permanently
+		<if var="wounded" equals="0">
+			<gain ability="stamina" amount="1d">increase your Stamina by 1-6 Stamina points</gain>
+		</if>
+		(the roll of one die).
+	</p>
+	<p>
+		A cold breeze shakes the boughs of the trees. Leaves fall, curling on the grass.
+	</p>
+	<p>
+		&#8216;We&#8217;ve let Time into Paradise,&#8217; reckons the mate. &#8216;Let&#8217;s not linger here.&#8217;
+	</p>
+	<p><goto section="5"/>.</p>
+</section>

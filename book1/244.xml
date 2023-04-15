@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="244">
+	You have come to the foothills of the Spine of Harkun. The great mountains rise up majestically before you, their snowcapped peaks wreathed in clouds. You find a clear, cold stream, where you drink your fill and replenish your water supply.
+	<choices>
+		<choice section="536">Climb upwards</choice>
+		<choice section="518">Head south</choice>
+		<choice section="495">Head east to Disaster Bay</choice>
+		<choice section="271">West to the citadel</choice>
+	</choices>
+</section>

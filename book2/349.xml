@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="349">
+	You are journeying through sparsely inhabited country east of
+	the Endless Plains. Northwards lie the Haunted Hills.
+	Somewhere off to the south is the town of Goldfall, where it is
+	said that nuggets of precious metal drop each night from the sky.
+	<choices>
+		<choice section="328">Head west</choice>
+		<choice section="305">Go north</choice>
+		<choice section="123">Go south</choice>
+		<choice section="237">Go east</choice>
+	</choices>
+</section>

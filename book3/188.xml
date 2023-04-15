@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="188">
+	You study your charts, reckoning your position to lie due south
+	of the estuary of the Ruby River. Far to the east on this latitude
+	lies the Island of Fire.
+	<choices>
+		<choice section="370">Steer south</choice>
+		<choice section="96">Go west</choice>
+		<choice section="21">Head north</choice>
+		<choice section="208">Travel east</choice>
+	</choices>
+</section>

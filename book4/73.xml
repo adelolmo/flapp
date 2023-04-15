@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="73">
+	Despite your best efforts, you get completely lost in the maze of underground tunnels. <rankcheck dice="2"/>.
+	<success>
+		<!-- EDIT - added 'or equal to' -->
+		If you score less than or equal to your Rank, you manage to find a way out - <goto section="558"/>.
+	</success>
+	<failure>
+		If you score greater than your Rank, you get lost for ever, and starve to death. <goto section="7"/>.
+	</failure>
+</section>

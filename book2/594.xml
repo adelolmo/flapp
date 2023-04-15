@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="594">
+	<p>
+		<tick special="lock" cache="2.594" hidden="t"/>
+		Following the merchant&#8217;s advice, you invest your money and wait to see what return you get. <random/>:
+	</p>
+	<outcomes>
+		<outcome range="2-3">
+			A con trick!
+			<adjustmoney name="2.594" multiply="0">
+				Lose all investment
+			</adjustmoney>.
+		</outcome>
+		<outcome range="4-5">
+			Pirates attacked the ship.
+			<adjustmoney name="2.594" multiply="0.5">
+				Lose half your investment
+			</adjustmoney>.
+		</outcome>
+		<outcome range="6-7">
+			Another shipment arrives. No gain or loss.
+		</outcome>
+		<outcome range="8-9">
+			A roaring spice trade
+			<adjustmoney name="2.594" multiply="2">
+				doubles your investment
+			</adjustmoney>.
+		</outcome>
+		<outcome range="10-12">
+			Your money is increased
+			<adjustmoney name="2.594" multiply="3">
+				threefold
+			</adjustmoney>!
+		</outcome>
+	</outcomes>
+	<moneycache name="2.594" multiples="100" text="Money invested"/>
+	<p>
+		<tick special="unlock" cache="2.594" hidden="t"/>
+		After making any changes on your Adventure Sheet, <goto section="48"/>.
+	</p>
+</section>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="299" image="299.jpg">
+	A shrieking phantom becomes lodged at the top of the mainmast,
+	where it rants and flickers like a ball of lightning. The mate
+	comes to you with his hair on end and pleads for you to
+	exorcize it before the ship is doomed.
+	<difficulty ability="sanctity" level="15">
+		Make a SANCTITY roll at	a Difficulty of 15
+	</difficulty>.
+	<outcomes>
+		<success section="280"/>
+		<failure section="14"/>
+	</outcomes>
+</section>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="90">
+	<p>
+		Your ship is limping through unknown waters. The sun beats down, and the wind drops to a whisper.
+	</p>
+	<p>&#8216;What direction, Cap&#8217;n?&#8217; asks the bosun.</p>
+	<p><difficulty ability="scouting" level="10"/>.</p>
+	<outcomes>
+		<success section="633"/>
+		<failure section="484"/>
+	</outcomes>
+</section>

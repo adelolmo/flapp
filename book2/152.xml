@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="152">
+	You pound the hydra with blow after blow. It battles on
+	ferociously, oblivious of pain.
+	<fightdamage type="add"><tick codeword="HydraDamage" hidden="t"/></fightdamage>
+	<fight name="Hydra" combat="6" defence="7" stamina="9"/>
+	If you kill it, <goto section="361"/>.
+</section>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="189">
+	<p>From Thurlings you can go:</p>
+	<choices>
+		<choice section="711">North into the countryside</choice>
+		<choice section="31">North-east into the Singing Forest</choice>
+		<choice section="12">South into the countryside</choice>
+		<choice section="317">West to the Ruby River</choice>
+	</choices>
+</section>

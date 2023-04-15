@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="476">
+	<p>
+		&#8216;Not bad,&#8217; says the man with the eye patch. &#8216;But now I&#8217;ll finish you!&#8217; He draws his sword, and you must fight.
+	</p>
+	<fight name="Man with eyepatch" combat="4" defence="6" stamina="12"/>
+	<p>
+		If you win, <goto section="92"/>.
+		If you lose you are dead unless you have a <resurrection>resurrection deal</resurrection>.
+	</p>
+</section>

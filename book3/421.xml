@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="421">
+	You could never normally sneak in on a master thief like Lauria,
+	but after a heavy meal of venison and roast parsnips washed
+	down with cider she is sleeping as soundly as a gorged vampire
+	at noonday.
+	<choices>
+		<choice section="440">Rob her</choice>
+		<choice section="459">Kidnap her</choice>
+	</choices>
+</section>

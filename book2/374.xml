@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="374">
+	You are on an ancient cobbled road. Wheatfields is not too far
+	to the north-east. Far off to the south-west lies Castle Ravayne.
+	<choices>
+		<choice section="71">Head towards Wheatfields</choice>
+		<choice section="120">Head towards Castle Ravayne</choice>
+		<choice section="75">Leave the road and go west</choice>
+		<choice section="98">Leave the road and go east</choice>
+	</choices>
+</section>

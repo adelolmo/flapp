@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="302" dock="Hagashin">
+	The canals of Hagashin debouch into a lagoon sheltered by a
+	low headland of piled stones. Several ships ride at anchor, their
+	sails furled like curling autumn leaves.
+	<choices>
+		<choice section="25">Buy or sell a ship</choice>
+		<choice section="321" sail="t">Go aboard your ship (if docked here)</choice>
+		<choice section="586">Hire new crew members</choice>
+		<choice section="647">Pay for passage to another port</choice>
+		<choice section="606">Buy cargo for your ship</choice>
+		<choice section="226">Go into the city</choice>
+	</choices>
+</section>

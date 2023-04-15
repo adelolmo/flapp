@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="99">
+	Lush cornfields are on one side, the surging river on the other.
+	You reach a point where it is possible to ford the river across a
+	causeway of ancient weathered stones.
+	<choices>
+		<choice book="1" section="333">Cross to east bank</choice>
+		<choice section="122">Strike out to the west</choice>
+		<choice section="168">Go south</choice>
+		<choice section="53">Go north</choice>
+	</choices>
+</section>

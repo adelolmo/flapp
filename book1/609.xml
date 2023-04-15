@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="609">
+	<p>
+		You recognise the two iron statues of bull-men that guard the temple. They are golems, creatures created by powerful sorcery. They will animate and attempt to kill any intruders that steal into the temple. Golems are almost impossible to defeat in combat, but they have one weakness - a ceramic plug, about the size of an apple, set into the backs of their heads. If the plug can be pulled out, the enchanted liquid that energizes the golem will pour out, and the creature will die.
+	</p>
+	<p>
+		That night, you resolve to try to get on to the roof of the temple, hang down from the gables above the entrance, and pull the plugs on the golems, before going for the chain mail.
+	</p>
+	<p><goto section="441"/>.</p>
+</section>

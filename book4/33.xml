@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="33" tag="temple">
+	The temple of Tambu is a wooden structure built to resemble one of the round tents of the nomads of the steppes. Tambu is the Great Spirit of the Steppes. When the Northern Lights flicker in the sky, it is said that the spirits of earth, sky and water are dancing for him. Tambu's blessing is said to aid those who travel across the steppes.
+	<choices>
+		<choice section="291">Become an initiate of Tambu</choice>
+		<choice section="143">Renounce his worship</choice>
+		<choice section="388">Seek a blessing</choice>
+		<choice section="457">Talk to the chief shaman</choice>
+		<choice section="10">Leave the temple</choice>
+	</choices>
+</section>

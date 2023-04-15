@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="336">
+	<p>
+		A gilded pleasure barge sails by, bearing noblemen from Aku to Metriciens. They pull alongside to converse with you for a short while before proceeding on their way.
+	</p>
+	<p>
+		<difficulty ability="charisma" level="13">
+			Make a CHARISMA roll at a Difficulty of 13
+		</difficulty>.
+	</p>
+	<outcomes>
+		<success section="319"/>
+		<failure section="78"/>
+	</outcomes>
+</section>

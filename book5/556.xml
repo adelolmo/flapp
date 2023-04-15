@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="556">
+	<p>
+		You step into the pool. You feel a sense of dislocation, as if you were drifting in time. You realise you will have to concentrate on making sure you get back to your own time.
+	</p>
+	<p><difficulty ability="magic" level="14"/>.</p>
+	<outcomes>
+		<success section="279"/>
+		<failure section="389"/>
+	</outcomes>
+</section>

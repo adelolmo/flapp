@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="242">
+	Haggart&#8217;s Corner is a pretty, pastel-hued town. Houses with
+	high gables and mullioned bay windows are set around a series
+	of courts where fountains splash dreamily in the sunlight.
+	<choices>
+		<choice section="782">Ask about trade with the Trau</choice>
+		<choice section="779">Go to the market</choice>
+		<choice section="294">Visit the Temple of Lacuna</choice>
+		<choice section="761">Lodge at an inn</choice>
+		<choice section="173">Leave Haggart&#8217;s Corner</choice>
+	</choices>
+</section>

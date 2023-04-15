@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="698">
+	<p>
+		You are challenged to a bout of unarmed sparring by a short swarthy fellow called himself Mister Dragon.
+	</p>
+	<p>&#8216;No weapons or armour permitted,&#8217; he says with a broad smile.</p>
+	<choices>
+		<choice section="719">Accept the challenge</choice>
+		<choice section="297">Refuse</choice>
+		<choice section="135">Attack him fully armed</choice>
+	</choices>
+</section>

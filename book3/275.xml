@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="275">
+	<p>
+		Mysteriously, when the flock has departed you discover a stowaway sitting on the bowsprit. He peers at everyone suspiciously and utters cawing noises when approached, but after a few days he has recovered his wits enough to speak. &#8216;I dreamt I was flying,&#8217; he says. &#8216;Nor can I tell how I got here.&#8217;
+	</p>
+	<p>
+		He has some money saved up at home, and rewards you with <gain shards="50"/> for dropping him off at your next port of call.
+	</p>
+	<p><goto section="171"/>.</p>
+</section>

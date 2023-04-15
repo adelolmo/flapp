@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="452">
+	<p>
+		You are shackled and flung into the hold of a slave ship bound for the distant land of Uttaku. The man chained to the bench next to you gives a deep groan that turns into a bitter chuckle.
+	</p>
+	<p>
+		&#8216;I almost got the death penalty,&#8217; he says, adding after a doomful pause, &#8216;but my crime was too serious, so I was sentenced to slavery in Uttaku instead.&#8217;
+	</p>
+	<p>
+		To see what fate has in store for you now,
+		<goto book="5" section="321">turn to 321</goto> in
+		<i>The Court of Hidden Faces</i>.
+	</p>
+</section>

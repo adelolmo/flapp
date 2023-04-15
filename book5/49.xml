@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="49">
+	<p>
+		Passing through a clump of woodland, you are put on your guard by a rustling in the undergrowth. A short man with a beard steps boldly out in front of you.
+	</p>
+	<p>
+		'Give up your equipment and gold, stranger. I have a dozen archers - crack shots to a man - hidden in the woods. Try to resist and you'll be skewered.'
+	</p>
+	<choices>
+		<choice section="395">Give up your equipment</choice>
+		<choice section="503">Try to take the man hostage</choice>
+		<choice section="162">Attack the bandit</choice>
+	</choices>
+</section>

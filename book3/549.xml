@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="549">
+	You return to the ship and set sail without delay.
+	<lose codeword="Crocus">Lose the codeword Crocus</lose> if you had it,
+	then <goto section="164"/>.
+</section>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="436">
+	<p>
+		A distraught fisherman tells you how he left his boat pulled up on the shore while he went to call on a friend.
+	</p>
+	<p>
+		&#8216;I got talking and forgot about the time,&#8217; he says. &#8216;The tide came in and my boat drifted off - along with my little son and daughter who were on board!&#8217;
+	</p>
+	<choices>
+		<choice section="265">Swim out to the boat</choice>
+		<choice section="514">Decline to help</choice>
+	</choices>
+</section>

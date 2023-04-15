@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="508">
+	<p>
+		A golden plaque is embedded in the rock face here. You clean away the grime with your finger, hoping to find an interesting message, but it seems to be gibberish:
+	</p>
+	<p>
+		VJ AM LAP AS PCX IS WSAQMM OV JAS PHI V LIV JAM GVAQV JUD JT AV JAH SPUD JT VIV LAV JET JMF
+	</p>
+	<p>
+		Perhaps it is an inscription in the language of Old Uttaku? Or is it some sort of cipher?
+	</p>
+	<p>
+		Climbing back down, you continue on your way.
+		<goto section="533"/>.
+	</p>
+</section>

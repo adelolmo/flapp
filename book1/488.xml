@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="488">
+	You collapse, dying. A priest of Tyrnai, however, heals you so that you come round with <lose staminato="1">1 Stamina point left</lose>. It is not out of kindness that he has done this. The priests take all your money and possessions (<lose shards="*" item="*">cross them off</lose> your Adventure Sheet) and sell you into slavery. You are set to work in the tin mines outside the city. <goto section="118"/>.
+</section>

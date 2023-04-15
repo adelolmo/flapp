@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="187">
+	<p>
+		You tell the high priest that you wish to renounce the worship of Nagil. He brings out a small wax dummy, and carves your name into it. Then he sets fire to it. The wax melts into a puddle on the floor and the priest steps into it, leaving the imprint of his foot.
+	</p>
+	<p>
+		&#8216;Such is the fate of those who would deny Nagil, the Lord of Death,&#8217; he says.
+	</p>
+	<p>
+		When you ask if you must pay compensation to the temple, he shakes his head, saying, &#8216;It is you who loses, not we.&#8217;
+	</p>
+	<p>
+		<if god="Nagil">
+			Do you want to reconsider? If you are determined to renounce your faith,
+			<group force="f">
+				<text>delete Nagil from the God box</text>
+				<lose god="Nagil"/>
+				<lose title="Chosen One of Nagil"/>
+			</group>
+			on your Adventure Sheet. You must lose any outstanding resurrection arrangements <i>[and the title Chosen One of Nagil, if you have it]</i>.
+		</if>
+		When you have finished here, <goto section="100"/>.
+	</p>
+</section>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="636">
+	<p>
+		Becoming an initiate of Tyrnai gives you the benefit of paying less for blessings and other services the temple can offer. To qualify as an initiate you must have a COMBAT score of at least 6. Unlike other temples, there is no entry fee. You cannot become an initiate of Tyrnai if you are already an initiate of another temple.
+		<if safeAddGod="Tyrnai"><if ability="combat" greaterthan="5">
+				If you choose to become an initiate (and meet the qualification) <tick god="Tyrnai" force="f">write Tyrnai in the God box</tick> on your Adventure Sheet.
+		</if></if>
+	</p>
+	<p>Once you have finished here, <goto section="282"/>.</p>
+</section>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="162">
+	<p>
+		With the golems out of the way, you can get on with business. You reach forward to strip the armour off the idol of Tyrnai.
+	</p>
+	<p><difficulty ability="thievery" level="12"/>.</p>
+	<outcomes>
+		<success section="509"/>
+		<failure section="228"/>
+	</outcomes>
+</section>

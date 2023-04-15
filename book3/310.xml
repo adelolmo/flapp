@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="310">
+	<p>
+		For the third time in a row, you lift the stranger clear off his feet and smash him hard against the deck. This time he raises his hand in submission.
+	</p>
+	<p>
+		&#8216;Enough. You win,&#8217; he says, staggering to his feet. &#8216;You&#8217;re the strongest there is.&#8217;
+	</p>
+	<p>So saying, he jumps back down to his boat and sails off.</p>
+	<p>
+		<gain ability="stamina" amount="5">
+			Increase your unwounded Stamina score by 5 points
+		</gain>.
+		Also
+		<gain ability="combat" amount="1">
+			add 1 to COMBAT
+		</gain>.
+		Then <goto section="125"/>.
+	</p>
+</section>

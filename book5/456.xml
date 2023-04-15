@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="456">
+	<p>
+		You emerge amid a forest of gigantic ferns. The air is thick with moisture, and the heat is oppressive. You start to sweat heavily almost immediately. You are lost in time once more. A great beast, like a two-legged dragon, crashes through the ferns towards you. It is at least twenty feet tall, and its head is massive, with little piggy eyes, and so many teeth you cannot count them! As quick as you can, you jump back into the time pool.
+	</p>
+	<p><difficulty ability="magic" level="11"/>.</p>
+	<outcomes>
+		<success section="279"/>
+		<failure section="643"/>
+	</outcomes>
+</section>

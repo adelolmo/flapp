@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="104">
+	<p>
+		Before you can react, you are caught in a landslide and find yourself hurtling down a steep and broken slope of loose red shale.
+	</p>
+	<p><difficulty ability="scouting" level="11"/>.</p>
+	<p>
+		<success>
+			If you make the roll, you manage to dig into solid ground and bring yourself to a bruised halt.
+		</success>
+		<failure>
+			If you fail, you slide almost a hundred yards before hitting a large rock at speed: <lose stamina="7"/>.
+		</failure>
+	</p>
+	<p>
+		If you survive, <goto section="135"/>. If you are killed, <goto section="7" dead="t"/>.
+	</p>
+</section>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="228">
+	You are roughly midway between the Isle of Fire and Dragon
+	Island. What course will you tell your men to steer?
+	<choices>
+		<choice section="55">North</choice>
+		<choice section="172">South</choice>
+		<choice section="173">East</choice>
+		<choice section="246">West</choice>
+	</choices>
+</section>
+

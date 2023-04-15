@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="72">
+	<p>
+		<if codeword="Dread">
+			If you have the codeword Dread <goto section="40"/>.
+		</if>
+		If not, read on.
+	</p>
+	<p>
+		Orin Telana is a slim, handsome man. He greets you warmly but his eyes are grim and determined. He explains that the army to the north is fighting not just for the people of the steppes but for the Sokaran rebels who still support the old king. The Northern Alliance is held together by the charismatic Beladai.
+	</p>
+	<p>
+		'Cut off the head, and the body will die,' he says. 'If Beladai is killed his army, and the alliance, will fall apart, and the new order will be safe.'
+	</p>
+	<p>
+		Orin Telana wants you to find a way into the enemy camp and assassinate General Beladai.
+	</p>
+	<p>
+		If you agree to take up the mission,
+		<goto section="26" force="f"/>.
+		If not, you are shown out - <goto section="152"/>.
+	</p>
+</section>

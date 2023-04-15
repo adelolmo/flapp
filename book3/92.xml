@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="92">
+	<p>
+		The three mutineers are terrified that you will call your current crewmen to back you up. &#8216;I&#8217;ve got a few barnacles need scraping of my new ship&#8217;s keel, Mister Burkitt,&#8217; you tell your one-time cabin boy with a crooked smile.
+	</p>
+	<p>
+		He and his shipmates get up quickly. &#8216;Good to see you&#8217;re well, skipper. No hard feelings, eh?&#8217; they mutter, pressing a purse with <gain shards="40"/> into you hand.
+	</p>
+	<p>
+		You watch the three men hurry off. You doubt if you&#8217;ll see them again. <lose codeword="Church">Lose the codeword Church</lose> and <goto section="314"/>.
+	</p>
+</section>

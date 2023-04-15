@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="334">
+	<p>You are journeying along the road between Aku and Kunrir.</p>
+	<p><random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-5" section="78">An unexpected opportunity</outcome>
+		<outcome range="6-7" section="589">No event</outcome>
+		<outcome range="8-12" section="348">Religious zealots</outcome>
+	</outcomes>
+</section>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="189">
+	There is nothing in your limited knowledge of undersea wildlife to help you.
+	<choices>
+		<choice section="35">Swim back to the Shadar Tor</choice>
+		<choice section="121">Fight your way to the <b>golden net</b></choice>
+		<choice section="592">Try magic</choice>
+	</choices>
+</section>

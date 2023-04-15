@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="406">
+	<p>
+		You know that the <b>Book of the Seven Sages</b> that Pyletes wanted you to get lies within the mound. If you don&#8217;t want to go for it now, you can leave by <goto section="492" force="f">turning to 492</goto>. Otherwise, you wait until nightfall, then creep towards the mound.
+	</p>
+	<p><difficulty ability="thievery" level="9"/>.</p>
+	<outcomes>
+		<success section="449"/>
+		<failure section="139"/>
+	</outcomes>
+</section>

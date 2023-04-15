@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="257" image="257.jpg">
+	<p>
+		The trees are closely packed, leaning together as if in conference, whispering quietly among themselves. Birds twitter in the distance, and slivers of sunlight lance down through the musty gloom.
+	</p>
+	<p>
+		As you proceed along a forest track, you think you hear a rustling in the bushes. Later, you spot a shadowy figure darting through the trees - or was it your imagination? An animal snuffling sound right behind you makes you spin round, but there is nothing there.
+	</p>
+	<p><difficulty ability="scouting" level="10"/>.</p>
+	<outcomes>
+		<success section="630"/>
+		<failure section="36"/>
+	</outcomes>
+</section>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="220">
+	Suddenly, the forest falls silent, as your last assailant falls to your martial skill. In death, the invisibility charm wears off, and you see four dead goblins. Their limbs are long, their hair spiked and limed; taloned, claw-like hands grip ornate bronze axes. Searching the bodies, you find <gain shards="50"/>, a jug of <item name="faery mead"/>, and a magic <weapon name="bronze axe" bonus="1"/>. Note them on your Adventure Sheet. When you are ready, <goto section="206"/>.
+</section>

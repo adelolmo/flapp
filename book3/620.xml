@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="620">
+	<p>
+		You sail away from the deserted ship. &#8216;I wonder what happened to her crew?&#8217; you wonder.
+	</p>
+	<p>
+		The mate gives a shudder. &#8216;Eerie things abound in these waters, captain,&#8217; he replies.
+	</p>
+	<p><goto section="32"/>.</p>
+</section>

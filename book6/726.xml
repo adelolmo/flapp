@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="726">
+	<p>
+		The mansion is heavily guarded. In their brocaded white tabards, the sentries resemble temple statues carved from blocks of pristine marble.
+	</p>
+	<p>
+		<if codeword="Frog">
+			If you have the codeword Frog they recognize you as an ally of the clan and allow you to pass;
+			<goto section="467"/>.
+		</if>
+		If you don&#8217;t have the codeword <i>Frog</i> you are refused entrance and must
+		<goto section="178">turn back to 178</goto>.
+	</p>
+</section>

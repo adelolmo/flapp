@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="649">
+	<p>
+		The lookout says he can see Shaku Island to the south-west and Yodoshi Island to the north.
+	</p>
+	<p><random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-10" section="580">An uneventful voyage</outcome>
+		<outcome range="11-12" section="621">A storm brewing</outcome>
+	</outcomes>
+</section>

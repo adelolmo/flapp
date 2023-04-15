@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="106">
+	<p>
+		Today is a day of special religious significance to the people of Uttaku, a holy day sacred to Ebron: the Celebration of the Burning of the Heretics in Hell.
+	</p>
+	<p>
+		You are stopped by three members of the Soulwatch, the religious police. The patrol is accompanied by several Expungers, the &#233;lite guards of Uttaku.
+	</p>
+	<p>
+		<if item="spotted scarf|striped scarf">If you have a <b>spotted scarf</b> or a <b>striped scarf</b>, <goto section="236"/>.</if> If not, <goto section="56"/>.
+	</p>
+</section>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="343">
+	<p>
+		You recall a man, tortured by the nomads, who told you with his dying breath of these great metal doors. What was the ritual he described? Oh yes. You place your hand on your heart and bow three times.
+	</p>
+	<p>
+		You wait. There is no sound but the sigh of the wind across the plains. You are about to turn away when the doors slowly swing inwards.
+	</p>
+	<choices>
+		<choice section="513">Enter</choice>
+		<choice section="15">Leave</choice>
+		<choice section="221">Climb the cliffs</choice>
+	</choices>
+</section>

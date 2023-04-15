@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="571">
+	<p>
+		The men of the Soulwatch bow their heads and leave without a word. Puzzled, you sit at a street-bar, to take a cup of wine. After a while the patrol returns, dragging the charlatan healer behind them. He is trussed in chains from head to foot. In absolute silence, they return your <gain shards="150"/>.
+	</p>
+	<p>
+		You enquire as to the likely fate of the charlatan. 'The Red Garden, of course, O Exalted One,' whispers one of the Soulwatch in a voice like the wind in the trees.
+	</p>
+	<p>They bow low and depart. <goto section="101"/>.</p>
+</section>

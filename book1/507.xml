@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="507">
+	You are sailing across the Sea of Whispers with a clear, blue sky and a salty wind to help you on your way.
+	<choices>
+		<choice section="195">Dock at the Isle of Druids</choice>
+		<choice section="430">Sail west towards Scorpion Bight</choice>
+		<choice section="190">Sail north west into coastal waters</choice>
+		<choice section="312">Sail north into coastal waters</choice>
+		<choice section="13">Sail south into the Violet Ocean</choice>
+		<choice section="206">Sail east into the Unbounded Ocean</choice>
+	</choices>
+</section>

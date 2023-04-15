@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="404">
+	You raise your arms to the volcano and plead with the god
+	Jiarosh to stay his wrath.
+	<difficulty ability="sanctity" level="14">
+		Make a SANCTITY roll at a Difficulty of 14
+	</difficulty>.
+	<outcomes>
+		<success section="425"/>
+		<failure section="444"/>
+	</outcomes>
+</section>

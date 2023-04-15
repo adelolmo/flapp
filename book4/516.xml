@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="516">
+	The golem waits for the password, but is at least sporting enough to give you three choices.
+	<choices>
+		<choice section="425">Glass</choice>
+		<choice section="18">Zinc</choice>
+		<choice section="351">Ice</choice>
+	</choices>
+</section>

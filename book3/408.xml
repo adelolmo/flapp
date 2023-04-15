@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="408">
+	<if item="witch's hand">
+		If you have a <b>witch&#8217;s hand</b>, <goto section="555"/>.
+	</if>
+	Otherwise, <goto section="388"/>.
+</section>

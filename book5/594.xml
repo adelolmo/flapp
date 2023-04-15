@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="594">
+	The High King wants as much <b>selenium ore</b> as he can get for his magicians and the war machines they are making. The High King will pay you 800 Shards for every nugget of <sell item="selenium ore" shards="800"/> you bring. (Don't forget to cross the ore off your sheet, if you do this). When you are finished, <goto section="112"/>.
+</section>

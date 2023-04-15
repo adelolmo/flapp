@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="400">
+	You are outside the Citadel of Velis Corin, or the Shield of the North as it is sometimes known. It rises up before you, great white bastions and towers gleaming in the sun. It fills the Pass of Eagles completely. From this side of the Spine of Harkun, it is less fortified - its purpose is to keep out the barbarians of the north.
+	<choices>
+		<choice section="2">Try to enter the citadel</choice>
+		<choice book="1" section="271">Go south</choice>
+		<choice book="1" section="276">Head west</choice>
+		<choice book="1" section="60">Go east</choice>
+	</choices>
+</section>

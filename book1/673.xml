@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="673">
+	<p>
+		You are trekking across the aptly named Curstmoor. A great rolling expanse of blasted heath stretches before you. Grey clouds hang over a mournful, dirty-water coloured plain, studded with rocky outcrops and low hills.
+	</p>
+	<p><random type="travel" dice="1"/>.</p>
+	<outcomes>
+		<outcome range="1,2">
+			You are attacked by a wolf.
+			<fight name="Wolf" combat="3" defence="5" stamina="7"/>
+			If you win, you get a <item name="wolf pelt"/>
+		</outcome>
+		<outcome range="3,4">Nothing happens</outcome>
+		<outcome range="5,6">
+			You find <gain shards="10"/> on an old skeleton
+		</outcome>
+	</outcomes>
+	<p>When you are ready, you can go:</p>
+	<choices>
+		<choice section="560">North across the country</choice>
+		<choice section="558">East to the road</choice>
+		<choice section="250">To Trefoille</choice>
+		<choice section="100">To Marlock City</choice>
+		<choice section="99">West towards the River Grimm</choice>
+	</choices>
+</section>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="560">
+	<p>
+		You are crossing the western wilderness, an expanse of wild, sparsely-populated countryside. A few trappers and woodsmen make a living from the natural resources of the area.
+	</p>
+	<p>
+		A tall spire of rock, a towering anomaly of geology, rises up into the clouds, dominating the horizon. A local hunter tells you it is known as Devil&#8217;s Peak and that the summit is infested with demons.
+	</p>
+	<choices>
+		<choice section="658">Climb the peak</choice>
+		<choice section="99">Head west to the river</choice>
+		<choice section="47">Head north into the Forest of Larun</choice>
+		<choice section="175">Go south to the Curstmoor</choice>
+		<choice section="558">Travel east to the road</choice>
+	</choices>
+</section>

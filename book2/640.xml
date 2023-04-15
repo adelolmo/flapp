@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="640">
+	<if codeword="Buzz">
+		If you have the codeword Buzz, <goto section="616"/>.
+	</if>
+	If you do not, <goto section="712"/>.
+</section>

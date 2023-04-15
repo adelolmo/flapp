@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="484">
+	<p>
+		You sail for days. Suddenly the ship surges forward, out of control! To your horror, a gigantic whirlpool appears in the middle of the ocean, sucking you down with relentless speed. Soon you are hurtling around on sheer walls of water. The sky is a small blue window that looks down at you through the towering columns of the sea!
+	</p>
+	<p>
+		&#8216;We are being sucked into the land below the world by the Demons of the Deep!&#8217; howls one of your men.
+	</p>
+	<p><goto book="12" section="75"/>.</p>
+</section>

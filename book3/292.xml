@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="292">
+	<p>
+		Someone must have slipped a sleeping powder in your drink, because you wake late with an aching head. Feeling slightly sick, you go straight to your travelling chest. Your worst fears are confirmed - all your cash and possessions are gone.
+		<!-- only lose possessions in 329 -->
+	</p>
+	<p>
+		<difficulty ability="thievery" level="15">
+			Make a THIEVERY roll at a Difficulty of 15
+		</difficulty>.
+	</p>
+	<outcomes>
+		<success section="312"/>
+		<failure section="329"/>
+	</outcomes>
+</section>

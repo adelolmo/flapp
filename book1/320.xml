@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="320">
+	You learn from their conversations that they are from the jungles of distant Ankon-Konu, the Feathered Lands, and that they have come here to find new sacrifices for their god, and new members for their cult. The chef pronounces the cauldron is ready, and they remove the net that holds you.
+	<choices>
+		<choice section="204">Fight</choice>
+		<choice section="101">Shout &#8216;Badogor!&#8217; repeatedly</choice>
+		<choice section="61">Join their cult</choice>
+	</choices>
+</section>

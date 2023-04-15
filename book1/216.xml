@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="216">
+	The cry goes up throughout the palace, &#8216;Murder! Assassin!&#8217; and the hunt is on - for you. You will need all your skill to get out of the palace alive.
+	<rankcheck dice="1">
+		<adjust profession="Rogue" amount="-1"/>
+		<adjust profession="Troubadour" amount="-1"/>
+		<adjust profession="Wayfarer" amount="-1"/>
+	</rankcheck>, subtracting one if you are a Rogue, Troubadour, or a Wayfarer.
+	<success>
+		If you score less than or equal to your Rank, <goto section="407"/>.
+	</success>
+	<failure>Otherwise, <goto section="566"/>.</failure>
+</section>

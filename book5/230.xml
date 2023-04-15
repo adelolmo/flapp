@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="230">
+	<p>
+		<if codeword="Epistle">If you have the codeword Epistle, <goto section="370"/> immediately.</if> If not, read on.
+	</p>
+	<p>
+		You step into a huge library, known as the Archives of the Blue. Here you find the Master of the Documents of Fable, a little old man with a mask covered in strange sigils. The mask is so big that he has trouble holding up his head.
+	</p>
+	<p>
+		He tells you about the Grand Telling, a ceremonial competition held every year at court in which the courtier who can come up with the best story wins. The master wants you to write your life story.
+	</p>
+	<p>
+		'You adventurers always come up with the most extraordinary tales. Write me a real blockbuster, of suitable length, and I'll use it to win the Grand Telling. In return, I'll see that you are rewarded. You have eight weeks to complete your story. I expect you to work here, in the archives, so I can keep an eye on you.'
+	</p>
+	<p>You reckon it should take about four to five weeks to finish.</p>
+	<choices>
+		<choice section="655">Accept the task</choice>
+		<choice section="401">Refuse</choice>
+	</choices>
+</section>

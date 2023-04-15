@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="47">
+	<p>
+		<lose codeword="SpiderDamage" hidden="t"/>
+		You are standing in the weed-choked courtyard. Pampas grass stands all around to the level of your shoulders, dampening your clothes with dew as you press forward. Clouds of midges rise like smoke into the air to swirl about in the early sunlight.
+	</p>
+	<p>
+		On your right is the bell-tower. You can see that many of the roof-tiles are missing, the shutters hanging askew. The man on the porch of the main building has not noticed you.
+	</p>
+	<choices>
+		<choice section="92">Approach the main shrine</choice>
+		<choice section="67">Go to the bell-tower</choice>
+		<choice section="398">Leave right away</choice>
+	</choices>
+</section>

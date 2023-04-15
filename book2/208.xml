@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="208" image="208.jpg">
+	<p>
+		You are caught in a web whose strands are as thick as a trawler&#8217;s net.
+	</p>
+	<p>
+		Feeling the warning of your sixth sense, you look up into the branches in time to see a globular shape with many long hairy legs dropping silently out of the darkness.
+		<fightdamage type="add"><tick codeword="SpiderPoison" hidden="t"/></fightdamage>
+	</p>
+	<fight name="Giant Spider" combat="4" defence="7" stamina="5"/>
+	<p>
+		Because you are tangled in the web, you cannot run away from this fight.
+	</p>
+	<p>If you defeat the spider, <goto section="277"/>.</p>
+</section>

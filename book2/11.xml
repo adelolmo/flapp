@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="11">
+	You are on the road between Castle Ravayne and Wheatfields.
+	<choices>
+		<choice section="120">Head north-east to Wheatfields</choice>
+		<choice section="25">Head south-west to the castle</choice>
+		<choice section="75">Leave the road and go west</choice>
+		<choice section="98">Leave the road and go east</choice>
+	</choices>
+</section>

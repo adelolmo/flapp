@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="123">
+	The farmers in these parts are ruddy-cheeked and jolly, always
+	ready with a foaming stoop of ale. If you took up every offer of
+	hospitality, you would never reach your destination.
+	<random type="travel"/>:
+	<outcomes>
+		<outcome range="2-6" section="741">Incident in a bull&#8217;s field</outcome>
+		<outcome range="7" section="199">Uneventful journey</outcome>
+		<outcome range="8-12" section="765">A country fair</outcome>
+	</outcomes>
+</section>

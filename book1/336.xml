@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="336">
+	<p>You step in, saying, &#8216;I have a message for King Skabb...&#8217;</p>
+	<p>The ratmen stare at you in amazement.</p>
+	<p>&#8216;A human! Get it!&#8217; screams Skabb.</p>
+	<p>
+		The four ratmen charge toward you with a roar, wielding swords before you can say anything more. Soon they have been joined by many others and you have little choice but to turn and flee for your life! Desperately, you race down the sewer tunnels, with an army of ratmen in hot pursuit.
+	</p>
+	<choices>
+		<choice section="79">Lose them in the tunnels</choice>
+		<choice section="296">Try some magic</choice>
+		<choice section="127">Hide</choice>
+	</choices>
+</section>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="132" image="132.jpg">
+	<p>
+		It is with mounting excitement that you recognize this island as the one marked on the map.
+	</p>
+	<p>
+		Digging at the spot marked, you find a chest containing a handsome haul.
+	</p>
+	<p><random dice="1"/> to see what it is.</p>
+	<outcomes>
+		<outcome range="1">
+			<gain shards="100"/> and a
+			<weapon name="sword" bonus="3"/>
+		</outcome>
+		<outcome range="2">
+			<gain shards="400"/> and a
+			<tool name="compass" ability="scouting" bonus="1"/>
+		</outcome>
+		<outcome range="3">
+			<gain shards="200"/> and
+			<armour name="plate armour" bonus="5"/>
+		</outcome>
+		<outcome range="4">
+			<gain shards="300"/> and an
+			<tool name="ebony wand" ability="magic" bonus="2"/>
+		</outcome>
+		<outcome range="5">
+			<gain shards="1000"/> and a <item name="candle" tags="light,useonce"/>
+		</outcome>
+		<outcome range="6">
+			<gain shards="200"/> and a
+			<item name="pirate captain's head"><b>pirate captain&#8217;s head</b></item>
+		</outcome>
+	</outcomes>
+	<p>
+		When you have recorded the details of your treasure on your Adventure Sheet, cross off the <lose item="treasure map" group="3.94"/> and <goto section="150"/>.
+	</p>
+</section>

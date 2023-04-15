@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="455">
+	<p>
+		The White Warlock Tavern is frequented by mages and priests of Molhern. The tavern costs you 1 Shard a day. <rest stamina="1" shards="1">Each day you spend here</rest>, you can recover 1 Stamina point if injured, up to the limit of your normal unwounded Stamina score.
+	</p>
+	<p>
+		You also hear a Troubadour singing a mythic tale about the High King. Five hundred years ago the High King ruled Old Harkuna, and he defended it vigorously against invaders from Uttaku. The Uttakin used black sorcery to imprison the king beneath the Rimewater, where he and his paladins were frozen in ice. His wife, and only true love, Leonara, was an Uttakin princess, but the Masked Lords of Uttaku, angry at her love for the king, slew her, and bound her ghost to serve as the merciless guardian jailer of the High King. Now she is a terrible spectre, the Ice Queen, whose heart is as frozen as the lake she haunts. Or so they say.
+	</p>
+	<p>When you are ready, you leave the tavern. <goto section="274"/>.</p>
+</section>

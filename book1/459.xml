@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="459">
+	<p>
+		<lose shards="50">Cross off 50 Shards</lose>. The little Mannekyn creature is handed over to you on a leash. Its wings have been tied together to stop it flying away.
+	</p>
+	<p>&#8216;Who are you, then?&#8217; it pipes in a squeaky voice.</p>
+	<p>
+		Just then, a palanquin, carried by four bearers, arrives. A man leans out and hails you, &#8216;You there! I&#8217;ve come to buy that flying monkey but I see I am too late. Nevertheless, I will give you 75 Shards for it.&#8217;
+	</p>
+	<p>
+		&#8216;Don&#8217;t sell me to that popinjay - free me instead,&#8217; chitters the Mannekyn.
+	</p>
+	<choices>
+		<choice section="659">Free it</choice>
+		<choice section="186">Sell it</choice>
+	</choices>
+</section>

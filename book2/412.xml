@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="412">
+	<p>
+		The stranger leans closer, pressing his lips to your neck. You feel a pricking sensation. Jumping back, you see a trickle of blood on his sharp white teeth. A vampire!
+	</p>
+	<p>
+		<difficulty ability="sanctity" level="12">
+			Make a SANCTITY roll at a Difficulty of 12
+		</difficulty>.
+	</p>
+	<outcomes>
+		<success section="437"/>
+		<failure section="462"/>
+	</outcomes>
+</section>

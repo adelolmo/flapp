@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="644" boxes="1">
+	<p>
+		<if ticks="1">If there is a tick in the box, <goto section="292"/> immediately.</if> If not, <tick>put a tick there now</tick>, and read on.
+	</p>
+	<p>
+		Inside the old ruin, you find a blind old man, dressed in ragged tatters that were once fine robes. He tells you his tale. It transpires that he is the last descendant of the household bards of the High King, and he still plays here, in the old banquet hall, awaiting the day the High King will return. Five hundred years ago the High King ruled Old Harkuna, and he defended it vigorously against invaders from Uttaku. The Uttakin used sorcery to imprison the king beneath Lake Rimewater where he and his paladins were frozen in ice. His wife, and only true love, Leonara, was an Uttakin princess, but the masked lords of Uttaku, angry at her heretical love for the king, slew her, and bound her ghost to serve as the merciless guardian jailer of the High King. Now she is a terrible spectre, the Ice Queen, whose heart is as frozen as the lake she haunts. Or so he says.
+	</p>
+	<p>
+		The old man teaches you the song he was singing, a love ballad that was sung at the court of the High King, for him and his consort, Princess Leonara.
+	</p>
+	<p>
+		<tick codeword="Evergreen">Tick the codeword Evergreen</tick> and <goto section="574"/>.
+	</p>
+</section>

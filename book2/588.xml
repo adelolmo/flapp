@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="588">
+	<p>
+		The knight reins in, waving his men to a halt. Raising his visor, he takes a close look at you, then shuffles through some wanted posters that the sergeant of militia hands to him. Then he gives a judicious nod, and before you can act the militia have seized you.
+	</p>
+	<p>
+		&#8216;Did you think that you&#8217;d got away with your crime?&#8217; grates the knight. &#8216;The Baroness&#8217;s justice has a long reach!&#8217;
+	</p>
+	<p>
+		You are divested of all your possessions and cash
+		(<lose item="*" shards="*">cross them off</lose>)
+		and hauled off in chains to Castle Ravayne, where they fling you into the dungeons. <goto section="365"/>.
+	</p>
+</section>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="327">
+	<p>
+		Kiyomori tends to get short-tempered when he&#8217;s drunk. Suddenly, for no reason at all, he is ranting at you with spittle on his lips and his eyes wide in a wine-flushed face.
+	</p>
+	<p>
+		<if codeword="Fossil">
+			If you have the codeword Fossil,
+			<goto section="367">turn now to 367</goto>.
+		</if>
+		If not you must
+		<difficulty ability="charisma" level="13"/>
+		to calm Kiyomori down.
+	</p>
+	<outcomes>
+		<success section="386"/>
+		<failure section="407"/>
+	</outcomes>
+</section>

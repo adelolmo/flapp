@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="66">
+	<p>
+		You come round with <lose staminato="1">one Stamina point left</lose>. You are alone on the bridge. A voice comes up from under the bridge - the troll. 'I won, you lose, so I helped myself to the 5 Shards.'
+		<if shards="5">
+			<lose shards="5">
+				Cross off 5 Shards
+			</lose> from your Adventure Sheet -
+		</if>
+		<else>
+			if you don't have 5 Shards,
+			<lose item="?">lose one item</lose>
+			(your choice).
+		</else>
+	</p>
+	<choices>
+		<choice section="176">West to the countryside</choice>
+		<choice section="653">East towards the High King's Seat</choice>
+		<choice section="317">South along the river</choice>
+		<choice section="487">North along the river into the Grumes</choice>
+	</choices>
+</section>

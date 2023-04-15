@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="162">
+	A draught snuffs out your light. Or was it a draught? As the
+	thick darkness closes around you there is a sound very like a
+	chuckle might sound in a dead and desiccated throat.
+	<choices>
+		<choice section="584">Run for your life</choice>
+		<choice section="563">Fight blind</choice>
+	</choices>
+</section>

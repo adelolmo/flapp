@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="587" image="587.jpg">
+	<p>
+		The Furies seem to bear you a grudge. Your crewmen are in no hurry to get involved. While they cower below decks, you are left to fight the Furies on your own. The creatures attack you one after the other, cackling as they swing their brass-studded flails.
+	</p>
+	<fight name="First Fury" combat="12" stamina="19" defence="25"/>
+	<fight name="Second Fury" combat="12" stamina="19" defence="25"/>
+	<fight name="Third Fury" combat="12" stamina="19" defence="25"/>
+	<p>
+		There is no escape from this battle. If you defeat them all, <goto section="321"/>.
+	</p>
+</section>

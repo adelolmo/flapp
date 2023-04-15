@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="590">
+	<p>
+		&#8216;Many of the towns of the north pay tribute to this noble house in return for protection,&#8217; Vanna tells you. &#8216;But now a dragon has arisen which flies forth by night, disgorging fire upon the peasants&#8217; barns and carrying off their cattle.&#8217;
+	</p>
+	<p>
+		Not without qualms, you reply: &#8216;Leave this to me, my lady. I shall bring you the dragon&#8217;s head, or you can take my own instead.&#8217;
+	</p>
+	<p>
+		There is applause from the assembled knights and couriers as you withdraw. <goto section="342"/>.
+	</p>
+</section>

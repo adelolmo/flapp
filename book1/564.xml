@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="564">
+	<p>You tell the high priest about the Curse of Tyrnai.</p>
+	<p>
+		&#8216;Ah, I see. Well, you have to appease the god. You need a <b>weapon (COMBAT +1)</b>, which you can buy in most markets, or acquire by some other means. Throw the weapon into the holy waters at the village of Blessed Springs, and ask for his forgiveness.&#8217;
+	</p>
+	<p>
+		<tick codeword="Appease">
+			Acquire the codeword Appease
+		</tick> and <goto section="100"/>.
+	</p>
+</section>

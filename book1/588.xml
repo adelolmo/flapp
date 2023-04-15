@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="588">
+	<tick codeword="StillInYellowport" hidden="t"/>
+	You break past the militia, leap over the table and rush out of the door. From behind you can hear muffled curses and then a fiery blast which sizzles wetly in the damp yellow fog, but you don&#8217;t look back and you don&#8217;t stop running until you are well clear of the house. <goto section="10"/>.
+</section>

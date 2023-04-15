@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="126">
+	<p>
+		You see a strange, leathery-looking hut, resting on thin stilts that are sunk into the marsh like the legs of some giant insect.
+	</p>
+	<p><difficulty ability="magic" level="12"/>.</p>
+	<outcomes>
+		<success section="153"/>
+		<failure section="178"/>
+	</outcomes>
+</section>

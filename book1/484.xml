@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="484">
+	<p>
+		You sail for days without sight of land. Soon you have run out of water, and the crew start dying of thirst. You
+		<lose stamina="1d">lose 1-6 Stamina</lose> (the roll of one die) and several of your men.
+		<lose crew="3">
+			Reduce your crew to poor quality
+		</lose>
+		(unless it is already poor, in which case nothing happens).
+	</p>
+	<p>
+		Eventually, you find a familiar stretch of coast. <random dice="1"/>.
+	</p>
+	<outcomes>
+		<outcome range="1,2" section="120"/>
+		<outcome range="3,4" section="430"/>
+		<outcome range="5,6" section="136"/>
+	</outcomes>
+</section>

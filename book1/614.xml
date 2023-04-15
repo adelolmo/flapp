@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="614">
+	<p>
+		The Stinking River has cut its way through the high ground here. On the edge of the chasm that overlooks the river lies the village of High Therys. Just outside of town, three bodies hang on a gallows, slowly rotting. Inside, the villagers are having a fete. They welcome you. You can get some rest and recuperation here - <rest stamina="5">restore up to 5 lost Stamina points</rest>.
+	</p>
+	<p>When you are ready, you leave.</p>
+	<choices>
+		<choice section="576">Follow the river north</choice>
+		<choice section="82">Follow the river south</choice>
+		<choice section="278">Head east into the countryside</choice>
+		<choice section="558">Go west to the main road</choice>
+	</choices>
+</section>

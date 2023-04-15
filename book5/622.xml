@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="622" boxes="1">
+	<p>
+		<if ticks="1">If there is a tick in the box, <goto section="547"/> imediately.</if> If not, <tick/>, and read on.
+	</p>
+	<p>
+		The master teaches you the art of duelling with feather and inkwell. The footwork and techniques of strike and parry are so stylized that they <i>impair</i> your natural fighting skills. <lose ability="combat" amount="1">Reduce your COMBAT rating by one</lose>, permanently. Those who have mastered Shung-bat, however, are greatly respected at court. Turn to <b>401</b> and <tick name="UttakuStatus" amount="1">add 1 to your Status points</tick> in the box provided. Then make a choice <goto section="401">from there</goto>.
+	</p>
+</section>

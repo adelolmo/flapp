@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="518">
+	<p>
+		Days pass and the supplies are running low when finally you see another vessel sailing towards you. She is an Akatsurese slave ship bound for the Black Pagoda. Her master is reluctant to approach because of the plague, but at last you prevail on him to put aboard a few of his slaves who are too frail or intractable to be worth transporting further.
+	</p>
+	<p>
+		As the Akatsurese ship sails off, your motley handful of new crewmen raise three cheers. &#8216;You&#8217;ve saved us from a pretty dire fate, skipper,&#8217; says a fellow who appoints himself your first mate. &#8216;We&#8217;ll do our best to serve you faithfully.&#8217;
+	</p>
+	<p>
+		<lose crew="3">
+			Note that your Crew Quality is now poor
+		</lose>
+		and
+		<goto section="337"/>.
+	</p>
+</section>

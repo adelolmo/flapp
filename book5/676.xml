@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="676">
+	<p>
+		Cross the <lose item="faery mead"/> off your Adventure Sheet and <tick codeword="Eclipse"/>.
+	</p>
+	<p>
+		You put down the jug in the courtyard and stand back to watch. Sure enough, the spriggans smell it, and they scamper down to drink. After half an hour of raucous bedlam, they collapse in a heap, drunk as lords. You scoop them up, toss them into a bag and hand them to the astonished farmer.
+	</p>
+	<p>
+		He thanks you and gives you all he has - a <item name="verdigris key"/> he found in a field. Note it on your Adventure Sheet.
+	</p>
+	<p>
+		The farmer rushes off with the sack to empty the contents on the roof of his landlord's house!
+	</p>
+	<p>You carry on. <goto section="240"/>.</p>
+</section>	

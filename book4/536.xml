@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="536">
+	The creature swoops down from its cloud to attack you. Its flickering, coruscating body is hard to strike.
+	<fight name="Storm Demon" combat="8" defence="10" stamina="15"/>
+	If you win, <goto section="262"/>.
+	If you lose, <goto section="7" dead="t"/>.
+</section>

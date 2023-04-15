@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="759">
+	<p>
+		The man was pilot aboard a merchant ship that plied the trading routes between Chambara, Smogmaw and Metriciens. During the journey he teaches you something of the science of navigation.
+		<training ability="scouting"/>, and if you get higher than your SCOUTING score, add 1 to it.
+	</p>
+	<p>Then <goto section="358"/>.</p>
+</section>

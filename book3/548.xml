@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="548">
+	<p>
+		You lead a small boarding party over to the deserted ship. As you go aboard, a black cat strolls out from behind a hatch and watches you warily.
+	</p>
+	<p>
+		Suddenly your bosun pounces forward and seizes the animal. &#8216;Quick, we&#8217;ve got to throw it overboard!&#8217; he says.
+	</p>
+	<choices>
+		<choice section="566">Let him jettison the cat</choice>
+		<choice section="584">Tell him to leave it alone</choice>
+	</choices>
+</section>

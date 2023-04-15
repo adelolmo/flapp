@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="679">
+	<p>
+		<set var="armour" value="-armour"/>
+		You run for the doors, but you are struck by several large chunks.
+		<lose stamina="3d">
+			Lose 3-18 Stamina points
+			<adjust amount="armour"/>
+		</lose>
+		(the roll of three dice). Your armour helps - subtract its Defence rating from the total.
+	</p>
+	<p>
+		If you are dead, <goto section="7" dead="t"/>.
+		If you still live, you stagger towards the exit, hoping not to be hit again. <goto section="441"/>.
+	</p>
+</section>

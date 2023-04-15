@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="435">
+	<p>
+		The priestess seems surprised to see you. &#8216;Where is the mirror of the Sun Goddess you promised to find for us? All we know is that a nomad from the Horde of the Thundering Skies is said to possess it. Please, go and search for it.&#8217;
+	</p>
+	<p>
+		She has nothing else to say, so you return to the tempIe proper. <goto section="89"/>.
+	</p>
+</section>

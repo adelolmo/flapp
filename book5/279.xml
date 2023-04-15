@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="279">
+	<p>You emerge in the House of Holyamu.</p>
+	<p>'Welcome back!' he says. 'Hope you enjoyed the trip.'</p>
+	<choices>
+		<choice section="19">Attack Holyamu</choice>
+		<choice section="152">Ask him to lift a curse</choice>
+		<choice section="54">Leave</choice>
+	</choices>
+</section>

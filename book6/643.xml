@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="643">
+	<p>
+		The giant heaves his way up the stairs ahead of you. His wobbling bulk puts you in mind of two water buffaloes squeezed together in a sack full of dung - except that wouldn&#8217;t smell this bad.
+	</p>
+	<p>
+		At last you reach the top storey, where the giant invites you to sit at his dining table. What you thought at first was a dirty lace tablecloth turns out to be a thick layer of dust that is thrown up into the air the moment you sit down. While you are coughing, the giant fetches a couple of rusty goblets, tips out the family of spiders who were living inside them, and pours you some wine.
+	</p>
+	<p>&#8216;Your health, sir giant,&#8217; you say for want of anything better.</p>
+	<p>&#8216;Call me Big Boy,&#8217; he says, slobbering wine all down his chin.</p>
+	<choices>
+		<choice section="664">Drink the wine</choice>
+		<choice section="686">Pretend to drink</choice>
+		<choice section="712">Attack him</choice>
+	</choices>
+</section>

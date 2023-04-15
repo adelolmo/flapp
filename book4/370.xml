@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="370">
+	<p>
+		&#8216;I see,&#8217; says the genie, &#8216;It&#8217;s always wealth - you mortals are all the same.&#8217;
+	</p>
+	<p>
+		He waves his hand. Thousands of Shards begin to pour on to the raft as if from nowhere. You quickly realize that the raft will sink under all that weight, but it is already too late. The raft breaks up under the heavy coins, ditching all the money and you into the sea. The genie, laughing uproariously, disappears with a pop. You are left holding on to a single log of the raft, with a fortune in Shards somewhere in the deeps.
+	</p>
+	<p>
+		Now, however, your only thought is how you will survive. <rankcheck dice="1" add="1">Roll one die</rankcheck> and add one to the score.
+		<failure>
+			If the result is higher than your Rank, <goto section="459"/>
+		</failure>.
+		<success>
+			If it is less than or equal to your Rank, <goto section="318"/>.
+		</success>
+	</p>
+</section>

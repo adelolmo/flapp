@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="362" image="362.jpg">
+	<p>
+		The sea dragon dives deep to the bottom of the lake. You are pulled along at a terrific rate through the murky waters. You think your lungs are about to burst when at last the creature surges upwards, breaking the surface.
+	</p>
+	<p>
+		You find yourself in a cave inside a rocky island, somewhere on the surface of the lake. A hole in the roof lets in a shaft of bright sunlight, that reflects off the water, casting dappled yellow light all over the walls.
+	</p>
+	<p>
+		Part of the cave is dry ground, heaped with the dragon&#8217;s treasure hoard - sparkling coins, swords, armour, and the like. You notice a rocky ledge, lined with a number of bottles, full of yellow dust.
+	</p>
+	<p>
+		The dragon pulls itself on top of its hoard - you have a few seconds to try to hide. <difficulty ability="thievery" level="10">Make a THIEVERY roll at a Difficulty of 10</difficulty>.
+	</p>
+	<outcomes>
+		<success section="16"/>
+		<failure section="274"/>
+	</outcomes>
+</section>

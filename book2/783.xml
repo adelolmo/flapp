@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="783">
+	<p>
+		The stranger says he will prove his holiness by preaching a sermon to the local cats, &#8216;since cats are known to be ungodly creatures.&#8217;
+	</p>
+	<p>
+		He starts to screech and howl in a most unearthly way, and sure enough after a few minutes a group of assorted cats has collected by the roadside to listen.
+	</p>
+	<p>
+		&#8216;You see?&#8217; says the stranger. &#8216;They listened raptly, the little darlings. I&#8217;m sure they&#8217;ll go home better cats for that sermon. Now it&#8217;s your turn...&#8217;
+	</p>
+	<p><difficulty ability="scouting" level="12">Make a SCOUTING roll at Difficulty 12</difficulty>.</p>
+	<outcomes>
+		<success section="403"/>
+		<failure section="428"/>
+	</outcomes>
+</section>

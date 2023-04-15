@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="81">
+	<p>You are sailing in calm waters off the northern coast of Uttaku.</p>
+	<choices>
+		<choice section="400">Steer south along the coast</choice>
+		<choice book="4" section="336">Head north to Tigre Bay</choice>
+		<choice book="9" section="202">Sail west into the Cragdrift Sea</choice>
+	</choices>
+</section>

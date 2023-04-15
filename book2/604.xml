@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="604">
+	You are locked in battle with a golden serpent that hangs from
+	the branches overhead. Its coils are wound around you, leaving
+	you with no chance to flee.
+	<fight name="Jeweled Serpent" combat="7" defence="8" stamina="9"/>
+	If you kill it, <goto section="628"/>.
+</section>

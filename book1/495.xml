@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="495">
+	<p>
+		You arrive at Disaster Bay, where you find a community of fishermen. Judging by their wealth, they also make a living by other means - you suspect by looting the ships that get wrecked in the stormy waters of the bay.
+	</p>
+	<p>
+		A man offers to take you by boat, safely through the bay, and north to the port of Yarimura, on the Great Steppes. It will cost you 50 Shards.
+	</p>
+	<choices>
+		<choice book="4" section="25" shards="50">Pay 50 Shards to go to Yarimura</choice>
+		<choice section="244">Head north to the mountains</choice>
+		<choice section="518">Head for the road</choice>
+		<choice section="299">Head for Fort Mereth</choice>
+	</choices>
+</section>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="399">
+	<p>
+		The narrow Straits of Alvir permit safe passage between the Sea of Stilts and the Violet Ocean, assuming you are a skilled enough mariner to steer your vessel through.
+	</p>
+	<p><difficulty ability="scouting" level="14"/>.</p>
+	<p>
+		<success>
+			If you succeed,
+			<goto book="9" section="220">turn to paragraph 220</goto> in <i>The Isle of a Thousand Spires</i>.
+		</success>
+		Otherwise, you are forced back - <goto section="40"/>.
+	</p>
+</section>

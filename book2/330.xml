@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="330" dock="Ringhorn" image="330.jpg">
+	You search through the taverns along the waterfront, looking for
+	seasoned sailors willing to crew your vessel. It costs
+	<buy crew="average" shards="20"/> to upgrade a poor crew to average,
+	<buy crew="good" shards="40"/> to upgrade average to good, and
+	<buy crew="excellent" shards="80"/> to upgrade good to excellent.
+	(These prices are cumulative, so the total cost of bringing a poor crew up to excellent is 140 Shards.) Once you&#8217;ve recorded any changes to your Ship&#8217;s Manifest, <goto section="255"/>.
+</section>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="133">
+	<p>
+		You find a half-buried chest under a stand of trees at the back of a beach of ash-grey sand. Inside is treasure worth <gain shards="450"/> and a <b>heart-shaped locket</b>.
+	</p>
+	<p>
+		Just as you are about to open the locket, you hear a voice calling you and look up to see a beautiful girl wearing garlands of flowers. She reaches down from the rock on which she&#8217;s standing and asks you to return the locket to her.
+	</p>
+	<choices>
+		<choice section="76">Give it to her</choice>
+		<choice section="95">Refuse</choice>
+	</choices>
+</section>

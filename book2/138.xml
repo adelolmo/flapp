@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="138">
+	<tick codeword="2.138.1" hidden="t"/>
+	<if item="key of stars"><set var="open" value="1"/></if>
+	You can unlock the door of the black tower using a
+	<b>key of stars</b> if you have it, or by
+	<if item="key of stars" not="t">
+		<group>
+			<text>making a THIEVERY roll at a Difficulty of 13</text>
+			<difficulty ability="thievery" level="13" var="open"/>
+			<lose codeword="2.138.1" hidden="t"/>
+		</group>
+	</if>.
+	<choices>
+		<success var="open" section="69">Open the door</success>
+		<failure var="open" section="92">Fail THIEVERY roll</failure>
+		<choice section="22" box="2.138.1">Go back the way you came</choice>
+	</choices>
+</section>

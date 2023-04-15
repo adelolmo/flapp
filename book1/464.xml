@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="464">
+	The ship, already crippled by a storm, and with only half its crew, is easy meat for your hardy men. The strangely dressed foreigners surrender without much of a fight. You get <gain shards="100"/> as booty, and <buy cargo="spices">1 Cargo Unit of spices</buy>, if you have the room to take it. Now <goto section="559"/>.
+</section>

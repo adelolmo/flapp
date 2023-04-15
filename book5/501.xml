@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="501" image="501.jpg">
+	<p>
+		As a member of the Church of Ebron, you are deemd worthy enough to enter the outer precincts of the palace. You ascend the stairs. Expungers stand on guard, as still as statues, on either side of you as you walk up and up. At the top, you come to the Garden of Exotic Fragrances, which rings the palace like a garland of sweet-smelling flowers. Masked lords amble through the garden, or huddle here in groups, plotting intrigue no doubt.
+	</p>
+	<p>
+		You see strange winged reptiles lurking in the bushes. These are butterfly lizards, trained to respond to the commands of the masked lords. They have poisonous barbed spines, like porcupine quills, running up the backs of their necks, which they can fire at their enemies. These are the guardian pets of the court.
+	</p>
+	<p>
+		<if codeword="&#201;lite">If you have the codeword &#201;lite, <goto section="251"/>.</if> Otherwise, <goto section="183"/>.
+	</p>
+</section>

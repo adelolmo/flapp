@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="453">
+	<p>
+		Among the shambling miners you notice one face - your former helmsman, Gaspar Savaloy. His cheeks, once ruddy and welllarded as any yeoman of Golnir, are now hollow; his formerly ample belly has been lost along with memories of good meals.
+	</p>
+	<p>&#8216;Mister Savaloy,&#8217; you say. &#8216;Here&#8217;s a pretty pass, eh?&#8217;</p>
+	<p>
+		It takes a few seconds for recognition to strike. &#8216;Skipper! If it ain&#8217;t me old skipper what I unjustly abandoned on that isle.&#8217; He starts to sway his head, eyes too parched for tears. &#8216;Help yer old helmsman, skipper.&#8217;
+	</p>
+	<p>
+		You discover from the mine supervisor that it will cost 30 Shards to pay off Savaloy&#8217;s indenture.
+	</p>
+	<choices>
+		<choice shards="30" pay="f" section="489">Pay to have him free</choice>
+		<choice section="471">Ignore him and walk on</choice>
+	</choices>
+</section>

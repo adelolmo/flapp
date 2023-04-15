@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="642">
+	<p>
+		You open the cage door. A wide grin suddenly appears at about head height within the dark shadows that wreath the trau. All you can see is a huge sliver of a grin, topped by two glowing red eyes.
+	</p>
+	<p>
+		&#8216;Free at last!&#8217; gushes the trau as it leaps out. &#8216;Now for home, and as much faery mead as I can drink!&#8217;
+	</p>
+	<p>
+		With that, it delves into the ground so fast that it has burrowed out of sight before you can do anything to stop it.
+	</p>
+	<p>
+		Shrugging your shoulders resignedly, you leave the market. <goto section="400"/>.
+	</p>
+</section>

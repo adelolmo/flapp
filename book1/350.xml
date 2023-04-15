@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="350">
+	<p>
+		You are restored to life at the Temple of Nagil in Marlock City. Your Stamina is back to its normal score. The possessions and cash you were carrying at the time of your death are lost - <lose item="*" shards="*">cross them off</lose> your Adventure Sheet. Also remember to delete the entry in the Resurrection box now it has been used.
+	</p>
+	<p>
+		&#8216;Nagil has taken you from the barge of souls that sails to the lands of the dead, and returned you to us,&#8217; declares the high priest.
+	</p>
+	<p>You leave the temple. <goto section="100"/>.</p>
+</section>

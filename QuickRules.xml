@@ -1,0 +1,28 @@
+<section>
+	<table>
+		<tr><h3>Quick Rules</h3></tr>
+	</table>
+	<p>
+		To use an ability (COMBAT, THIEVERY, and so on), roll two dice
+		and add your score in the ability. To succeed you must roll
+		higher than the Difficulty of the task.
+	</p>
+	<p><i>
+			Example: You want to calm down an angry innkeeper. This 
+			requires a CHARISMA roll at a Difficulty of 10. Say
+			you have a CHARISMA score of 6. This means that you
+			would have to roll 5 or more on two dice to succeed.
+	</i></p>
+	<p>
+		Fighting involves a series of COMBAT rolls. The Difficulty of
+		the roll is equal to the opponent's Defence score.
+		(Your Defence is equal to your Rank PLUS your armour bonus
+		PLUS your COMBAT score). The amount you beat the Difficulty
+		by is the number of Stamina points that your opponent loses.
+	</p>
+	<p>
+		That's pretty much all you need to know. If you have any
+		detailed queries, consult the full rules
+		('Original Rules', under the Help menu).
+	</p>
+</section>

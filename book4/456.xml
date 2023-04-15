@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="456">
+	As an initiate of Tambu, you know you can make an offering here in the hope of winning Tambu&#8217;s favour. The object must be of value and have an ability bonus (CHARISMA, COMBAT and so on) of at least +1.
+	You can <transfer item="?" bonus="1" limit="1" price="1" to="4.641">offer a +1 item</transfer>,
+	<lose item="?" bonus="2" price="2">a +2 item</lose> or
+	<lose item="?" bonus="3+" price="3">a +3 or greater item</lose>.
+	<!-- extra note: +1 items are rejected - you keep the item -->
+	<choices>
+		<outcome flag="1" section="641">+1 item</outcome>
+		<outcome flag="2" section="404">+2 item</outcome>
+		<outcome flag="3" section="568">+3 item</outcome>
+		<choice section="118">Leave</choice>
+	</choices>
+</section>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="691">
+	<p>
+		&#8216;Confess your sins,&#8217; says the pardoner you meet along the road. &#8216;For a small fee I can grant you absolution.&#8217;
+	</p>
+	<p>&#8216;How small?&#8217;</p>
+	<p>&#8216;Seven Shards.&#8217;</p>
+	<choices>
+		<choice shards="7" section="715">Pay his fee</choice>
+		<choice section="11">Pass on by</choice>
+	</choices>
+</section>

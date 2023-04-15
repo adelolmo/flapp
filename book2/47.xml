@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="47">
+	&#8216;Over here!&#8217; calls a plaintive voice from beyond a thicket. &#8216;Over here!&#8217;
+	<choices>
+		<choice section="346">Investigate</choice>
+		<choice section="93">Ignore the voice</choice>
+	</choices>
+</section>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="142" tag="temple">
+	<p>
+		The temple of Maka, the terrible goddess of disease and famine, is only half built. It is to be a large underground chamber excavated from the very earth. Workmen are busy everywhere, though the temple is open for business, and worship. Down below, the walls are bare earth; the ceiling is covered in the roots of growing plants, for Maka is also the goddess of the harvest, who must be kept happy else disease and famine will strike the people, their crops and their livestock.
+	</p>
+	<p>
+		The priestess welcomes you. 'At last we can worship the true gods, now that the Uttakin and their foul god Ebron have been driven out of Old Harkuna.'
+	</p>
+	<choices>
+		<choice section="351">Become an initiate</choice>
+		<choice section="261">Renounce her worship</choice>
+		<choice section="494">Seek a blessing</choice>
+		<choice section="105">Ask to be cured of disease or poison</choice>
+		<choice section="525">Leave the temple</choice>
+	</choices>
+</section>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="200">
+	<p>
+		Here the waters are pale as moonstone and there is the scent of luxuriant blossoms on the breeze. Viewed from here, the coast of Akatsurai resembles a delightful tapestry in soft green and blue dyes. <rest stamina="1">Recover 1 Stamina point</rest> if injured.
+	</p>
+	<p>
+		&#8216;Our current position is just off the west coast of Yodoshi, the main island,&#8217; reports the navigator. &#8216;Where now, captain?&#8217;
+	</p>
+	<choices>
+		<choice section="470">Tie up at Shingen wharf</choice>
+		<choice section="350">Steer south</choice>
+		<choice section="150">Steer north</choice>
+		<choice section="80">Head out to sea</choice>
+	</choices>
+</section>

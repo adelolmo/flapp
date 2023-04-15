@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="270">
+	<if not="t" safeAddGod="Nagil">
+		Becoming an initiate of Nagil is not possible if you are already an initiate of another temple.
+	</if>
+	<else>
+		You are made to undergo various trials to test your worthiness. In the last test, you are sealed in a casket below the ground and made to confront your own fears. To pass the test you must
+		<random dice="1" var="x">
+			roll under your Rank on one die
+		</random>.
+		<set var="rank" value="rank" modifier="natural"/>
+		<if var="x" lessthan="rank">
+			If successful, <tick god="Nagil">write Nagil in the God box</tick> on your Adventure Sheet.
+		</if>
+	</else>
+	Once you have finished here, <goto section="125"/>.
+</section>

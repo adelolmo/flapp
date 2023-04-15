@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="629">
+	<p>
+		The soldier recognises you and leads you to see the king. Nergan is pleased to see you. &#8216;Have you succeeded in ridding us of Marloes?&#8217; he asks eagerly.
+	</p>
+	<p>
+		<if codeword="Assassin">
+			If you have the codeword Assassin, <goto section="256"/> immediately.
+		</if>
+		If not, read on.
+	</p>
+	<p>You say that you have not completed your mission.</p>
+	<p>
+		&#8216;What are you doing here, then? There is nothing I can do to help you - you will just have to use your own wits. Now go - fulfil my royal command!&#8217; says the king.
+	</p>
+	<p>
+		You are escorted to the foothills of the mountains. <goto section="474"/>.
+	</p>
+</section>

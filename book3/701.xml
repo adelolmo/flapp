@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="701">
+	<p>
+		The fishermen entertain you and your men in their village tavern, but you suspect they may have spiked the ale because it is not long before the others are lolling drunkenly and singing ribald songs.
+	</p>
+	<p>
+		You have sensibly avoided drinking anything yourself, but now you must assert your authority to get the men back on board so you can set sail before the Reavers show up.
+		<difficulty ability="charisma" level="14">
+			Make a CHARISMA roll at a difficulty of 14
+		</difficulty>.
+	</p>
+	<outcomes>
+		<success section="549"/>
+		<failure section="378"/>
+	</outcomes>
+</section>

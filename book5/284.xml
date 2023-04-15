@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="284">
+	<p>
+		The House of Sweet Repose is a pleasant inn with a stately garden. The inn costs you 1 Shard a day. <rest stamina="1" shards="1">Each day you spend here</rest>, you can recover 1 Stamina point if injured, up ot the limit of your normal unwounded Stamina score.
+	</p>
+	<p>
+		<if codeword="Dregs">
+			If you have the codeword Dregs,
+			<goto section="354"/>.
+		</if>
+		If not, <goto section="100"/> when you are ready.
+	</p>
+</section>

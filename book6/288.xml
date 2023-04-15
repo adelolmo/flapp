@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="287">
+	<p>
+		<tick codeword="Fusty">Get the codeword Fusty</tick>.
+		You scour the woods without success until finally it begins to get dark and you have to make your way back to the hunting lodge. The proprietor greets you cheerily. &#8216;A good day&#8217;s sport?&#8217; he enquires.
+	</p>
+	<p><goto section="181"/>.</p>
+</section>

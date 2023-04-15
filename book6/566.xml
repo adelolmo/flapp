@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="566">
+	<p><tick codeword="Fright">Get the codeword Fright</tick>.</p>
+	<p>
+		After a thorough search of the pagoda you find
+		<gain shards="2500"/>,
+		a canister of <item name="rat poison"/>,
+		a <item name="pirate captain's head"><b>pirate captain&#8217;s head</b></item>,
+		three suits of <armour name="chain mail" bonus="3" quantity="3"/>,
+		a <weapon name="battle axe" bonus="3"/>,
+		a <item name="dragon's head"><b>dragon&#8217;s head</b></item>
+		and a <item name="pink rice grain"/>.
+	</p>
+	<p>
+		Take whatever you want and <goto section="501"/> when you&#8217;re ready to resume your travels.
+	</p>
+</section>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="690" tag="temple">
+	<p>
+		It is characteristic of the people of Hagashin that they do not bother with the usual distinction between temples to the Sage of Peace and shrines to the divine powers. &#8216;All creation is divine,&#8217; says a priest, &#8216;so heaven and earth are one.&#8217;
+	</p>
+	<p>
+		<if title="Initiate of the Sage of Peace" not="t">
+			You can get a blessing for
+			<lose shards="35" price="x"/>
+		</if>
+		<else>
+			- or just
+			<lose shards="20" price="x"/>
+			if you&#8217;re an initiate of the Sage of Peace.
+		</else>
+		Blessings are available for
+		<tick blessing="charisma" flag="x"/>,
+		<tick blessing="scouting" flag="x"/>,
+		<tick blessing="combat" flag="x"/> and
+		<tick blessing="magic" flag="x"/>.
+		Simply pay the money and note the appropriate ability in the Blessings box on your Adventure Sheet. The blessing works by allowing you to try again when you fail a roll for that ability. You can only use the blessing once; it is then used up and you should cross it off. Also, you can only have one blessing for each ability at any one time.
+	</p>
+	<p>Now <goto section="226"/>.</p>
+</section>

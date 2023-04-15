@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="616">
+	<p>
+		The man in the black mask introduces himself as Lochos Veshtu of Aku, Master Knave of the Brotherhood in Yarimura. To join the brotherhood you have to pass a test.
+	</p>
+	<p>
+		&#8216;If you can sneak into the private bedchamber at the palace of Lord Kumonosu, the Daimyo of Yarimura, you will have proved your worthiness to join us,&#8217; he says.
+	</p>
+	<p>&#8216;And what do I have to steal?&#8217; you ask.</p>
+	<p>
+		&#8216;Oh, nothing. That would be rather - unwise. Just prove that you are capable of getting in there unseen - that will suffice.&#8217;
+	</p>
+	<p>&#8216;But how will you know whether I&#8217;ve done it or not?&#8217;</p>
+	<p>
+		&#8216;We&#8217;ll know, believe me, we&#8217;ll know,&#8217; he replies enigmatically. &#8216;Return when you have done as I ask.&#8217;
+	</p>
+	<p>
+		You are shown out. <tick codeword="Dare">Record the codeword Dare</tick>.
+	</p>
+	<p><goto section="633"/>.</p>
+</section>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="191">
+	<p>
+		You get lost in a sudden fog that rises without warning off the waterlogged rice paddies. Suddenly you hear a champing noise and you pull off your haversack to find that the head has gnashed its way out. The head gives you a painful bite before you manage to throw it away into the fog.
+		<lose stamina="2d">Lose 2-12 Stamina points</lose> and also
+		<if blessing="poison">
+			<lose blessing="poison" hidden="t"/>
+		</if>
+		<else>
+			<lose ability="stamina" amount="1">
+				reduce your unwounded Stamina score by 1 point
+			</lose>
+		</else>
+		permanently if you don&#8217;t have a blessing of Immunity to Disease/Poison. Almost as bad, half your money has fallen out of the pack and you have no hope of finding it now, so
+		<adjustmoney multiply="0.5">cross it off</adjustmoney>
+		your Adventure Sheet. Also remember to
+		<group force="t">
+			<text>cross off the <b>head</b></text>
+			<lose item="dead head" multiple="12"/>
+			<lose item="ghoul's head" multiple="12"/>
+		</group>.
+	</p>
+	<p><goto section="3"/>.</p>
+</section>

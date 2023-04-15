@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="226">
+	You are roughly twenty leagues due north of the Sleeping Isle.
+	The helmsman awaits your orders.
+	<choices>
+		<choice section="9">Go east</choice>
+		<choice section="170">Go west</choice>
+		<choice section="129">Go north</choice>
+		<choice section="281">Go south</choice>
+	</choices>
+</section>

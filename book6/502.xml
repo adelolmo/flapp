@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="502">
+	<p>
+		You strike up a conversation with a hermit who you meet on his way home. His name is Jobutsu. You cannot help noticing that he has very courtly manners, which he explains by telling you how he was once a nobleman at the imperial palace in Chambara.
+	</p>
+	<p>
+		&#8216;But I was undone by pride,&#8217; he says sorrowfully. &#8216;I came to the Sovereign&#8217;s notice because of my musical skill, you see. One day I was asked to play a very ancient flute that had been handed down through the generations. Alas, I did not think to examine it before I started to play. It was full of dust because it had not been played for so long, and so I was reduced to a coughing fit. Unable to bear the shame, I retired from court and came to live out here in the countryside.&#8217;
+	</p>
+	<p>A sad story indeed.</p>
+	<p>
+		<tick codeword="Flux">Get the codeword Flux</tick>
+		and then <goto section="652"/>.
+	</p>
+</section>

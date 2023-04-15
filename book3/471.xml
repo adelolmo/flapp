@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="471">
+	No daylight penetrates this far below ground. To proceed you
+	must have a <b>candle</b>, <b>lantern</b> or other source of light.
+	Otherwise you have no choice but to turn back.
+	<choices>
+		<choice item="?" tags="light" section="509">Proceed downwards</choice>
+		<choice section="317">Head for the surface</choice>
+	</choices>
+</section>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="679">
+	<p>
+		You hand over the sword. Cross the <lose item="Holy Avenger"/> off your Adventure Sheet.
+	</p>
+	<p>
+		The High Convener of Chariots is grateful. She tells one of her men, the Master of the Ways of War, to instruct you in combat techniques.
+	</p>
+	<p>
+		<training ability="combat"/>. If the result is higher than your COMBAT rating, then you can add one to that rating.
+	</p>
+	<p>
+		She also gives you an
+		<weapon name="Uttakin long-axe" bonus="2"/> and a suit of
+		<armour name="chain mail" bonus="3"/>.
+	</p>
+	<p><lose codeword="Errant">Erase the codeword Errant</lose>.</p>
+	<p>
+		Your exploit has enhanced your reputation in the eyes of the Court of Hidden Faces. Turn to <b>401</b> and
+		<tick name="UttakuStatus" amount="3">add 3 Status points</tick>
+		to your total in the box provided. Then choose an option
+		<goto section="401">from there</goto>.
+	</p>
+</section>

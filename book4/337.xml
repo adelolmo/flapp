@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="337">
+	<p><tick codeword="Divest"/>.</p>
+	<p>
+		You and Luroc make it safely back to Yarimura, where he takes his leave.
+	</p>
+	<p>
+		&#8216;It&#8217;ll go down as one of the greatest stings of all time!&#8217; he boasts. &#8216;I look forward to working with you again some day.&#8217;
+	</p>
+	<p>
+		<if item="casket of gems">
+			If you took the <b>casket of gems</b>, its contents are worth 850 Shards. <gain shards="850">Add this amount</gain> to your money and <lose item="casket of gems">cross off the casket</lose>.
+		</if>
+	</p>
+	<p>
+		The experience has taught you much -
+		<gain ability="thievery" amount="1">
+			add one to your THIEVERY rating
+		</gain>, permanently, and then <goto section="10"/>.
+	</p>
+</section>

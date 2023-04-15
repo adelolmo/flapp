@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="68">
+	Here a knight has set up his pavilion. Encased from head to foot
+	in plate armour, he sits astride his horse in silence while his
+	dwarfish squire scurries forward on stunted legs to speak with
+	you. &#8216;My lord contests your right to use this path,&#8217; the dwarf
+	tells you. &#8216;You must fight him or else turn back.&#8217;
+	<outcomes>
+		<outcome codeword="Beltane" section="251">
+			If you have the codeword <i>Beltane</i>
+		</outcome>
+		<outcome section="274">If not</outcome>
+	</outcomes>
+</section>

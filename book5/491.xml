@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="491">
+	<p>
+		You set off in search of the dragon's hoard. The map leads you to a frost-bound cave deep in the Icicle Woods. Unfortunately, the ice dragon is at home. It is too mighty to slay so you attempt to sneak in, and steal some of its treasure.
+	</p>
+	<p><difficulty ability="thievery" level="15"/>.</p>
+	<outcomes>
+		<success section="257"/>
+		<failure section="344"/>
+	</outcomes>
+</section>

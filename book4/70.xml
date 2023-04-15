@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="70">
+	You are clinging to glassy-smooth cliffs above an abyss that goes down to the sunless depths of the night sky. If only you could wake up and discover this isn't real.
+	<choices>
+		<choice section="423">Ascend</choice>
+		<choice section="204">Descend</choice>
+	</choices>
+</section>

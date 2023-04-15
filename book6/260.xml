@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="260">
+	The man seems to be a Taoist recluse. He is intent on some sort
+	of balancing exercise, so you might be able to get past without
+	him noticing.
+	<difficulty ability="thievery" level="16">
+		Make a THIEVERY roll at a Difficulty of 16
+	</difficulty>.
+	<outcomes>
+		<success section="352"/>
+		<failure section="373"/>
+	</outcomes>
+</section>

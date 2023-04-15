@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="246">
+	You are wandering across a patch of moorland east of Haggart&#8217;s
+	Corner.
+	<choices>
+		<choice section="219">Go south into the fens</choice>
+		<choice section="150">Go west to Haggart&#8217;s Corner</choice>
+		<choice section="306">Strike out east towards the river</choice>
+	</choices>
+</section>

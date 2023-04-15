@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="566">
+	<p>
+		The cat was the vessel&#8217;s sole living crewmember. Now that you&#8217;ve got rid of it, you can legally help yourself to the cargo. This comprises 2 Cargo Units. <random dice="1"/> to determine the commodity.
+	</p>
+	<outcomes>
+		<outcome range="1">
+			<buy cargo="minerals" shards="0" quantity="2">Minerals</buy>
+		</outcome>
+		<outcome range="2">
+			<buy cargo="spices" shards="0" quantity="2">Spices</buy>
+		</outcome>
+		<outcome range="3">
+			<buy cargo="metals" shards="0" quantity="2">Metals</buy>
+		</outcome>
+		<outcome range="4">
+			<buy cargo="textiles" shards="0" quantity="2">Textiles</buy>
+		</outcome>
+		<outcome range="5">
+			<buy cargo="furs" shards="0" quantity="2">Furs</buy>
+		</outcome>
+		<outcome range="6">
+			<buy cargo="timber" shards="0" quantity="2">Timber</buy>
+		</outcome>
+	</outcomes>
+	<p>
+		You can add this to your own cargo if you have room on board. Then <goto section="620"/>.
+	</p>
+</section>

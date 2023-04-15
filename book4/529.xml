@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="529">
+	<p>
+		&#8216;As you wish,&#8217; says the genie. He waves a hand in the air. Bolts of red energy leap from his eyes and seem to burn their way through your brain. You pass out.
+	</p>
+	<p>
+		When you awake the genie is gone, but you realize you have learned some new tricks. <gain ability="?" amount="1">Add one to the attribute of your choice</gain> (i.e. CHARISMA, COMBAT, SCOUTING etc) permanently.
+	</p>
+	<p>
+		Unfortunately for you, you are still drifting aimlessly across the seas. You are out of water, and will soon be dead of thirst.
+	</p>
+	<p>
+		<rankcheck dice="1" add="1">Roll a die and add one to the score</rankcheck>.
+		<failure>
+			If the result is higher than your Rank, <goto section="459"/>.
+		</failure>
+		<success>
+			If it is less than or equal to your Rank, <goto section="318"/>.
+		</success>
+	</p>
+</section>

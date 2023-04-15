@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="262">
+	<p>
+		You come to a small village in Old Harkuna when a band of cutthroat mercenaries in the pay of the Uttakin decide to supplement their pay by robbing you! <if title="Masked Lord|Masked Lady|blue skin">If you have the title Masked Lord or Masked Lady, or if you have blue skin, <goto section="706"/>.</if> If not, read on.
+	</p>
+	<p>
+		There are at least ten of them, outlaws from all over the world, who have taken up service with the empire of Uttaku - pikemen from Atticala, nomads of the steppes, hawk-faced tribesmen from the Desert of Bones.
+	</p>
+	<choices>
+		<choice section="595">Run for it</choice>
+		<choice section="570">Put up a fight</choice>
+	</choices>
+</section>

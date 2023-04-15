@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="286">
+	<p>
+		You try to extricate yourself but succeed only in sounding obstreperous - much to the delight of the scheming Masayori, who planned this to disgrace you in front of the court.
+	</p>
+	<p>
+		Finally Takakura dismisses you with a bad-tempered gesture. &#8216;Go, then! If your music is so precious that it cannot be wasted on mortal ears, take yourself to the mountains and play instead for the entertainment of the celestial powers.&#8217;
+	</p>
+	<p>
+		You are ushered out and your title of Junior Court Rank is revoked.
+		<lose title="Junior Court Rank">Cross it off</lose>,
+		then <goto section="79"/>.
+	</p>
+</section>

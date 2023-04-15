@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="142" dock="Marlock City" image="142.jpg">
+	<p>
+		All shipping in and out of Marlock City must come through the offices of the harbourmaster. Here you can buy passage to far lands, or even a ship of your own, to fill with cargo and crew.
+	</p>
+	<p>
+		You can buy one-way passage on a ship to the following destinations:
+	</p>
+	<choices>
+		<choice section="372" shards="10" pay="f">Yellowport, cost 10 Shards</choice>
+		<choice section="455" shards="15" pay="f">Wishport, cost 15 Shards</choice>
+		<choice section="234" shards="30" pay="f" revisit="t">Sorcerer&#8217;s Isle, cost 30 Shards</choice>
+		<choice section="424" shards="30" pay="f" revisit="t">Copper Island, cost 30 Shards</choice>
+	</choices>
+	<p>
+		If you buy a ship, you are the captain and can take it where you wish, exploring or trading. You also get to name it. There are three types of ship, and four types of crew quality. You can also buy cargo for your ship to sell in other ports.
+	</p>
+	<market>
+		<header type="ship"/>
+		<trade ship="barque" initialCrew="average" buy="250"/>
+		<trade ship="brigantine" initialCrew="average" buy="450"/>
+		<trade ship="galleon" initialCrew="average" buy="900"/>
+	</market>
+	<p>
+		If you buy a ship, add it to the Ship&#8217;s Manifest, and name it as you wish. The quality of the ship&#8217;s crew is average, unless you pay to upgrade it. If you already own a ship you can sell it to the harbourmaster at half the above prices. <i>[To sell a ship, use the following options:]</i>
+	</p>
+	<market>
+		<header type="shipsale"/>
+		<trade ship="barque" sell="125"/>
+		<trade ship="brigantine" sell="225"/>
+		<trade ship="galleon" sell="450"/>
+	</market>
+	<p>
+		It costs <buy crew="average" shards="50"/> to upgrade a poor crew to average, <buy crew="good" shards="100"/> to upgrade an average crew to good, and <buy crew="excellent" shards="150"/> to upgrade a good crew to excellent.
+	</p>
+	<p>
+		Cargo can be bought at Marlock City and sold at other ports for profit. If you own a ship, you can buy as many Cargo Units as it has room for. You may also sell cargo, if you have any. Prices quoted here are for entire Cargo Units.
+	</p>
+	<market>
+		<header type="cargo"/>
+		<trade cargo="furs" buy="190" sell="180"/>
+		<trade cargo="grain" buy="190" sell="180"/>
+		<trade cargo="metals" buy="700" sell="635"/>
+		<trade cargo="minerals" buy="500" sell="460"/>
+		<trade cargo="spices" buy="820" sell="760"/>
+		<trade cargo="textiles" buy="325" sell="285"/>
+		<trade cargo="timber" buy="190" sell="180"/>
+	</market>
+	<p>
+		Fill in your current cargo on the Ship&#8217;s Manifest - assuming you own a ship!
+	</p>
+	<p>
+		If you own a ship and wish to set sail, <goto section="84" sail="t" force="f"/>. If not you can go to the city centre. <goto section="100"/>.
+	</p>
+</section>

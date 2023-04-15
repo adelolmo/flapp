@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="668">
+	<p>
+		You are given to the Superintendent of Storytellers and trained as a storyteller to the children of the lords and ladies of the palace.
+	</p>
+	<p>
+		<training ability="charisma">Roll two dice</training>.
+		If the result is higher than your CHARISMA rating you can add one to that rating.
+	</p>
+	<p>
+		Naturally, you tell the children stories about your own extraordinary adventures.
+	</p>
+	<p><difficulty ability="charisma" level="14"/>.</p>
+	<outcomes>
+		<success section="538"/>
+		<failure section="411"/>
+	</outcomes>
+</section>

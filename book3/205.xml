@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="205">
+	<p>
+		You have entered the waters around the Unnumbered Isles. Somewhere in this reef-strewn archipelago is the stronghold of the Reavers. They rule like barbarian lords over the poor crofters of the isles.
+	</p>
+	<p>
+		<if codeword="Chance">
+			If you have the codeword Chance, <goto section="545"/>.
+		</if>
+		<else>
+			If not, <goto section="563"/>.
+		</else>
+	</p>
+</section>

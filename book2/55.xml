@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="55">
+	You are on the coastal road. The great port city of Ringhorn is
+	far to the west. The town of Metriciens is rather nearer.
+	<choices>
+		<choice section="373">Head west</choice>
+		<choice section="48">Head east</choice>
+		<choice section="78">Leave the road and head north</choice>
+	</choices>
+</section>

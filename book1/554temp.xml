@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="554">
+	<tick codeword="1.554.1" hidden="t"/>
+	King Skabb&#8217;s rusty iron crown shattered when he fell, so you take the <item name="copper amulet" force="t"/> from around his neck. Note it on your Adventure Sheet. You also find a chest in the corner of the room but it is clearly booby-trapped. You can open it using magic, or your skills as a thief. To pick the lock,
+	<group>
+		<text>make a THIEVERY roll at Difficulty 9</text>
+		<lose codeword="1.554.1"/>
+		<difficulty ability="thievery" level="9"/>
+	</group>. To use sorcery,
+	<group>
+		<text>make a MAGIC roll at Difficulty 9</text>
+		<lose codeword="1.554.1"/>
+		<difficulty ability="magic" level="9"/>
+	</group>.
+	<tick codeword="StillInYellowport" hidden="t"/>
+	<choices>
+		<success section="6">Successful roll</success>
+		<failure section="64">Failed roll</failure>
+		<choice section="10" box="1.554.1">Leave the chest and return to the surface</choice>
+	</choices>
+</section>

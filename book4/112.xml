@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="112">
+	<p>
+		You succeed only in offending the merchant. He yells for the guards, and a dozen soldiers run out to arrest you. There are too many of them - you are seized and clapped in irons.
+		<lose item="*" shards="*">
+			Lose all your money and possessions
+		</lose> on your Adventure Sheet.
+		After a few weeks in a cell, you are sold to slavers from Caran Baru. Eventually, you are bought by the navy of Yarimura.
+	</p>
+	<p><goto section="222"/>.</p>
+</section>

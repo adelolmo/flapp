@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="341">
+	As a member of the nobility, you are admitted to the castle
+	without delay. Peasants&#8217; carts are pushed aside by the sentries so
+	that you can sweep majestically past. <goto section="315"/>.
+</section>

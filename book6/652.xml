@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="652">
+	You are on the road not far from Chambara, the capital city.
+	Decide where your travels will take you next.
+	<choices>
+		<choice section="79">To the capital</choice>
+		<choice section="590">East along the road</choice>
+		<choice section="672">Towards the Kwaidan Forest</choice>
+		<choice section="704">South over open country</choice>
+	</choices>
+</section>

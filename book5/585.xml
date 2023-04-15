@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="585">
+	<p>
+		The shades of the dead have come for you, howling for revenge. They turn your sleep into a living nightmare, and you are driven, screaming with terror from the haunted hall. The experience has left you with an uncontrollable facial tick, and a hollow, haunted look about the eyes. <lose ability="charisma" amount="1">Lose one point of CHARISMA</lose> permanently.
+	</p>
+	<p><goto section="11"/>.</p>
+</section>

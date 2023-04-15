@@ -1,0 +1,16 @@
+<section name="Kitunai the Wolf-Shaman" profession="Priest">
+	<p>
+		Kitunai is a shaman priest of the plains nomads. The spirit of Tambu, god of the steppes, came to Kitunai in a dream as a white wolf and told him to travel the world to learn the ways and gods of the town-dwellers. Kitunai's first task is to visit the temples of the city of Yarimura.
+	</p>
+	<p>
+		You can play as Kitunai, or as a priest with a different name (enter it in the 'Name' field). To begin your adventure, <goto section="1" force="f"/>.
+	</p>
+	<p>For another profession, choose from the following:</p>
+	<choices>
+		<choice section="Ilak">Warrior</choice>
+		<choice section="Arabel">Mage</choice>
+		<choice section="Vilss">Rogue</choice>
+		<choice section="Charyss">Troubadour</choice>
+		<choice section="Dilmun">Wayfarer</choice>
+	</choices>
+</section>

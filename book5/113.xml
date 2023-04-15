@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="113" boxes="1">
+	<p>
+		<if ticks="1">If there is a tick in the box, <goto section="268">return to 268</goto> immediately.</if> If not, <tick>put a tick there now</tick> and read on.
+	</p>
+	<p>
+		You find strange patterns on the beach: a whirling, spiralling movement of uncertain origin.
+	</p>
+	<p><difficulty ability="magic" level="10"/>.</p>
+	<outcomes>
+		<success section="720"/>
+		<failure section="268"/>
+	</outcomes>
+</section>

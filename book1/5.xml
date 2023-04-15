@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="5">
+	It is a tough climb upwards but not impossible.
+	<if item="climbing gear">
+		If you have some <b>climbing gear</b>, <goto section="652"/>.
+	</if>
+	If not, <difficulty ability="scouting" level="10"/>.
+	<outcomes>
+		<success section="652"/>
+		<failure section="529"/>
+	</outcomes>
+</section>

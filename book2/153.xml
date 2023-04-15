@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="153">
+	You are in open country in south-eastern Golnir, close to the
+	border with Sokara that is marked out by the River Grimm.
+	<choices>
+		<choice section="176">Go north</choice>
+		<choice section="260">Go east to the river</choice>
+		<choice section="196">Go west</choice>
+		<choice section="219">Go south</choice>
+	</choices>
+</section>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="600">
+	<p>
+		You wait until Thursday. Lynn tells you that the disappearances happened a little way out of town, near an old farmhouse.
+	</p>
+	<p>
+		As you leave town, you notice Fourze, the Master of the Market, heading in the opposite direction.
+	</p>
+	<choices>
+		<choice section="383">Follow Fourze</choice>
+		<choice section="263">Head for the old farm</choice>
+	</choices>
+</section>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="535">
+	<p>
+		The pirates seize you and clap you in iron fetters, then put your own vessel in tow and start the long haul back to their base.
+	</p>
+	<p>
+		<lose shards="*" item="*" cargo="*">
+			Cross off your money, possessions and any Cargo Units aboard your vessel
+		</lose>.
+		However, do not cross the ship off the Ship&#8217;s Manifest just yet. You may still be able to escape from your captors...
+	</p>
+	<p>Turn to <goto book="3" section="454"/>.</p>
+</section>

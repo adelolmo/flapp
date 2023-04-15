@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="132">
+	<p>
+		The guards refuse to let you in. &#8216;Lord Kiyomori is too important to be bothered with the likes of you,&#8217; says their captain.
+	</p>
+	<p>Obviously you are not going to get anywhere by being direct.</p>
+	<choices>
+		<choice section="205">Sneak in after dark</choice>
+		<choice section="79">Give up any hope of seeing Kiyomori</choice>
+	</choices>
+</section>

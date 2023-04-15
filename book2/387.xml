@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="387">
+	<lose shards="*" item="*">
+		Cross all money and possessions off
+	</lose>
+	your Adventure Sheet. You are lucky to have got away with your life. You hide inside a hollow tree until sunrise, but when you retrace your steps you cannot find the inn. <goto section="153"/>.
+</section>

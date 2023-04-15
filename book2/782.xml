@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="782">
+	<p>
+		&#8216;You&#8217;ve got to wait inside that ring of standing stones,&#8217; says a flower-seller, pointing out across the meadows. &#8216;Some nights the trau will come. More often they won&#8217;t. And mind that you keep one Mithral to pay your toll when leaving the standing stones, or you won&#8217;t be seen this side of the sky again!&#8217;
+	</p>
+	<p>
+		&#8216;What&#8217;s a Mithral?&#8217; says her husband, overhearing the conversation.
+	</p>
+	<p>
+		She gives him a clout on the ear. &#8216;Old fool! If you don&#8217;t know that, you&#8217;d better keep your nose out of trau business.&#8217;
+	</p>
+	<choices>
+		<choice section="520">Go out to the standing stones</choice>
+		<choice section="294">Visit the temple of Lacuna</choice>
+		<choice section="761">Take lodging at an inn</choice>
+		<choice section="173">Leave the town</choice>
+	</choices>
+</section>

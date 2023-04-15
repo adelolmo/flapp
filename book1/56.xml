@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="56">
+	A strange-looking craft is bobbing in the water. It is shaped like a cone, floating on its base, and as you draw nearer, you realise it is made entirely of metal! Its sail, a huge piece of cloth, seems to have collapsed and is spread out around it, on the surface of the sea. Great blue and white letters, in some foreign script, are painted on its side. You notice an opening on one side.
+	<choices>
+		<choice section="496">Enter the strange craft</choice>
+		<choice section="85">Leave it and sail on</choice>
+	</choices>
+</section>

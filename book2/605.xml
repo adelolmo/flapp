@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="605">
+	<p>
+		She falls onto your sword. You recoil in horror as she pulls herself along it, gladly embracing death, digging her fingers into your shoulders and planting an icy kiss on your brow.
+	</p>
+	<p>
+		Your senses slough away. For a time there is fleeting oblivion, like the state of being at the edge of sleep. You are dimly aware of voices, fugitive sights and sounds, but they quickly fade.
+	</p>
+	<p>
+		Then you find yourself looking into the kindly face of a nun. She wears the silver-trimmed white habit of a devotee of the goddess Lacuna. &#8216;Where am I?&#8217; you ask.
+	</p>
+	<p>
+		She smiles. &#8216;In our Abbey. You were found raving in the countryside, and some pilgrims bought you to us. Thank the goddess that your sanity has at last returned.&#8217;
+	</p>
+	<p>
+		You soon find that a year and a day has passed without you having any recollection. You have
+		<lose item="*">lost all the possessions that you were carrying</lose> when you encountered the elfin lady, and
+		<lose shards="*">all your money has gone</lose> too. However, from somewhere you have acquired a
+		<item name="silver horseshoe"/>, an
+		<item name="inkpot"/> and a
+		<item name="fishing hook"/>. Note these as your sole possessions, then <goto section="61"/>.
+	</p>
+</section>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="639">
+	<p>
+		You are presented with a suit of
+		<armour name="splint armour" bonus="4" group="2.639"/>.
+		This is decorated with the crest of the Ravayne family, and it would be an insult to Vanna if you declined to wear it at all times.
+		<transfer to="null" armour="*" xarmour="?" xgroup="2.639">
+			Lose any other suits of armour
+		</transfer>
+		that you have in your possession (Sir Debrumas takes them to give to the Poor Knights&#8217; fund).
+	</p>
+	<p><goto section="342"/>.</p>
+</section>

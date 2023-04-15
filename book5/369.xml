@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="369">
+	You stumble across the cottage of a farmer you saved from an infestation of spriggans. He recognises you, and invites you to stay. You can rest at the cottage for as long as you like, and <rest>heal any lost Stamina points</rest>. When you are ready, <goto section="240"/>.
+</section>

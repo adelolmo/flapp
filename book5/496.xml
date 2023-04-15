@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="496">
+	The Hall of Ablution is a bit like a bathhouse except that the baths are full of sand, not water. The Uttakin purify themselves in sand as part of a religious ritual that goes back to the days when they were tribesmen in the deserts of Ankon-Konu, the southern continent. To be purified in the Hall of Ablution costs 50 Shards.
+	<choices>
+		<choice section="559" shards="50">Pay the money</choice>
+		<choice section="444">Return to the city centre</choice>
+	</choices>
+</section>

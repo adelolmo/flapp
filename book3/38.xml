@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="38" dock="Copper Island">
+	<p>
+		Perhaps you expected a rugged fellow with arms like anchor cables, but the mine foreman is just a dapper businessmen in an ermine robe. He quotes prices for the various goods that interest him. These prices are for entire Cargo Units. You cannot carry this large a quantity in person, but what ever you buy will be loaded on to your ship if you have one docked here.
+	</p>
+	<market>
+		<header type="cargo"/>
+		<trade cargo="grain" buy="200" sell="180"/>
+		<trade cargo="metals" buy="575" sell="550"/>
+		<trade cargo="spices" buy="950" sell="900"/>
+		<trade cargo="textiles" buy="250" sell="220"/>
+		<trade cargo="timber" buy="350" sell="300"/>
+	</market>
+	<p>
+		When you have completed your business with mine foreman,
+		<goto section="317"/>.
+	</p>
+</section>

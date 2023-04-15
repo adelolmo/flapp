@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="525">
+	<p>
+		The spectres mistake you for one of their own kind. They converse with you on such subjects as the vapours of the moon, the quality of the afterlife, and the true nature of eternity. These are secrets that no mortal ever heard, and you will never be the same again.
+	</p>
+	<p>
+		<gain ability="rank" amount="1">Gain one Rank</gain>.
+		You can permanently increase your unwounded Stamina score by
+		<gain ability="stamina" amount="1d">1-6 points</gain>
+		(the roll of one die). Also, going up in Rank will increase your Defence by 1.
+	</p>
+	<p><goto section="633"/>.</p>
+</section>

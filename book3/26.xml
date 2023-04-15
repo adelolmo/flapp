@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="26">
+	<p>
+		You are swept ashore at the mouth of a wide river. Staggering towards trails of smoke that are rising from beyond a copse of olive-green tropical palms, you arrive at a settlement of many thatched-roof shacks raised on stilts at the river&#8217;s edge. It is the depot town of Smogmaw, on the great southern continent.
+	</p>
+	<p><goto section="44"/>.</p>
+</section>

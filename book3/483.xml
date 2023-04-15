@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="483" dock="Smogmaw">
+	<p>
+		At dawn you find you are in the Misty Estuary. The helmsman is at a loss to explain it. &#8216;I could have sworn we were a hundred leagues north of here,&#8217; he says.
+	</p>
+	<p>
+		You are not one to ignore the suggestions of providence. Since some force has seen fit to bring you here, it may be worth staying a while.
+	</p>
+	<p>
+		Note that your ship is now docked at Smogmaw and then <goto section="44"/>.
+	</p>
+</section>

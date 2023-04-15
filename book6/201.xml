@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="201">
+	<p>
+		In a remote village where you are invited to spend the night, just as night is falling, a traveller arrives with a haversack of odds and ends. To help sell his wares he gathers the villagers around and starts to spin a yarn.
+	</p>
+	<p>
+		<if item="*mask">
+			If you possess a <b>mask</b> of any sort, <goto section="248"/>.
+		</if>
+		If not, <goto section="225"/>.
+	</p>
+</section>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="617">
+	<p>
+		He is Alkeides, a warrior from the distant city-state of Krateros, cursed by the gods to die by his brother&#8217;s hand.
+	</p>
+	<p>
+		&#8216;Naturally, when my ship sank I was unable to drown. I have been trying to get to my homeland so that I might entreat the gods to lift the curse, or else put an honourable end to my days. But each storm raises the sea and flings me to and fro.&#8217;
+	</p>
+	<p>
+		You help out by dropping him at the next port, where he may be able to find a ship to carry him home.
+	</p>
+	<p>
+		<tick codeword="Cithara">Get the codeword Cithara</tick>
+		and <goto section="116"/>.
+	</p>
+</section>

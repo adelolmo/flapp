@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="333">
+	<p>You are on the east bank of the River Grimm. <random type="travel" dice="1"/>.</p>
+	<outcomes>
+		<outcome range="1,2">
+			A water sprite curses you - <lose blessing="?">lose a Blessing</lose>, if you have one
+		</outcome>
+		<outcome range="3,4">Nothing happens</outcome>
+		<outcome range="5,6">
+			Catch a <item name="smoulder fish"/> while fishing
+		</outcome>
+	</outcomes>
+	<p>When you are ready, you can:</p>
+	<choices>
+		<choice book="2" section="99">Cross to the west bank</choice>
+		<choice section="47">Head east into the Forest of Larun</choice>
+		<choice section="123">Follow the river north</choice>
+		<choice section="99">Follow the river south</choice>
+	</choices>
+</section>

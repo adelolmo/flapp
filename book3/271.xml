@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="271">
+	<p>
+		You send him slamming to the deck, but he bounces up again none the worse for wear. Immediately he clasps his hands behind your neck and you are wrestling again.
+	</p>
+	<p>
+		<difficulty ability="combat" level="14" modifier="noweapon">
+			Make a COMBAT roll a Difficulty of 14
+		</difficulty>.
+	</p>
+	<outcomes>
+		<success section="290"/>
+		<failure section="253"/>
+	</outcomes>
+</section>

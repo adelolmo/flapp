@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="282">
+	<p>
+		You pass through fields dotted with villages, listening to the haunting cry of wild deer off in the woodlands.
+	</p>
+	<p><random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-8" section="316">A peaceful journey</outcome>
+		<outcome range="9-12" section="727">A rogue in a thicket</outcome>
+	</outcomes>
+</section>

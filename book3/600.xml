@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="600">
+	The ship steers out of harbour and sets her prow to the east.
+	<lose shards="20">Cross off the 20 Shards</lose>
+	if you haven&#8217;t already, then <random type="travel" dice="1"/>.
+	<outcomes>
+		<outcome range="1">
+			Shipwreck; you alone reach land.
+			<goto section="505"/>
+		</outcome>
+		<outcome range="2-6">
+			You reach Chambara safely.
+			<goto book="6" section="79">
+				Turn to paragraph 79
+			</goto>
+			in <i>Lords of the Rising Sun</i>
+		</outcome>
+	</outcomes>
+</section>

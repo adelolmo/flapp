@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="651">
+	<p>
+		&#8216;What a kind person you are,&#8217; she says, clutching your sleeve. &#8216;So I&#8217;ll reward you with a hint. If you go to Castle Orlock, be sure to join the temple of Lacuna first.&#8217;
+	</p>
+	<p>Pulling away, you resume your journey. <goto section="35"/>.</p>
+</section>

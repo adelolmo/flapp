@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="82">
+	<p>
+		Kiyomori is pleased to see you. Away from the capital, he is briefly able to forget the demands of office. As you sit chatting, he soon returns to his favourite topic: &#8216;When I came to power twenty years ago, the country was all but paralysed as a result of court intrigues. I had hopes then of putting things in order and then retiring to a monastery, but that has not been my destiny. The current Sovereign is well-meaning but inexperienced, and his father Shirakawa is a crafty sorcerer who would sacrifice anything for the sake of his unwholesome arts. And now we have those Moonrise rebels in the east to worry about, the damnable dogs!&#8217;
+	</p>
+	<p>
+		You spend a few days at the villa enjoying the sea air. If injured, you get back <rest stamina="1d">1-6 Stamina points</rest>. Soon Kiyomori&#8217;s duties call him back to Chambara. It is time to move on. You travel with him for part of the way; <goto section="173"/>.
+	</p>
+</section>

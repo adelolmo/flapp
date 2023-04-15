@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="530">
+	To enter the tomb you must have something to light your way:
+	a <b>lantern</b> or <b>candle</b> for instance.
+	Otherwise your only option is
+	to come back and explore it another time - assuming you can
+	ever find your way to this spot again.
+	<choices>
+		<choice item="?" tags="light" section="546">Enter the tomb</choice>
+		<choice section="583">Leave</choice>
+	</choices>
+</section>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="420">
+	<p>
+		Amcha sleeps in a chamber at the rear of his throne room. He has no personal guards - that would suggest weakness, and he is a proud man - but there are regular patrols of sentries around the citadel.
+	</p>
+	<p>
+		<difficulty ability="thievery" level="14">
+			Make a THIEVERY roll at a Difficulty of 14
+		</difficulty>
+		to sneak in and do the deed without being apprehended.
+	</p>
+	<outcomes>
+		<success section="585"/>
+		<failure section="493"/>
+	</outcomes>
+</section>

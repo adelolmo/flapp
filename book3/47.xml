@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="47">
+	<p>
+		<tick codeword="Calcium">Get the codeword Calcium</tick> if you don&#8217;t already have it.
+	</p>
+	<p>
+		The vapour constricts your lungs and throat so that your voice goes up half an octave.
+		<if gender="m">
+			<lose ability="charisma" amount="1">
+				Lose 1 CHARISMA point
+			</lose>
+			if you are male.
+		</if>
+	</p>
+	<p><goto section="67"/>.</p>
+</section>

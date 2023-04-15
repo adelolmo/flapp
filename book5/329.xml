@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="329">
+	<p>
+		Misgee squirms on the ground fearfully. Grindel grins at you, revealing heavy grinding teeth, and then roars a war cry right into Misgee's face.
+	</p>
+	<p>
+		The effect is immediate - he breaks down and confesses all. Everything Grindel has said is true! Buskle the innkeeper keeps most of the looted gear in his cellar, which he sells off slowly so as not to alert anyone. Buskle even murdered one or two locals in the beginning to lend credence to the tales about Grindel the Ripper.
+	</p>
+	<p>
+		After a bowl of fruit and a glass of wine in Grindel's rather simple home, you set off back to the Hall of Heroes with Misgee in chains, intent on exposing Bylewyn Buskle for the lying murderer he really is.
+	</p>
+	<p><goto section="413"/>.</p>
+</section>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="348">
+	The tiger resents your intrusion. It flexes claws as long as
+	battlefield daggers and prepares to leap.
+	<fight name="King Tiger" combat="12" defence="22" stamina="44"/>
+	There is no point in fleeing; you could never hope to outrun the tiger. 
+	<if dead="f">
+		If you defeat it you can take
+		<gain shards="12000">12,000 Shards</gain> in treasure
+		from its lair before setting off back down the mountain.
+	</if>
+	<goto section="275"/>.
+</section>

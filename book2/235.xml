@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="235">
+	You are wandering through the pleasant countryside of southwest Golnir.
+	<choices>
+		<choice section="120">Head west towards the Rese River</choice>
+		<choice section="280">Head due east</choice>
+		<choice section="193">Head towards the Whistling Heath</choice>
+		<choice section="78">Head south towards the coast</choice>
+	</choices>
+</section>

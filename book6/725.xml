@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="725">
+	<p>
+		<if title="Initiate of the Sage of Peace" not="t">
+			If you wish to become an initiate of the Sage of Peace, the monks will instruct you in the sacred doctrine. To comprehend this doctrine requires
+			<difficulty ability="sanctity" level="15" force="f">
+				a SANCTITY roll of Difficulty 15
+			</difficulty>.
+			<success>
+				Success means you are
+				<tick title="Initiate of the Sage of Peace">made an initiate</tick>.
+			</success>
+		</if>
+		The monks are open-minded and don&#8217;t mind if you were already an initiate of another god; you can be both.
+	</p>
+	<p>
+		<failure>
+			If you attempt the SANCTITY roll and fail it, the doctrine is so confusing that you must
+			<lose ability="sanctity" amount="1">
+				lose 1 from your SANCTITY score
+			</lose>.
+		</failure>
+		(You can renounce initiate status freely at any time.)
+	</p>
+	<p><goto section="532"/>.</p>
+</section>

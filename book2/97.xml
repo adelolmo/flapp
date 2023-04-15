@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="97">
+	Travelling in the fertile valley of the Rese River.
+	<choices>
+		<choice section="6">Go north to Delpton</choice>
+		<choice section="25">Go south to Castle Ravayne</choice>
+		<choice section="120">Go east</choice>
+	</choices>
+</section>

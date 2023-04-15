@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="681">
+	<p><lose codeword="Boysen">Cross off the codeword Boysen</lose>.</p>
+	<p>
+		As darkness approaches, the retreating water uncovers a flat expanse of tidal flats dotted with seaweed-clumped boulders. Crabs run to and fro searching for scraps. Then you see a carriage rumbling in your direction. It is pulled by two huge green horses and seems to have risen straight out of the sea.
+	</p>
+	<p>
+		The carriage stops and a familiar figure with a flute climbs out. &#8216;Ah, you solved my riddle,&#8217; he says with a smile. &#8216;Or is it just luck that brings us both here at this time? Well, it doesn&#8217;t matter.&#8217;
+	</p>
+	<p>
+		He hauls a chest out of the back of the carriage and is about to give it to you when he spots a seashell lying in the wet sand at his feet. Picking it up, he says: &#8216;Tell you what - would you rather have what&#8217;s in the chest, or what&#8217;s in this shell?&#8217;
+	</p>
+	<choices>
+		<choice section="729">Take the chest</choice>
+		<choice section="753">Take the shell</choice>
+	</choices>
+</section>

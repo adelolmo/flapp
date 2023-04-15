@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="561">
+	<p>
+		Your men are inspired by your brave leadership, and with a bloodthirsty roar, they follow you up the beach. A bitter struggle ensues, a desperate contest fought on slippery rocks and in salty surf. The rain courses down, and lightning flashes across the sky. You come up against a huge, red-bearded giant of a man wielding a massive iron club. You&#8217;ll have to fight him.
+	</p>
+	<fight name="Wrecker" combat="6" defence="6" stamina="15"/>
+	<p>
+		If you win, <goto section="658"/>.
+		If you lose, you&#8217;re killed, robbed, and thrown into the sea to feed the fishes - <goto section="7" dead="t"/>.
+	</p>
+</section>

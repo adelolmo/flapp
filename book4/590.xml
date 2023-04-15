@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="590">
+	The creature wanders off mournfully.
+	<if item="uncanny salts">
+		If you have some <b>uncanny salts</b>, <goto section="303"/>.
+	</if>
+	If not, you cannot find a way through the panel, so you return to the surface. <goto section="320"/>.
+</section>

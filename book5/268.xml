@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="268">
+	<p>
+		The water in the Lake of the Seven Needles is as clear as air; the lake is so still that the red mineral deposits of the Grumes have settled at the bottom, which you can see many yards below you. Jutting straight up and out from the surface of the water are seven black obelisks. Their otherwise sheer surface is engraved with the runes of an ancient civilization.
+	</p>
+	<choices>
+		<choice section="307">Leave the lake</choice>
+		<choice section="113">Search the shore</choice>
+		<choice section="458">Swim out to one of the Needles</choice>
+		<choice section="477">Throw a stone out across the pool</choice>
+	</choices>
+</section>

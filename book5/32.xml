@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="32" image="32.jpg">
+	<p>
+		You are sent to work for an Uttakin sorcerer, the Artificer of Magicks. Uttakin sorcery revolves around enchanted machines and magical apparatus. The artificer, who wears a mask bizarrely fashioned to resemble a crescent moon, with a long pointed forehead and chin, sets you to work in his lab.
+	</p>
+	<p>
+		You learn quite a bit. <training ability="magic">Roll two dice</training>, and if the result is higher than your MAGIC rating, add one to that rating.
+	</p>
+	<p>
+		One day, the artificer makes an elementary mistake, and releases a demon he was trying to bind. The demon blows the roof off, and assails the wizard with the fires of hell. It is all the artificer can do to protect himself with his spells.
+	</p>
+	<choices>
+		<choice section="402">Steal a flying carpet and escape</choice>
+		<choice section="630">Try to banish the demon yourself</choice>
+	</choices>
+</section>

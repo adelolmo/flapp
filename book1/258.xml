@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="258">
+	Becoming an initiate of the Three Fortunes gives you the benefit of paying less for blessings and other services the temple can offer. It costs 75 Shards to become an initiate. You cannot do this if you are already an initiate of another temple.
+	<if safeAddGod="The Three Fortunes"><if shards="75">
+			If you choose to become an initiate,
+			<group>
+				<text>write The Three Fortunes in the God box</text>
+				<tick god="The Three Fortunes"/>
+				<lose shards="75"/>
+			</group>
+			on your Adventure Sheet - and cross off the 75 Shards.
+	</if></if>
+	Once you have finished here, <goto section="86"/>.
+</section>

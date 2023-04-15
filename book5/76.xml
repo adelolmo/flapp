@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="76">
+	<p>
+		Fog closes in fast all about you. The thick banks of mist make it impossible to get a sense of direction. Towering dark shapes loom out of the gloom to either side, increasing your unease.
+	</p>
+	<p><difficulty ability="scouting" level="13"/>.</p>
+	<p><success>If you succeed, you keep your head and your bearings - <goto section="471"/>.</success></p>
+	<p>If you fail the roll, you are not heading in the direction you intended. <random dice="1"/>.</p>
+	<outcomes>
+		<outcome range="1" section="176"/>
+		<outcome range="2" section="438"/>
+		<outcome range="3" section="317"/>
+		<outcome range="4" section="714"/>
+		<outcome range="5" section="621"/>
+		<outcome range="6" section="352"/>
+	</outcomes>
+</section>

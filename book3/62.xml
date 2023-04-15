@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="62">
+	<if codeword="Cosy">
+		If you have the codeword Cosy, <goto section="82"/>.
+	</if>
+	If not, you can either press on along the avenue (<goto section="102" force="f"/>) or return to the beach (<goto section="5"/>).
+</section>

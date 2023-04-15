@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="316">
+	<p>
+		&#8216;This is the very idol of which I spoke!&#8217; cries the priest delightedly.
+	</p>
+	<p>
+		He takes the <b>winged idol</b> from you and installs it inside the teepee. <lose item="winged idol">Cross it off</lose> your list of possessions and <tick codeword="Cushat">get the codeword Cushat</tick>.
+	</p>
+	<p>
+		You also have the chance to increase your SCOUTING score by 1 if you can roll higher than your current SCOUTING score on
+		<training ability="scouting" dice="2">two dice</training>.
+	</p>
+	<p>
+		After making all necessary adjustments to your Adventure Sheet, <goto section="277"/>.
+	</p>
+</section>

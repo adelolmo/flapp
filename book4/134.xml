@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="134">
+	<p>
+		The Citadel of Velis Corin is now the base of King Nergan and the Northern Alliance. The guards salute you as King&#8217;s Champion and hero of the people. You are escorted inside. Captain Vorkung, the king's aide, is there to greet you. He will provide you with a suite of rooms. You can stay there as long as you like, and <rest>restore any lost Stamina points</rest>.
+	</p>
+	<p>
+		The court sorcerer will cure you of any
+		<lose poison="*" disease="*">poison or disease</lose>
+		you may be suffering from, such as the Blight of Nagil, but he cannot lift a curse.
+	</p>
+	<p>
+		<if not="t" shards="1"><if not="t" shards="1" cache="MerchantBank">
+				If you have no money at all (including in the bank or in investments), Vorkung will give you <tick shards="100"/> to help you get back on your feet.
+		</if></if>
+	</p>
+	<p>
+		He tells you that the civil war goes on. Now that the Northern Alliance holds the citadel, the king hopes to push south and take Caran Baru, but all that is a long way off.
+	</p>
+	<p>When you are ready, you leave. <goto section="152"/>.</p>
+</section>

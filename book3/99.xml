@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="99" image="99.jpg">
+	Copper Island is a bleak rocky wilderness. In the lee of the great
+	mountains lies the town of Brazen, a community of dusty slateroofed
+	houses whose only decoration takes the form of
+	ornamental copper drainpipes.
+	<choices>
+		<choice section="297">Visit the market</choice>
+		<choice section="317">Go up to the mines</choice>
+		<choice section="334">Find a tavern</choice>
+		<choice section="347">Look for a temple</choice>
+		<choice section="495">Leave town</choice>
+	</choices>
+</section>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="397">
+	Sure enough, just a few hours later, the door of the tavern flies
+	open and a pack of cutthroats come storming in. Most of your
+	crewmen are in no fit state to fight, but you manage to rally a
+	few of them.
+	<if profession="warrior" not="t">
+		<random dice="2">
+			<adjust ability="rank"/>
+			<adjust crew="excellent" amount="2"/>
+		</random>
+	</if>
+	(<else>
+		<random dice="3">
+			three<adjust ability="rank"/>
+			<adjust crew="excellent" amount="2"/>
+		</random> if you&#8217;re a Warrior
+	</else>)
+	and add your Rank. Add 2 to the total if your crew is excellent quality.
+	<outcomes>
+		<outcome range="3-7" section="123">You are killed</outcome>
+		<outcome range="8-12" section="454">You are captured</outcome>
+		<outcome range="13+" section="455">You win</outcome>
+	</outcomes>
+</section>

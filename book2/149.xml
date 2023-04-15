@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="149">
+	<p>
+		You mention your eerie experience on the cobblestone highway near Castle Ravayne. The abbot seems sceptical. &#8216;I am not sure that the spirits of the dead can truly speak to the living. Perhaps you dreamed the entire episode.&#8217;
+	</p>
+	<p>
+		&#8216;If so, it is a remarkable coincidence,&#8217; chips in one of the monks. &#8216;A man wearing a velvet eyepatch passed through here a while ago. He said that a lucky stroke of fate had saved him from the gallows.&#8217;
+	</p>
+	<p>&#8216;Where was he bound?&#8217; you ask.</p>
+	<p>&#8216;East. To Caran Baru in Sokara, I think.&#8217;</p>
+	<p>
+		<tick codeword="Barnacle">
+			Get the codeword Barnacle
+		</tick>
+		and <goto section="28"/>.
+	</p>
+</section>

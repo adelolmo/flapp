@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="191">
+	Conflass is a delightful town of white-fronted houses with
+	brightly painted timber frames. The burghers of the town are
+	open and friendly. As one explains to you: &#8216;We tell the baronies
+	that we pay tax to the Sokarans, and the Sokarans that we pay
+	tax to Castle Ravayne. So they both leave us alone. That&#8217;s why
+	you&#8217;ll never find a long face in Conflass.&#8217;
+	<choices>
+		<choice section="145">Visit the market</choice>
+		<choice section="713">Find an inn</choice>
+		<choice section="131">Visit the merchants&#8217; guild</choice>
+		<choice section="283">Leave Conflass</choice>
+	</choices>
+</section>

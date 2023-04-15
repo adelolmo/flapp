@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="552">
+	The Great Saddle Road is a metalled highway linking the
+	country&#8217;s two great centres of power: Chambara, the imperial
+	capital, and Mukogawa, where the rule of the Moonrise Clan
+	lords is unchallenged. Where are you headed?
+	<choices>
+		<choice section="590">Westwards</choice>
+		<choice section="178">Eastwards</choice>
+		<choice section="515">North over open country</choice>
+		<choice section="444">South towards the Clearwater Shrine</choice>
+	</choices>
+</section>

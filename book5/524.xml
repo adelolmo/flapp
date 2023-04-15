@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="524">
+	<p>
+		<lose codeword="BladeSeven" hidden="true"/>
+		Water is changeable, unpredictable, yet of untold power - like the magical arts themselves. The <b>sword of water</b> adds 2 to your MAGIC score while you carry it. Note the
+		<weapon name="sword of water">
+			<effect type="aura" ability="magic" bonus="2"/>
+		</weapon>
+		on your Adventure Sheet.
+	</p>
+	<p>You swim back to shore. <goto section="268"/>.</p>
+</section>

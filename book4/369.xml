@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="369">
+	<p>
+		The hut pulls up short. &#8216;Not this time!&#8217; shrieks a voice from inside the hut. &#8216;Gura Goru never falls for the same trick twice.&#8217;
+	</p>
+	<p>With that, the hut scuttles away in the opposite direction.</p>
+	<p><goto section="92"/>.</p>
+</section>

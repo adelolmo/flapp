@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="27">
+	<p>Cross off the 5 Shards.</p>
+	<p>'Right, thank you,' says the troll nodding. He returns to his place beneath the bridge.</p>
+	<choices>
+		<choice section="176">West to the countryside</choice>
+		<choice section="653">East towards the High King's Seat</choice>
+		<choice section="317">South along the river</choice>
+		<choice section="487">North along the river into the Grumes</choice>
+	</choices>
+</section>

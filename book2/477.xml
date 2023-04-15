@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="477">
+	<p>
+		It is a
+		<armour name="magic shield" bonus="10"/>.
+		Record it on your Adventure Sheet.
+	</p>
+	<p>
+		Before you can do anything else, you find the chamber is spinning around you. A dark vortex seems to open at your feet, and you plunge in. A few moments later you find yourself lying among the rushes at the river&#8217;s edge. The waterfall is flowing again. The spirits have departed.
+	</p>
+	<p><goto section="716"/>.</p>
+</section>

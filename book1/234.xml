@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="234">
+	<p>
+		The ship&#8217;s captain says, &#8216;I&#8217;ll take you to Dweomer, on the Sorcerer&#8217;s Isle but it&#8217;s a dangerous place. You&#8217;d better be sure you can handle it - if you&#8217;re not at least a Master of your profession, I&#8217;d advise against it. It&#8217;s up to you though.&#8217;
+	</p>
+	<p>
+		You must have <i>Over the Blood-Dark Sea</i> to travel to Sorcerer&#8217;s Isle.
+		<if book="3"><if shards="30">
+				If you want to go,
+				<group>
+					<text>cross off the 30 Shards and turn to <b>26</b></text>
+					<lose shards="30"/>
+					<goto section="26"/>
+				</group>.
+		</if></if>
+		Otherwise, <return force="f">return to the section you came from</return>.
+	</p>
+</section>

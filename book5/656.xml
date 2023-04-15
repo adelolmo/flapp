@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="656">
+	One of the Soulwatch hisses in a sepulchral voice, 'Why are you not wearing your spotted scarf, you blasphemer? You have committed a crime of lesser heresy. Everyone must wear a spotted scarf on the Holy Day of the Recantation of the Soul. You must pay a fine of 75 Shards.'
+	<choices>
+		<choice section="581">Can't or won't pay</choice>
+		<choice section="629" shards="75">Pay the fine</choice>
+	</choices>
+</section>

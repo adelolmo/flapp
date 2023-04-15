@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="409" boxes="1">
+	<p>
+		Becoming an initiate of Nagil gives you the benefit of paying less for services the temple can offer. You cannot do this if you are already an initiate of another temple. To become an initiate you have to pass a priestly exam.
+	</p>
+	<p>
+		<if safeAddGod="Nagil">
+			If you want to take the exam,
+			<if ticks="0">
+				<difficulty ability="sanctity" level="10"/>
+			</if>
+			<else>
+				unless there is a tick in the above box, in which case it is at <difficulty ability="sanctity" level="15">Difficulty 15</difficulty>.
+			</else>
+		</if>
+	</p>
+	<p>
+		<success>
+			If you succeed, you become an initiate -
+			<tick god="Nagil">write Nagil in the God box</tick> on your Adventure Sheet and <goto section="71"/>.
+		</success>
+		<failure>
+			If you fail,
+			<if ticks="0">
+				<tick>put a tick in the box</tick>
+			</if>
+			(unless one is already there) and
+		</failure>
+		<goto section="100"/>.
+	</p>
+</section>

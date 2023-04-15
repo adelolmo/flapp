@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="260">
+	If you haven&#8217;t already done so, cross off the 35 Shards that the
+	captain wants to take you to Metriciens. Then <random type="travel" dice="1"/>.
+	<outcomes>
+		<outcome range="1-2">
+			The captain is a villain. He
+			<lose shards="*">takes all your money</lose>
+			and maroons you; <goto section="177"/>
+		</outcome>
+		<outcome range="3-6">
+			You reach Metriciens without incident;
+			<goto book="2" section="48">turn to 48</goto>
+			in <i>Cities of Gold and Glory</i>
+		</outcome>
+	</outcomes>
+</section>

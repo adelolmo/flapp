@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="163">
+	<p>
+		You find a tavern called the Inn of a Thousand Masks. The tavern costs you 1 Shard a day.
+		<rest stamina="1" shards="1">Each day you spend here</rest>,
+		you can recover 1 Stamina point if injured, up to the limit of your normal unwounded Stamina score.
+	</p>
+	<p>
+		It is frequented by foreigners - there are no masked Uttakin here at all - and you pick up several snippets of information by overhearing conversations.
+	</p>
+	<p>
+		Uttaku is a theocracy, ruled by priests, and their interpretation of the word of their god, Ebron, is law. Everyone warns you about the Soulwatch, the fanatical secret police, always on the lookout for heretics.
+	</p>
+	<p>
+		The Faceless King of Uttaku is more like a priest than a king. Whenever he dies, a new king is chosen from the population: the only criterion for kingship is that the candidate must be born without a face.
+	</p>
+	<p>
+		Each mask worn by the nobles of Uttaku is an indication of his status - indeed, it defines his very existence, so someone born without a face is said to have been chosen to rule by Ebron himself.
+	</p>
+	<p>
+		There are many opportunities for an adventurer to acquire wealth and fame in Uttaku. The Grand Bazaar is a good place to set up shop as an entertainer, a healer or whatever. You just have to be careful not to offend the priests. The best way to get on is to join the Church of Ebron, because once you have joined the church you are judged to be a citizen of Uttaku and can gain access to the palace.
+	</p>
+	<p>
+		The inner court is alive with intrigue, and the ministers of the Court of Hidden Faces are always looking for people to perform tasks for them. Naturally, they pay well. If you can win enough favour with them, you might be judged worthy enough to be granted an audience with the Faceless King himself. If you can win his patronage then you can begin to amass real power and wealth.
+	</p>
+	<p>When you are ready, you leave the tavern.</p>
+	<p><goto section="444"/>.</p>
+</section>

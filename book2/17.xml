@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="17">
+	You search the hydra&#8217;s lair. Its treasure consists of <gain shards="700"/>, an <weapon name="axe" bonus="1"/>, a suit of <armour name="ringmail" bonus="2"/> and a <item name="candle" tags="light,useonce"/>. Record anything you are taking on your Adventure Sheet, then <goto section="640"/>.
+</section>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="469">
+	<p>
+		You know from arcane bestiaries that this is a snake demon, bound by long-dead Shadar priests to guard their tombs. You recite a spell which is said to be effective against such demons. The beast recoils for a moment, and a green bile bursts from its eyes and ears. It shrieks in agony, but it does not die. Enraged, it closes in.
+	</p>
+	<fight name="Snake Demon" combat="7" defence="7" stamina="10"/>
+	<p>
+		If you win, <goto section="215"/>.
+		If you lose, <goto section="7" dead="t"/>.
+	</p>
+</section>

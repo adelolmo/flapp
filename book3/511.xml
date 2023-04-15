@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="511">
+	&#8216;A pirate galley!&#8217; cries the lookout. You follow the direction he&#8217;s
+	pointing to see a ship flying the red pennant of the Kingdom of
+	the Reavers. Her oars give her a good burst of speed over short
+	distances, and she is soon bearing down on you.
+	<choices>
+		<choice section="529">Make a run for it</choice>
+		<choice section="547">Parley</choice>
+		<choice section="565">Fight it out</choice>
+	</choices>
+</section>

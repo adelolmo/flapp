@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="489">
+	In the middle of the fens there is an island hemmed in by
+	bulrushes. On this island you find a chest decorated with
+	intricate mother-of-pearl inlays. Lifting the lid, you find a
+	<weapon name="golden katana" bonus="1"/>. You then retrace the
+	treacherous path through the mire. <goto section="338"/>.
+</section>

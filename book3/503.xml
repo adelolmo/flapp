@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="503">
+	<tick codeword="3.503" hidden="t"/>
+	The shrine consists of nothing more than an obelisk of smooth
+	green stone raised on a sandbank out in the estuary. The priest
+	tells you that to gain a blessing you must swim out to the
+	obelisk. To succeed in this you must
+	<group>
+		<text>make a SCOUTING roll at a Difficulty of 11</text>
+		<lose codeword="3.503"/>
+		<difficulty ability="scouting" level="11"/>
+	</group>.
+	<outcomes>
+		<success section="147"/>
+		<failure section="165"/>
+		<choice section="44" box="3.503">Don&#8217;t make the attempt</choice>
+	</outcomes>
+</section>

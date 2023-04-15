@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="526" tag="temple">
+	<p>
+		The temple of Tyrnai, the God of War, is built in the shape of a spear with a long, pillared nave, and an altar at the far end. Two massive stone warriors guard its gates.
+	</p>
+	<p>
+		Tyrnai is depicted here as the insensate spirit of war - a blood-drenched warrior with the head of a maddened jaguar.
+		<tick codeword="StillInYellowport" hidden="t"/>
+	</p>
+	<choices>
+		<choice section="435">Become an initiate</choice>
+		<choice section="69">Renounce his worship</choice>
+		<choice section="373">Seek a blessing</choice>
+		<choice section="599">Make resurrection arrangements</choice>
+		<choice section="10">Leave the temple</choice>
+	</choices>
+</section>

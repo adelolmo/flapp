@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="447">
+	<p>
+		<if god="Amanushi"><set var="cost" value="20"/></if>
+		<else><set var="cost" value="35"/></else>
+		If you are an initiate it costs only 20 Shards to purchase Amanushi&#8217;s blessing. A non-initiate must pay 35 Shards.
+		<if shards="cost">
+			Cross off the money and
+			<group>
+				<text>mark THIEVERY</text>
+				<lose shards="cost"/>
+				<tick blessing="thievery"/>
+			</group>
+			in the Blessings box on your Adventure Sheet.
+		</if>
+	</p>
+	<p>
+		The blessing works by allowing you to try again when you fail a THIEVERY roll. It is good for only one reroll. When you use the blessing, cross it off your Adventure Sheet. You can have only one THIEVERY blessing at any one time. Once it is used up, you can return to any branch of the temple of Amanushi to buy a new one.
+	</p>
+	<p>When you are finished here, <goto section="58"/>.</p>
+</section>

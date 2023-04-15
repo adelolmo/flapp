@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="579">
+	<!-- I feel somewhat proud for making this work -->
+	<!-- Note that the codewords Bait, Beach and Bilge appear to be unused -->
+	<p>
+		It is a cursed book, written by a madman with the sole purpose
+		of bringing chaos to the world.
+		<if god="Lacuna" not="t">
+			Unless you are an initiate of Lacuna, you forget who you are and are
+			<lose ability="rank" amount="1000" fatal="f">
+				reduced to 1st Rank
+			</lose>.
+			<group force="t">
+				<text>Lose all codewords in this book</text>
+				<tick codeword="Bait"/>
+				<lose codeword="Bait"/>
+				<lose codeword="Barnacle"/>
+				<lose codeword="Bastion"/>
+				<lose codeword="Beach"/>
+				<lose codeword="Beltane"/>
+				<lose codeword="Bilge"/>
+				<lose codeword="Bisect"/>
+				<lose codeword="Blemish"/>
+				<lose codeword="Bobbin"/>
+				<lose codeword="Bones"/>
+				<lose codeword="Bookworm"/>
+				<lose codeword="Bounty"/>
+				<lose codeword="Boysen"/>
+				<lose codeword="Bridoon"/>
+				<lose codeword="Brisket"/>
+				<lose codeword="Brush"/>
+				<lose codeword="Bullseye"/>
+				<lose codeword="Bumble"/>
+				<lose codeword="Bunting"/>
+				<lose codeword="Buzz"/>
+			</group>
+			except <i>Baluster</i>, <i>Bosky</i>, <i>Bullion</i> and <i>Bashful</i> if you have them.
+			<random dice="2" var="s"/>; the total is your
+			<lose ability="stamina" amount="-s">
+				new unwounded Stamina score<adjust ability="stamina" modifier="natural"/>
+			</lose>. (Be glad that your other abilities are not affected as well.)
+		</if>
+	</p>
+	<p>
+		Struck by sudden terror, you flee from the castle. <goto section="314"/>.
+	</p>
+</section>

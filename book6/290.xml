@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="290">
+	You come across an old burial mound from the time when
+	people used to bury their dead rather them cremate them, as is
+	the custom in Akatsurai nowadays. A recent shower has washed
+	away part of the earth covering the mound to reveal a patch of
+	bare white stone.
+	<choices>
+		<choice section="306">Tunnel into the mound</choice>
+		<choice section="416">Continue on your way</choice>
+	</choices>
+</section>

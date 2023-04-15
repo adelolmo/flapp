@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="84" tag="temple">
+	You are accepted as an
+	<tick god="Lacuna">initiate of Lacuna</tick>, who is the moon
+	goddess of the hunt. She protects travellers and madmen.
+	<choices>
+		<choice section="526">Seek a blessing</choice>
+		<choice section="576">Rest here a while</choice>
+		<choice section="38">Leave</choice>
+	</choices>
+</section>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="235" tag="temple">
+	<p>
+		The temple of Sig the Cunning, patron of vagabonds, troubadours, lovers, thieves and rogues, is a ramshackle warehouse in the poor quarter. Inside, however, there is so much wealth it makes you gasp - the idol of Sig, a saturnine two-faced young human of indeterminate sex, is covered in gems.
+	</p>
+	<p>
+		&#8216;As you can see, we have been made rich by generous, er, donations!&#8217; says a black-robed priest.
+	</p>
+	<choices>
+		<choice section="113">Seek an audience with the high priest</choice>
+		<choice section="437">Become an initiate</choice>
+		<choice section="563">Renounce worship</choice>
+		<choice section="197">Seek a blessing</choice>
+		<choice section="100">Leave the temple</choice>
+	</choices>
+</section>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="10" boxes="4" image="10.jpg">
+	<p>
+		<if codeword="Assassin">
+			If you have the codeword Assassin, <goto section="50" force="f"/> immediately.
+		</if>
+		If not, read on.
+	</p>
+	<p>
+		<if not="t" codeword="StillInYellowport">
+			<if not="t" codeword="YellowportUprising">
+			<!-- temporarily remove the townhouse option -->
+			<if codeword="1.10.1">
+				<set var="RestoreTownhouse" value="1"/>
+				<lose codeword="1.10.1" hidden="t"/>
+			</if>
+			
+			If you have just arrived in Yellowport, <tick>tick the first empty box above</tick> (use a pencil). The boxes are a record of the number of times you have visited the city.
+			<if ticks="4">
+				If this is your fourth visit, <goto section="273"/>.
+				<set var="RestoreTownhouse" value="0"/>
+			</if>
+			If you have visited the city fewer than or more than four times, read on.
+			<if var="RestoreTownhouse" equals="1">
+				<!-- restore the townhouse option -->
+				<tick codeword="1.10.1" hidden="t"/>
+			</if>
+			<tick codeword="StillInYellowport" hidden="t"/>
+		</if></if>
+	</p>
+	<p>
+		Yellowport is the second largest city in Sokara. It is mainly a trading town, and is known for its exotic goods from distant Ankon-Konu, way to the south.
+	</p>
+	<p>
+		The Stinking River brings rich deposits of sulphur from the Lake of the Sea Dragon down to the town, where it is extracted and stored in the large waterfront warehouses run by the merchants&#8217; guild. From here, the mineral is exported all over Harkuna. Unfortunately, all that sulphur has its drawbacks. The stink is abominable, and much of the city has a yellowish hue. The river is so full of sulphur that it is virtually useless as a source of food or of drinking water. However, the demand for sulphur, especially from the sorcerous guilds, is great.
+	</p>
+	<p>
+		Politically, much has changed in the past few years. The old and corrupt king of Sokara, Corin VII, has been deposed and executed in a military coup. General Grieve Marlock and the army now control Sokara. The old Council of Yellowport has been &#8216;indefinitely dissolved&#8217; and a provost marshal, Marloes Marlock, the general&#8217;s brother, appointed as military governor of the town.
+	</p>
+	<p>
+		<if not="t" codeword="1.10.1">
+			You can buy a town house in Yellowport for 200 Shards. Owning a house gives you a place to rest, and to store equipment.
+			<if shards="200">
+				If you buy one,
+				<group>
+					<text>tick the box by the town house option</text>
+					<lose shards="200"/>
+					<tick codeword="1.10.1"/>
+				</group>
+				and cross off 200 Shards from your Adventure Sheet.
+			</if>
+		</if>
+	</p>
+	<p>
+		To leave Yellowport by sea, buy or sell ships and cargo, go to the harbourmaster.
+	</p>
+	<p>
+		<if item="Book of the Seven Sages">
+			<if codeword="Artefact">
+				If you have the codeword Artefact and the <b>Book of the Seven Sages</b>, you can <goto section="40"/>.
+			</if>
+		</if>
+	</p>
+	<p>Choose from the following options:</p>
+	<choices>
+		<choice section="523">Seek an audience with the provost marshal</choice>
+		<choice section="30">Visit the market</choice>
+		<choice section="555">Visit the harbourmaster</choice>
+		<choice section="405">Go the merchants&#8217; guild</choice>
+		<choice section="302">Explore the city by day</choice>
+		<choice section="442">Explore the city by night</choice>
+		<choice section="300" box="1.10.1">Visit your town house {box} (if box ticked)</choice>
+		<choice section="506">Visit the Gold Dust Tavern</choice>
+		<choice section="141">Visit the temple of Maka</choice>
+		<choice section="316">Visit the temple of Elnir</choice>
+		<choice section="220">Visit the temple of Alvir and Valmir</choice>
+		<choice section="526">Visit the temple of Tyrnai</choice>
+		<choice section="621">Travel north-east towards Venefax</choice>
+		<choice section="233">Head north-west to Trefoille</choice>
+		<choice section="82">Follow the Stinking River north</choice>
+		<choice section="558">Strike out north-west, across country</choice>
+	</choices>
+</section>

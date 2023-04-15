@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="562">
+	<p>
+		After a gruelling climb of some hours, you are halfway up the side of a mountain, when you discover a thin, precarious path, leading up. You take a swig of water from your canteen and proceed up the path.
+	</p>
+	<p>
+		After a while you have to stop to take more water. To your horror, your water supply has turned sour and undrinkable! <difficulty ability="magic" level="10"/>.
+	</p>
+	<outcomes>
+		<success section="374"/>
+		<failure section="643"/>
+	</outcomes>
+</section>

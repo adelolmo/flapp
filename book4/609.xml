@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="609">
+	Despite their vast size the doors are so closely fitted that you could not get a hair between them. It goes without saying that they are too heavy to shift, and your strongest blow resounds leadenly without leaving a dent.
+	<choices>
+		<choice section="221">Climb the cliffs</choice>
+		<choice section="15">Go on your way</choice>
+	</choices>
+</section>

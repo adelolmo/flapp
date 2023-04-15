@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="16" boxes="1" image="16.jpg">
+	<p>
+		<if ticks="1">If there is a tick in the box,
+			<goto section="453"/> immediately.
+		</if>
+		Otherwise, <tick/>, and read on.
+	</p>
+	<p>
+		You have been taken by the Masked Lords of Uttaku as a slave.
+		Lose the codewords
+		<lose codeword="Erebus">Erebus</lose> and
+		<lose codeword="Evade">Evade</lose> if you had them.
+		<lose item="*" shards="*">Cross off <i>all</i> the money and items</lose> you were carrying from your Adventure Sheet; they are gone forever.
+	</p>
+	<p>
+		You are taken to the slave pits in Aku, City of the Faceless King, and capital of Uttaku, where you are set to work in a deep underground chamber of enormous size. Shafts of light come in through tiny windows set in the vaulted ceiling, and huge, slowly turning fans set into the walls provide constant ventilation.
+	</p>
+	<p>
+		The Hall of Never-Ending Toil, as the place is called, is full of mechanical devices, pumps, chains and tiered steel walkways, spanning many levels. It is dark, gloomy and populated with thousands of slaves, chained to machines that are run on human power.
+	</p>
+	<p>
+		Masked overseers crack the whip over the sweating, labouring slaves, pale from years out of the sun. It is as if you had been sent to hell itself.
+	</p>
+	<p><goto section="616"/>.</p>
+</section>

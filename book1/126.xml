@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="126">
+	<p>
+		<if codeword="Aloft">
+			If you have the codeword Aloft, <goto section="199"/> immediately.
+		</if>
+		If not, read on.
+	</p>
+	<p>
+		You come across a strange sight. A man lies staked out on the ground, asleep. Blue energy crackles up and down his body, and a hefty-looking hammer, glowing red, is still attached to his belt. It is Sul Veneris, the one you have come to free.
+	</p>
+	<p>
+		As you are about to lift the stakes, a whistling, keening blast of ferocious wind engulfs you. You are surrounded by whirling storm demons - vaguely man-shaped creatures of thunderous energy which try to sweep you into the air and off the edge of the peak.
+	</p>
+	<p>
+		You try to recite the rituals of dismissal associated with such demons. <difficulty ability="sanctity" level="12"/>.
+	</p>
+	<outcomes>
+		<success section="421"/>
+		<failure section="210"/>
+	</outcomes>
+</section>

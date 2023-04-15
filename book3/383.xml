@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="383">
+	<p>
+		Talanexor concedes defeat rather than suffer the full effect of your conjurations. A tribunal finds him guilty of besmirching your good name and orders him to pay you <gain shards="500"/> by way of compensation. As he counts out the money he gives you a glowering look and says under his breath: &#8216;You&#8217;ll lie in your grave before you can spend the last of these coins. See if you can deflect that curse!&#8217;
+	</p>
+	<p>
+		He turns and strides away.
+		<tick codeword="Cheese">Get the codeword Cheese</tick>
+		and <goto section="571"/>.
+	</p>
+</section>

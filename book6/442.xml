@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="442" image="442.jpg">
+	<p>
+		<lose codeword="6.442.1" hidden="t"/>
+		<lose codeword="6.442.2" hidden="t"/>
+		&#8216;The dragon has entered the palace!&#8217; screams a footman. The courtiers fly to and fro in panic while you marshal the best of the paladins and lead them down the long staircase. The dragon squats in the vast hall below chewing the palace&#8217;s valiant defenders in its maws. Its head alone is longer than your ship!
+	</p>
+	<p>
+		You give the order to attack, leading the paladins down the staircase in a reckless charge. The dragon bares its fangs and spits venom.
+		<difficulty ability="combat" level="15" var="x">
+			Make COMBAT
+		</difficulty>
+		and
+		<difficulty ability="charisma" level="15" var="y">
+			CHARISMA
+		</difficulty>
+		rolls, both at a Difficulty of 15.
+		<success var="x"><success var="y">
+				<tick codeword="6.442.1" hidden="t"/>
+				<lose codeword="6.442.2" hidden="t"/>
+		</success></success>
+		<failure var="x">
+			<lose codeword="6.442.1" hidden="t"/>
+			<tick codeword="6.442.2" hidden="t"/>
+		</failure>
+		<failure var="y">
+			<lose codeword="6.442.1" hidden="t"/>
+			<tick codeword="6.442.2" hidden="t"/>
+		</failure>
+	</p>
+	<choices>
+		<choice box="6.442.1" section="709">Both rolls successful</choice>
+		<choice box="6.442.2" section="692">Either or both rolls failed</choice>
+	</choices>
+</section>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="70">
+	<p>
+		The mate&#8217;s knife flashes - a splash of sticky blood, and the witch falls croaking into the sea to sink like a stone. Something flops to the deck. Her hand. It resembles an old white crab.
+	</p>
+	<p>
+		Note the <item name="witch's hand"><b>witch&#8217;s hand</b></item>
+		on your list of possessions if you decide to keep it, then
+		<goto section="39"/>.
+	</p>
+</section>

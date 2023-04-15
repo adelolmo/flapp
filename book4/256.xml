@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="256">
+	<p>
+		You are recognized by the guards as of sufficient rank within the hierarchy of Akatsurai to be allowed into the palace.
+	</p>
+	<p>
+		You are summoned to see Lord Kumonosu, daimyo of the Clan of the White Spear. His audience hall is a room of finely polished wood.
+	</p>
+	<p>
+		He acknowledges your position as Hatamoto in the personal guard of the Shogun of Akatsurai. Although he and the Shogun are enemies, he treats you will enough. Kumonosu gives you a sealed letter and asks that you take it to the Shogun. Note the <item name="sealed letter"/> on your Adventure Sheet. You are shown out; you leave walking backwards, bowing the whole time.
+	</p>
+	<p>
+		<if codeword="Fog">
+			If you have the codeword Fog, <goto section="690"/>.
+		</if>
+		If not, you leave the palace. <goto section="10"/>.
+	</p>
+</section>

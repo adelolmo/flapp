@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="685">
+	<p>
+		Your knowledge of the creatures of the wild tells you that the giant chameleon cannot abide the taste of gurul fruit, so you cover yourself in its foul-smelling pulp before rising to your feet. This makes it harder for the chameleon to ensnare you with its tongue.
+	</p>
+	<fight name="Giant Chameleon" combat="8" defence="10" stamina="19"/>
+	<p>
+		If you win, <goto section="68"/>.
+		If you lose, <goto section="7" dead="t"/>.
+	</p>
+</section>

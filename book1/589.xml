@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="589">
+	<p>
+		Striding purposefully into the tavern, you walk straight up to him and say, &#8216;I want what you&#8217;ve got under that eyepatch.&#8217;
+	</p>
+	<p>
+		His one good eye widens in surprise, and he jumps back, drawing his sword.
+	</p>
+	<p>&#8216;We&#8217;ll see about that, by Sig!&#8217; he cries.</p>
+	<p>
+		The other people in the tavern draw back to give you room and start taking bets on the outcome of the fight.
+	</p>
+	<fight name="Man with eyepatch" combat="5" defence="8" stamina="12"/>
+	<p>
+		If you win, <goto section="92"/>.
+		If you lose, the man with the eyepatch kills you - your adventuring days are over, unless you have a <resurrection>resurrection deal</resurrection>.
+	</p>
+</section>

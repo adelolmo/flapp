@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="410" image="410.jpg">
+	<p>
+		The rukh&#8217;s claws pluck you from the deck as if you were a rabbit in a field. You are carried up and up; the pale, upturned faces of your crew grow more and more distant, until your ship is nothing but a speck on the ocean.
+	</p>
+	<p>
+		You will never see them again. <lose ship="t">Cross the ship, cargo and crew</lose> off your Ship&#8217;s Manifest.
+	</p>
+	<p>
+		The rukh screeches deafeningly; its wingbeats are like thunder. It flies for hours until it comes to a remote mountain peak. There it tosses you unceremoniously into a nest made of tree trunks where a young rukh is cawing for food. The parent flies off, but you must fight the chick, which is twice your size!
+	</p>
+	<fight name="Young Rukh" combat="6" defence="5" stamina="21"/>
+	<p>
+		If you lose, it eats you - <goto section="7" dead="t"/>.
+		If you win, <goto section="678"/>.
+	</p>
+</section>

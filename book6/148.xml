@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="148">
+	<p>
+		Much of the way simply consists of arduous climbs up steep mountain paths, but from time to time you have to scale a rock face.
+	</p>
+	<p>
+		<difficulty ability="scouting" level="12">
+			<adjust item="climbing gear" amount="1"/>
+		</difficulty>;
+		you can add 1 to the dice roll if you have climbing gear.
+	</p>
+	<outcomes>
+		<success section="5"/>
+		<failure section="219"/>
+	</outcomes>
+</section>

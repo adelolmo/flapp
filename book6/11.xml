@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="11" dock="Narai">
+	If you have a ship in the harbour you can travel on by sea.
+	Otherwise you must brave the lonely countryside of Akatsurai&#8217;s
+	north coast - or the perils of Kwaidan Forest.
+	<choices>
+		<choice section="2">Go east along the highway</choice>
+		<choice section="493">Go west over open country</choice>
+		<choice section="398">Enter the forest</choice>
+		<choice sail="t" section="224">Set sail (if ship docked here)</choice>
+	</choices>
+</section>

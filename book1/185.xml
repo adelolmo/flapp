@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="185">
+	<p>
+		You tell him who you are, and that General Grieve Marlock&#8217;s brother, the Governor of Yellowport, is your personal friend. His eyes widen as recognition dawns on his fat, greedy face.
+	</p>
+	<p>
+		&#8216;Ah, er... my lord!,&#8217; he cries. &#8216;I was merely jesting! Umm.... We were, I mean to say, perhaps you need an escort?&#8217;
+	</p>
+	<p>
+		&#8216;I think we require a levy in order to carry out the important mission the governor has entrusted to me,&#8217; you say. &#8216;Sixty Shards ought to do it, Captain!&#8217;
+	</p>
+	<p>
+		The Sokaran captain hands over the 60 Shards (<gain shards="60">add it to your Adventure Sheet</gain>) and leads his men off your ship.
+	</p>
+	<p>You sail on. <goto section="439"/>.</p>
+</section>

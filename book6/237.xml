@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="237">
+	<p>
+		A grey fungus as big as a football explodes without warning, scattering a cinnabar-coloured cloud of spores into the air. You breathe in a lungful of them. They later germinate, causing a bronchial disease.
+		<if blessing="disease" not="t">
+			Unless you have a blessing of Immunity to Disease/Poison you must
+			<lose ability="stamina" amount="1">
+				lose 1 Stamina point permanently
+			</lose>
+			- i.e. reduce your unwounded Stamina score by 1.
+		</if>
+		<else>
+			(If you do have a blessing, remember to
+			<lose blessing="disease">cross it off</lose>).
+		</else>
+	</p>
+	<p><goto section="529"/>.</p>
+</section>

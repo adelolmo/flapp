@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="347" tag="temple">
+	The temple of Sig is a narrow high-gabled edifice close to the
+	waterfront. Nominally Sig is the patron deity of lovers,
+	vagabonds and travelling entertainers, but he is also god of
+	cunning and deception, and as such is worshipped by those who
+	live outside the law.
+	<choices>
+		<choice section="334">Become an initiate of Sig</choice>
+		<choice section="375">Renounce the worship of Sig</choice>
+		<choice section="13">Seek a blessing</choice>
+		<choice section="2">Leave</choice>
+	</choices>
+</section>

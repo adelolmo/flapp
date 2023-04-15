@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="513">
+	<p>
+		You rise to the rank of second mate, but a couple of close shaves with the Sokaran navy convince you to get out while the going&#8217;s good.
+	</p>
+	<p>
+		You jump ship in Smogmaw after first helping yourself to a
+		<weapon name="sword" bonus="1"/> from the ship's magazine.
+	</p>
+	<p><goto section="44"/>.</p>
+</section>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="172">
+	You are probably glad to be heading out of the Haunted Hills.
+	Many a traveller before you has left his bones mouldering there.
+	<choices>
+		<choice section="259">Head west</choice>
+		<choice section="30">Head east</choice>
+		<choice section="372">Head north</choice>
+		<choice section="328">Head south</choice>
+	</choices>
+</section>

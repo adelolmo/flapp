@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="445">
+	<p>
+		The innkeeper charges
+		<rest stamina="1" shards="1">1 Shard a day</rest>.
+		For each day you spend here you can recover 1 Stamina point, up to the limit set by your normal (unwounded) Stamina score.
+	</p>
+	<p>
+		When you have either fully recuperated or run out of money, it is time to move on: <goto section="591"/>.
+	</p>
+</section>

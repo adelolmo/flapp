@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="75">
+	<p>You emerge at the top of a well.</p>
+	<p>
+		Dusk is falling over a strange city, igniting stellar baubles in a sky of limpid violet. You look around in surprise at the low wooden buildings with their curved roofs and austere design. A man in colourful robes comes out on to the porch of a nearby house, affecting to ignore you until you pester him with questions.
+	</p>
+	<p>
+		&#8216;This is Chambara, imperial capital of Akatsurai,&#8217; he says. &#8216;How is it possible you don&#8217;t know that? Are you deranged?&#8217;
+	</p>
+	<p>&#8216;I came here by magic, out of that well.&#8217;</p>
+	<p>
+		&#8216;Ah.&#8217; He nods. &#8216;It is just as the geomancer said.&#8217; He disappears back into his house.
+	</p>
+	<choices>
+		<choice section="538">Go back down the well</choice>
+		<choice section="79">Explore the city</choice>
+	</choices>
+</section>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="342">
+	You climb back up the sinkhole and hurry away from the
+	Gorgons&#8217; lair. What now?
+	<choices>
+		<choice section="411">Put to sea in one of the fishing boats</choice>
+		<choice section="449">Cross to the other side of the island</choice>
+		<choice section="467">Pray to your god for deliverance</choice>
+	</choices>
+</section>

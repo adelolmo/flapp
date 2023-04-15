@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="407">
+	<p>
+		Soon you are joined by a host of slender aristocratic figures in miniver robes. You hardly noticed their arrival, nor do you manage to get a clear look at their faces. Someone beside you says something witty and you find yourself laughing. It is like being in a dream.
+	</p>
+	<p>
+		To wake up you must
+		<difficulty ability="magic" level="12">
+			make a MAGIC roll at a Difficulty of 12
+		</difficulty>.
+	</p>
+	<outcomes>
+		<success section="457"/>
+		<failure section="482"/>
+	</outcomes>
+</section>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="304">
+	<if codeword="Chill"><set var="awake" value="1"/></if>
+	&#8216;Ah, this is the life,&#8217; declares the bosun as he stretches
+	contentedly in the shade under a palm tree. The exertion in the
+	heat of the afternoon has made you all drowsy. To stay awake
+	you must either have the codeword <i>Chill</i> or succeed in
+	<if codeword="Chill" not="t">
+		<difficulty ability="magic" level="12" var="awake">
+			a MAGIC roll of Difficulty 12
+		</difficulty>
+	</if>, otherwise you have to take a nap.
+	<outcomes>
+		<success var="awake" section="5">Stay awake</success>
+		<failure var="awake" section="582">Fall asleep</failure>
+	</outcomes>
+</section>

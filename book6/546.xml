@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="546">
+	You are immediately presented with two routes: low brick-lined
+	tunnels extending straight back into the ground.
+	<choices>
+		<choice section="604">Take the left-hand tunnel</choice>
+		<choice section="162">Take the right-hand tunnel</choice>
+	</choices>
+</section>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="315">
+	With the gorlock out of the way, you are free to investigate its lair. Inside the cave, you find <gain shards="500"/>, a <weapon name="mace"/> and a <item name="silver nugget"/>. <goto section="510"/>.
+</section>

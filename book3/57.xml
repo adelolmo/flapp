@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="57" boxes="1">
+	<p>
+		You put in at an uncharted island. The beach looks a good place to spend a few days resting under the palm trees while your crew get in supplies of fruit and fresh water. <rest stamina="1d">Restore 1-6 Stamina</rest> (the score of one die) if injured.
+	</p>
+	<p>
+		<if ticks="0">
+			If the box above is empty,
+			<tick>put a tick in it</tick> and <goto section="133"/>.
+		</if>
+		If the box was already ticked, <goto section="171"/>.
+	</p>
+</section>

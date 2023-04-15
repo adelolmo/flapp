@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="657">
+	<p>
+		You are attacked by several invisible creatures. You will have to try to guess where they are by sound alone.
+	</p>
+	<fight name="Unseen enemy" combat="12" defence="22" stamina="15"/>
+	<p>
+		If you win, <goto section="220"/>.
+		If you lose, <goto section="7" dead="t"/>.
+		<flee>
+			You can run away at any time. To do so,
+			<lose stamina="1d">roll a die</lose> and lose that many Stamina points as you are struck from behind. Then <goto section="77"/>.
+		</flee>
+	</p>
+</section>

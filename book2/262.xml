@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="262">
+	<p>
+		The voyage from Metriciens to Marlock City takes only a few days. You are amazed that it passes without incident, until the captain tells you: &#8216;I pay a regular tribute to the Reavers. They don&#8217;t need to intercept my ship to get money out of me.&#8217;
+	</p>
+	<p>
+		<goto book="1" section="240">Turn to 240</goto> in <i>The War-Torn Kingdom</i>.
+	</p>
+</section>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="274">
+	<p>
+		The priestess holds up her hand before you can speak. &#8216;Peace! Whatever your business, all must here adapt to a slower pace of life. Ah, this accursed heat.&#8217; She indicates her brow, and a slave boy runs forward to lick away the film of sweat.
+	</p>
+	<p>
+		You are faintly repelled by such decadence, but you try to hide it. &#8216;I have come...&#8217; you begin.
+	</p>
+	<p>
+		The priestess frowns. &#8216;Have I not said that things are done differently here in Smogmaw? Approach, sit; tell me your business over a game of cards.&#8217;
+	</p>
+	<choices>
+		<choice section="343">Agree to play with her</choice>
+		<choice section="44">Leave the temple</choice>
+	</choices>
+</section>

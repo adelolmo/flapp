@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="208">
+	<p>
+		The men appear uncertain about your decision but they go along with it. You pass the beacon on your left in the distance. The crew is relying on you to navigate the ship safely through Disaster Bay.
+	</p>
+	<p>
+		<difficulty ability="scouting" level="14">
+			<adjust crew="good" value="1"/>
+			<adjust crew="excellent" value="1"/>
+			<adjust item="mariner's ruttier" value="1"/>
+		</difficulty>. You can add one to the roll if your crew is good or excellent quality. You can also add one if you have a <b>mariner's ruttier</b>.
+	</p>
+	<outcomes>
+		<success section="471"/>
+		<failure section="594"/>
+	</outcomes>
+</section>

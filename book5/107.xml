@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="107">
+	<p>
+		The next day several Expungers come to your cell. One of them says, 'This one is marked for execution, take him away.'
+	</p>
+	<p>
+		You have been tricked by the old man! They haul you off to the Red Garden. <goto section="170"/>.
+	</p>
+</section>

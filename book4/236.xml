@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="236">
+	You are sailing along the south coast of Nerech.
+	<choices>
+		<choice section="120">North-east</choice>
+		<choice section="206">East</choice>
+		<choice book="1" section="190">South-west along the coast</choice>
+		<choice book="1" section="136">South</choice>
+	</choices>
+</section>

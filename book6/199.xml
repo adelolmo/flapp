@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="199">
+	There are two ships leaving Kaiju harbour within the next week.
+	You can travel aboard the <i>Divine Wind</i>, bound for Chambara,
+	for 15 Shards; or you can hire passage on the <i>Majesty</i>, returning
+	to Metriciens, for 35 Shards. (Bear in mind that if you wish to
+	carry on your adventures in Metriciens you will need
+	<i>Cities of Gold and Glory</i> and <i>Over the Blood-Dark Sea</i>.)
+	<choices>
+		<choice shards="15" section="27">Chambara, cost 15 Shards</choice>
+		<choice shards="35" book="3" section="260">Metriciens, cost 35 Shards</choice>
+		<choice section="128">Stay in Kaiju</choice>
+	</choices>
+</section>

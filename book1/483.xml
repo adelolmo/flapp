@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="483">
+	<p>
+		The tavern costs you 1 Shard a day.
+		<rest stamina="1" shards="1">Each day you spend here</rest>,
+		you can recover 1 Stamina point if injured, up to the limit of your normal unwounded Stamina score.
+	</p>
+	<p>
+		<if shards="3">
+			If you want to spend 3 Shards buying drinks all round at the bar, and listen for rumours,
+			<group>
+				<text>turn to <b>323</b></text>
+				<lose shards="3"/>
+				<goto section="323"/>
+			</group>.
+		</if>
+		Otherwise, <goto section="510"/>.
+	</p>
+</section>

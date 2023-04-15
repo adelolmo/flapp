@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="72">
+	<p>
+		You spend a couple of months with the outlaws, during which time you have many opportunities to hone your questionable skills.
+		<gain ability="thievery" amount="1">
+			Increase your THIEVERY score by 1
+		</gain>. Your share of the loot amounts to
+		<gain shards="300"/>.
+	</p>
+	<p>
+		At last you decide the time has come to move on; many other adventures await you. The outlaws are all hard men, but they have learned to look up to you. Several shed genuine tears to see you leave. <goto section="172"/>.
+	</p>
+</section>

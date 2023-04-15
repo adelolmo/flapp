@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="276">
+	<p>
+		<if codeword="Friz">
+			If you have the codeword Friz you can retrieve any items you left here previously and must then <goto section="21"/>.
+		</if>
+		If you don&#8217;t have the codeword <i>Friz</i> then read on.
+	</p>
+	<p>
+		You enter the great hall at the centre of the monastery complex. A vast statue of the Sage of Peace towers up to the rafters. Incense rises from smouldering sticks set around its feet and runs in thin white rivulets across the smooth contours of stone.
+	</p>
+	<p>
+		Initiates who are attempting to achieve enlightenment cannot take any belongings beyond this point. Success or failure depends solely on the initiate himself. If you are about to start your training, you can leave your possessions here by writing them in the box. If you have just finished the test, transfer possessions left here back to your Adventure Sheet.
+	</p>
+	<itemcache name="6.276" text="Wordly goods"/>
+	<choices>
+		<choice section="349">Commence your training</choice>
+		<choice section="211">Leave the monastery</choice>
+	</choices>
+</section>

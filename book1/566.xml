@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="566">
+	You are discovered hiding in the kitchen pantry. You are hauled off and thrown into the dungeons to await judgement - <lose shards="*" item="*">lose all your money and possessions</lose> and <goto section="454"/>.
+</section>

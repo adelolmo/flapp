@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="432" image="432.jpg">
+	<p>
+		Bokh is a strategic board-game of an intricate and complex nature, not unlike the game of chess favoured by the people of Sokara and Golnir. You are brought to the Great Hall of Bokh, and the match begins. Your opponent's mask tells you he is a 4th Circle Master.
+		<random dice="1" var="bokh">
+			<adjust titleVal="bokh" default="-1"/>
+		</random>
+		and add any circles of bokh mastery you may have (i.e. if you are a 1st Circle Master, add one). If you have no circles of bokh mastery, subtract 1 from the roll.
+	</p>
+	<p>
+		<if var="bokh" greaterthan="4">
+			If you roll greater than 4, <goto section="267"/>.
+		</if> Otherwise, <goto section="40"/>.
+	</p>
+</section>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="469">
+	You lower yourself to the floor and pad softly over to where the
+	two Gorgons lie sleeping. In that sleep of dreams what death
+	may come ... if only you are stealthy enough.
+	<difficulty ability="thievery" level="15">
+		Make a THIEVERY roll at a Difficulty of 15
+	</difficulty>.
+	<outcomes>
+		<success section="487"/>
+		<failure section="506"/>
+	</outcomes>
+</section>

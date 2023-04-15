@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="598">
+	You pass a man whose cart has lost a wheel. &#8216;If I can&#8217;t get it
+	fixed then I&#8217;ll miss the market!&#8217; he wails, but no one will stop to
+	help.
+	<choices>
+		<choice section="438">Help him fix the wheel</choice>
+		<choice section="31">Pass by</choice>
+	</choices>
+</section>

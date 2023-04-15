@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="456">
+	<p>
+		Knocklar takes you back to the trail since he&#8217;s going in that direction himself. &#8216;My advice to you is never stray off a path if you want to avoid trouble,&#8217; he says.
+	</p>
+	<p>
+		On the way he pauses at one of his traps, where he is delighted to discover a rabbit. &#8216;That&#8217;ll make a nice stew for me and Edmund tonight,&#8217; he says. In a moment of whimsy he slices off one of its paws and threads it on a leather thong. &#8216;Here, this might bring you luck.&#8217;
+	</p>
+	<p>
+		He hands you a
+		<item name="rabbit's foot charm"><b>rabbit&#8217;s foot charm</b></item>
+		then bids you farewell. <goto section="22"/>.
+	</p>
+</section>

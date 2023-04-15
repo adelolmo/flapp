@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="120" boxes="1">
+	<p>
+		<if ticks="1">If there is a tick in the box, <goto section="278"/> immediately.</if> If not, <tick>put a tick there now</tick>, and read on.
+	</p>
+	<p>
+		You come to a village where a priest of Ebron, dressed in ragged robes, and looking as if he hasn't washed in weeks, is addressing a crowd of peasants. He is exhorting them to kill a dog that belongs to the local shepherd.
+	</p>
+	<p>
+		'This foul beast,' he yells, pointing at the dog, 'has committed heresy! It has herded sheep on a day sacred to Ebron, and must suffer for its crime.'
+	</p>
+	<p>
+		The priest goes on to say how the peasants will also be guilty in the eyes of Ebron if they don't enforce the holy laws. He rants on, a fanatic gleam in his eye. The villagers are soon whipped into a fervour, and prepare to do the dastardly deed.
+	</p>
+	<choices>
+		<choice section="74">Leave them to it</choice>
+		<choice section="339">Intervene</choice>
+	</choices>
+</section>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="459">
+	<p>
+		The vampires take the precaution of removing any weapons you may be carrying and throwing them into the undergrowth.
+		(<lose weapon="*">Cross these off</lose>
+		your Adventure Sheet.) Then they each take hold of one of your limbs and carry you jerkily for miles into the wild depths of the forest, depositing you at last in front of a grim stone doorway. As the tallowy gleam of dawn shows beyond the treetops, the vampires retire rapidly back into the darkness. You are left alone.
+	</p>
+	<p><goto section="391"/>.</p>
+</section>

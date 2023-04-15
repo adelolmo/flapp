@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="179">
+	<p>
+		With your own eyes you have seen Fiddler&#8217;s Green - a myth spoken of by every seaman.
+	</p>
+	<p>
+		<set var="moved" value="0"/>
+		<if profession="mage"><set var="moved" value="1"/></if>
+		<if profession="troubadour"><set var="moved" value="1"/></if>
+		<if profession="wayfarer"><set var="moved" value="1"/></if>
+		<if var="moved" equals="1">
+			<set var="r" value="rank" modifier="natural"/>
+			If you are Mage, Troubadour or Wayfarer, this unique experience gives you the chance to go up in Rank. <random dice="2" var="roll"/>.
+			<if var="roll" greaterthan="r">
+				You
+				<gain ability="rank" amount="1">gain a Rank</gain>
+				if the score on the dice is above your current Rank. This means you
+				<gain ability="stamina" amount="1d">gain 1-6 Stamina points permanently</gain>:
+				increase your normal (unwounded) Stamina score by the roll of one die. Remember that going up a Rank also increases your Defence.
+			</if>
+		</if>
+	</p>
+	<p>
+		Priests, Warriors and Rogues get no chance to increase in Rank; the beauty of Fiddler&#8217;s Green leaves them unmoved.
+	</p>
+	<p>
+		Once you have made the necessary adjustments to your Adventure Sheet, <goto section="161"/>.
+	</p>
+</section>

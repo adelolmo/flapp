@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="525">
+	Since the High King has returned, the land has blossomed. Thurlings is a village once more. Everywhere new buildings are under construction, and the locals sing as they work. There is now a temple to Maka, goddess of disease and famine.
+	<choices>
+		<choice section="142">Visit the new temple of Maka</choice>
+		<choice section="189">Leave Thurlings</choice>
+	</choices>
+</section>

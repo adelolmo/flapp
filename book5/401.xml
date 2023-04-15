@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="401">
+	<p>
+		You can earn Status points by performing tasks for the ministers of the court. <if name="UttakuStatus" greaterthan="9">If you obtain 10 or more Status points, you are entitled to an audience with the Faceless King - <goto section="700" force="f"/>.</if> If you haven't got enough status, or you don't want to see him, read on.
+	</p>
+	<field name="UttakuStatus" label="Status points"/>
+	<p><tick codeword="&#201;lite">Tick the codeword &#201;lite</tick>.</p>
+	<p>
+		The audience chamber is a large round room, with many ornate doors around the edge. It is full of courtiers, and courtiers' attendants and servants. Each door leads to the offices of a different minister of the Court of Hidden Faces. These are: The High Convener of Chariots (the general of the armies of Uttaku); The Blender of Spices (the minister in charge of state banquets and entertaining foreign dignitaries); The Compiler of Confectionery Surprises (the minister in charge of the king's personal diet - a position with considerable influence over the king); the Seneschal of the Dance of Majesty (the minister in charge of court protocol and royal balls); the Master of the Documents of Fable (the court chronicler and keeper of the archives); the Master of Nightingales (the minister in charge of the menagerie and the Garden of Exotic Fragrances); the Conjuror of Amusements (the minister in charge of entertaining the king) and the Master of Shung-bat (an ancient martial art practised by the courtiers, used in resolving formal duels between courtiers).
+	</p>
+	<p>Who will you visit?</p>
+	<choices>
+		<choice section="75">The High Convener of Chariots</choice>
+		<choice section="21">The Blender of Spices</choice>
+		<choice section="125">The Compiler of Confectionery Surprises</choice>
+		<choice section="199">The Seneschal of the Dance of Majesty</choice>
+		<choice section="230">The Master of the Documents of Fable</choice>
+		<choice section="281">The Master of Nightingales</choice>
+		<choice section="493">The Conjuror of Amusements</choice>
+		<choice section="558">The Master of Shung-bat</choice>
+		<choice section="648">Leave the audience chamber</choice>
+	</choices>
+</section>

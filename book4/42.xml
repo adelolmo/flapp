@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="42">
+	You climb a rocky, wind-blasted path up the hill. The icy gusts that howl around the hill chill your bones, and the grim, grey keep that looms over you chills your soul. Two massive iron-bound doors are set into its featureless walls. No guards stand beside the gate, and no one appears at the battlements.
+	<choices>
+		<choice section="486">Knock on the doors</choice>
+		<choice section="398">Leave Vodhya</choice>
+	</choices>
+</section>

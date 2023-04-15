@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="472">
+	<p>
+		You are chained by the pirates and taken inland on one of the Unnumbered Isles. The landscape consists of windswept bluffs under a sky of perpetual racing clouds. A thin cold drizzle comes down in gusts.
+	</p>
+	<p>
+		<tick codeword="Chance" flag="x">
+			Get the codeword Chance
+		</tick>
+		if you can succeed in
+		<difficulty ability="scouting" level="12" force="f">
+			a SCOUTING check at Difficulty 12
+		</difficulty>.
+		<success><tick price="x" hidden="t"/></success>
+	</p>
+	<p>Whether you make the roll or not, <goto section="114"/>.</p>
+</section>

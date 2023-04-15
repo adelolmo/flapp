@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="631">
+	<p>
+		A seller of incense sticks tells you that this road is called the Great Saddle because of the lay of the land between Chambara and Mukogawa.
+	</p>
+	<p><random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-8" section="652">A quiet journey</outcome>
+		<outcome range="9-12" section="502">A hermit</outcome>
+	</outcomes>
+</section>

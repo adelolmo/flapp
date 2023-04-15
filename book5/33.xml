@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="33">
+	<p>
+		Through sheer willpower alone, you thwart his sorcerous attempt to rip your heart out. Then you manipulate the magic he has unleashed, and send it hurtling back at him. Hammuwas did not suspect you were a magician of such power, and he is caught unawares. His heart bursts from his chest, and he drops dead.
+	</p>
+	<p>
+		While you're here, you might as well loot his house. You can take a
+		<tool name="cobalt wand" ability="magic" bonus="3"/>, some
+		<item name="selenium ore"/>,
+		<gain shards="250"/> and an
+		<item name="amulet of Ebron"/>.
+		Note what you take on your Adventure Sheet. You also find a strange book covered in red leather. <goto section="549"/>.
+	</p>
+</section>

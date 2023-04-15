@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="118">
+	The steppes are vast indeed. Here, in the middle of nowhere, you feel a keen sense of isolation, a lone traveller in an abandoned land. But you notice a welcome change in the endless monotony of the plains - a depression in the earth a little way off.
+	<choices>
+		<choice section="683">Investigate the gully</choice>
+		<choice section="383">Go north</choice>
+		<choice section="266">Go south</choice>
+		<choice section="29">Go west</choice>
+		<choice section="44">Go east</choice>
+	</choices>
+</section>

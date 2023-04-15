@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="428">
+	<p>
+		Since you freed the High King from his frost-bound sleep, Old Harkuna has thrown off the yoke of its cruel Uttakin masters. Spatterdash has become a thriving little town.
+	</p>
+	<p>
+		As you walk down the high street, the people stop and stare - they recognise you as their saviour. The mayor, a fat little fellow, comes out to welcome you, and the townsfolk hold a celebration in your honour. Casks of ale are broached and the young people dance and play around the maypole. A temple to the Three Fortunes has sprung up as well as a small market.
+	</p>
+	<p>
+		You can rest here for as long as you like, and <rest>restore any lost Stamina points</rest>.
+	</p>
+	<choices>
+		<choice section="573">Visit the temple of the Three Fortunes</choice>
+		<choice section="256">Visit the old graveyard on the hill</choice>
+		<choice section="416">Go to the local market</choice>
+		<choice section="185">Leave Spatterdash</choice>
+	</choices>
+</section>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="642">
+	<p>
+		You race off down the stairs. The giant stands on the landing above, roaring and shaking his fist. Hauling the door open you dash outside, but then a massive chair comes hurtling down from the top of the pagoda and smashes to splinters on your head.
+		<lose stamina="2d">Lose 2-12 Stamina points</lose>.
+		(At least those are Stamina points you can get back by resting, unlike any you may have lost battling the giant in person.)
+	</p>
+	<p>If you are still alive and kicking, <goto section="501"/>.</p>
+</section>

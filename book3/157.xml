@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="157">
+	<p>
+		Helpless in the hurricane&#8217;s grip, your vessel is torn apart. Water rushes into the broken shell of the hull, dragging you down. The screams of your crewmen are lost in the roar of the storm.
+		<lose ship="t">Cross off your ship and crew</lose>; they are lost. So are your <lose shards="*" item="*">money and possessions</lose>. You can think of nothing now but saving yourself.
+	</p>
+	<p>
+		<rankcheck dice="2"/>.
+		<failure>
+			If the score is greater than your Rank, you are drowned - <goto section="123"/>.
+		</failure>
+		<success>
+			If the score is less than or equal to your Rank, you manage to stay alive by clinging to a broken spar. On the point of death, with your vision blurring, you see a ship. Seawater fills your mouth as you try to cry out; all you manage is a feeble groan. The ship seems to jump closer in rapid flickering movements as you drift in and out of consciousness. At last you feel yourself being hauled aboard.
+		</success>
+	</p>
+	<p>
+		You wake on a pallet below deck. You start to sit up, but you are still too weak after your ordeal.
+	</p>
+	<p>
+		&#8216;Save your strength,&#8217; says a voice out of the gloom. &#8216;You&#8217;ll need it. The life of a slave is harsh indeed.&#8217;
+	</p>
+	<p>
+		You discover that you have been picked up by an Uttakin slave ship. The slavers will only agree to release you if you can pay a ransom of 300 Shards.
+		<lose codeword="2.289.r" hidden="t"/>
+		<lose codeword="2.530.r" hidden="t"/>
+		<lose codeword="2.564.r" hidden="t"/>
+		<tick codeword="3.157.r" hidden="t"/>
+		<lose codeword="3.218.r" hidden="t"/>
+	</p>
+	<choices>
+		<choice book="2" section="229">Pay the ransom</choice>
+		<choice book="5" section="321">Can&#8217;t or won&#8217;t pay</choice>
+	</choices>
+</section>

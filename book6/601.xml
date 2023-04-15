@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="601">
+	To the south lies the daunting expanse of Gashmuru Gulf. Only
+	the most foolhardy mariners dare to strike out for the fabulous
+	city of Dangor.
+	<choices>
+		<choice section="550">Tack west around Shaku Island</choice>
+		<choice section="649">Head north for Yodoshi Island</choice>
+		<choice book="11" section="77">Strike out for Dangor</choice>
+	</choices>
+</section>

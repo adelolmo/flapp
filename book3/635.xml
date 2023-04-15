@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="635">
+	<p>
+		It is a priest of Elnir, who is gaining religious merit by walking between the many shrines and temples of his deity. &#8216;Faith keeps my feet dry,&#8217; he says. &#8216;And devotion keeps my head pointed to the sky.&#8217;
+	</p>
+	<p>
+		He delivers a stirring sermon that inspires your crew.
+		<if crew="poor">
+			If the crew were of poor quality,
+			<tick crew="average">upgrade them to average</tick>.
+		</if>
+	</p>
+	<p>
+		<if god="Elnir">
+			Also, if you are an initiate of Elnir, the priest gives you a
+			<item name="healing salve">
+				<effect type="use" verb="Apply" uses="1">
+					<desc>restores 1-6 Stamina</desc>
+					<rest stamina="1d"/>
+				</effect>
+			</item>
+			which you can list among your possessions. It can be used once when you are injured to give back one die roll of Stamina points.
+		</if>
+	</p>
+	<p>
+		The priest bids you good day and goes strolling off across the sea. <goto section="116"/>.
+	</p>
+</section>

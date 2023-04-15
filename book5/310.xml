@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="310">
+	<p><if codeword="Eternal">If you have the codeword Eternal, <goto section="241"/>.</if> If not, read on.</p>
+	<p>
+		You spot the base of an ancient stone idol protruding from the swampy waters where it has sunk, head first, into the mud. Judging by the runes carved into it, it is the statue of some long-lost god of ages past. It's not particularly large, and you reckon you could pull it out of the mire, and set it upright on firm ground, using some vines and wooden rollers cut from the branches of a mangrove tree. It would take a day or two though.
+	</p>
+	<choices>
+		<choice section="582">Free the idol</choice>
+		<choice section="371">Move on</choice>
+	</choices>
+</section>

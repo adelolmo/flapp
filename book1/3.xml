@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="3">
+	You have come to the foothills of the Spine of Harkun, in the north west of Sokara. The view is impressive: a massive wall of forested mountains, whose rocky, white-flanked peaks soar skywards into the clouds. These parts of the mountains are unclimbable but you notice a large cave at the bottom of a mountain.
+	<choices>
+		<choice section="665">Investigate the cave</choice>
+		<choice section="271">Go east to the Citadel of Velis Corin</choice>
+		<choice section="276">South into the wilderness</choice>
+	</choices>
+</section>

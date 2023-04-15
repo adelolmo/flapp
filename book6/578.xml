@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="578">
+	<p>
+		You are strolling around the great metropolis of Chambara, whose canals and wide, gravelled thoroughfares are lined with cherry trees.
+	</p>
+	<p><random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-5" section="682">A queer duck</outcome>
+		<outcome range="6-12" section="599">Skinheads</outcome>
+	</outcomes>
+</section>

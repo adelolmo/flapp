@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="4">
+	<p>
+		One of the guards catches up with you a few streets away from the palace. &#8216;You are a merchant?&#8217; he demands in an imperious voice. &#8216;I am interested in western styles of armour and would like to purchase any stock you might have.&#8217;
+	</p>
+	<p>
+		It is beneath his dignity to haggle, so you are able to strike a good bargain.
+	</p>
+	<market buy="f">
+		<header type="armour"/>
+		<armour name="leather" bonus="1" sell="60"/>
+		<armour name="ring mail" bonus="2" sell="140"/>
+		<armour name="chain mail" bonus="3" sell="270"/>
+		<armour name="splint armour" bonus="4" sell="450"/>
+		<armour name="plate armour" bonus="5" sell="950"/>
+		<armour name="heavy plate" bonus="6" sell="2000"/>
+	</market>
+	<p>
+		<!-- rely on player's honesty -->
+		The only drawback is that he insists on buying all the armour you have on you - including any you happen to be wearing! If you sell him all your suits of armour, add the money to your Adventure Sheet and <goto section="79" force="f"/>. If you refuse to sell him everything, <goto section="55"/>. <i>[Decide how honest you want to be --Ed]</i>
+	</p>
+</section>

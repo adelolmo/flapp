@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="563">
+	<p><lose codeword="Emerald">Lose the codeword Emerald</lose>.</p>
+	<p>
+		You have a tattered map given to you by some faerie goblins in the Singing Forest. You dig up the spot marked on the map and uncover an old wooden chest, covered in strange symbols.
+	</p>
+	<p><difficulty ability="magic" level="15"/>.</p>
+	<outcomes>
+		<success section="129"/>
+		<failure section="394"/>
+	</outcomes>
+</section>

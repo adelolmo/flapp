@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="216" boxes="1">
+	<p>
+		<if ticks="1">If there is a tick in the box, <goto section="71"/> immediately.</if> If not, <tick>put a tick there now</tick> and read on.
+	</p>
+	<p>
+		You are down near the docks when the entourage of a princess of the Court of Hidden Faces comes by. The princess is sobbing in distress because she dropped her diamond ring into the bay of the harbour while she and her party were out sailing.
+	</p>
+	<choices>
+		<choice section="155">Use your magical talents to fish for the ring</choice>
+		<choice section="444">Don't bother</choice>
+	</choices>
+</section>

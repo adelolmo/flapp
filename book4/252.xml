@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="252" dock="Yarimura">
+	<p>
+		You can buy goods at the Silk Market only if you own a ship which is docked at Yarimura. You can buy as much cargo as your ship has room for. You can also sell cargo here. All prices are for 1 Cargo Unit.
+	</p>
+	<market>
+		<header type="cargo"/>
+		<trade cargo="furs" buy="100" sell="85"/>
+		<trade cargo="grai" buy="270" sell="250"/>
+		<trade cargo="meta" buy="600" sell="560"/>
+		<trade cargo="mine" buy="400" sell="300"/>
+		<trade cargo="spic" buy="900" sell="810"/>
+		<trade cargo="text" buy="325" sell="275"/>
+		<trade cargo="timb" buy="110" sell="90"/>
+	</market>
+	<p>Write you current cargo on the Ship's Manifest.</p>
+	<p>
+		If you own a ship and wish to set sail, <goto section="201" sail="t"/>. Otherwise, you can go to the city centre. <goto section="10"/>.
+	</p>
+</section>

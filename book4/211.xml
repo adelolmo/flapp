@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="211">
+	<p>
+		<!-- edited from original -->
+		Several days pass. You are fed and watered, but Grilb is becoming anxious, and you begin to worry for your safety. Eventually, a letter arrives from Marlock City, in Sokara. Grilb, grim-faced, reads it to you.
+	</p>
+	<p>
+		'General Grieve Marlock does not deal with terrorists. Your captive is not my concern.'
+	</p>
+	<p>
+		General Marlock has abandoned you, despite the fact that you did his dirty work for him, disposing of Nergan Corin and Beladai. And just to save a lousy 500 Shards.
+	</p>
+	<p>
+		Grilb says, 'If you can pay the ransom, I'll let you go - if not...'
+	</p>
+	<p>
+		Your only hope is if you have 500 Shards in the bank at Yarimura. Turn to <b>600</b>, make a withdrawal, if you can, and then select the option 'Paying a ransom'. <i>[Instead of going to <b>600</b>, you can withdraw money from the box below --Ed]</i>
+	</p>
+	<moneycache name="MerchantBank" text="Money banked" withdrawCharge="0.1"/>
+	<choices>
+		<choice shards="500" section="501">Pay the ransom</choice>
+		<choice section="285">Can't cover the ransom demand</choice>
+	</choices>
+</section>

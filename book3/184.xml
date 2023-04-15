@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="184" dock="Smogmaw">
+	<p>
+		They begin to weep bitterly and repent their crime. You are so moved by their renewed pledges of loyalty that you forgive them for stranding you on the island.
+	</p>
+	<p>
+		If you have a ship docked at Smogmaw, the three mutineers join the crew. They are seasoned seamen, so this
+		<lose crew="-1">increases the crew quality</lose>
+		by one step (from poor to average, average to good, or good to excellent).
+	</p>
+	<p>
+		<lose codeword="Church">Lose the codeword Church</lose> and
+		<goto section="314"/>.
+	</p>
+</section>

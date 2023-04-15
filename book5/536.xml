@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="536">
+	<p>
+		Her shoulders sag with disappointment. You ask if she has any clues about where the sword may be.
+	</p>
+	<p>
+		'If you can convince the Master of the Documents of Fable to let you examine the archives, you might find a reference,' she says.
+	</p>
+	<p>You return to the audience chamber. <goto section="401"/>.</p>
+</section>

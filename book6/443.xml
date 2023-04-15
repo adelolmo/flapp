@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="443">
+	If you are in an adventurous mood, you are spoiled for choice.
+	Should you strike out across Gashmuru Gulf towards the
+	forbidden city of Dangor? Or venture over the Sea of Hydras to
+	the Feathered Lands? Or put in at an Akatsurese port?
+	<choices>
+		<choice section="450">Go east</choice>
+		<choice section="550">Go south-east</choice>
+		<choice book="3" section="98">Go west</choice>
+		<choice section="80">Go north</choice>
+		<choice book="11" section="77">Go south</choice>
+	</choices>
+</section>

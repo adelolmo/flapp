@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="373">
+	<p>
+		You walk into a large, functional stone building. Inside, a roaring fire gives a welcome relief from the freezing air outside. Several burly men sit around a long table, eating. By the door, a portly, red-bearded fellow sits behind a desk. He looks up as you enter.
+	</p>
+	<p>
+		'Welcome to the ice mine, sir. I am Jalalul the Red, overseer of the mine, by appointment of the Court of Hidden Faces,' he says politely.
+	</p>
+	<p>
+		He tells you that the entire lake is formed out of solid ice, and that the ice has the peculiar property of melting at an incredibly slow rate. Indeed, a block of rime ice may last for as long as a year.
+	</p>
+	<p>
+		Naturally, there is money to be made out of this. The miners dig tunnels into the lake, and take the ice across the mountains by caravan to the southern cities of the decadent Uttaku. There, the masked nobles pay well for the ice, so that their sherbet, wines and sorbets are nicely chilled.
+	</p>
+	<p>
+		The mine also provides tours of the tunnels - many lords and ladies of Uttaku come here to walk amid the frosted walls. The tour costs 10 Shards.
+	</p>
+	<choices>
+		<choice section="579">Buy some rime ice</choice>
+		<choice section="22" shards="10">Go on a tour</choice>
+		<choice section="320">Leave the mine</choice>
+	</choices>
+</section>

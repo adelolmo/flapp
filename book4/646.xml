@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="646">
+	<p>
+		You have come to the long hall, painted with murals of the life of Xinoc the Priest-King. At the far end, the archway is completely sealed with a solid block of stone. Beyond it is the chamber in which you had to leave your equipment when you were magically shrunken. From this side, you notice a small triangular hole in the block.
+	</p>
+	<p>
+		<if item="pyramid key">
+			If you have a <b>pyramid key</b>,
+			<goto section="528"/>.
+		</if>
+		If not, you leave. <goto section="472"/>.
+	</p>
+</section>

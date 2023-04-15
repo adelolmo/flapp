@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="655">
+	At the back of a wide bay you find a town which rises with
+	steep streets to a grim citadel. The blood-coloured flag of the
+	Reavers flies from the battlements. In the harbour, a dozen
+	pirate ships ride at anchor.
+	<choices>
+		<choice section="114">Walk openly into the town</choice>
+		<choice section="362">Sneak in at night</choice>
+		<choice section="380">Make a getaway</choice>
+	</choices>
+</section>

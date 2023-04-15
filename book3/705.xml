@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="705">
+	You follow a convoluted path that eventually brings you to the
+	edge of the Bluewood.
+	<gain ability="scouting" amount="1">
+		Increase your SCOUTING score by 1
+	</gain>.
+	<choices>
+		<choice section="571">Go into Dweomer</choice>
+		<choice section="100">Go to the harbour</choice>
+	</choices>
+</section>

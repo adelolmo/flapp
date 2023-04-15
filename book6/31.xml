@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="31">
+	You are crossing a high saddle of land between the eastern and
+	western coastal plains.
+	<choices>
+		<choice section="178">Go north-east</choice>
+		<choice section="704">Go west</choice>
+		<choice section="552">Go north</choice>
+		<choice section="54">Go south</choice>
+	</choices>
+</section>

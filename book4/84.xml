@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="84">
+	You come across a circle of ancient, wind-pitted standing stones. In the centre stands a weathered stela, carved with Shadar runes and symbols.
+	<choices>
+		<choice section="696">Enter the circle</choice>
+		<choice section="224">Leave</choice>
+	</choices>
+</section>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="414">
+	No daylight penetrates this far below ground. In order to
+	proceed you must have a <b>candle</b>, <b>lantern</b>,
+	or other source of light.
+	Otherwise you have no choice but to turn back.
+	<choices>
+		<choice item="?" tags="light" section="452">Proceed along the tunnel</choice>
+		<choice section="317">Turn back</choice>
+	</choices>
+</section>

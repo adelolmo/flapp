@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="440">
+	<p>
+		You take <gain shards="250"/> from her money pouch. It is little enough compensation for all she&#8217;s put you through in the past. Hearing her moan and turn over in her sleep, you give her the empty money pouch to cuddle. What a grand joke, when the swashbuckling burglar wakes to find she&#8217;s been robbed!
+	</p>
+	<p>
+		You quietly let yourself out, pleased to have settled the score after so long. <lose codeword="Anger">Lose the codeword Anger</lose> and <goto section="675"/>.
+	</p>
+</section>

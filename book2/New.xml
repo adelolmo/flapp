@@ -1,0 +1,13 @@
+<section name="Cities of Gold and Glory" image="Title.jpg">
+	<p>
+		To begin your adventure, you will need to choose a profession:
+	</p>
+	<choices>
+		<choice section="Liana">Wayfarer</choice>
+		<choice section="Andriel">Warrior</choice>
+		<choice section="Chalor">Mage</choice>
+		<choice section="Marana">Rogue</choice>
+		<choice section="Ignatius">Priest</choice>
+		<choice section="Astariel">Troubadour</choice>
+	</choices>
+</section>

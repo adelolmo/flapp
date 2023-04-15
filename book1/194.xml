@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="194">
+	<p>
+		You know what the strange swellings on the dead bodies mean. They have been injected with the eggs of the ker&#8217;ilk, hideous lobster-like beings of the deep. Soon the eggs will hatch, and the young will feed on the bodies of the sailors. You also know that the adults never stray far from their eggs, and warn your men that the ker&#8217;ilk are nearby.
+	</p>
+	<p>
+		Your warning is timely - several horrific-looking creatures, like giant lobsters, all spines and pincers, surge out of the waters. Your men, however, are ready. A battle ensues - you must fight one of the creatures.
+	</p>
+	<fight name="Ker&#8217;ilk" combat="4" defence="9" stamina="8"/>
+	<p>
+		If you win, <goto section="519"/>. If you lose, you&#8217;ll end up as food for ker&#8217;ilk young, unless you have a <resurrection>resurrection deal</resurrection>.
+	</p>
+</section>

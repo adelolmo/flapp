@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="176">
+	<p>
+		You emerge from your cabin to find all hands on deck and the ship speeding ahead under a full press of sail. It is with some astonishment that you see another vessel far astern.
+	</p>
+	<p>
+		&#8216;They&#8217;re pirates, skipper,&#8217; says the mate. &#8216;Been on our tail since the end of the last watch, but I think we can outrun them.&#8217;
+	</p>
+	<p>&#8216;I should have been woken up at once!&#8217; you tell him severely.</p>
+	<choices>
+		<choice section="194">Continue to run from the pirates</choice>
+		<choice section="214">Drop sail and turn to face them</choice>
+	</choices>
+</section>

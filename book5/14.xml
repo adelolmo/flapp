@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="14">
+	<p>
+		You speak the magic word that Targdaz taught you when he first helped you establish your castle. In a flash, across the gulf separating you, he hears you and casts the spell that teleports you back to your castle. You materialize in the great hall, where Targdaz and your steward stand ready to greet you.
+	</p>
+	<p><random/> to see how well the teleport worked.</p>
+	<outcomes>
+		<outcome range="2"><lose items="*" shards="*">Lose all possessions and cash</lose> in transit</outcome>
+		<outcome range="3-4">Reappear with your face twisted, permanently <lose ability="charisma" amount="2">reduce CHARISMA by 2</lose></outcome>
+		<outcome range="5-6">Reappear inside-out; <lose stamina="10"/></outcome>
+		<outcome range="7+">Bliss! The spell works perfectly</outcome>
+	</outcomes>
+	<p>
+		Make any changes required on your Adventure Sheet, then <goto section="245"/>.
+	</p>
+</section>

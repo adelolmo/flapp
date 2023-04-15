@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="576">
+	You are up the Stinking River, near its source - the Lake of the Sea Dragon. From here, the yellow waters rush down to the sea. The smell of the bubbling, sulphur-laden water is abominable.
+	<choices>
+		<choice section="135">Go to the Lake of the Sea Dragon</choice>
+		<choice section="310">Follow the river south</choice>
+		<choice section="558">Go west to the road</choice>
+		<choice section="278">East into the countryside</choice>
+	</choices>
+</section>

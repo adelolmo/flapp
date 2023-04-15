@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="429" boxes="1">
+	<p>
+		With the worm out of the way you have the chance to investigate the blocked-off opening in the tunnel wall.
+	</p>
+	<p>
+		<if ticks="0">
+			If the box above is empty, <tick>put a tick in it</tick> and <goto section="82"/>.
+		</if>
+		If the box was already ticked, <goto section="148"/>.
+	</p>
+</section>

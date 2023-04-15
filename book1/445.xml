@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="445">
+	<p>
+		You climb up, and squeeze through an open window into a long hall. Thin wires are stretched across the room, but you are an able enough rogue to crawl through without touching any of them and setting off possible traps or alarms.
+	</p>
+	<p>
+		Inside the temple, it is cool and dark, filled with an unearthly stillness. Suddenly, the temple doors are flung open, and two figures lumber into the room. You realize with a thrill of horror that the bull-headed iron statues outside the gates have come to life. They are golems, set here to guard the temple.
+	</p>
+	<choices>
+		<choice section="349">Run for your life</choice>
+		<choice section="569">Fight them</choice>
+	</choices>
+</section>

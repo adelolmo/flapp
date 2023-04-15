@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="53">
+	You are in the middle of the highway that runs from Chompo to Narai.
+	<choices>
+		<choice section="98">Follow the road east</choice>
+		<choice section="703">Go west</choice>
+		<choice section="336">Strike out to the south</choice>
+	</choices>
+</section>

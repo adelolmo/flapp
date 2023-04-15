@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="327">
+	<p>
+		The spectre&#8217;s face is formed of faint patches of shadow in the green glare. &#8216;From the Nozama to the Grimm, from Hypnos&#8217; isle to his black-winged mother&#8217;s spire - at the heart of this cross you&#8217;ll find the contentment you seek.&#8217;
+	</p>
+	<p>
+		The light flickers, flares briefly, and goes out. You feel as if you have awakened from a dream.
+	</p>
+	<p>
+		<tick codeword="Covet">Get the codeword Covet</tick> and <goto section="252"/>.
+	</p>
+</section>

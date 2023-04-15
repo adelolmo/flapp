@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="618">
+	<p>
+		<if codeword="Discover">
+			If you have the codeword Discover, <goto section="537"/>.
+		</if>
+		<if codeword="Double">
+			If not, but you have the codeword Double, <goto section="105"/>.
+		</if>
+		If you have neither codeword, read on.
+	</p>
+	<p>
+		The high priestess is covered from head to toe in bright white silks - all you can see are her eyes, like twin orbs of amber. She tells you that the mirror of the Sun Goddess, a holy relic of the temple, has been stolen. She believes it has fallen into the hands of a steppe nomad, one of the Horde of the Thundering Skies, and asks that you retrieve it for them. In return, the temple will reward you.
+	</p>
+	<p>&#8216;Only a priest is worthy enough to handle the mirror,&#8217; she adds.</p>
+	<p>
+		If you want to take up the mission, <tick codeword="Double" force="f">record the codeword Double</tick>.
+	</p>
+	<p>You leave her. <goto section="89"/>.</p>
+</section>

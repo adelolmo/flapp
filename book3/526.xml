@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="526">
+	<p>
+		You run into old Gaspar Savaloy, who was once your helmsman. He has filled out to his former rotund figure since the time you rescued him from virtual slavery in the mines on Copper Island. His clothes are quite fine too - as befits a man who is now one of the wealthiest merchants in these parts.
+	</p>
+	<p>
+		&#8216;Care to speculate, skipper?&#8217; he asks you. &#8216;I&#8217;ve got a hot tip that&#8217;s sure to show a profit.&#8217;
+	</p>
+	<choices>
+		<choice section="652">Make an investment</choice>
+		<choice section="359">Check on an earlier investment</choice>
+		<choice section="687">Bid him good-day</choice>
+	</choices>
+</section>

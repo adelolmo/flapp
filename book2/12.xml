@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="12">
+	Tekshin, the innkeeper, is a wingless Mannekyn who dresses in a
+	brocade waistcoat and affects human mannerisms.
+	<outcomes>
+		<outcome codeword="Bullseye" section="487">If you have the codeword <i>Bullseye</i></outcome>
+		<outcome section="610">If not</outcome>
+	</outcomes>
+</section>

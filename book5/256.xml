@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="256">
+	<p>
+		You ascend the hill to the old graveyard. It has not been used to bury the dead for centuries and it has fallen into rack and ruin. You stroll amid the crumbling crypts and tombstones, idly looking over the names of the dead. Most of them are locals, from the days when the High King ruled this land. You are surprised to see some of the larger tombs are the resting places of Uttakin soldiers and priests. <if codeword="Errant">If you have the codeword Errant, <goto section="287"/>.</if> If not, you find nothing of interest here.
+	</p>
+	<choices>
+		<choice section="121">Return to the village</choice>
+		<choice section="185">Leave the area</choice>
+	</choices>
+</section>

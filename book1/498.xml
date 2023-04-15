@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="498">
+	There are too many of them, and they give you a good hiding. &#8216;Maybe that&#8217;ll teach you some respect,&#8217; one of them says, as they swagger off, leaving you groaning in the gutter. You are reduced to <lose staminato="1">only 1 Stamina point</lose>. You decide to call it a night. <goto section="100"/>.
+</section>

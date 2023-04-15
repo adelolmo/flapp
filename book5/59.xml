@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="59">
+	<p><lose codeword="Entropy">Erase the codeword Entropy</lose>.</p>
+	<p>
+		You hand over the <lose item="pink rice grain"/>.
+		Cross it off your Adventure Sheet.
+	</p>
+	<p>
+		As a reward the Compiler of Confectionery Surprises arranges a trainer for you. Choose the ability of your choice (i.e. COMBAT, CHARISMA, and so on),
+		<training>roll two dice</training>,
+		and if the result is higher than that ability, you can add one to it permanently. He also gives you <gain shards="500"/>.
+	</p>
+	<p>
+		Your exploit in travelling to the Black Pagoda and back has considerably enhanced your reputation at court. Turn to <b>401</b> and
+		<tick name="UttakuStatus" count="3">add 3 to your Status points</tick>
+		in the box provided. Then make a choice
+		<goto section="401">from there</goto>.
+	</p>
+</section>

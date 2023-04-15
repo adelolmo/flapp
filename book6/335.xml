@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="335">
+	The wind blows in icy gusts out of a coal-black sky.
+	<if blessing="storm">
+		If you have a blessing of Safety from Storms,
+		<lose blessing="storm">cross it off</lose>
+		and <goto section="713"/>.
+	</if>
+	Otherwise, <goto section="222"/>.
+</section>

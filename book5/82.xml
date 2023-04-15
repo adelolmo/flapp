@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="82">
+	<p>You are pursued and overwhelmed.</p>
+	<p>
+		'You fool!' hisses one of the Soulwatch. 'Did you think you could avoid the ineluctable hand of Ebron?'
+	</p>
+	<p>
+		They bind you in chains, and ship you off to Aku, City of the Faceless King, back into a life of slavery. <goto section="321"/>.
+	</p>
+</section>

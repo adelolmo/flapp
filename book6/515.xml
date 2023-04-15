@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="515">
+	<p>
+		Above muddy rice fields where the water lies in pools as still as mirrors, dragonflies dance metallically in the sunbeams.
+	</p>
+	<p><random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-8" section="3">A quiet few days</outcome>
+		<outcome range="9-12" section="168">Uncanny happenings</outcome>
+	</outcomes>
+</section>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="96" dock="Wishport">
+	<p>
+		The warehouses in Wishport stock goods from many distant ports. The trick is to buy goods in an area where they are plentiful (and therefore cheap) and transport them to an area where they are in demand.
+	</p>
+	<p>
+		Prices are quoted here for entire Cargo Units. You cannot carry this large a quantity in person; you will need a ship to transport it.
+	</p>
+	<market>
+		<header type="cargo"/>
+		<trade cargo="furs" buy="200" sell="180"/>
+		<trade cargo="grain" buy="150" sell="135"/>
+		<trade cargo="metals" buy="750" sell="675"/>
+		<trade cargo="minerals" buy="700" sell="630"/>
+		<trade cargo="spices" buy="900" sell="810"/>
+		<trade cargo="textiles" buy="250" sell="225"/>
+		<trade cargo="timber" buy="200" sell="180"/>
+	</market>
+	<p>When you have completed your business, <goto section="217"/>.</p>
+</section>

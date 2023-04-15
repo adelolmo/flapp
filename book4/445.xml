@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="445">
+	<p>
+		<lose stamina="1d">Lose 1-6 Stamina points</lose> (the roll of one die). If you still live, the Mannekyn People stay well out of your reach, and you are forced to climb back down while they hurl rocks, and lively abuse at you. Strangers do not seem welcome on Sky Mountain.
+	</p>
+	<p>
+		You reach the bottom, at which point the Mannekyn People fly off and leave you alone.
+	</p>
+	<p><goto section="668"/>.</p>
+</section>

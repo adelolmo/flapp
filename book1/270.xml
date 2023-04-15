@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="270">
+	You make a swift inspection of the casements, walls and furnishings, searching for secret panels where treasure might be concealed. <difficulty ability="thievery" level="12">Make a THIEVERY roll at a Difficulty of 12</difficulty>.
+	<outcomes>
+		<success section="59"/>
+		<failure section="243"/>
+	</outcomes>
+</section>

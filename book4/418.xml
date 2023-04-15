@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="418">
+	<p>
+		You wander around the dingy streets. Hooded faces stare at you from doorways, and dark figures lurk in every corner. A small boy runs past, and turns to watch you in astonishment. Incredibly you are unmolested. It seems the locals are so amazed by your brazen fearlessness, that they assume you to be mad, or a mighty wizard or hero, best left alone!
+	</p>
+	<p><goto section="182"/>.</p>
+</section>

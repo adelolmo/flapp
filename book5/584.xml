@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="584" boxes="1">
+	<p>
+		<if ticks="1">If there is a tick in the box, <goto section="158"/> immediately.</if> If not, <tick>put a tick there now</tick>, and read on.
+	</p>
+	<p>
+		The High Convener of Chariots wants you to quest for an ancient heirloom of great significance to the Uttakin that was lost in ages past. A great hero, known as Kizil Irmak the War Prophet, wielded a mighty sword called the Holy Avenger of Ebron.
+	</p>
+	<p>
+		'Find this sword and bring it to me, and I will reward you,' says the High Convener of Chariots. She dismisses you with an airy wave of her hand.
+	</p>
+	<p><tick codeword="Errant">Tick the codeword Errant</tick>.</p>
+	<p>You return to the audience chamber. <goto section="401"/>.</p>
+</section>

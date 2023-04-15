@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="100">
+	You seek high and low, but after many days you have to admit
+	you are stumped. Even though there are many legends of the
+	Tower of Despair in these parts, you cannot find any sign of it.
+	<goto section="77"/>.
+</section>

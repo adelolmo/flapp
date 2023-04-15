@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="54" dock="Smogmaw">
+	<p>
+		Unlike the ramshackle buildings that make up much of the town, the warehouses are stoutly constructed from heavy logs. Not even a spider could squeeze between those mighty timbers - much less even the stealthiest and slipperiest of thieves.
+	</p>
+	<p>
+		&#8216;Spices are the principal commodity of the Feathered Lands,&#8217; a merchant tells you. (You must look as if you&#8217;re just off the boat.)
+		<tick codeword="Catalyst">Get the codeword Catalyst</tick>
+		and then decide what you are going to buy or sell.
+	</p>
+	<market>
+		<header type="cargo"/>
+		<trade cargo="furs" buy="300" sell="220"/>
+		<trade cargo="grain" buy="250" sell="200"/>
+		<trade cargo="metals" buy="850" sell="800"/>
+		<trade cargo="minerals" buy="750" sell="700"/>
+		<trade cargo="spices" buy="400" sell="320"/>
+		<trade cargo="textiles" buy="250" sell="200"/>
+		<trade cargo="timber" buy="180" sell="160"/>
+	</market>
+	<p>
+		These prices are for entire Cargo Units, which are too much to carry in person and will require a ship for transport. When you have finished your business here, <goto section="44"/>.
+	</p>
+</section>

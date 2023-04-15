@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="585">
+	<p>
+		<lose codeword="Amcha">Lose the codeword Amcha</lose> and
+		<tick codeword="Cutlass">get Cutlass</tick> in its place. You know that the guildmaster will want proof that the Reaver King is dead. You slice through his neck and add
+		<item name="Amcha's head"><b>Amcha's head</b></item>
+		to your list of possessions. Then you slip out of the citadel and hurry through the streets to the edge of town.
+	</p>
+	<p>
+		<if codeword="Crocus">
+			If you have the codeword Crocus, <goto section="549"/>.
+		</if>
+		Otherwise, <goto section="436"/>.
+	</p>
+</section>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="636" image="636.jpg">
+	<p>
+		You fight many bouts in the arena, and gain much fame, winning the championship three times in a row. This is enough to win your freedom, according to ancient tradition. You are discharged from slavery and showered with gifts from an adoring crowd of Uttakin lords and ladies. You get <gain shards="400"/>, a suit of <armour name="chain mail" bonus="3"/> and a <tool name="silver holy symbol" ability="sanctity" bonus="2"/>.
+	</p>
+	<p>You are released into the city of Aku. <goto section="444"/>.</p>
+</section>

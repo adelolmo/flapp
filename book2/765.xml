@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="765" image="765.jpg">
+	You cannot resist the temptation to stop off at the fair. Two
+	whole fields are covered with gaudily coloured tents and stalls
+	where you can watch juggling, acrobatics, dancing bears and
+	singing birds. <random type="travel"/>:
+	<outcomes>
+		<outcome range="2-4" section="721">Taken for a thief</outcome>
+		<outcome range="5-7" section="745">Get drunk on nettle beer</outcome>
+		<outcome range="8-12" section="769">Win a prize</outcome>
+	</outcomes>
+</section>

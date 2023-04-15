@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="65" image="65.jpg">
+	There are three stone gates engraved with ancient runes. Each gate is marked with a name - Yellowport, Marlock City, and Wishport. From here, you can see the coast and the whole island, which is heavily forested.
+	<choices>
+		<choice section="128">Explore the coastline</choice>
+		<choice section="257">Head into the forest</choice>
+		<choice section="8">Step through the Yellowport arch</choice>
+		<choice section="180">Step through the Marlock City arch</choice>
+		<choice section="330">Step through the Wishport arch</choice>
+	</choices>
+</section>

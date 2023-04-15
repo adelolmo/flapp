@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="14">
+	<p>
+		The ghost resists your best efforts to dispel it. It is intent on returning to its home port of Smogmaw, and its curse means that you cannot put in at any other port on the way. You must now sail directly for Smogmaw; when you get there, the ghost will leave your ship.
+	</p>
+	<p><goto section="78"/>.</p>
+</section>

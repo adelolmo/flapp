@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="550">
+	<p>
+		You encounter a group of drunken louts on the road. They are passing around a jug of cider and singing:
+	</p>
+	<p>&#8216;I&#8217;m off to Goldfall,</p>
+	<p>There to get rich,</p>
+	<p>And I&#8217;ll marry a wife</p>
+	<p>And I&#8217;ll call her <i>that wife!</i></p>
+	<p>And when I&#8217;ve got money</p>
+	<p>And fine clothes that fit,</p>
+	<p>Folk will queue up</p>
+	<p>Just to lick my <i>hand</i>!&#8217;</p>
+	<p>
+		This song causes them such amusement that they do not even notice you go by. If they&#8217;re typical of the people who go to Goldfall, it isn&#8217;t worth staying there longer than you have to. <goto section="58"/>.
+	</p>
+</section>

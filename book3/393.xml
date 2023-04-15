@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="393" dock="Vervayens Isle">
+	<p>
+		With the Gorgons dead, the curse is lifted and the villagers come back to life. When they realize you have rescued them, they swear to honour you for ever.
+	</p>
+	<p>
+		You are feasted for days on end and can
+		<rest>recover any lost Stamina points</rest>.
+		Then the villagers come to you and say they have another gift - a ship, crewed by the young men of the island. They are eager to sail with you and seek adventure.
+	</p>
+	<p>
+		Note on your Ship&#8217;s Manifest that you have
+		<buy ship="brigantine" initialCrew="average" shards="0" quantity="1">a brigantine</buy> (cargo capacity: 2 Cargo Units) with an average quality crew. Also note the title
+		<gain title="Saviour of Vervayens Isle"/> on your Adventure Sheet.
+	</p>
+	<p><goto section="298" sail="t"/>.</p>
+</section>

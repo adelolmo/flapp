@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="203">
+	<p>
+		You unleash the wall of fire. Vulcis Embers also releases fire, and the two walls crash together in the middle of the arena, creating a veritable inferno. Vulcis Embers, however, is more accomplished than you in fire magic, for his fiery wall outlasts yours. You cannot maintain the spell, and flames rush toward you with such speed that you cannot avoid them completely.
+	</p>
+	<p>
+		<lose stamina="2d">Roll two dice</lose> and lose that many Stamina points as the flames burn you in passing.
+	</p>
+	<choices>
+		<choice section="7" dead="t">Down to zero Stamina</choice>
+		<choice section="81">Still alive</choice>
+	</choices>
+</section>

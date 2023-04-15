@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="655">
+	You give them directions to the abbey. The goddess must be
+	pleased at this, because you receive the benefit of her blessing. In
+	the Blessings box on your Adventure Sheet, write
+	<gain blessing="scouting">SCOUTING reroll</gain> (once only).
+	The blessing works by allowing you to make
+	a second attempt at a SCOUTING roll that you&#8217;ve failed.
+	Whether or not the reroll works, the blessing is then used up.
+	Now <goto section="355"/>.
+</section>

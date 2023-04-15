@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="534">
+	<p>
+		It takes several days to clean off all the reeds that were clogging the rudder.
+	</p>
+	<p><random dice="1"/> to see where the current has taken you.</p>
+	<outcomes>
+		<outcome range="1" section="301"/>
+		<outcome range="2" section="205"/>
+		<outcome range="3" section="42"/>
+		<outcome range="4" section="281"/>
+		<outcome range="5" section="402"/>
+		<outcome range="6" section="189"/>
+	</outcomes>
+</section>

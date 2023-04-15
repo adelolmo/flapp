@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="408">
+	<p>
+		You fall helplessly under the spell of the flute, and join the mad throng, no longer the master of your own destiny.
+	</p>
+	<p>
+		The next few weeks are a confused time, of which you can remember nothing. <lose item="*" shards="*">Cross off all your money and possessions</lose>. Instead, you have a <tool name="silver flute" ability="charisma" bonus="2"/>, a <item name="witch's hand"/>, some <item name="parrot fungus"/>, some <item name="rope"/> and a <weapon name="Shadar spear" bonus="1"/>.
+	</p>
+	<p>
+		You come to your senses to discover that you have travelled many leagues. You are alone, and strangely sad, now that you have lost the music. <goto section="398"/>.
+	</p>
+</section>

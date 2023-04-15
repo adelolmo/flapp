@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="740">
+	<p>
+		The giant is not used to drinking anything that actually tastes pleasant, let alone a drink with unusual properties. He quaffs it all down (cross the
+		<lose item="faery mead"/>
+		off your list of possessions) and is soon slumbering in his chair.
+	</p>
+	<p>
+		&#8216;It won&#8217;t do any good,&#8217; says a thin gruff voice. &#8216;He&#8217;s such a light sleeper, he&#8217;s bound to wake up as soon as you start nosing about.&#8217;
+	</p>
+	<p>
+		Startled, you look around to see a big scrawny raven glaring at you from a cage in the corner of the room.
+	</p>
+	<p>
+		&#8216;If you&#8217;ve got a length of rope I can tie him up,&#8217; it says. &#8216;Otherwise I&#8217;d advise you to scarper.&#8217;
+	</p>
+	<choices>
+		<choice item="rope" pay="t" section="513">Give the raven some <b>rope</b> (if you have any)</choice>
+		<choice section="534">Just kill the giant while he&#8217;s asleep</choice>
+		<choice section="501">Tiptoe out of the pagoda</choice>
+	</choices>
+</section>

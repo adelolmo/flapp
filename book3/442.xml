@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="442">
+	&#8216;It is the god Jiarosh, who dwells inside the mountain!&#8217; shriek
+	the islanders as plumes of thick black smoke start to boil out of
+	the volcano&#8217;s cone. &#8216;Jiarosh, spare us!&#8217;
+	<choices>
+		<choice section="384">Evacuate the island</choice>
+		<choice section="404">Intercede with the god</choice>
+		<choice section="479">Set sail at once</choice>
+	</choices>
+</section>

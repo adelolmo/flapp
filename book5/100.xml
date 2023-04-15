@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="100">
+	<p>
+		<if codeword="Drifter">If you have the codeword Drifter <if codeword="Energy">and the codeword Energy, <goto section="652"/>.</if></if> Otherwise read on.
+	</p>
+	<p>
+		Kunrir is a sprawling port city on the west coast of Uttaku. The Satrap of Kunrir is a high caste masked noble of Uttaku. He and his court live in a fine palace on a hill overlooking the city. Around the base of the hill are the homes of the important people in the city - the lowliest areas are furthest from the hill.
+	</p>
+	<p>
+		<if title="Masked Lord|Masked Lady">If you have the title Masked Lord or Masked Lady, <goto section="586"/> immediately.</if> If not, you can:
+	</p>
+	<choices>
+		<choice section="145">Visit the harbourmaster</choice>
+		<choice section="244">Visit the bazaar</choice>
+		<choice section="284">Go to the House of Sweet Repose</choice>
+		<choice section="367">Visit the Cathedral of Ebron</choice>
+		<choice section="439">Explore the city streets</choice>
+		<choice section="575">Leave the city on foot</choice>
+	</choices>
+</section>

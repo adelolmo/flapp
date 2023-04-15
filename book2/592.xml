@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="592">
+	While trying to charter the extent of a river gorge, you slip and
+	fall, taking an injury of
+	<lose stamina="2d">2-12 Stamina points</lose> (roll two dice). If
+	you survive, <goto section="518"/>.
+</section>

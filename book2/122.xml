@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="122">
+	If you are an initiate of Lacuna then you have the option to visit
+	the nearby abbey of your goddess.
+	<if god="Lacuna" not="t">
+		<tick price="x" hidden="t"/>
+		Non-initiates cannot usually find the path to the abbey, as it is hidden and protected by powerful spells, though you can attempt to uncover it by
+		<difficulty ability="magic" level="15" flag="x" force="f">
+			making a MAGIC roll at Difficulty 15
+		</difficulty> or
+		<difficulty ability="scouting" level="18" flag="x" force="f">
+			a SCOUTING roll at Difficulty 18
+		</difficulty>.
+	</if>
+	<choices>
+		<choice god="Lacuna" section="336">Initiate of Lacuna</choice>
+		<success section="376">Find the path using MAGIC or SCOUTING</success>
+		<choice section="359">Failed roll, or not searching for the abbey</choice>
+	</choices>
+</section>

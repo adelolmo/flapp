@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="649">
+	The passage is longer than it at first appears - the sparkle in the darkness is still some distance off.
+	<choices>
+		<choice section="37">Continue</choice>
+		<choice section="83">Leave</choice>
+	</choices>
+</section>

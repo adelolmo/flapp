@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="314" image="314.jpg">
+	<p>
+		You are brought before a panel of three Arbiters of the Word of Ebron. They sit on a raised dais, dressed in bright yellow robes covered in a pattern of cornflower blue symbols. Each wears a different mask - one a lion's head (retribution), another the dove (forgiveness), and the last is fashioned like the sun (wisdom on high). They cross-examine you in some depth.
+	</p>
+	<p><difficulty ability="charisma" level="17"/>.</p>
+	<outcomes>
+		<success section="85"/>
+		<failure section="188"/>
+	</outcomes>
+</section>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="437">
+	<p>
+		You recite from the sacred scriptures. The vampire presses his hands to his ears, and runs to and fro issuing long terrible howls before finally escaping up the chimney. He leaves behind a <item name="scarab amulet"/> and a <weapon name="tarnished sword" bonus="1"/>, which you can add to your possessions if you like.
+	</p>
+	<p>You go back to bed. <goto section="385"/>.</p>
+</section>

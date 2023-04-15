@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="295">
+	You use your influence to secure a judgment against Lord Elbistan that is far worse than his case deserved. He is disgraced, and thrown out of the Court of Hidden Faces. His family is forced to disown him completely. He ends up being sold into slavery. Revenge is sweet.
+	<choices>
+		<choice section="401">Visit a minister</choice>
+		<choice section="674">See the court physician</choice>
+		<choice section="444">Leave the Spider Palace</choice>
+	</choices>
+</section>

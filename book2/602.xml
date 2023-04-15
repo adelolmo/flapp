@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="602">
+	The creature chases you through the night. To stay ahead of it,
+	you must
+	<difficulty ability="scouting" level="14">
+		make a SCOUTING roll at a Difficulty of 14
+	</difficulty>.
+	<outcomes>
+		<success section="722"/>
+		<failure section="626"/>
+	</outcomes>
+</section>

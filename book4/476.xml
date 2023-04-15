@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="476" dock="Isle of Mystery">
+	<p>
+		You realize the fog is the product of sorcery, and that it is intended to turn ships back from the isle. You are able to guide the ship through, using your sorcerous instinct.
+	</p>
+	<p>
+		Eventually, you come out of the fog into a small cove where you can drop anchor. The island is covered in a hot, steamy jungle from which rises a forested mountain.
+	</p>
+	<p>
+		The men will not go ashore, but they will wait here for you to explore the Isle of Mystery, if you want. If you go ashore, note that your ship is docked at the Isle of Mystery.
+	</p>
+	<p>
+		To head inland on your own, <goto section="564" force="f"/>.
+		To sail back to the sea, <goto section="296" sail="t"/>.
+	</p>
+</section>

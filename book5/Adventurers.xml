@@ -1,0 +1,43 @@
+<adventurers>
+  <abilities>
+    <header>Charisma Combat Magic Sanctity Scouting Thievery</header>
+    <profession name="Priest">6 4 5 8 6 2</profession>
+    <profession name="Mage">4 4 8 1 7 5</profession>
+    <profession name="Rogue">7 6 6 2 4 8</profession>
+    <profession name="Troubadour">8 5 5 5 4 6</profession>
+    <profession name="Warrior">5 8 3 6 5 3</profession>
+    <profession name="Wayfarer">4 7 4 4 8 6</profession>
+  </abilities>
+  <stamina amount="23"/>
+  <rank amount="5"/>
+  <gold amount="65"/>
+  <items>
+    <armour name="chain mail" bonus="3"/>
+    <weapon profession="Priest" name="mace"/>
+    <weapon profession="Mage" name="scimitar"/>
+    <weapon profession="Rogue" name="dagger"/>
+    <weapon profession="Troubadour" name="quarterstaff"/>
+    <weapon profession="Warrior" name="sword"/>
+    <weapon profession="Wayfarer" name="axe"/>
+  </items>
+  <starting>
+    <adventurer name="Nakir Death-Angel" profession="Warrior" gender="M">
+Many a man who has mistaken your good looks and manners for foppishness has ended his life in a spreading pool of blood.  Yet still you wish to perfect your skills so that no one can stand against you.  You have heard that a general in the Court of Hidden Faces needs the services of a good warrior.
+    </adventurer>
+    <adventurer name="Lord Jadhak" profession="Mage" gender="M">
+Your home is in another time and place, and you only came to the <i>Fabled Lands</i> accidentally when, during an interdimensional excursion, the nexus pathways closed, leaving you stranded on this disgustingly primitive world.  You have heard that the mages of Aku may have the knowledge to return you home.
+    </adventurer>
+    <adventurer name="Anathema Hex" profession="Priest" gender="F">
+Even as a child your were fascinated by the old tales of the Uttakin - how they swept north across the Violet Ocean, expelling the High King from his throne and laying waste to his country in the name of their faith.  There's a race to admire!  Your burning ambition is to visit Aku and study the methods of the Soulwatch.
+    </adventurer>
+    <adventurer name="Domisellus of Atticala" profession="Troubadour" gender="M">
+Inspired by a dream of the High King, who now sleeps beneath the frozen surface of the Rimewater, you took up your haversack and began a life of adventure and minstrelsy.  You have not met many people who you could not sway with your deft wit and silver tongue.  You have heard tell of songs sung in the haunted ruins of the High King's Seat.
+    </adventurer>
+    <adventurer name="Melmoth the Outcast" profession="Wayfarer" gender="M">
+You were cast out of your homeland for something that no civilized country would regard as a crime.  Now you have dedicated yourself to roaming the world in search of a more tolerant people to settle among.  Perhaps you will find an end to your quest in Uttaku?
+    </adventurer>
+    <adventurer name="Shen Darkeye" profession="Rogue" gender="F">
+Darkness has always attracted you more than harsh daylight.  As a child you practised until your footstep was quieter than a spider's, your touch lighter than a moth's wing.  No lock nor vault is proof against your skills.  You have learned of the self-styled king of thieves, the Master of Shadows, in the slums of Aku.  Perhaps he may present you with a challenge.
+    </adventurer>
+  </starting>
+</adventurers>

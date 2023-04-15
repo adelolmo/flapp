@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="187">
+	<p>
+		<if codeword="Cacogast">
+			If you have the codeword Cacogast,
+			<goto section="225"/>.
+		</if>
+	</p>
+	<p>
+		Otherwise the irascible college cook bars your way. &#8216;I don&#8217;t want any scholars in my kitchen!&#8217; he thunders.
+	</p>
+	<p>
+		To pacify him you could offer a <b>smoulder fish</b> (if you have one) or else rely on your natural charm, in the form of a
+		<difficulty ability="charisma" level="12" force="f">
+			CHARISMA roll at Difficulty 12
+		</difficulty>.
+	</p>
+	<outcomes>
+		<choice item="smoulder fish" section="243">Offer a <b>smoulder fish</b></choice>
+		<success section="261"/>
+		<failure section="279"/>
+	</outcomes>
+</section>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="365">
+	<p>
+		Looking outside, you see three heads flying around in the moonlight. You remember seeing a play about these flying-head goblins. The hero of the play destroyed them by attacking their bodies. You take a skewer from the wall and pierce the heart of each in turn. From outside come three terrible sighs and the heads drop to the ground, quite dead.
+	</p>
+	<p>
+		At dawn you continue on your way. You can take a
+		<item name="dead head"/>
+		if you think it might be useful. <goto section="296"/>.
+	</p>
+</section>

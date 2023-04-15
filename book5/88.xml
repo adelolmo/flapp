@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="88" image="88.jpg">
+	<p>
+		No matter how many spectacular places a seafarer has visited, Aku harbour never fails to take his breath away. It is situated at the base of a narrow gorge that gives straight out on to the sea. Ships with high armoured masts and great paddles at their flanks ride at anchor beside the marble quays. To either side the cliffs sweep up hundreds of feet, blotting out the sun so that longshoremen must rely on the huge bronze mirrors set at the top of the cliffs to get enough light to see by.
+	</p>
+	<p>
+		Far overhead, the city itself is built on soaring buttresses that span the entire gorge - a complex of labyrinthine palaces and terraced gardens that seem pinned against the glare of the sky.
+	</p>
+	<p>
+		A bystander points to the steep paths that wind up the cliffs to the city. Wiry men with wicker sedan-chairs wait there at the bottom for custom.
+	</p>
+	<p>'Carry you up?' asks one fellow chirpily. 'Only two Shards.'</p>
+	<choices>
+		<choice section="444" shards="2">Hire a sedan chair</choice>
+		<choice section="528">Ascend on foot</choice>
+		<choice section="225">Visit the harbourmaster</choice>
+	</choices>
+</section>

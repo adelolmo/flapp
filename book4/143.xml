@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="143">
+	<p>
+		To renounce the worship of Tambu, you must pay 40 Shards to the shamans by way of compensation.
+	</p>
+	<p>
+		'Fool! Those who incur the wrath of Tambu will never survive the steppes!' says a passing worshipper.
+	</p>
+	<p>
+		Do you want to change your mind?
+		<if god="Tambu">
+			If you are determined to renounce your faith, <lose shards="40" price="x">pay the 40 Shards</lose> and <lose god="Tambu" flag="x">erase Tambu from the God box</lose> on your Adventure Sheet.
+		</if>
+	</p>
+	<p>When you are finished here, <goto section="33"/>.</p>
+</section>

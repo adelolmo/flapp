@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="649">
+	<p>
+		On the clifftop above the door you discover a sinkhole with a faint glow of lamplight shining up from below. Lowering yourself down, you soon reach a cavern where two tall women with serpentine tresses are pacing to and fro like hungry cats.
+	</p>
+	<p>&#8216;Sister, there is a fresh mortal in our land,&#8217; says one.</p>
+	<p>
+		The other nods, causing the snakes of her head to hiss softly. &#8216;Yes, I feel it too. Tomorrow we shall hunt.&#8217;
+	</p>
+	<choices>
+		<choice section="342">Leave while you can</choice>
+		<choice section="432">Creep in when they&#8217;re asleep</choice>
+	</choices>
+</section>

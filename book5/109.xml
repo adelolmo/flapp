@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="109" image="109.jpg">
+	<p>
+		<if codeword="Expunge">If you have the codeword Expunge, <goto section="449"/> immediately.</if> If not, read on.
+	</p>
+	<p>
+		You have camped for the night on a lonely road. Three figures ride up to your campfire on skeletal horses. The riders wear the black garb of highwaymen, but their eyes glow redly with the feral bloodlust of vampires!
+	</p>
+	<p>
+		'Tonight, we feed on mortal blood!' cries one of them, and they spur their dire steeds towards you.
+	</p>
+	<choices>
+		<choice section="203">Fight them</choice>
+		<choice section="67">Turn them back with a holy word</choice>
+	</choices>
+</section>

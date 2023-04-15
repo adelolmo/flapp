@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="426">
+	<p>
+		You peer into the translucent walls of the tower, but it is like looking into a deep green pond. You can make out nothing of what lies within.
+	</p>
+	<p>
+		Entering, you find a winding staircase which you climb up to a landing. All the way you are beset by tiny stinging creatures; <lose stamina="1d">lose 1-6 Stamina points</lose> (the score of one die).
+	</p>
+	<choices>
+		<choice section="407">Leave the tower</choice>
+		<choice section="680">Press on up the staircase</choice>
+	</choices>
+</section>

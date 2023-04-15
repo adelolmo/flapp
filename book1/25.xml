@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="25">
+	<p>
+		Captain Vorkung is impressed with your claims of loyalty to the rightful king. He decides you might be useful to their cause, and you are led, blindfolded, through a secret pass to a mountain stockade.
+	</p>
+	<p>
+		King Nergan gives you an audience in a makeshift throne room. He is a young, and handsome man, who seems committed to his country. He leads you aside, into a private chamber.
+	</p>
+	<p>
+		&#8216;I have need of one such as you,&#8217; he says. &#8216;Yellowport groans under the yoke of Governor Marloes Marlock, the brother of General Grieve Marlock. If you can get into the palace at Yellowport and assassinate Marloes, I will be eternally grateful.&#8217;
+	</p>
+	<p>
+		<if codeword="Artery">
+			If you have the codeword Artery, <goto section="399"/> immediately.
+		</if>
+		Otherwise, if you wish to accept the mission to kill the Governor of Yellowport, <tick codeword="Ambuscade" force="f">record the codeword Ambuscade</tick>.
+	</p>
+	<p>
+		When you are ready, the King wishes you well, and you are lead out of the stockade, and back down to the foothills of the Coldbleak Mountains. <goto section="474"/>.
+	</p>
+</section>

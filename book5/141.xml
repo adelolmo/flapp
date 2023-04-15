@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="141">
+	<p>The Ice Bazaar is a huge underground warehouse, near sea level.</p>
+	<p>
+		Inside, blocks of rime ice are stacked high. This ice comes from Lake Rimewater in the far north, and it has the peculiar quality of taking months to melt. It is used by the masked lords of Uttaku to refrigerate their sherbets and sorbets.
+	</p>
+	<p>
+		<if codeword="Diamond">If you have the codeword Diamond, <goto section="457"/> immediately.</if> If not, read on.
+	</p>
+	<p>
+		You can sell a satchel of <sell item="rime ice" shards="100"/> here, if you have one, for 100 Shards. You cannot buy rime ice here.
+	</p>
+	<p>When you are ready, <goto section="444"/>.</p>
+</section>

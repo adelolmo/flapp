@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="539">
+	<p>
+		The smugglers are quite taken with your roguish ways. They share a glass of whisky with you. Swapping stories, you learn that they brought some warriors from Akatsurai to these shores. &#8216;I had to show them the way through the Magwort Fens,&#8217; volunteers one man. &#8216;I reckon they had a treasure they wanted to leave there.&#8217;
+	</p>
+	<p>
+		Bidding the smugglers farewell, you set out again.
+		<goto section="268"/>.
+	</p>
+</section>

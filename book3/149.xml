@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="149">
+	<p>
+		All who hear the mermaids&#8217; song are drawn to their doom. Your only hope lies in the possibility that you are tone deaf. There is no chance of this if you are a Troubadour;
+		<if profession="troubadour">
+			<set var="x" value="12"/>
+		</if>
+		<else>
+			for any other profession, <random dice="2" var="x"/> and on a score of 2 you are tone deaf.
+		</else>
+	</p>
+	<p>
+		<if var="x" equals="2">
+			If you turn out to be tone deaf, <goto section="300"/>.
+		</if>
+		<else>
+			If not,
+			<tick codeword="Cerumen">get the codeword Cerumen</tick>
+			before
+			<goto book="12" section="333">
+				turning to 333
+			</goto> in <i>Into the Underworld</i>.
+			<if book="12" not="t">
+				[You&#8217;re out of luck - <goto section="123"/>.]
+			</if>
+		</else>
+	</p>
+</section>

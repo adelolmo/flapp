@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="647">
+	<p>
+		&#8216;Let&#8217;s have none of that!&#8217; say the three heads when they see you clambering out of the net. The troll is on you in a trice brandishing his cleaver.
+	</p>
+	<fight name="Troll" combat="8" defence="12" stamina="12"/>
+	If you win you take the
+	<weapon name="meat cleaver"/> and <item name="net"/> and continue on your way. <goto section="246"/>.
+</section>

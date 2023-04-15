@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="650">
+	<p>
+		Grindel eyes you warily, and takes a step closer. 'Balderdash,' he rumbles, 'I wouldn't eat one of you lot if you paid me! All hair and bone. Anyway, my race is vegetarian. Always has been, always will be.'
+	</p>
+	<p>'And what about the bodies I found on the way here?'</p>
+	<p>
+		'I've got a right to defend myself, haven't I!' he blusters angrily. 'It's all a ploy by that Bylewyn Buskle - he sends people like you to attack me, I kill 'em - have to - and he gets the tourist trade, not to mention the gear you characters love to carry around. That Misgee is always sneaking about, looting the bodies I dump over there.'
+	</p>
+	<p>He indicates a pile of bones in the corner.</p>
+	<choices>
+		<choice section="131">Turn around and fetch Misgee</choice>
+		<choice section="409">Attack Grindel</choice>
+	</choices>
+</section>

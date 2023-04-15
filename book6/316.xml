@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="316">
+	You are in the countryside not far from Chompo.
+	<choices>
+		<choice section="59">Go to the city</choice>
+		<choice section="336">Head west into the highlands</choice>
+		<choice section="515">Go south</choice>
+		<choice section="98">Join the Northern Coastal Road</choice>
+	</choices>
+</section>

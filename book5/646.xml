@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="646">
+	<p>
+		You tell the high priest of your intention to renounce Ebron as your god. His mask nearly falls from his face, he is so shocked.
+	</p>
+	<p>
+		'Are you insane? Have you been possessed by the devils that ignorant foreigners call their gods?' he splutters. 'You will be committing a supreme heresy and your soul will be in danger!'
+	</p>
+	<p>
+		If you still want to renounce Ebron,
+		<group>
+			delete Ebron from your God box
+			<lose god="Ebron"/>
+			<tick codeword="Erebus"/>
+		</group>
+		and tick the codeword <i>Erebus</i>.
+		Either way, when you are ready, you leave the cathedral.
+		<goto section="100"/>.
+	</p>
+</section>

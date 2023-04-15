@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="321">
+	<p>
+		The Black Dragon Knight comes out to meet you. His armour is of black steel, and you think you can see glowing red eyes through the slits in his full-face helm. You must fight him.
+	</p>
+	<fight name="Black Dragon Knight" combat="5" defence="9" stamina="11"/>
+	<p>
+		If you win, <goto section="417"/>. If you lose, you are dead, unless you have a <resurrection>resurrection deal</resurrection>.
+	</p>
+</section>

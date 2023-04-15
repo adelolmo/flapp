@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="631">
+	You step up to the great bronze door. Perched on a nearby
+	rock, rigid as a sculpture, you notice a lizard glaring with wide,
+	sightless eyes.
+	<difficulty ability="magic" level="10">
+		Make a MAGIC roll at a Difficulty of 10
+	</difficulty>.
+	<outcomes>
+		<success section="667"/>
+		<failure section="121"/>
+	</outcomes>
+</section>

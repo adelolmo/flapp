@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="510">
+	<p>Warily, you edge closer to the unmoving figure.</p>
+	<p>
+		<difficulty ability="thievery" level="15">
+			Make a THIEVERY roll at a Difficulty of 15
+		</difficulty>.
+	</p>
+	<outcomes>
+		<success section="531"/>
+		<failure section="432"/>
+	</outcomes>
+</section>

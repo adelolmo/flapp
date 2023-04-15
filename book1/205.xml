@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="205">
+	The runes are written in Old Shadar, an ancient language from thousands of years ago. You realize that the runes form a spell that will give you the power to breathe underwater for a few hours.
+	<choices>
+		<choice section="493">Use the spell and swim out to sea</choice>
+		<choice section="97">Go down to the beach</choice>
+		<choice section="602">Take the road to Trefoille</choice>
+		<choice section="166">Take the road to Marlock City</choice>
+	</choices>
+</section>

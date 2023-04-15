@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="655">
+	<p>
+		'Excellent! Remember, it must be finished in eight weeks!' he says excitedly. The master seats you at a desk, and provides you with parchment, ink-pot and quill. You set to work.
+	</p>
+	<p>
+		The next day, a brightly coloured bird lands on the windowsill of the archives. 'Help me!' it squeaks. It transpires that the bird was once a princess from a far-off land, who has been transformed into a bird by a jealous witch.
+	</p>
+	<choices>
+		<choice section="561">Help her</choice>
+		<choice section="702">Continue writing your tale</choice>
+	</choices>
+</section>

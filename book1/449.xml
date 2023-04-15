@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="449">
+	<p>
+		You creep past a scorpion man guard, which is dozing at the entrance to one of the burrows. The stench inside the mound is foul - a kind of acrid, rotting vegetable smell. You head for the centre of the mound, past tunnels, rooms and egg chambers, avoiding the inhabitants by skulking in the shadows.
+	</p>
+	<p>
+		Finally, you come to a room which is more like the laboratory of a sorcerer than a scorpion den - jars, alembics and scrolls lie all over the place. A scorpion man is at work at a desk. Unlike others of his kind, he wears rudimentary clothing.
+	</p>
+	<p>
+		Suddenly, what you took for a stuffed animal&#8217;s head, mounted on the wall, says, &#8216;There is an intruder, master.&#8217;
+	</p>
+	<p>The scorpion man wheels around and charges straight at you!</p>
+	<p><difficulty ability="magic" level="9"/>.</p>
+	<outcomes>
+		<success section="503"/>
+		<failure section="105"/>
+	</outcomes>
+</section>

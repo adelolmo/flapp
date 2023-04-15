@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="385">
+	<p>
+		The king is taken totally by surprise, and you cut him down. He falls dead at your feet.
+	</p>
+	<p>&#8216;Long live General Marlock,&#8217; you mutter under your breath.</p>
+	<p>
+		You take the king&#8217;s <item name="royal ring" tags="keep"/> as proof of your act. Note it on your Adventure Sheet and <tick codeword="Ark">get the codeword Ark</tick>.
+	</p>
+	<p>
+		Although you manage to talk your way out of the stockade, the body is discovered as you are heading down the mountain path. Vengeful soldiers set off in pursuit.
+	</p>
+	<p>
+		<difficulty ability="scouting|thievery" level="9">
+			Make a SCOUTING or a THIEVERY roll (your choice) at Difficulty 9
+		</difficulty>.
+	</p>
+	<outcomes>
+		<success section="167">Successful SCOUTING or THIEVERY roll</success>
+		<failure section="230">Failed SCOUTING or THIEVERY roll</failure>
+	</outcomes>
+</section>

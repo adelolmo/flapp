@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="224">
+	<!-- fare paid at 3.110 -->
+	<p>Remember to cross off the 35 Shards to pay for your berth.</p>
+	<p>
+		The ship is the <i>Ichabod</i>, a barque with fading paintwork and weathered timbers. Three days out from Smogmaw she runs into heavy weather.
+	</p>
+	<p><random type="travel" dice="1"/>.</p>
+	<outcomes>
+		<outcome range="1-4">
+			Arrive at Yellowport as planned; turn to <goto book="1" section="10"/>
+		</outcome>
+		<outcome range="5-6">
+			The Ichabod is forced to lay up at Copper Island for repairs; <goto section="99"/>
+		</outcome>
+	</outcomes>
+</section>

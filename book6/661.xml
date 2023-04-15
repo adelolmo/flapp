@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="661">
+	One <b>dead head</b> sinks its teeth into your forearm and you
+	cannot prise its jaw open even when it has stopped struggling.
+	To dispose of it you have to
+	<difficulty ability="magic" level="11">
+		make a MAGIC roll at a Difficulty of 11
+	</difficulty>.
+	<failure>
+		Failing this, you must
+		<item name="dead head" force="t">add it</item>
+		to your list of possessions and note that you can only dispose of it once you have visited a temple or shrine
+		<i>[Be honest --Ed]</i>.
+	</failure>
+	Now <goto section="296"/>.
+</section>

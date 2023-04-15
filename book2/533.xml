@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="533">
+	You are in the central part of the limestone mountains separating
+	Golnir from the Great Steppes.
+	<if codeword="Bunting">
+		If you have the codeword Bunting, <goto section="518"/>.
+	</if>
+	If not, <goto section="543"/>.
+</section>

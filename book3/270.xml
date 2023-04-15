@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="270">
+	<p>
+		A sacred aura hangs about this place. If you are an initiate of the twin gods of the sea, Alvir and Valmir, then you will be particularly attuned to it.
+	</p>
+	<p>
+		<if god="Alvir and Valmir">
+			If you are an initiate of Alvir and Valmir, <goto section="234"/>.
+		</if>
+		<else>
+			Otherwise, <goto section="252"/>.
+		</else>
+	</p>
+</section>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="529">
+	<p>
+		<set var="r" value="rank" modifier="natural"/>
+		You have found an explorer&#8217;s book full of maps and handy hints.
+		<gain ability="scouting" amount="1">
+			Add 1 to your SCOUTING score
+		</gain>. Also
+		<random dice="1" var="x"/>,
+		<if var="r" lessthan="x">
+			and if you get higher than your Rank then you
+			<gain ability="rank" amount="1">
+				go up one Rank
+			</gain>.
+			Going up in Rank means that
+			<gain ability="stamina" amount="1d">
+				your unwounded Stamina score increases by 1-6
+			</gain>.
+			Also your Defence will go up by 1.)
+		</if>
+	</p>
+	<p>
+		Hearing an ominous sound from the back of the library, you hurry out of the castle. <goto section="314"/>.
+	</p>
+</section>

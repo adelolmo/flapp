@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="452" image="452.jpg">
+	To one side of the tunnel is a shaft that has been boarded up.
+	On it is stuck a label which reads: &#8216;Danger. This section of the
+	mines closed on account of spectres. By order of the Mine
+	Supervisor.&#8217;
+	<choices>
+		<choice section="470">Break down the boards</choice>
+		<choice section="651">Venture deeper</choice>
+		<choice section="25">Head for the surface</choice>
+	</choices>
+</section>

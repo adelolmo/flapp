@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="645">
+	You come across an old bogle laughing to himself. His body
+	looks like a mossy old tree-stump and he has a mouth as wide as
+	a sack of coal. When you ask why he&#8217;s laughing, he replies:
+	&#8216;Because there you are gawping instead of running away, and
+	now I&#8217;m about to up and eat you.&#8217;
+	<if codeword="Bookworm">
+		If you have the codeword Bookworm, <goto section="479"/>.
+	</if>
+	If not, <goto section="501"/>.
+</section>

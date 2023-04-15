@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="406">
+	<p>&#8216;Pity,&#8217; says Luroc Bans, &#8216;You realize I can&#8217;t let you leave alive.&#8217;</p>
+	<p>
+		He overturns the table, and draws a long, barbed knife. The woman backs away. You must fight him.
+	</p>
+	<fight name="Luroc Bans" combat="7" defence="6" stamina="11"/>
+	<p>
+		If you win, <goto section="197"/>.
+		If you lose, <goto section="7" dead="t"/>.
+	</p>
+</section>

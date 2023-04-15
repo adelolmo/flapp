@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="430">
+	<p>
+		A hard-won victory like that must have taught you a thing or two.
+		<gain ability="rank" amount="1">Advance one Rank</gain>.
+		You can
+		<gain ability="stamina" amount="1d">increase your unwounded Stamina score</gain>
+		by 1-6 points permanently. Remember that going up in Rank also increases your Defence by 1.
+	</p>
+	<p>Now <goto section="479"/>.</p>
+</section>

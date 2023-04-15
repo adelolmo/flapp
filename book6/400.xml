@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="400" dock="Chambara">
+	<p>
+		Hundreds of longboats are moored in the harbour. The sailmaster points out the red-dyed canvasses and the monkey totem on top of each mainmast. &#8216;This is the renowned warfleet of the Starburst Clan,&#8217; he avers.
+	</p>
+	<p>
+		Note on the Ship&#8217;s Manifest that your ship is docked in Chambara harbour, then <goto section="79"/>.
+	</p>
+</section>

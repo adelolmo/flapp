@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="123">
+	<p>
+		You come out into a large cavern. Radiating from it are four more tunnels. Above each tunnel, a plaque is set, engraved with trau runes. You try to decipher them.
+	</p>
+	<p><difficulty ability="magic" level="13"/>.</p>
+	<outcomes>
+		<success section="495"/>
+		<failure section="233"/>
+	</outcomes>
+</section>

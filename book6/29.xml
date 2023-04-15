@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="29">
+	<p>
+		In a whimsical mood, you call the mate to your cabin and offer him a glass of brandy.
+	</p>
+	<p>
+		&#8216;Would you sooner sail in the deep north, where the sea flows sluggishly on the verge of freezing, or in the balmy south?&#8217; you ask him.
+	</p>
+	<p>
+		&#8216;The south,&#8217; he says at once. &#8216;If one must drown, it is better to drown comfortably.&#8217;
+	</p>
+	<p>He sets down the glass. &#8216;What course, captain?&#8217;</p>
+	<choices>
+		<choice section="406">North</choice>
+		<choice section="309">South</choice>
+		<choice section="100">East</choice>
+		<choice section="90">West</choice>
+	</choices>
+</section>

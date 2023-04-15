@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="325" boxes="1">
+	<p>
+		<if ticks="1">If there is a tick in the box, <goto section="517"/> immediately.</if> If not, <tick/>, and read on.
+	</p>
+	<p>
+		'Word of your fame has reached even us,' she says regally, pausing every now and again to listen to the king before going on. 'We admire your courage and fortitude. We, also, have need of one gifted with such unusual talents. We have heard of a precious pearl with certain properties - the tatsu pearl of distant Akatsurai, far to the east. We desire it. Bring the tatsu pearl to me, and you will know the gratitude of a son of god.'
+	</p>
+	<p>
+		<if item="tatsu pearl">
+			If you have a <b>tatsu pearl</b>,
+			<goto section="662"/>.
+		</if>
+		If not, read on.
+	</p>
+	<p>
+		The Faceless King nods slowly to show the audience is over. You have to back out on all fours, bowing the whole time. <goto section="648"/>.
+	</p>
+</section>

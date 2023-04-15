@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="31">
+	You are on the road that skirts the Whistling Heath and
+	continues down towards the coast.
+	<choices>
+		<choice section="193">Head south towards Metriciens</choice>
+		<choice section="71">Go north to Wheatfields</choice>
+		<choice section="98">Leave the road and go west</choice>
+		<choice section="195">Leave the road to head east</choice>
+	</choices>
+</section>

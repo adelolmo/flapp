@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="340">
+	<p>
+		A search is organized and the stowaway is soon found. He is a little black dwarf with narrow eyes who ducks between your legs, runs up on deck and dives into the sea. As you watch him swim away with surprisingly powerful strokes, the first mate brings bad news: &#8216;He broke a hole in the hull. We&#8217;re sinking!&#8217;
+	</p>
+	<p>
+		You have no choice but to abandon ship. <lose ship="t">Cross off your ship</lose> and crew; you will never see them again. Clinging to an empty barrel, you are swept away by the current and eventually washed up on an island.
+	</p>
+	<p><goto section="313"/>.</p>
+</section>

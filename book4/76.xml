@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="76">
+	<p>
+		You hurry forward with your men, but instead of gold you find only a heap of old polished brass.
+	</p>
+	<p>'Nice of you to drop in,' says a voice.</p>
+	<p>
+		You whirl around. Hanging head-down from the ceiling of the tunnel is a long learn vampire wrapped in a black shroud. He reaches out with thin arms to clutch his victims: you and your shipmates!
+	</p>
+	<fight name="Vampire" combat="8" defence="12" stamina="18"/>
+	<p>
+		Only if you defeat the vampire can you get past its dangling carcass and leave - <goto section="157"/>.
+	</p>
+</section>

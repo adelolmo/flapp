@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="71" tag="temple">
+	<p>
+		<if codeword="Ague">
+			If you have the codeword Ague, <goto section="517"/> immediately.
+		</if>
+		If not, read on.
+	</p>
+	<p>
+		Nagil is the Lord of the Lands of the Dead, and his temple in Marlock City is covered in friezes and gargoyles of ornate design, depicting the souls of the dead on their journey to the underworld. Inside, it is cool and dark, hung with black velvet drapes.
+	</p>
+	<p>
+		A scroll tacked to the wall reads: &#8216;Wanted: person of unusual resourcefulness. See temple warden.&#8217;
+	</p>
+	<choices>
+		<choice section="409">Become an initiate</choice>
+		<choice section="187">Renounce worship</choice>
+		<choice section="478">Make resurrection arrangements</choice>
+		<choice section="48">Visit the warden</choice>
+		<choice section="100">Leave the temple</choice>
+	</choices>
+</section>

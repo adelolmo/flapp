@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="503">
+	<p>
+		Your magical awareness tells you that something is wrong. You realize that the scorpion man is an illusion - a magically created disguise! The illusion falls away under your keen magical sight, and a rather fat little fellow is standing before you, dressed in a dirty, food-stained tunic.
+	</p>
+	<p>
+		&#8216;Ah...&#8217; he says, realizing his subterfuge has been uncovered. He drops to his knees, pleading, &#8216;Please don&#8217;t kill me! Please don&#8217;t kill me!&#8217;
+	</p>
+	<p>
+		You manage to calm him down enough to find out his story. His name is Kaimren the Portly, a minor sorcerer. He came here in the guise of a scorpion man, and swiftly rose to power using his magical skills. He had planned to use the scorpion men as an army.
+	</p>
+	<p>
+		Fearfully, he hands you the <item name="Book of the Seven Sages"/>, which he stole to further his campaign of conquest. Note it on your Adventure Sheet.
+	</p>
+	<p>
+		Then Kaimren leads you through a secret tunnel, out of the mound, and back to the village of Venefax, where you hand him over to the Venefax authorities for trial.
+	</p>
+	<p>
+		<gain codeword="Afraid">
+			Record the codeword Afraid
+		</gain>	and <goto section="427"/>.
+	</p>
+</section>

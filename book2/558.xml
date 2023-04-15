@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="558">
+	Five swarthy brigands leap out from the hedge at the side of the
+	road. They are masked with silk scarves, but you can hear their
+	sneers as they raise their swords and demand: &#8216;Your money or
+	your life!&#8217;
+	<choices>
+		<choice section="582">Fight them</choice>
+		<choice section="606">Run off</choice>
+		<choice section="630">Hand over your cash</choice>
+	</choices>
+</section>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="230">
+	<p>
+		The <b>royal sceptre</b> has gone, whisked away from you by magic.
+		<lose item="royal sceptre">Cross it off</lose>
+		your Adventure Sheet. Also
+		<lose resurrection="t">lose any resurrection deal</lose>
+		as well as
+		<lose blessing="*">any blessings</lose>
+		you may have had arranged, as the god has exerted his power to cancel them.
+	</p>
+	<p><goto section="111"/>.</p>
+</section>

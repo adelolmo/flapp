@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="336" tag="temple">
+	<p>
+		Your arrival at the Abbey of Lacuna is greeted by friendly waves from the nuns. Hastening into the main building, you kneel to the abbess and tell her of your recent adventures.
+	</p>
+	<p>
+		&#8216;The goddess has guided you home to us,&#8217; she says with a broad smile.
+	</p>
+	<choices>
+		<choice section="526">Seek a blessing</choice>
+		<choice section="551">Renounce initiate status</choice>
+		<choice section="576">Rest here for a while</choice>
+		<choice section="38">Leave at once</choice>
+	</choices>
+</section>

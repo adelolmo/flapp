@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="379" tag="temple">
+	Elnir&#8217;s chapel is situated on an upper floor of the keep. As the
+	guardian of rulership and law, he is the patron deity of the house
+	of Ravayne.
+	<choices>
+		<choice section="67">Become an initiate of Elnir</choice>
+		<choice section="90">Renounce his worship</choice>
+		<choice section="113">Seek a blessing</choice>
+		<choice section="342">Leave</choice>
+	</choices>
+</section>

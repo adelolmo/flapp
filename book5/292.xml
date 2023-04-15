@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="292">
+	<p>
+		The music stops as soon as you enter the decaying castle. Inside you find the dead body of the old man you found here last time. He taught you an old ballad of the High King's court. With a thrill of horror, you realise he has been dead for some time. Who was it, then, making music? The ghosts of ages past? At any rate, all is quiet now, so you continue on your way.
+	</p>
+	<p><goto section="574"/>.</p>
+</section>

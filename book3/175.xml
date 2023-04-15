@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="175">
+	The avenue between Dweomer and the harbour is a metalled
+	road lined with fanciful statues. Looking inland, you can see the
+	gleam of blue light emanating from a dense wood.
+	<choices>
+		<choice section="697">Head towards the wood</choice>
+		<choice section="571">Go into the city</choice>
+		<choice section="100">Go to the harbour</choice>
+	</choices>
+</section>

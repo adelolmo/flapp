@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="477" image="477.jpg">
+	<p>
+		You crouch at the edge of the lake and skim a couple of flat stones towards the needles. Ripples spread across the surface of the water. For a moment, nothing happens. Looking down, you see a cloud of blood-red silt kicked up from the bottom of the pool., and a writhing shape within it. A dragon-shaped head and snake-like body shoot up from the water like a fountain.
+	</p>
+	<p>
+		<set var="arm" value="-armour"/>
+		The creature, a water drake, opens its mouth and a high pressure jet of water knocks you off your feet - lose
+		<random dice="1" var="loss">
+			one die of Stamina
+			<adjust value="arm"/>
+		</random>
+		<lose stamina="loss" hidden="t"/>
+		(but subtract your armour bonus, if any, from this).
+		You crouch behind a boulder to make the worm slither out and fight you.
+	</p>
+	<fight name="Water Drake" combat="7" defence="10" stamina="40"/>
+	<p>
+		If you lose, <goto section="7" dead="t"/>.
+		If you win, <tick codeword="Ember"/>.
+	</p>
+	<p>Choose your next move.</p>
+	<choices>
+		<choice section="580">Swim out to one of the needles</choice>
+		<choice section="307">Leave</choice>
+	</choices>
+</section>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="414">
+	Meekly, he pays over the <gain shards="500"/>, knowing that he can't afford to have an enemy like you at court. Add it to your Adventure Sheet. You help him win his case, but it cost him far more than he won in damages from his opponent! Ah, the joys of power and influence at court.
+	<choices>
+		<choice section="401">Visit a minister</choice>
+		<choice section="674">See the court physician</choice>
+		<choice section="444">Leave the palace</choice>
+	</choices>
+</section>

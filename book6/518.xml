@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="518" dock="Chambara">
+	<p>
+		&#8216;Why not buy this excellent vessel?&#8217; says a man whom the harbourmaster introduces you to. He gestures to a sturdy craft whose triangular sails remind you of a folded paper fan.
+	</p>
+	<p>
+		&#8216;What do those characters mean that are written along the side?&#8217; you ask him.
+	</p>
+	<p>&#8216;They spell out the name of the ship: <i>Hell Spawn</i>.&#8217;</p>
+	<p>
+		You examine this and many other ships. Choose from the types listed below.
+	</p>
+	<market>
+		<header type="ship"/>
+		<trade ship="barque" initialCrew="average" buy="200"/>
+		<trade ship="brigantine" initialCrew="average" buy="450"/>
+		<trade ship="galleon" initialCrew="average" buy="900" name="Hell Spawn"/>
+	</market>
+	<p>
+		Record the details of your ship on the Ship&#8217;s Manifest; you can name her if you wish. Remember to cross off the cost from the money recorded on your Adventure Sheet. The crew quality is average. Each time you arrive at a new destination, remember to change the entry in the Docked column. Currently, of course, the ship is docked at Chambara.
+	</p>
+	<choices>
+		<choice section="571" sail="t">Go aboard</choice>
+		<choice section="79">Return to the city centre</choice>
+		<choice section="536">Hire better crew</choice>
+	</choices>
+</section>

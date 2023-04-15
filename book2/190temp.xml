@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="190">
+	<p>
+		The cost of passage on a boat heading downriver is 5 Shards. A barge here conveys passengers over to the west bank of the Rese at a cost of 1 Shard. Alternatively you can swim across by
+		<difficulty ability="scouting" level="12" force="f">
+			making a SCOUTING roll at a Difficulty of 12
+		</difficulty>. (The current is strong, and the water icy cold.)
+	</p>
+	<p>
+		Your other option is to set out across the open countryside - there are no roads to speak of in this wild, unforgiving landscape.
+	</p>
+	<choices>
+		<choice section="144" shards="5">Sail downriver</choice>
+		<choice book="5" section="333" shards="1">Pay to cross the river</choice>
+		<success book="5" section="333">Swim the river</success>
+		<failure section="213">Failed attempt to swim</failure>
+		<choice section="236">Travel north overland</choice>
+		<choice section="52">Travel south overland</choice>
+		<choice section="259">Travel east overland</choice>
+	</choices>
+</section>

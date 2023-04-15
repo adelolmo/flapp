@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="99">
+	<p>
+		A flying throne swoops down out of the sky. On it sits a mad-looking fellow with a ludicrously long white beard.
+	</p>
+	<p>
+		'It's an unwanted visit from Holyamu the Unbidden!' he cries insanely, hurtling past over your head. He drops a salvo of rotten eggs as he goes, fouling your clothes with stinking egg-yolk. You shake your fist at him, cursing, but he is soon out of sight. Disgruntled, you journey on. <goto section="168"/>.
+	</p>
+</section>

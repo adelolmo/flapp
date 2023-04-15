@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="302">
+	You can explore:
+	<choices>
+		<choice section="93">The poor quarter</choice>
+		<choice section="587">The harbour area</choice>
+		<choice section="277">The area around the palace</choice>
+	</choices>
+</section>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="335">
+	<p>
+		<tick special="lock" cache="3.335" hidden="t"/>
+		You put your feet up at the house provided for you by the grateful islanders. You can rest here as long as you want, so if injured you can now
+		<rest>restore your Stamina</rest>
+		to its normal unwounded score. You can also leave money and possessions here to save carrying them around. Record in the box anything you are leaving. Each time you return, <random/>.
+	</p>
+	<outcomes>
+		<outcome range="2-9">Everything just as you left it</outcome>
+		<outcome range="10-12">
+			A fire <lose item="*" cache="3.335">destroyed your possessions</lose>
+		</outcome>
+	</outcomes>
+	<itemcache name="3.335" text="Items kept at house"/>
+	<p>
+		<tick special="unlock" cache="3.335" hidden="t"/>
+		When you are finished here, choose where to go now.
+	</p>
+	<choices>
+		<choice section="318">Visit the market</choice>
+		<choice section="390">Consult the wise woman</choice>
+		<choice section="349">Upgrade your crew</choice>
+		<choice section="298">Put to sea</choice>
+	</choices>
+</section>

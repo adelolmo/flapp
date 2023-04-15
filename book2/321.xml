@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="321">
+	Severing the spells that held you transfixed, you send forth a
+	golden light that forces the vampire knight to recoil in pain.
+	You lose no time in racing off, not stopping until you are out of
+	the Forest of the Forsaken. <goto section="23"/>.
+</section>

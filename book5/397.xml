@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="397" image="397.jpg">
+	<p>
+		You find it impossible to shake the presence and it grows stronger and stronger with every step you take. It delves into your mind and there is nothing you can do to stop it. You begin to lose your memory at first, then reason itself begins to fade. Before long you are gibbering mindlessly and walking in circles with no idea of where you are going, where you have been, or who you are. You have become a victim of the ice ghoul, a fearsome spirit that haunts travellers and feeds off their sanity. In this helpless and incoherent state you wander aimlessly.
+	</p>
+	<p>
+		You come to your senses weeks later with no memory of what happened to you. <lose item="*" shards="*">Lose all your money and items</lose> - cross them off your Adventure Sheet. Instead, you have some <item name="selenium ore"/>, <item name="faery mead"/>, an <item name="amulet of Ebron"/>, a <weapon name="warhammer" bonus="1"/>, and a <item name="bag of pearls"/>.
+	</p>
+	<p>You find yourself in Old Harkuna. <goto section="478"/>.</p>
+</section>

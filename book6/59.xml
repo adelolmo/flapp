@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="59" image="59.jpg">
+	<p>
+		Chompo is the stronghold of the Northern Wistaria Clan, whose dominance of this region is so well-established that it is virtually the clan&#8217;s private kingdom.
+	</p>
+	<p>
+		Unlike most of the southern cities, the central district of Chompo is enclosed by high fortifications built of round timbers. Within are the homes of the aristocrats: austere but imposing mansions that lie in a curve around the hillside. Outside this stockade are the humbler dwellings of merchants and craftsmen.
+	</p>
+	<choices>
+		<choice section="613">Enter the inner keep</choice>
+		<choice section="8">Remain in the outer town</choice>
+	</choices>
+</section>

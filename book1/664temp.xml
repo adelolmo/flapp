@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="664">
+	<p>
+		&#8216;That is fortunate - for you,&#8217; says the soldier. Several archers stand up from their hiding places behind the rocks overhead.
+	</p>
+	<p>
+		Another soldier, a captain, comes up to you and introduces himself as Captain Vorkung.
+	</p>
+	<p>
+		He is clearly one of the old aristocracy, the nobles loyal to the king and the old regime, before General Marlock and the army seized power, and executed the old king. Vorkung tells you to leave the mountains.
+	</p>
+	<p>
+		You have found a rebel base - men still loyal to Nergan Corin, the heir to the throne. Nergan went into hiding when General Marlock killed his father and took control of Sokara.
+	</p>
+	<p>
+		You can attempt to convince Captain Vorkung that you are on his side by
+		<difficulty ability="charisma" level="9" force="f">
+			making a CHARISMA roll at Difficulty 9<adjust profession="warrior" amount="1"/>
+			<adjust profession="rogue" amount="1"/>
+			<adjust profession="wayfarer" amount="1"/>
+		</difficulty>. You can add 1 to your roll if you are a Warrior, Rogue, or Wayfarer.
+		<success>
+			If you succeed, <goto section="25"/>.
+		</success>
+		<failure>
+			If you fail, <goto section="179"/>.
+		</failure>
+		Otherwise, you can climb down the mountains, <goto section="474"/>.
+	</p>
+</section>

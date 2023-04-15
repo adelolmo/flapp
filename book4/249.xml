@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="249">
+	<p>
+		You pause to rest. After a short while, you see the old butler, Kevar, drawing some water from the village well.
+	</p>
+	<p>
+		When you go to question him, he steps back, startled, and exclaims, 'No, no, I cannot speak with you, it is more than my life is worth!'
+	</p>
+	<p><difficulty ability="charisma" level="12"/>.</p>
+	<outcomes>
+		<success section="186"/>
+		<failure section="217"/>
+	</outcomes>
+</section>

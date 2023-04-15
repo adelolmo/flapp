@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="610">
+	With its split-log walls and thatched roof, the hunting lodge
+	looks like any rural inn. A night&#8217;s lodging costs you
+	<rest stamina="1" shards="3">3 Shards</rest>.
+	This includes a meal and a warm bed, allowing you to recover 1
+	Stamina point if injured. But, in addition to rest and relaxation,
+	you can also enjoy some sport while you&#8217;re here.
+	<choices>
+		<choice section="206">Go hunting</choice>
+		<choice section="181">Put your feet up</choice>
+		<choice section="654">Resume your journey</choice>
+	</choices>
+</section>

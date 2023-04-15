@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="750">
+	<p>
+		<set var="bonus" value="armour"/>
+		A third brigand, who had remained in hiding in case you made a break for it, now leaps up and looses off an arrow.
+		<random dice="1" var="x">
+			<adjust amount="-bonus"/>
+		</random> and subtract your armour&#8217;s Defence bonus (if you have any armour). The remainder is
+		<lose stamina="x">the number of Stamina points you lose</lose>.
+	</p>
+	<p>
+		<if dead="f">
+			If you survive, you race off with the three brigands in close pursuit. To shake them off you must
+			<difficulty ability="scouting" level="10">
+				make a SCOUTING roll at a Difficulty of 10
+			</difficulty>. If you fail, they&#8217;ll catch you.
+		</if>
+	</p>
+	<outcomes>
+		<success section="78"/>
+		<failure section="384"/>
+	</outcomes>
+</section>

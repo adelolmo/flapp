@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="406">
+	<p>
+		&#8216;Bless you!&#8217; he says, and indeed as he speaks those words you acquire the blessing of
+		<tick blessing="disease"/>. Note this on your Adventure Sheet. It can be used <i>once</i> to negate the effect of disease or poison, and then you must cross it off.
+	</p>
+	<p>
+		&#8216;You can get more blessings like that from the temple of Maka,&#8217; says Knocklar. &#8216;Tell them I sent you and you might get a discount. Now, if you&#8217;ll excuse me...&#8217;
+	</p>
+	<p><goto section="456"/>.</p>
+</section>

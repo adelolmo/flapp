@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="305">
+	<p><lose codeword="Cosy">Lose the codeword Cosy</lose>.</p>
+	<p>
+		They doze off. You shake each man and yell in his ears, but this is an enchanted slumber. You can only wake them if you succeed in
+		<difficulty ability="magic" level="17">
+			a MAGIC roll at a Difficulty of 17
+		</difficulty>.
+	</p>
+	<outcomes>
+		<success section="45"/>
+		<failure section="64"/>
+	</outcomes>
+</section>

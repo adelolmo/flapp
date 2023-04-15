@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="13">
+	<p>
+		A guard summons the Lord Chancellor&#8217;s steward, the redoubtable Tadachika, who comes to meet you in the reception hall. He is a man with a heavy bald brow, sparkling eyes and thick arms that barely seem to reach across his vast chest.
+	</p>
+	<p>
+		&#8216;Begone!&#8217; he booms. &#8216;Lord Kiyomori is enjoying a few days&#8217; peace and quiet. He does not wish to be bothered with affairs of state. If you have something to say, present yourself at his residence in Chambara later in the month.&#8217;
+	</p>
+	<choices>
+		<choice section="362">Turn and leave</choice>
+		<choice section="680">Attack Tadachika</choice>
+	</choices>
+</section>

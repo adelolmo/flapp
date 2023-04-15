@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="431">
+	It will be tricky finding a solid path through the marsh to reach the light.
+	<p><difficulty ability="scouting" level="13"/>.</p>
+	<outcomes>
+		<success section="490"/>
+		<failure section="521"/>
+	</outcomes>
+</section>

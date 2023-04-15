@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="228">
+	The path leads to a grassy glade beside a brook.
+	<if codeword="Baluster">
+		If you have the codeword Baluster, <goto section="343"/>.
+	</if>
+	If not, <goto section="68"/>.
+</section>

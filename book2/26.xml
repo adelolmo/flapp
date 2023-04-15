@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="26">
+	You are on the road that follows the banks of the Rese River
+	between Castle Ravayne and the port city of Ringhorn.
+	<random type="travel"/>:
+	<outcomes>
+		<outcome range="2-5" section="558">Attacked by highwaymen</outcome>
+		<outcome range="6-7" section="258">An uneventful journey</outcome>
+		<outcome range="8-12" section="408">You meet a militia patrol</outcome>
+	</outcomes>
+</section>

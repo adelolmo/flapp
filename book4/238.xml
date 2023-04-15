@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="238">
+	<p>
+		Your three assailants are wielding long, thin daggers. You must fight them as one.
+	</p>
+	<fight name="Three Cutthroats" combat="8" defence="7" stamina="17"/>
+	<p>
+		<fightdamage type="add">
+			If you get wounded, <goto section="184"/>.
+		</fightdamage>
+		If you manage to defeat them without losing a single point of Stamina, <goto section="150"/>.
+	</p>
+</section>

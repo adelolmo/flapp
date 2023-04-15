@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="171">
+	<lose codeword="4.171.1" hidden="t"/>
+	You soon discover the giant worm is all but impervious to injury.
+	<fight name="Grey Worm" combat="8" defence="23" stamina="8"/>
+	<flee>
+		If you turn around to flee it will get to bite a chunk out of your retreating back (<lose stamina="1d">lose 1-6 Stamina points</lose>).
+		<tick codeword="4.171.1" hidden="t"/>
+	</flee>
+	<choices>
+		<choice box="4.171.1" section="226">Turn and flee</choice>
+		<choice section="429">Fight and win</choice>
+		<choice section="7" dead="t">Fight and lose</choice>
+	</choices>
+</section>

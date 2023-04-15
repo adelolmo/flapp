@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="630">
+	At sunset the water develops a deep shadowy tinge. It is this that
+	gives the Violet Ocean its name. On the horizon, clouds lie in
+	long lines against the blood-drenched sky like the ranks of a
+	distant army. <random type="travel"/>.
+	<outcomes>
+		<outcome range="2-4" section="666">Pirates</outcome>
+		<outcome range="5-6" section="355">Storm</outcome>
+		<outcome range="7-12" section="648">An uneventful voyage</outcome>
+	</outcomes>
+</section>

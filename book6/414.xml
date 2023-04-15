@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="414">
+	<p>
+		<tick special="lock" cache="6.414" hidden="t"/>
+		You can leave possessions and money here at your town house. Record anything you leave in the box below. Each time you return,
+		<random dice="2"/> to see what&#8217;s happened in your absence:
+	</p>
+	<outcomes>
+		<outcome range="2-9">Your belongings are safe</outcome>
+		<outcome range="10">
+			Theft;
+			<lose shards="*" cache="6.414">
+				all the money
+			</lose>
+			you left here is gone
+		</outcome>
+		<outcome range="11-12">
+			<set var="destroyed" value="1"/>
+			Fire; the town house and its contents have been destroyed
+		</outcome>
+	</outcomes>
+	<p>
+		<if var="destroyed" equals="1">
+			If your town house has burned down,
+			<group force="t">
+				<text>turn to <b>155</b></text>
+				<lose codeword="6.155.1"/>
+				<lose item="*" shards="*" cache="6.414"/>
+				<goto section="155"/>
+			</group>
+			and erase the tick beside the town house option there.
+		</if>
+		<tick special="unlock" cache="6.414" hidden="t"/>
+		Otherwise read on.
+	</p>
+	<p>
+		The town house is a good place to relax after your travels. If injured, <rest>restore your Stamina</rest> to its normal score. When you are ready to leave, <goto section="155"/>.
+	</p>
+	<itemcache name="6.414" text="Items at town house"/>
+</section>

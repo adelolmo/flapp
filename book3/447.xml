@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="447">
+	<if title="Chosen One of Nagil">
+		If you have the title Chosen One of Nagil, <goto section="466"/>.
+	</if>
+	If not, <goto section="484"/>.
+</section>

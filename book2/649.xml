@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="649">
+	<p>
+		Perhaps you didn&#8217;t realize that professional bullfighters have a big advantage. The animals they fight have already been tired out and weakened by loss of blood. You are not likely to defeat a healthy bull, no matter how tough you are!
+	</p>
+	<fight name="Enraged Bull" combat="10" defence="11" stamina="40"/>
+	<p>
+		If you win, <goto section="673"/>.
+		<flee>If you run for it, <goto section="697"/>.</flee>
+	</p>
+</section>

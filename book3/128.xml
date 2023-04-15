@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="128">
+	<p>
+		You see an old man wading ankle-deep in mud as he crosses from one tavern to another. His reason for not using the boardwalks is that dogs use them too - &#8216;The mud is more sanitary!&#8217; he explains.
+	</p>
+	<p>
+		Regarding your enquiry about Smogmaw&#8217;s temples, he mentions four: &#8216;There is the shrine to Alvir and Valmir, the temple of the Three Fortunes, a shrine to Glimbinki the Plumed One, and somewhere there&#8217;s a fane sacred to Badogor.&#8217;
+	</p>
+	<p>&#8216;Who?&#8217;</p>
+	<p>He puts his finger to his lips. &#8216;Sssh. The Unspoken One.&#8217;</p>
+	<choices>
+		<choice section="146">Visit the temple of the Three Fortunes</choice>
+		<choice section="503">Visit the shrine of Alvir and Valmir</choice>
+		<choice section="259">Visit Glimbinki&#8217;s shrine</choice>
+		<choice section="333">Look for Badogor&#8217;s fane</choice>
+		<choice section="44">Consider your other options</choice>
+	</choices>
+</section>

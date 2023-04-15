@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="378">
+	<p>The crewmen are too drunk to take any notice of your orders.</p>
+	<p>
+		&#8216;Shtop bleatin&#8217; an&#8217; have yourself a li&#8217;l drink!&#8217; declares the cabin boy boldly, brandishing a bottle of wine in your face.
+	</p>
+	<p>
+		You give him a sound buffet for his impertinence and then try to think what to do. You can&#8217;t sail the ship single-handed. But what if the Reavers turn up while your crew are in this hopeless state?
+	</p>
+	<choices>
+		<choice section="397">Wait till they sober up</choice>
+		<choice section="417">Leave and travel on foot</choice>
+	</choices>
+</section>

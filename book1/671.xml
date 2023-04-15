@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="671">
+	<p>
+		Out of gratitude the villagers present you with <gain shards="80"/>. You do not wait around to see what fate befalls Old Megan and her accomplices. In theory they should be taken to the assizes in the nearest town, but feelings run so deep in this case that you suspect there will be some rough justice meted out.
+	</p>
+	<p>You resume your journey.</p>
+	<choices>
+		<choice section="576">Follow the river north</choice>
+		<choice section="82">Follow the river south</choice>
+		<choice section="278">Head east into the countryside</choice>
+		<choice section="558">Go west to the main road</choice>
+	</choices>
+</section>

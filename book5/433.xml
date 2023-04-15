@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="433">
+	<p>
+		You find the wizard's inner sanctum where several magic items are kept. Suddenly, a mirror on the wall flares brightly, and a face appears in it.
+	</p>
+	<p>'Master, master - a thief, a thief!' the mirror yells.</p>
+	<p>
+		Hammuwas bursts in and fires a spell at you just as you are climbing out of the window.
+	</p>
+	<p><goto section="342"/>.</p>
+</section>

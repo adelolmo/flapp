@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="708">
+	<p>
+		The mermaid seems quite taken with you. Coming right up to the side of the ship, she reaches out of the water and beckons you to lean over to her. Your sailors give a cheer as she takes a mother-of-pearl comb from her hair and touches you with it before shyly diving down out of sight.
+	</p>
+	<p>
+		&#8216;That&#8217;s a good omen, Captain,&#8217; affirms the cabin boy. &#8216;The touch of a mermaid&#8217;s comb gives protection from plague.&#8217;
+	</p>
+	<p>
+		Note on your Adventure Sheet that you now have
+		<tick blessing="disease">Immunity from Disease/Poison</tick>.
+		This blessing will work once to allow you to ignore the effect of disease or poison.
+	</p>
+	<p>Now <goto section="335"/>.</p>
+</section>

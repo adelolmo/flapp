@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="326">
+	<p>
+		You follow the footprints to the mill, where you see an old lady and two men brushing flour off their clothes.
+	</p>
+	<p>&#8216;Another successful year&#8217;s haunting!&#8217; laughs the woman.</p>
+	<p>
+		Quietly you creep back and tell the villagers what you have discovered. Brimming with outrage, they go straight to the mill and seize the three miscreants.
+	</p>
+	<p>
+		&#8216;Old Megan!&#8217; cries one of the villagers when he sees who is the ringleader of the three. &#8216;So, you&#8217;ve been masquerading as a ghost for these seven years, eh? Well, tomorrow we&#8217;ll take you to the gallows and then you can play the part for real.&#8217;
+	</p>
+	<p><goto section="671"/>.</p>
+</section>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="554">
+	<p>
+		The crew despise you for taking no action. They start to mutter about appointing a new captain and putting you ashore on a deserted island.
+	</p>
+	<p>
+		<lose ability="charisma" amount="1">Lose 1 from your CHARISMA</lose> and, using your new score,
+		<difficulty ability="charisma" level="13"/>.
+	</p>
+	<outcomes>
+		<success section="188"/>
+		<failure section="599"/>
+	</outcomes>
+</section>

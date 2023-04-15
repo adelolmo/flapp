@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="653">
+	<p>
+		You manage to avoid smashing your ship open on the reefs, but you are no closer to locating the secret bay where the Reavers store their booty. You decide to put in at a fishing village and see if you can get anything out of the locals.
+	</p>
+	<p>
+		To gain their confidence you will need to either succeed in
+		<if item="silver medallion">
+			<set var="x" value="1"/>
+		</if>
+		<else>
+			<difficulty ability="charisma" level="12" var="x">
+				a CHARISMA roll at Difficulty 12
+			</difficulty>
+		</else>
+		<text/>or show them a <b>silver medallion</b>.
+	</p>
+	<outcomes>
+		<success var="x" section="688">Gain their confidence</success>
+		<failure var="x" section="701">Failed attempt at CHARISMA</failure>
+	</outcomes>
+</section>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="31">
+	<p>
+		Cross off the 5 Shards. You take the scroll and read it. It says: 'The Curse of Tambu, Khan of the Skies, upon the bearer of this scroll!' Instantly, you are struck by an enfeebling ague.
+	</p>
+	<p>
+		The pedlar leaps up, suddenly healthy. 'Free at last!' he yells, and runs off, leaping for joy.
+	</p>
+	<p>
+		You try to stop him, but the curse has left you reeling. Note you have the
+		<curse name="Curse of Tambu">
+			<effect ability="charisma" bonus="-1"/>
+			<effect ability="combat" bonus="-1"/>
+			<effect ability="scouting" bonus="-1"/>
+		</curse>
+		<text/>and lose 1 point from your CHARISMA, COMBAT and SCOUTING abilities until you can lift the curse. Judging by the pedlar's behaviour, if you can get someone to buy the scroll off you, the curse will go with it.
+	</p>
+	<p>You struggle onward. <goto section="144"/>.</p>
+</section>

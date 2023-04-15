@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="57">
+	<p>
+		As an Exalted One of the aristocracy of Uttaku you are not entirely above the law. You are immune, however, from sentence of death or imprisonment. You are taken before a panel of three arbiters, who fine you a statutory 150 Shards for behaviour unbecoming in the sight of Ebron.
+	</p>
+	<choices>
+		<choice section="532" shards="150">Pay the fine</choice>
+		<choice section="566">Refuse to pay</choice>
+	</choices>
+</section>

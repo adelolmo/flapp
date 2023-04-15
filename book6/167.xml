@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="167">
+	You find an inn where you can stay for 1 Shard a day.
+	<rest shards="1" stamina="1">For each day</rest> you spend at the inn,
+	you can recuperate 1 lost Stamina
+	point until your Stamina score is back to normal. When you are
+	ready to move on, <goto section="323"/>.
+</section>

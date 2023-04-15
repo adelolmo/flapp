@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="23">
+	<p>
+		To renounce the worship of Juntoku, you must pay 40 Shards to the priesthood by way of compensation.
+	</p>
+	<p>
+		The high priest warns you that if you turn your back on Juntoky, your fellow man will turn his back on you. Do you want to change your mind?
+	</p>
+	<p>
+		<if shards="40"><if god="Juntoku">
+			If you are determined to renounce your faith, pay the 40 Shards and
+			<group>
+				<text>delete Juntoku from the God box</text>
+				<lose shards="40"/>
+				<lose god="Juntoku"/>
+			</group>
+			on your Adventure Sheet.
+		</if></if>
+		When you have finished here, <goto section="58"/>.
+	</p>
+</section>

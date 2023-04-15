@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="175">
+	<p>
+		The conjuror gives you some tips on the correct hand gestures that will ward off the worst of the effects of the blast of energy he will release during the play. The play is staged in the Hall of Ethereal Blandishments in front of most of the court, including the Faceless King himself, who sits on a mobile throne powered by motors. He wears a blank featureless mask (underneath, his face is also blank, but this would be too frightening for most people to behold).
+	</p>
+	<p>The play begins and at the right moment you step forward to play your role.</p>
+	<p>
+		The Conjuror of Amusements cries the time-honoured phrase of the Uttakin: 'Die, heretic-devil and apostate spreader of lies!'
+	</p>
+	<p>He points and unleashes a stream of fire from his fingers.</p>
+	<p><difficulty ability="magic" level="13"/>.</p>
+	<outcomes>
+		<success section="484"/>
+		<failure section="617"/>
+	</outcomes>
+</section>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="442">
+	<p>
+		<lose codeword="2.442.1" hidden="t"/>
+		Sir Gargin secures a delay by promising he will give proof of his loyalty the next morning. During the night, an assassin creeps into the chamber where you are sleeping and attacks you with a knife.
+	</p>
+	<p>
+		You can
+		<group>
+			<text>flee from this fight</text>
+			<tick codeword="2.442.1"/>
+			<lose title="Paladin of Ravayne"/>
+		</group>, but then it will be assumed that your accusation against Sir Gargin was false, and you will lose the title Paladin of Ravayne if you have it.
+	</p>
+	<fight name="Assassin" combat="5" defence="6" stamina="5"/>
+	<choices>
+		<choice section="118" box="2.442.1">If you flee</choice>
+		<choice section="517">If you win</choice>
+	</choices>
+</section>

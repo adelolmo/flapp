@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="470">
+	<p>
+		You grab the woman&#8217;s wrist and give it a painful twist. You are not being cruel for the sake of it - she was about to steal your money!
+	</p>
+	<p>
+		&#8216;Oh, let me go,&#8217; she pleads, showing you the little infant son she&#8217;s carrying in her other arm. &#8216;I need the money for my starving children and my poor crippled husband.&#8217;
+	</p>
+	<p>
+		Yellowport is full of wretches like this. With a snarl, you push her away, tossing a coin after her for good measure (<lose shards="1">cross 1 Shard off</lose> your Adventure Sheet).
+	</p>
+	<p>
+		<tick codeword="StillInYellowport" hidden="t"/>
+		Later, strolling down by the canal, you find a small bundle lying on the slick cobblestones. It is a doll wrapped in swaddling clothes to make it look like a baby. <goto section="10"/>.
+	</p>
+</section>

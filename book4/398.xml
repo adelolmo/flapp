@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="398">
+	You are far to the north. The lands here are covered with snow most of the year round, but well forested with hardy fir trees. Smoke curls into the frosty sky from a nearby village. Further north, the Peaks at the Edge of the World dominate the horizon, grim and indomitable. They are completely impassable in these parts. To the west, the steppes stretch away as far as the eye can see. Eastward, rocky cliffs lean over the cold, grey sea.
+	<choices>
+		<choice section="548">Visit the village</choice>
+		<choice section="15">Head west into the steppes</choice>
+		<choice section="280">Head south to Yarimura</choice>
+	</choices>
+</section>

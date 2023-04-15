@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="182">
+	<p>&#8216;Such temerity,&#8217; says the god, compressing his lips.</p>
+	<p>
+		He turns his back on you, steps off the rock and vanishes in a fount of black water. You feel a sudden baleful influence.
+	</p>
+	<p>
+		<difficulty ability="magic" level="25">
+			Make a MAGIC roll at a Difficulty of 25
+		</difficulty>.
+	</p>
+	<outcomes>
+		<success section="207"/>
+		<failure section="230"/>
+	</outcomes>
+</section>

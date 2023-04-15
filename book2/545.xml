@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="545">
+	A squat Trau waits with a broad grin as you go to leave the
+	circle of stones. &#8216;That&#8217;ll be one Mithral,&#8217; it croaks, holding out a
+	hairy paw.
+	<choices>
+		<choice shards="1" currency="Mithral" section="173">Pay 1 Mithral</choice>
+		<choice section="570">Can&#8217;t or won&#8217;t pay</choice>
+	</choices>
+</section>

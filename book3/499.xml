@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="499">
+	<p>
+		There is an old adage: set a thief to catch a thief. Presumably, with a little leeway, the same principle should mean that any crafty rogue can spot the loopholes in a villain&#8217;s alibi.
+	</p>
+	<p><difficulty ability="thievery" level="14">Make a THIEVERY roll at a Difficulty of 14</difficulty>.</p>
+	<outcomes>
+		<success section="481"/>
+		<failure section="463"/>
+	</outcomes>
+</section>

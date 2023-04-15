@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="524">
+	You are woken by a sound in the night. Your heart is pounding
+	and you are soaked in sweat. You must have been having a
+	nightmare. Either that or you know what is to come.
+	<goto section="121"/>.
+</section>

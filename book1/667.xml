@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="667" boxes="1">
+	<p>
+		<if ticks="1">
+			If there is a tick in the box, <goto section="660"/> immediately.
+		</if>
+		If not, <tick/> and read on.
+	</p>
+	<p>
+		You have rescued Alissia, the commander&#8217;s daughter, from the manbeasts! They have a tearful, joyous reunion - all thanks to you!
+	</p>
+	<p>
+		The commander rewards you with combat training. <gain ability="combat" amount="1">Add one to your COMBAT ability permanently</gain>.
+	</p>
+	<p>When you are ready, you can leave.</p>
+	<choices>
+		<choice book="4" section="225">East into Nerech</choice>
+		<choice section="299">North west to Fort Mereth</choice>
+		<choice section="259">South east to Fort Brilon</choice>
+		<choice section="548">West into the Farmlands</choice>
+	</choices>
+</section>

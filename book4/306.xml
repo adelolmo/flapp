@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="306">
+	<p>
+		You sense magic in the air. Then you notice a ring of black dust has been sprinkled on the grass all around the pavilion - fire dust. On contact with the skin, it blazes like the sun. If you were to touch it, the guards would spot you instantly.
+	</p>
+	<p>
+		Avoiding the dust, you slit a hole in the back of the pavilion, and sneak in. Beladai is asleep, and you dispatch him easily.
+	</p>
+	<p>
+		As you are sneaking out the way you come, someone walks through the entrance, into the pavilion. Seconds later the alarm goes up, and the hunt for the killer is on! The news of Beladai&#8217;s death, however, goes round the camp like wildfire, and the effect on the army&#8217;s morale is devastating. The Northern Alliance is finished whether you escape or not.
+	</p>
+	<p>
+		<if codeword="Dim">
+			If you have the codeword Dim, <goto section="461"/> immediately.
+		</if>
+		If not, <rankcheck dice="2">roll two dice</rankcheck>.
+		<success>
+			If you score less than or equal to your Rank, <goto section="615"/>.
+		</success>
+		<failure>
+			If you roll more than your Rank, <goto section="47"/>.
+		</failure>
+	</p>
+</section>

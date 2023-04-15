@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="720">
+	<p>
+		Your knowledge of mythical creatures suggests that the patterns are made by a water drake. The creature is particularly dangerous in water and armour offers little protection against its drowning attacks. Perhaps it would be wisest to try to draw it out of the lake?
+	</p>
+	<p><goto section="268">Return to 268</goto>.</p>
+</section>

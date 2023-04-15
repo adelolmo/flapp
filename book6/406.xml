@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="406">
+	<p>
+		The whole crew gathers at the rail to stare into the north-east. There stretches the Unbounded Ocean, a stark wilderness of unending grey water. It is a daunting sight.
+	</p>
+	<p><random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-9" section="465">A trouble-free voyage</outcome>
+		<outcome range="10-12" section="588">On the rocks</outcome>
+	</outcomes>
+</section>

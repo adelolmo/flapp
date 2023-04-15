@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="437">
+	<p>
+		<if codeword="Ectoplasm">
+			If you have the codeword Ectoplasm, note this
+			paragraph number and <goto section="356"/>.
+		</if> If not, read on.
+	</p>
+	<p>
+		You have made camp for the night, when several pairs of glowing yellow eyes appear in the dark. You are attacked by a pack of black wolves. Fight them as one.
+	</p>
+	<fight name="Black Wolves" combat="8" defence="7" stamina="11"/>
+	<p>
+		If you lose, <goto section="7" dead="t"/>. If you win, you get a <item name="wolf pelt"/>.
+	</p>
+	<p>The next day, you journey on. <goto section="240"/>.</p>
+</section>

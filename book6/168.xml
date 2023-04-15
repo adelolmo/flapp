@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="168">
+	<p>
+		<if item="dead head|ghoul's head">
+			If you possess a <b>dead head</b> or a <b>ghoul&#8217;s head</b>, <goto section="191">turn now to 191</goto>.
+		</if>
+		If not, read on.
+	</p>
+	<p>
+		You fall asleep under a tree and dream about huge black birds that live in the middle of the woods and teach tricks of magic and martial arts to a few favoured travellers. One of the birds offers to trade a magic lodestone that will help you find them.
+	</p>
+	<p>
+		When you wake up, you find that a
+		<tool name="compass" ability="scouting" bonus="1"/>
+		has replaced one of the items in your knapsack.
+		<random dice="1" var="x"/> and the result is the number of
+		<lose itemAt="x">the item replaced</lose>,
+		counting from the first (e.g. if you roll a 3, the third item listed on your Adventure Sheet is replaced). If you roll a number that does not correspond to an item on your Adventure Sheet then you get the compass without losing anything.
+	</p>
+	<p><goto section="3"/>.</p>
+</section>

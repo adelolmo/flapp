@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="36">
+	You convince him it will be safe, playing on his greed. The merchant agrees to go along with your plan. <lose shards="75">Cross off the 75 Shards</lose>. You hide in an empty wine barrel. The merchant's trading pass is good, and he is allowed into the citadel without a hitch. You sneak out of the barrel that night. <goto section="295"/>.
+</section>

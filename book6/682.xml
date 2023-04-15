@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="682">
+	You see a richly attired gentleman strutting down the street at a
+	very smart pace for someone with such a dignified appearance.
+	His eyes are fixed straight ahead of him and his stern expression
+	as he brushes past is enough to deter you from saying anything.
+	As you watch him go bobbing down the street, you notice a
+	ticket sticking up out of his hat. Has he forgotten to remove the
+	price tag? If so, and he is on his way to the palace, he could
+	suffer serious embarrassment.
+	<choices>
+		<choice section="84">Run and catch him up</choice>
+		<choice section="79">Forget about it</choice>
+	</choices>
+</section>

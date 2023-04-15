@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="228">
+	<p>
+		A stone slab at the base of the idol shifts ominously as you put your foot on it. A wickedly barbed spear springs out of the ground, straight into your leg. <lose stamina="5"/>.
+	</p>
+	<p>
+		If you still live, you remove the chain mail and sling it over your shoulder. Note the
+		<group>
+			<text><b>gold chain mail of Tyrnai</b></text>
+			<item name="gold chain mail of Tyrnai" hidden="t"/>
+			<tick codeword="StolenTyrnaiMail"/>
+		</group>
+		on your Adventure Sheet. Because it is made of gold, it is useless if worn as armour.
+	</p>
+	<p>
+		As you glance at the jaguar-headed idol, its eyes seem to turn to look at you. <difficulty ability="sanctity" level="8"/>.
+	</p>
+	<outcomes>
+		<success section="625"/>
+		<failure section="279"/>
+	</outcomes>
+</section>

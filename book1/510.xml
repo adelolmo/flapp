@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="510">
+	The village of Blessed Springs, nestling at the foot of a tall hill, has grown up around the holy waters, a special spring said to have healing powers. It has been fenced off by the villagers, and a priesthood appointed to supervise the supplicants who come to bathe, or drink of the spring&#8217;s waters. There is no market, but an alchemist has set up shop here.
+	<choices>
+		<choice section="450">Visit the Holy Waters</choice>
+		<choice section="342">Visit the alchemist&#8217;s shop</choice>
+		<choice section="483">Visit the Blessed Ale Tavern</choice>
+		<choice section="398">Explore the hill</choice>
+		<choice section="466">Head north towards Fort Brilon</choice>
+		<choice section="87">South towards Venefax</choice>
+		<choice section="278">West into the countryside</choice>
+		<choice section="548">North west into the farmlands</choice>
+	</choices>
+</section>

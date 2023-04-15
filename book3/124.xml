@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="124">
+	With no water in the barrels, you have little hope of surviving to
+	reach dry land. You ask your officers to propose a course of
+	action. The first mate recommends you set course for Dweomer
+	and trust to stringent rationing. The navigator thinks you should
+	circle in these waters looking for an island.
+	<choices>
+		<choice section="142">Head for Dweomer</choice>
+		<choice section="160">Search for an island</choice>
+	</choices>
+</section>

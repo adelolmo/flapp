@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="146" dock="Ringhorn">
+	<p>
+		You arrive at the warehouses in Ringhorn. The trick is to buy goods in an area where they are plentiful (and therefore cheap) and transport them to an area where they are in demand.
+	</p>
+	<p>
+		Prices are quoted here for entire Cargo Units. You cannot carry this large a quantity in person; you will need a ship to transport it.
+	</p>
+	<market>
+		<header type="cargo"/>
+		<trade cargo="furs" buy="150" sell="135"/>
+		<trade cargo="grain" buy="100" sell="90"/>
+		<trade cargo="metals" buy="750" sell="675"/>
+		<trade cargo="minerals" buy="625" sell="562"/>
+		<trade cargo="spices" buy="900" sell="810"/>
+		<trade cargo="textiles" buy="180" sell="162"/>
+		<trade cargo="timber" buy="250" sell="225"/>
+	</market>
+	<p>When you have completed your business here, <goto section="255"/>.</p>
+</section>

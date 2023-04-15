@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="156">
+	You approach the Island of Fire. It comprises a broad mountain
+	of volcanic origin rimmed by fertile plains. Islanders wave to you
+	from the water&#8217;s edge.
+	<choices>
+		<choice section="461">Put in at the island</choice>
+		<choice section="479">Continue on to open ocean</choice>
+	</choices>
+</section>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="270">
+	<p>
+		Szgano is quickly subdued. The woman begins to scream with rage, and her eyes blaze with supernatural energy.
+	</p>
+	<p>
+		&#8216;Don&#8217;t look in her eyes!&#8217; warns the old shaman, but it is too late - one of them has glanced at her. She sucks the soul out of him, and he collapses, a withered husk of a man.
+	</p>
+	<p>
+		After a short ritual, the chief shaman runs her through the heart with a silver javelin. Her body quickly begins to shrivel. A column of fetid black smoke rises from the corpse into the moonlit sky and then fades away with a wail of despair.
+	</p>
+	<p>
+		<gain ability="sanctity" amount="1">Add 1 to your SANCTITY permanently</gain> for helping to rid the world of an ancient evil.
+	</p>
+	<p>
+		Afterwards, the shamans cut off her hands. &#8216;Without her hands the Ruzbahn will be unable to open the gates of the underworld and return to the land of the living,&#8217; they explain.
+	</p>
+	<p>You can take a <item name="witch's hand"/> if you wish.</p>
+	<p>The shamans clean up and leave. <goto section="472"/>.</p>
+</section>

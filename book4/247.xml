@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="247">
+	<p>
+		Several days pass. You are fed and watered, but Grilb is becoming anxious, and you begin to worry for your safety. Then Captain Vorkung, the aide to King Nergan of Sokara, turns up. He speaks with Grilb and money changes hands.
+	</p>
+	<p>
+		&#8216;Farewell, my dear friend,&#8217; Grilb says to you in parting. &#8216;Feel free to drop in any time!&#8217;
+	</p>
+	<p>His two hired thugs laugh cruelly, and then they are gone.</p>
+	<p>
+		&#8216;Ah, it is a sorry thing to see you in these straits, fallen prey to scum like that,&#8217; says Vorkung, untying your bonds. &#8216;But King Nergan would never abandon the King&#8217;s Champion, and saviour of the citadel. Nor would I.&#8217;
+	</p>
+	<p>
+		Captain Vorkung gives you a
+		<weapon name="sword"/> and some
+		<armour name="ring mail" bonus="2"/>
+		to help you get back on your feet. You enjoy a few ales with him in a local tavern before he has to head back to the citadel.
+	</p>
+	<p>You remain in Yarimura. <goto section="10"/>.</p>
+</section>

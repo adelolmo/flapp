@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="107">
+	<p>
+		<if god="Tyrnai"><set var="cost" value="10"/></if>
+		<else><set var="cost" value="25"/></else>
+		If you are an initiate it costs only 10 Shards to purchase Tyrnai&#8217;s blessing. A non-initiate must pay 25 Shards.
+		<if shards="cost">
+			<group>
+				<text>Cross off the money and mark COMBAT</text>
+				<lose shards="cost"/>
+				<tick blessing="combat"/>
+			</group>
+			in the Blessings box on your Adventure Sheet.
+		</if>
+	</p>
+	<p>
+		The blessing works by allowing you to try again when fail a COMBAT roll. It is good for only one reroll. When you use the blessing, cross it off your Adventure Sheet. You can only have one COMBAT blessing at any one time. Once it is used up, you can return to any branch of the temple of Tyrnai to buy a new one.
+	</p>
+	<p>When you are finished, <goto section="282"/>.</p>
+</section>

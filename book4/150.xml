@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="150">
+	You have no idea who they were, but their daggers were coated with some kind of poison. You also find some <tool name="lockpicks" ability="thievery" bonus="1"/>, which you can take. Nothing else happens, so you return to the city centre. <goto section="10"/>.
+</section>

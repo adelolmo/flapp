@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="286">
+	<p>
+		As you step into the stone circle, you feel unclean. You have desecrated the temple of an ancient and unknown god. <lose blessing="*">Lose all your blessings</lose>, if you had any.
+	</p>
+	<p>
+		<if codeword="Draw">
+			If you have the codeword Draw, <goto section="572"/>.
+		</if>
+		If not, you are not welcome here. <goto section="224"/>.
+	</p>
+</section>

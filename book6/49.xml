@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="49">
+	<p>
+		Donations have been streaming into the shrine lately. As the overlord of the battlefield, Juntoku is very popular with soldiers - especially now, on the eve of civil war.
+	</p>
+	<p>
+		The courtyard of the shrine is fined with flocks of well-fed pigeons, the special messengers of the god. You look around for a priest, finally catching the eye of a slight youth in a long-sleeved white robe.
+	</p>
+	<p>&#8216;Just leave a donation and tell the god what you want,&#8217; he says.</p>
+	<p>
+		To obtain a blessing requires you to
+		<difficulty ability="charisma" level="15" force="f">
+			make a CHARISMA roll at a Difficulty of 15<adjust god="Juntoku" amount="3"/>
+		</difficulty>, or a Difficulty of 12 if you are an initiate of Juntoku.
+		<failure>
+			If you fail the CHARISMA roll you
+			<lose blessing="*">lose all your current blessings</lose>.
+		</failure>
+		<success>
+			On a successful roll Juntoku gives you a blessing:
+			write <tick blessing="combat"/>
+			in the Blessings box on your Adventure Sheet. The blessing works by allowing you to try again when you fail a COMBAT roll. You can use the blessing only once; it is then used up and you should cross it off. Also, you can have only one COMBAT blessing at any one time.
+		</success>
+	</p>
+	<p>
+		<if safeAddGod="Juntoku"><if shards="50">
+				To become an initiate you must pay a donation of
+				<lose shards="50" price="x"/>,
+				and you can then
+				<tick god="Juntoku" flag="x">write Juntoku</tick> in the God box on your Adventure Sheet.
+		</if></if>
+		You must not already be an initiate of another god.
+		<if god="Juntoku"><if shards="40">
+				(If you were already an initiate of Juntoku and want to renounce that status now, pay compensation of
+				<group>
+					<text>40 Shards</text>
+					<lose shards="40"/>
+					<lose god="Juntoku"/>
+				</group>
+				to avoid the god&#8217;s wrath.)
+		</if></if>
+	</p>
+	<p>When you have finished your devotions, <goto section="178"/>.</p>
+</section>

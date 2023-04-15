@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="570">
+	&#8216;Aargh, you fiendish human!&#8217; roars the tree, flailing its branches at you. You must fight.
+	<fight name="Tree Guard" combat="3" defence="7" stamina="10" flee="5"/>
+	If you reduce the tree to 5 or less Stamina points, <goto section="148"/>.
+	If you lose, you are battered into unconsciousness and wake up in the Trading Post on <lose staminato="1">1 Stamina</lose> with <lose shards="*">all your money gone</lose> - <goto section="195"/>.
+</section>

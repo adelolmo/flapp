@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="48" image="48.jpg">
+	<p>
+		Metriciens is a large trading city of broad market plazas and great palaces built by the wealth of the merchant princes.
+	</p>
+	<p>
+		<if not="t" codeword="2.48.1">
+			You can buy a town house here for 200 Shards. If you want to do that, <lose shards="200" price="x">cross off the money</lose> and <tick codeword="2.48.1" flag="x">put a tick in the box</tick> by the town house option.
+		</if>
+	</p>
+	<choices>
+		<choice section="194">Visit the market</choice>
+		<choice section="33">Visit the harbour</choice>
+		<choice section="778">Visit a tavern</choice>
+		<choice section="171" box="2.48.1">Visit your town house {box} (if box ticked)</choice>
+		<choice section="148">Visit the temple of Alvir and Valmir</choice>
+		<choice section="16">Visit the merchants&#8217; guild</choice>
+		<choice section="125">Visit the temple of Nagil</choice>
+		<choice section="102">Visit the temple of the Three Fortunes</choice>
+		<choice section="79">Leave the city</choice>
+		<choice section="56">Listen for rumours</choice>
+	</choices>
+</section>

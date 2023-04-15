@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="355">
+	You are on the ancient paved road between Delpton and Wheatfields.
+	<choices>
+		<choice section="6">Head west to Delpton</choice>
+		<choice section="71">Head east to Wheatfields</choice>
+		<choice section="52">Venture north over open country</choice>
+		<choice section="75">Strike out due south</choice>
+	</choices>
+</section>

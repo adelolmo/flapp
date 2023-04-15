@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="548">
+	<p>
+		You are crossing an area of fertile farmland, where much of the food is grown to feed the army. Little farmsteads dot the landscape, and the ploughed fields have the appearance of a patchwork quilt. <random type="travel" dice="1"/>.
+	</p>
+	<outcomes>
+		<outcome range="1,2">
+			Mistaken for a murderer! Forced to flee into the mountains - <goto section="474"/>
+		</outcome>
+		<outcome range="3,4">Nothing happens</outcome>
+		<outcome range="5,6">
+			Find some <armour name="leather armour" bonus="1"/>
+		</outcome>
+	</outcomes>
+	<p>When you are ready, you can go:</p>
+	<choices>
+		<choice section="472">East to Fort Estgard</choice>
+		<choice section="458">North to the road</choice>
+		<choice section="510">South to Blessed Springs</choice>
+		<choice section="474">To the Coldbleak Mountains</choice>
+		<choice section="135">To the Lake of the Sea Dragon</choice>
+	</choices>
+</section>

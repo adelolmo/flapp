@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="651">
+	<p>
+		Your opponent lies defeated. With ill-grace he picks himself up and leaves, muttering under his breath. You win <gain shards="100"/>.
+	</p>
+	<p>
+		One of the crowd of spectators, a merchant of Golnir comments wryly, 'It is always unwise to make an enemy of one of the high caste.'
+	</p>
+	<p><goto section="398"/>.</p>
+</section>

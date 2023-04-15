@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="150">
+	<p>
+		You are on the road that leads from Ringhorn, in Goldnir, to Old Harkuna, and ultimately Uttaku. There is a bridge here, spanning the River Rese, and a cross-border military outpost.
+	</p>
+	<p>
+		<if codeword="Diamond">If you have the codeword Diamond, <goto section="613"/>.</if> If not, read on.
+	</p>
+	<p>You are stopped by Uttakin border troops.</p>
+	<p>
+		<if codeword="Erebus">If you have the codeword Erebus, <goto section="167"/>.</if>
+		<if codeword="Evade">If not, but you have the codeword Evade, <goto section="237"/>.</if>
+		If you have neither codeword, <goto section="39"/>.
+	</p>
+</section>

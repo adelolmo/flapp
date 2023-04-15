@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="647">
+	<p>
+		Hagashin is much more cosmopolitan than the other cities of Akatsurai. As you walk down the streets you might rub shoulders with wizards from Braelak, nomads from the Blue Grasslands of western Ankon-Konu, masked lords of Uttaku and even iron-dark priests from far Chrysoprais.
+	</p>
+	<p>
+		You soon strike up conversation with a foreign captain who is willing to take on a passenger. Choose from the following destinations:
+	</p>
+	<choices>
+		<choice shards="70" section="8" book="9">Mithdrak, pay 70 Shards</choice>
+		<choice shards="35" section="197" book="11">Dangor, pay 35 Shards</choice>
+		<choice shards="35" pay="f" section="242" book="3">Dweomer, pay 35 Shards</choice>
+		<choice shards="35" section="260" book="3">Metriciens, pay 35 Shards</choice>
+		<choice shards="55" section="502" book="5">Aku, pay 55 Shards</choice>
+		<choice shards="15" pay="f" section="535" book="3">Smogmaw, pay 15 Shards</choice>
+		<choice shards="80" section="18" book="10">Teleos, pay 80 Shards</choice>
+		<choice shards="15" section="27">Chambara, pay 15 Shards</choice>
+	</choices>
+	<p>
+		Remember to pay the fare if you decide to travel. If you want to stay in Hagashin after all, <goto section="302"/>.
+	</p>
+</section>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="629">
+	<p>
+		Cross off the 75 Shards. You hand the Soulwatch the cash. Their black masks, shaped like avenging demons, nod imperceptibly. One of them hands you a <item name="spotted scarf"/>.
+	</p>
+	<p>
+		'See that you do not blaspheme again, or your soul will suffer for it,' whispers one of the black-garbed fanatics.
+	</p>
+	<p>
+		They glide away. <goto section="444"/>.
+	</p>
+</section>

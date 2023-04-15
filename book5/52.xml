@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="52">
+	<p>
+		The bazaar offers many opportunities for the enterprising professional. You notice people declaring themselves open for business as the world's greatest wizard, or warriors offering to take on all comers at wrestling for cash, priests preaching to the multitude, jugglers and entertainers and, of course, many a pick-pocket. What will you try?
+	</p>
+	<choices>
+		<choice section="272">Pick a pocket</choice>
+		<choice section="541">Challenge people to a wrestling match</choice>
+		<choice section="596">Declare yourself a great wizard</choice>
+		<choice section="615">Preach the word of god</choice>
+	</choices>
+</section>

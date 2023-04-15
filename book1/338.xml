@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="338">
+	You climb down the ladder into a house with herbs and plants hanging on the walls, and shelves lined with pots, pans and bottles of all sorts. The healer, an old woman, can cure you of poison but is unable to cure disease, lift curses or heal wounds. It will cost you <price shards="25" flag="p">25 Shards</price> to get cured, if you are poisoned. If you pay, you can <lose poison="?" flag="p">restore all of your affected abilities to normal</lose>. When you are ready, <goto section="427">turn back to 427</goto>.
+</section>

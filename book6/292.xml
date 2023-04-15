@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="292">
+	Do you have the codeword <i>Ink</i>?
+	<if codeword="Ink">If so, <goto section="308"/>.</if>
+	If not, <goto section="21"/>.
+</section>

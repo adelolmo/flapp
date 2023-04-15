@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="592" boxes="1">
+	<p>
+		The waterfall is thin but falls from a great height over a sheer drop. The pool is covered with a surface of crimson froth, and drains down through rapids towards Old Harkuna. There appears to be little of interest here.
+	</p>
+	<p>
+		<if ticks="1">If the box above is ticked, <goto section="307"/> immediately.</if>
+		<else>
+			Otherwise, <difficulty ability="magic" level="16"/>. <success>If the MAGIC roll is successful, <goto section="327"/>.</success> <failure>Otherwise, <tick>tick the box above</tick> and <goto section="307"/>.</failure>
+		</else>
+	</p>
+</section>

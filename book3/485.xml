@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="485">
+	You are dazzled from staring so long in the direction of the
+	setting sun, so that all you can see when you turn is the
+	silhouettes of the two tall women who have come to confront
+	you. Their hair seems to move - not lightly, as though
+	whipped by the sea breeze, but with the oily sluggishness of
+	snakes.
+	<choices>
+		<choice section="685">Attack them</choice>
+		<choice section="356">Freeze</choice>
+		<choice section="374">Retreat</choice>
+	</choices>
+</section>

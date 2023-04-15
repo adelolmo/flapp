@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="181">
+	<p>
+		Wrapping a fur rug around your shoulders, you sit out on the veranda with a cup of hot rice wine and watch the moon rise above the pines.
+	</p>
+	<p><random/>.</p>
+	<outcomes>
+		<outcome range="2-8" section="366">A holy visitor</outcome>
+		<outcome range="9-12" section="610">An uneventful night</outcome>
+	</outcomes>
+</section>

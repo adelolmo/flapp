@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="330">
+	<p>
+		You tell the priestess you
+		<if god="The Three Fortunes">
+			<lose god="The Three Fortunes" force="f">no longer wish to be an initiate</lose>
+		</if>. She utters a long weary sigh and throws her head back in the slumbrous heat. &#8216;Go then.&#8217;
+	</p>
+	<p>&#8216;Do I not have to pay compensation? That is customary.&#8217;</p>
+	<p>
+		&#8216;Not here in the tropics. Every exertion only makes a pool for flies to paddle in. I cannot be bothered to rise from my divan to open the strongbox. Now, begone.&#8217;
+	</p>
+	<p><goto section="44"/>.</p>
+</section>

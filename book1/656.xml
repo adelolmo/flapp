@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="656">
+	<p>
+		You find a large, red pavilion which has been erected over a ruin. Oliphard the Wizardly is inside. He greets you warmly.
+		<if item="magic chest">
+			If you have a <b>magic chest</b>, <goto section="672"/>.
+		</if>
+		If not, read on.
+	</p>
+	<p>
+		<if item="verdigris key">
+			If you have a <b>verdigris key</b>, <goto section="431" force="f"/>.
+		</if>
+		If not, read on.
+	</p>
+	<p>
+		Oliphard can use his sorcery to teleport you instantly to certain places at a cost of 100 Shards a journey. If you want to be teleported, cross off the money and choose from the following destinations:
+	</p>
+	<choices>
+		<choice section="100" shards="100">Marlock City</choice>
+		<choice section="400" shards="100">Caran Baru</choice>
+		<choice book="2" section="217" shards="100">Wishport</choice>
+		<choice book="3" section="100" shards="100">Dweomer</choice>
+	</choices>
+	<p>Otherwise you can travel more conventionally.</p>
+	<choices>
+		<choice section="602">Take the road to the Shadar Tor</choice>
+		<choice section="377">Take the road to Marlock City</choice>
+		<choice section="175">Head into the Curstmoor</choice>
+		<choice section="558">Take the road north</choice>
+		<choice section="233">Take the road to Yellowport</choice>
+	</choices>
+</section>

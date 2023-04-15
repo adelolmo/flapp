@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="705">
+	<p>
+		A brightly painted caravan, pulled by horses, rumbles into view. It pulls up, and the caravaneers open up the back to display their wares. They are travelling pedlars.
+	</p>
+	<market>
+		<header type="armour"/>
+		<armour name="leather" bonus="1" buy="50" sell="45"/>
+		<armour name="ring mail" bonus="2" buy="100" sell="90"/>
+		<armour name="chain mail" bonus="3" buy="200" sell="180"/>
+
+		<header type="weapon"/>
+		<weapon bonus="0" buy="50" sell="40"/>
+		<weapon bonus="1" buy="250" sell="200"/>
+		<weapon bonus="2" buy="500" sell="400"/>
+
+		<header type="other"/>
+		<tool name="flute" ability="charisma" bonus="1" buy="200" sell="180"/>
+		<tool name="compass" ability="scouting" bonus="1" buy="500" sell="450"/>
+		<item name="rope" buy="50" sell="45"/>
+		<item name="lantern" tags="light" buy="100" sell="90"/>
+		<item name="wolf pelt" buy="100" sell="90"/>
+		<item name="parrot fungus" buy="100" sell="90"/>
+		<item name="uncanny salts" buy="100" sell="90"/>
+		<item name="Shadar scroll" buy="100" sell="90"/>
+	</market>
+	<p>When you have finished, they ride on. <goto section="676"/>.</p>
+</section>

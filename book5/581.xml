@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="581">
+	'Then you are under arrest for lesser heresy,' grates one of them. They reach for you with the rods they carry, tipped with purple gems.
+	<choices>
+		<choice section="357">Run for it</choice>
+		<choice section="350">Let them take you to the dungeons</choice>
+	</choices>
+</section>

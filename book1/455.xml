@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="455">
+	<p>
+		A merchant ship, sailing for Wishport, will take you for 15 Shards. You must have <i>Cities of Gold and Glory</i> before you can travel to Wishport. If you do not want to make the trip, <goto section="142" force="f">turn back to 142</goto>. Otherwise, <lose shards="15">pay the 15 Shards</lose> and read on.
+	</p>
+	<p>
+		You have an uneventful journey and arrive in Wishport safely.
+		Turn to <goto book="2" section="217"/>.
+	</p>
+</section>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="188">
+	The long grass rustles as you walk up to the main shrine building, but the man on the veranda apparently hasn&#8217;t heard you.
+	<choices>
+		<choice section="432">Go up and touch him on the shoulder</choice>
+		<choice section="510">Advance with caution</choice>
+		<choice section="398">Turn and leave</choice>
+	</choices>
+</section>

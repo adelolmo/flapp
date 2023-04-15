@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="102">
+	<p>
+		<lose codeword="BladeSeven" hidden="true"/>
+		The granite blade is a protective force. While you carry it, add 3 to your Defence. Note the
+		<weapon name="sword of stone">
+			<effect type="aura" ability="defence" bonus="3"/>
+		</weapon>
+		on your Adventure Sheet.
+	</p>
+	<p>You swim back to shore. <goto section="268"/>.</p>
+</section>

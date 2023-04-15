@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="656">
+	<p>
+		The Reavers hold a banquet in the great hall of their stronghold. The finest wines are served - wines of southern Sokara that were intended for the cellars of the merchant princes of Metriciens. The meat is flavoured with the exotic spices of distant lands, and there are sweetmeats from Chrysoprais and nuts from Ankon-Konu. These Reavers dine like kings!
+	</p>
+	<p>
+		<if codeword="Amcha">
+			If you have the codeword Amcha, <goto section="674"/>.
+		</if>
+		If not, <goto section="691"/>.
+	</p>
+</section>

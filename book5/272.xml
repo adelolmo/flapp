@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="272">
+	<p>
+		There are many potential marks in the crowded bazaar. It shouldn't prove difficulty to bump into someone and lift a purse.
+	</p>
+	<p><difficulty ability="thievery" level="14"/>.</p>
+	<outcomes>
+		<success section="568"/>
+		<failure section="390"/>
+	</outcomes>
+</section>

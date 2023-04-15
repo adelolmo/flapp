@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="259">
+	Wind whistles across a wide expanse of heathland dotted with
+	just a few scattered hamlets. To the north, half hidden in the
+	murk of low cloud, looms the snow-peaked mountain range
+	known as the Spine of Harkun.
+	<choices>
+		<choice section="305">Head east towards the Haunted Hills</choice>
+		<choice section="282">Head north towards the mountains</choice>
+		<choice section="236">Travel west</choice>
+		<choice section="328">Travel south</choice>
+	</choices>
+</section>

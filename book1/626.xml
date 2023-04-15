@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="626">
+	<p>
+		You recite a devotional prayer to the gods, calling on your faith to aid you. The goblin folk are repelled by your piety, and purity of spirit. Even Gobrash finds the strength to get out from under you, and run off, such is your effect on them.
+	</p>
+	<p>
+		&#8216;Eeaurgh!&#8217; snarls the queen, recoiling, &#8216;Please, your godliness is harmful to us. Here, take this and leave!&#8217;
+	</p>
+	<p>
+		A jug of <item name="faery mead"/> and an <weapon name="enchanted spear" bonus="2"/> are pushed towards you. Note them on your Adventure Sheet.
+	</p>
+	<p>
+		The wall behind you shimmers and disappears - you step through, back into the cold, night air of the Curstmoor. You leave the faery mound far behind, and camp for the night. The next day, you resume your travels.
+	</p>
+	<choices>
+		<choice section="560">Go north across country</choice>
+		<choice section="558">Head east to the road</choice>
+		<choice section="250">Go to Trefoille</choice>
+		<choice section="100">Go to Marlock City</choice>
+		<choice section="99">Head west towards the River Grimm</choice>
+	</choices>
+</section>

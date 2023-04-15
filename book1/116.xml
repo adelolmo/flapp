@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="116" boxes="1">
+	<p>
+		<if ticks="0">
+			<tick>Put a tick in the box</tick>.
+		</if>
+		<else>
+			If there is one there already, <goto section="322"/> immediately.
+		</else>
+		Otherwise read on.
+	</p>
+	<p>
+		You realize the creature is one of the legendary repulsive ones. It is swimming past you, intent on its own business, so you follow it, in the hope it will lead you to the sunken city of Ziusudra. <goto section="547"/>.
+	</p>
+</section>

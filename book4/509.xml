@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="509">
+	<p>
+		<tick special="lock" cache="4.509" hidden="t"/>
+		You can leave possessions and money here to save having to carry them around with you. You can also rest here safely, and
+		<rest>recover any Stamina points</rest> you have lost.
+		Record in the box anything you wish to leave. Each time you return,
+		<if not="t" title="Nightstalker" codeword="YarimuraProtection">
+			<random/>
+		</if>
+		- unless you paid the protection money or you have the title Nightstalker, in which case the house is automatically safe.
+	</p>
+	<itemcache name="4.509" text="Items in town house"/>
+	<outcomes>
+		<outcome range="2-7">Your possessions are safe</outcome>
+		<outcome range="8-12"><lose item="*" shards="*" cache="4.509">Lose everything you left here</lose></outcome>
+	</outcomes>
+	<p>
+		<tick special="unlock" cache="4.509" hidden="t"/>
+		<lose codeword="YarimuraProtection" hidden="t"/>
+		<goto section="10">Turn to 10</goto> when you are ready.</p>
+</section>

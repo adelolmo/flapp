@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="240">
+	<p>
+		The marines and Hordeth retreat to the <i>Sea Centaur</i>. You and your crew are too tired to pursue, and Hordeth pulls away.
+	</p>
+	<p>&#8216;I&#8217;ll get you next time, you filthy swine!&#8217; he yells in parting.</p>
+	<p>The <i>Sea Centaur</i> sails away, leaving you to continue your journey. <goto section="236"/>.</p>
+</section>

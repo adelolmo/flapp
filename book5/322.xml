@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="322">
+	<p>
+		You spend a few nights here, resting. <rest>Restore all your lost Stamina</rest>. One night, however, you are assailed by the spirits of those you slew here - a priest, a warrior, and the unhappy shade of Buskle, forever condemned to haunt this place.
+	</p>
+	<p><difficulty ability="sanctity" level="16"/>.</p>
+	<outcomes>
+		<success section="228"/>
+		<failure section="585"/>
+	</outcomes>
+</section>

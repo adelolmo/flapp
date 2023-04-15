@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="217">
+	<p>
+		&#8216;Your talk of peace insults me!&#8217; rages the bare-chested stranger. His fist lashes out, giving you such a strong buffet in the face that your knees buckle and blackness drops over you like a great wave. By the time your crew can bring you round, the stranger has sailed off in his boat.
+	</p>
+	<p>
+		<lose ability="stamina" amount="1">
+			Lose 1 Stamina point permanently
+		</lose>
+		(that is, reduce your unwounded Stamina score by 1) and then
+		<goto section="125"/>.
+	</p>
+</section>

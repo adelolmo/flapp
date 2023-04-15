@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="167">
+	<if codeword="3.86.sold">
+		<lose codeword="3.86.sold" hidden="t"/>
+		If you just sold a <b>pirate captain&#8217;s head</b>,
+		<goto section="185"/>.
+	</if>
+	If not, <goto section="44"/>.
+</section>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="488">
+	<p><tick codeword="Dirty">Acquire the codeword Dirty</tick>.</p>
+	<p>
+		You shake hands with Luroc and Floril, and the deal is sealed. Luroc arranges a night to meet you outside the villa of Avar Hordeth, south of Yarimura. When you go there, he will be waiting for you.
+	</p>
+	<p>You leave the tavern. <goto section="10"/>.</p>
+</section>

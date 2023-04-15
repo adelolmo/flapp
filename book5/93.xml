@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="93" boxes="1">
+	<p>
+		<if ticks="1">If there is a tick in the box, <goto section="673"/> immediately.</if> If not, <tick>put a tick there now</tick>, and read on.
+	</p>
+	<p>
+		Inside the pavilion you find the priestess of The Oracle in Atticala waiting for you.
+	</p>
+	<p>
+		'Ah, there you are,' she says. 'Another reading of your future will cost 250 Shards.'
+	</p>
+	<choices>
+		<choice section="114" shards="250">Pay 250 Shards</choice>
+		<choice section="101">Leave</choice>
+	</choices>
+</section>

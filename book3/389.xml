@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="389">
+	<tick codeword="3.389.1" hidden="t"/>
+	It is possible to forge a powerful wand with this substance, but if
+	the alloy is not prepared using exactly the right mixture then the
+	ore could decay explosively. To make the attempt you require
+	<group>
+		<text>a MAGIC roll at Difficulty 16</text>
+		<lose codeword="3.389.1"/>
+		<difficulty ability="magic" level="16"/>
+	</group>
+	- though you may prefer to leave well enough alone.
+	<outcomes>
+		<success section="371"/>
+		<failure section="708"/>
+		<choice box="3.389.1" section="262">Don&#8217;t attempt it</choice>
+	</outcomes>
+</section>

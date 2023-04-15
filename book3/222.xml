@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="222">
+	<p>
+		The three of them live in a house that stands on short wooden posts above a tract of mud on the southern fringe of town. You watch them slump in the doorway, where the jutting porch of interleaved pandanus shields them from the sun. The air is filled with gnats and the stench of rotting river weeds.
+	</p>
+	<p>
+		<if codeword="Aid" docked="Smogmaw">
+			If you have the codeword Aid or have a ship docked at Smogmaw then you can round up some friends to help you exact your revenge.
+			<tick codeword="3.222.1" hidden="t"/>
+		</if>
+		<else><lose codeword="3.222.1" hidden="t"/></else>
+		Otherwise you must deal with the mutineers yourself.
+	</p>
+	<choices>
+		<choice box="3.222.1" section="240">Muster some friends (if you have any)</choice>
+		<choice section="73">Attack the three on your own</choice>
+		<choice section="148">Wait till they&#8217;re asleep</choice>
+		<choice section="44">Forget about them</choice>
+	</choices>
+</section>

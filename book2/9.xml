@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="9">
+	Inside you find a set of steps winding down into the bedrock. At
+	the bottom are three doors, each carved with a symbol. The
+	symbol on the door to the left is a ram&#8217;s head. The symbol on
+	the central door is a fiery sun. The symbol on the right-hand
+	door is a spider in a web.
+	<choices>
+		<choice section="497">Open the left-hand door</choice>
+		<choice section="522">Open the central door</choice>
+		<choice section="547">Open the right-hand door</choice>
+		<choice section="373">Leave the fort</choice>
+	</choices>
+</section>

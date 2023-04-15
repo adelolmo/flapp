@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="564">
+	Without a second thought you hurl the arrow straight at the
+	monster, catching it straight in the middle of its cluster of eyes. It
+	gives a series of spasms and drops from its web, horribly injured.
+	<goto section="481" force="f"/> to fight it but note that you have
+	already
+	<group>
+		<text>reduced its Stamina by 3-18 points</text>
+		<random dice="3" var="x"/>
+		<lose codeword="SpiderDamage"/>
+		<tick name="SpiderDamage" amount="x"/>
+	</group>
+	(the roll of three dice).
+</section>

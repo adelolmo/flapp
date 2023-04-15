@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="133">
+	<p>You are sailing in calm waters off the coast of Old Harkuna.</p>
+	<choices>
+		<choice section="26">Steer east</choice>
+		<choice section="95">Steer west to the estuary of the Ruby River</choice>
+		<choice book="3" section="475">Steer south into the Violet Ocean</choice>
+	</choices>
+</section>

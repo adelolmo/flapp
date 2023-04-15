@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="269">
+	&#8216;Welcome, dear friend,&#8217; says the high priest in greeting. &#8216;I trust
+	your fortune grows as quickly as your fame?&#8217;
+	<choices>
+		<choice section="220">Renounce the worship of Alvir and Valmir</choice>
+		<choice section="243">Seek a blessing</choice>
+		<choice section="2">Leave the temple</choice>
+	</choices>
+</section>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="386">
+	<p>
+		You readily admit to being an unworthy friend, thus appealing to Kiyomori&#8217;s sentimental nature. His angry rant turns into a stern ticking-off, which soon gives way to a comradely hug and a fulsome apology for being so cantankerous.
+	</p>
+	<p>
+		&#8216;You really know how to handle Dad!&#8217; says his son Shigemori enviously as he sees you out.
+	</p>
+	<p><goto section="79"/>.</p>
+</section>

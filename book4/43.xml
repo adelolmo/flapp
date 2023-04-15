@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="43">
+	<p>
+		The storm demon shudders as you call upon Elnir to banish it. Unable to stand the power of the Sky God, the demon departs, shooting into the firmament like an arrow of green light. As it goes, the storm ceases.
+	</p>
+	<p>
+		You have won the favour of Elnir. <training ability="charisma"/>. If the score is greater than your CHARISMA rating, you can add one to your CHARISMA, permanently.
+	</p>
+	<p>
+		Also, the storm demon has dropped the missile it was about to throw at you. Take the <item name="selenium ore"/> and add it to your Adventure Sheet.
+	</p>
+	<p>When you are ready, <goto section="65"/>.</p>
+</section>

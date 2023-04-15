@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="374">
+	<p>
+		The mujina greets you with a strange hollow sound - a sigh like wind under the eaves of a derelict house at midnight. You cannot read any emotion in the pale smooth blank of her face. Is she angry at being surprised? Delighted by the thought of fresh pickings? Either way, her embrace is deadly.
+	</p>
+	<fight name="Mujina" combat="8" defence="13" stamina="15"/>
+	<p>
+		If you slay her you can unearth the sack she was burying. It is full of stolen faces, of course. <goto section="277"/>.
+	</p>
+</section>

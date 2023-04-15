@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="621">
+	<p>
+		After a year of piracy you have risen to the rank of captain. You put it to your men that with the spoils you&#8217;ve collected it would be better to turn to honest work. &#8216;Why live like robbers until our luck runs out? We can be princes in Metriciens!&#8217;
+	</p>
+	<p>
+		They agree and the booty is divided up. Your share comes to <gain shards="8500"/> and a <weapon name="sword" bonus="4"/>. Decide where you want to make your home.
+	</p>
+	<choices>
+		<choice book="2" section="217">In Wishport</choice>
+		<choice section="571">In Dweomer</choice>
+		<choice section="44">In Smogmaw</choice>
+		<choice book="1" section="10">In Yellowport</choice>
+	</choices>
+</section>

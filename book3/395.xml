@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="395">
+	<p>
+		<set var="lights" item="?" tags="light" value="matches"/>
+		<set var="candles" item="?" tags="light,useonce" value="matches"/>
+		<if var="candles" equals="lights">
+			If you are using a <b>candle</b> to light your way, <lose item="?" tags="light,useonce">cross it off</lose> as it cannot be used again.
+		</if>
+	</p>
+	<p>
+		Now choose which door you will open. Each is a magical portal leading to a distant place. Note that if you do not have <i>The War-Torn Kingdom</i> or <i>The Plains of Howling Darkness</i>, which are other books in this series, you had better open the right-hand door.
+	</p>
+	<choices>
+		<choice book="1" section="670">The left hand door</choice>
+		<choice book="4" section="85">The middle door</choice>
+		<choice section="415">The right-hand door</choice>
+	</choices>
+</section>

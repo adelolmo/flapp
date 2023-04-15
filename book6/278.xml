@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="278">
+	<p>
+		The innkeeper&#8217;s wife bustles about getting a room ready for you. It proves to be quite comfortable if you ignore the spartan furnishings and the slightly musty smell.
+	</p>
+	<p>
+		&#8216;We get so few travellers passing through these days,&#8217; says the innkeeper&#8217;s wife in a tone so apologetic it sounds as if she might burst into tears.
+	</p>
+	<p>
+		Each day spent at the inn costs
+		<rest shards="1" stamina="1">1 Shard</rest>
+		and allows you to recuperate 1 Stamina point, up to the limit of your unwounded Stamina score. When you are ready to move on, pay your bill and
+		<goto section="522"/>.
+	</p>
+</section>

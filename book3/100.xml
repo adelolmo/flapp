@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="100" dock="Dweomer">
+	You are on a broad platform of polished basalt that extends into
+	the sea. The city of Dweomer lies some way inland, along a
+	paved avenue with stone sentinels on either side.
+	<choices>
+		<choice section="122" sail="t">Put to sea (if you have a ship here)</choice>
+		<choice section="406">Acquire a ship</choice>
+		<choice section="564">Arrange passage to the mainland</choice>
+		<choice section="175">Go along the avenue to Dweomer</choice>
+	</choices>
+</section>

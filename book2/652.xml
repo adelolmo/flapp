@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="652">
+	<p>
+		The gem in the snake&#8217;s head flares briefly, dazzling you. As your vision clears you see six wooden doorways set into the bank of earth beside you. Somehow you failed to notice them before.
+	</p>
+	<p>
+		<i>One of these doors leads to vast treasure</i>, the snake&#8217;s telepathic voice informs you. <i>The others all conceal a ghastly doom. Choose one...</i>
+	</p>
+	<p>
+		The doors look the same. There is nothing to say which has the treasure behind it.
+		<difficulty ability="magic" level="14">
+			Make a MAGIC roll at a Difficulty of 14
+		</difficulty>.
+	</p>
+	<outcomes>
+		<success section="676"/>
+		<failure section="700"/>
+	</outcomes>
+</section>

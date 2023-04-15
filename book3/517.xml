@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="517">
+	<p>
+		You while away several hours chatting to the priest. He is a simple man of peasant stock, rather superstitious but easy to get on with. He tells you all sorts of fables he has heard - some of them containing a grain of truth, no doubt.
+	</p>
+	<p>
+		Among the stories he tells you are accounts of Starspike Island, which he claims has a mountain so high that no one can breathe at its summit, of the Island of Fire, which he believes to be an active volcano, and the Sleeping Isle, where a spell puts all who arrive there into deep slumber.
+	</p>
+	<p>
+		It is time you were on your way. &#8216;Do you need a blessing?&#8217; asks the priest. <goto section="498"/>.
+	</p>
+</section>

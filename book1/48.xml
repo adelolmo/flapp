@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="48">
+	<p>
+		The warden is in charge of security. &#8216;We have had an unfortunate, umm... accident,&#8217; he says worriedly. &#8216;In the crypt below the temple we sometimes experiment with the corpses of the dead - you know, the occasional zombie, part of the rituals in honour of the particular aspect of Nagil we revere here. It seems a ghoul has escaped from these pits, and is terrorizing the city at night. We&#8217;d rather someone like you sorted the problem out before the city militia got to hear of it. Destroy it and bring me the ghoul&#8217;s head.&#8217;
+	</p>
+	<p>
+		If you want to take up the mission,
+		<tick codeword="Ague" force="f">record the codeword Ague</tick>.
+		&#8216;Search for it at night!&#8217; says the warden as you leave. <goto section="100"/>.
+	</p>
+</section>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="510">
+	<p>
+		The pirates take your cargo, all your possessions and your cash. They also seize your ship for themselves (assuming it was your own ship in the first place).
+		<lose ship="t" item="*" shards="*">
+			Cross all these off
+		</lose> the Ship&#8217;s Manifest.
+		The pirates are convinced it is worth leaving you alive, at least. &#8216;Yes, that way we can prey on you again in future,&#8217; says their leader with a feral grin. &#8216;Every good fisherman knows to throw some of his catch back!&#8217;
+	</p>
+	<p>
+		You are put off in Metriciens. As the pirates sail off, you vow revenge. <goto section="48"/>.
+	</p>
+</section>

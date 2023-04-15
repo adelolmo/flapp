@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="146">
+	<p>
+		A red-robed man wearing the mask of a member of the Caste of Superintendence comes to see you. He is one of the subcaste of advocates-general, a lawyer. He offers to represent your case. His fee is 150 Shards.
+	</p>
+	<choices>
+		<choice section="479" shards="150">Hire him</choice>
+		<choice section="314">Conduct your own defence</choice>
+	</choices>
+</section>

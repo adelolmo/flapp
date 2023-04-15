@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="21">
+	<p>
+		&#8216;Let&#8217;s steer clear of Uttaku,&#8217; suggests the first mate with a fearful glance westwards. &#8216;The Uttakin are rank fiends who merely wear the outer guise of men.&#8217;
+	</p>
+	<p><random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-5" section="236">Hags in sieves</outcome>
+		<outcome range="6-7" section="109">A fearsome waterspout</outcome>
+		<outcome range="8-12" section="39">An uneventful journey</outcome>
+	</outcomes>
+</section>

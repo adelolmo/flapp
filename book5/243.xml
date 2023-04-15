@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="243">
+	<p>
+		<if codeword="Evict">If you have the codeword Evict, <goto section="482"/> immediately.</if> If not, read on.
+	</p>
+	<p>
+		You are threading your way through the swamp, along a narrow, well-trodden path, when a stooped old woman with a cane steps out in front of you. She is horribly ugly, so ugly, in fact, that she looks like a large, fat toad.
+	</p>
+	<p>
+		'Well met, traveller,' she croaks. She warns you that the path is treacherous and offers to guide you safely through the swamp.
+	</p>
+	<p>
+		'Follow me, an' I'll see you safe, in return for a Shard or two,' she rasps.
+	</p>
+	<choices>
+		<choice section="140">Follow the old woman</choice>
+		<choice section="193">Refuse her offer</choice>
+	</choices>
+</section>

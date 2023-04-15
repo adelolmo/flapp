@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="458">
+	<p>
+		Since defeating the giant was possibly the toughest challenge of your life, you also deserve to
+		<gain ability="rank" amount="1">advance one Rank</gain>.
+		This means you can
+		<gain ability="stamina" amount="1d">increase your unwounded Stamina score</gain>
+		by 1-6 points permanently (the roll of one die). Remember that going up a Rank also means your Defence will increase by 1.
+	</p>
+	<p>Now <goto section="566"/>.</p>
+</section>

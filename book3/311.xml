@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="311">
+	You are on the open ocean somewhere north of Braelak, the
+	Sorcerers&#8217; Isle.
+	<choices>
+		<choice section="9">Steer southwards</choice>
+		<choice section="129">Go west</choice>
+		<choice section="301">Go east</choice>
+		<choice book="2" section="187">Go north</choice>
+	</choices>
+</section>

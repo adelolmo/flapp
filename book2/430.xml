@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="430">
+	The traitor Sir Bredubar is in a cell nearby. He has not forgotten
+	you, and bribes the jailer to poison your food.
+	<if blessing="poison">
+		If you have a blessing of Immunity to Disease/Poison,
+		<lose blessing="poison">cross it off</lose> and
+		<goto section="455"/>.
+	</if>
+	<else>
+		Otherwise <goto section="560"/>.
+	</else>
+</section>

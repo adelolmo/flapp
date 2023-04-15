@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="601">
+	<p>
+		Luroc is not happy with your decision. &#8216;You lily-livered coward - I don&#8217;t need the likes of you anyway!&#8217; he hisses before turning tail and disappearing into the shadows of the night.
+	</p>
+	<p>
+		You hurry off to the villa. Avar Hordeth is most interested to hear your story, and his guards catch Luroc and Floril red-handed in his vault. They are hauled off in chains, but not before Luroc curses you as a &#8216;treacherous rattlesnake&#8217; and swears revenge.
+	</p>
+	<p>
+		Hordeth, a thick-set, sly-eyed man, is all smiles. He rewards you with <gain shards="250"/>, and offers you a room in the villa.
+	</p>
+	<p>&#8216;You can stay here whenever you like, for free!&#8217; he says.</p>
+	<p>
+		<tick codeword="Drop">Gain the codeword Drop</tick>. If you ever return to the villa, you will find a place to store your equipment and to rest. For now, you leave. <goto section="280"/>.
+	</p>
+</section>

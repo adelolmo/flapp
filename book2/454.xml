@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="454">
+	<p>
+		The story concerns a hairy old bogle who used to eat anyone who strolled too close to his lair. One day he caught a young maid who begged to be given a day to set her affairs in order. This tickled the bogle&#8217;s humour so much that he said he&#8217;d spare her life if she could tell him what his name was.
+	</p>
+	<p>
+		The maid pretended to go back home to see to her affairs, but in fact she hid near the bogle&#8217;s lair, and so she overheard him singing to himself:
+	</p>
+	<p>&#8216;I&#8217;ll be making a meal of a plump milkmaid</p>
+	<p>Who doesn&#8217;t know my name is Friddle McCade!&#8217;</p>
+	<p>
+		But, of course, when she came back the next day she was able to name the bogle, and so she lived happily ever after.
+	</p>
+	<p>
+		That seems to be the end of the story.
+		<tick codeword="Bookworm">
+			Get the codeword Bookworm
+		</tick> and <goto section="235"/>.
+	</p>
+</section>

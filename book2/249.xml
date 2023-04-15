@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="249">
+	The worshippers of the Three Fortunes admire you as a paragon
+	of the faith. &#8216;You are an example to us all,&#8217; says a bent-backed
+	old prospector with a gold tooth.
+	<if item="four-leaf clover">
+		If you have a <b>four-leafed clover</b>, <goto section="272"/>.
+	</if>
+	If not, <goto section="203"/>.
+</section>

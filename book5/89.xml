@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="89">
+	<p>You manage a passable rendition of a blessing in the name of Ebron.</p>
+	<p>
+		'Oh, thank you, thank you,' they cry, as if you'd given them all thousands of Shards each. They kiss the hem of your robe, and paw and clutch at you - you have to shake them off, cuffing a few of them, and force your way through before you can carry on. This is exactly what they expect of a lord of Uttaku, however, and they seem to grovel all the more.
+	</p>
+	<p>
+		Their leader gives you a blessing in return - his actually works. Write <tick blessing="defence" bonus="3"/> in the Blessings box on your Adventure Sheet. The blessing works by allowing you to add 3 to your Defence for the duration of one combat only. When you use the blessing, cross it off your Adventure Sheet. You can have only one Defence through Faith blessing at any one time, so if you already have one, there is no effect.
+	</p>
+	<p>You carry on. <goto section="589"/>.</p>
+</section>

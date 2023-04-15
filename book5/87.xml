@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="87">
+	<p>
+		Inside, you find a rolled-up piece of parchment. You take it out and read it. It says: 'The Curse of Ebron upon you, thief!' Instantly, your head spins, and you feel nauseous. Your hands begin to shake uncontrollably.
+	</p>
+	<p>
+		Note you have the
+		<curse name="Curse of Ebron">
+			<effect ability="combat" bonus="-1"/>
+			<effect ability="thievery" bonus="-1"/>
+		</curse>. Lose 1 from your COMBAT and THIEVERY ratings until you can find a cure.
+	</p>
+	<p>Bemoaning your ill-fortune, you move on. <goto section="101"/>.</p>
+</section>

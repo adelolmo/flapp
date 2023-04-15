@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="42">
+	<p>
+		Two hulking shapes appear out of the shadows as if from nowhere. They are hideous creatures - manlike, standing on two legs, but with the tail and hairy features of a gigantic rat. Their yellowing teeth snap at you as they lunge for you; the ratmen also wield wicked-looking shortswords in their hands.
+	</p>
+	<p>&#8216;Gut the human!&#8217; yells one of them in a bestial voice.</p>
+	<p>
+		You must fight them, both at once, as if they were one opponent.
+		<if item="rat poison">
+			If you have some <b>rat poison</b>, you can add 3 to your dice rolls.
+			<group>
+				<text>Cross the <b>rat poison</b> off</text>
+				<lose item="rat poison"/>
+				<tick special="attack" bonus="3"/>
+			</group>
+			the Adventure Sheet if you use it.
+		</if>
+	</p>
+	<fight name="Two Ratmen" combat="6" defence="9" stamina="9"/>
+	<p>
+		If you win, <goto section="423"/>.
+		If you lose, <goto section="308" dead="t"/>.
+	</p>
+</section>

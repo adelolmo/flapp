@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="175">
+	<p>
+		If you have any of these codewords, delete them now:
+		<lose codeword="Almanac">Almanac</lose>,
+		<lose codeword="Bastion">Bastion</lose>,
+		<lose codeword="Catalyst">Catalyst</lose> or
+		<lose codeword="Eldritch">Eldritch</lose>.
+	</p>
+	<p>
+		You can invest money in multiples of 100 Shards. Ko-ishi will use this money to buy and sell commodities on your behalf while you are away from the city.
+	</p>
+	<p>
+		Write the sum you are investing in the box below - or withdraw a sum you invested previously. When you have completed the transaction, <goto section="79"/>.
+	</p>
+	<moneycache name="6.175" text="Money invested" multiples="100"/>
+</section>

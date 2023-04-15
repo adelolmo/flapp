@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="173">
+	The fey, sleepy, whimsy-tainted air of Haggart&#8217;s Corner is soon
+	forgotten as you turn your face to the wind and journey
+	onwards.
+	<choices>
+		<choice section="216">Take the road to Metriciens</choice>
+		<choice section="329">Take the road to the Monastery of Molhern </choice>
+		<choice section="263">Take the road to Wishport</choice>
+	</choices>
+</section>

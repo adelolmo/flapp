@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="129">
+	<p>
+		He gives you a faint moan of relief as you loosen the tight bonds. You see at once that he is close to death, but his eyelids flutter open and he manages a weak smile.
+	</p>
+	<p>
+		'At least I die comfortable,' he says in a Sokaran accent. 'Those devils think that a man who dies in pain will suffer agony for eternity. Thanks to you they didn't get their way.'
+	</p>
+	<p>He is fading fast. 'Don't speak,' you tell him.</p>
+	<p>
+		'Why not?' he chuckles. 'I won't get much chance later. Listen, you've done me a kindness and I'll do you one in return. Go to the northern mountains - find a bronze gate. Bow to it three times with your hand on your heart...'
+	</p>
+	<p>'What then?' you ask, but he is gone.</p>
+	<p>
+		<tick codeword="Duress">Get the codeword Duress</tick> and <goto section="52"/>.
+	</p>
+</section>

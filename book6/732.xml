@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="732">
+	You are in open country between the Urushi Mountains and the
+	impenetrable forests of the Kwaidan range.
+	<choices>
+		<choice section="173">Go west to the coast</choice>
+		<choice section="79">Travel to Chambara</choice>
+		<choice section="362">Travel to Shingen</choice>
+		<choice section="631">Go north</choice>
+		<choice section="195">Go south</choice>
+		<choice section="444">Go further east</choice>
+	</choices>
+</section>

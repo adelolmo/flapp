@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="206">
+	As the raiders leap back to their catamarans and veer away, it is
+	left to you to count the cost of victory. You have
+	<lose stamina="2d">lost 2-12 Stamina points</lose>
+	(the roll of two dice) in the fighting.
+	<if dead="f">
+		If you can survive that, <random dice="1"/>.
+	</if>
+	<outcomes>
+		<outcome range="1-2" section="352">The raiders left empty-handed</outcome>
+		<outcome range="3-4" section="124">They took all your fresh water</outcome>
+		<outcome range="5-6" section="599">The crew blames your poor leadership</outcome>
+	</outcomes>
+</section>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="584">
+	<p>
+		In your pell-mell flight you drop the light. There is no going back for it now;
+		<lose item="?" tags="light">
+			cross it off
+		</lose>
+		your Adventure Sheet. Seeing a gleam of daylight ahead you give a gasp of relief, only to notice that the doorway is sliding inexorably shut.
+	</p>
+	<p>
+		To squeeze through before it has closed entirely requires
+		<difficulty ability="thievery" level="12">
+			a THIEVERY roll at a Difficulty of 12
+		</difficulty>.
+		Failing that, you will be sealed inside the tomb until your air runs out.
+	</p>
+	<outcomes>
+		<success section="583"/>
+		<failure section="140"/>
+	</outcomes>
+</section>

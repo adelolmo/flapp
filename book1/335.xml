@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="335">
+	<p>
+		The captain eyes your crew, and your marines. They are a tough-looking lot, seasoned sailors and veterans of quite a few battles at sea.
+	</p>
+	<p>
+		&#8216;Bah!&#8217; he exclaims, &#8216;It&#8217;s not worth the trouble. I&#8217;ll let it pass this time.&#8217;
+	</p>
+	<p>
+		With that, he returns to his ship, and departs. <goto section="439"/>.
+	</p>
+</section>

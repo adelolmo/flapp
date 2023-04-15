@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="35">
+	You are on the road leading south-east from the market town
+	of Wheatfields towards the Monastery of Molhern.
+	<choices>
+		<choice section="333">Head for the monastery</choice>
+		<choice section="71">Make for Wheatfields</choice>
+		<choice section="195">Head south-west towards the Whistling Heath</choice>
+		<choice section="328">Head north into the Endless Plains</choice>
+	</choices>
+</section>

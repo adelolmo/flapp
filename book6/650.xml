@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="650" boxes="1" image="650.jpg">
+	<p>
+		You lead your men ashore on one of the cliffs. Coarse tufts of grass sprout above weathered cliffs of chalk. A few ungainly flightless birds glare with disapproval at your insolent invasion.
+	</p>
+	<p>
+		<if ticks="0">
+			If the box above is empty,
+			<tick>put a tick in it</tick>
+			before <goto section="364">turning to 364</goto>.
+		</if>
+		If it was already ticked, read on.
+	</p>
+	<p>
+		You lay up in a cove for a couple of days while replenishing your stocks of fresh water. The men are glad to have something other than fish and ship&#8217;s biscuit to eat for a change.
+		<rest stamina="1d">Recover 1-6 Stamina points</rest>
+		(the roll of one die) if injured, and when you are ready to set sail <goto section="136"/>.
+	</p>
+</section>

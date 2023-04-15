@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="683">
+	<p><lose codeword="Future">Lose the codeword Future</lose>.</p>
+	<p>
+		You are soon fast asleep in spite of the hard clay floor, the constant trickle of rainwater and the draught coming under the door. In the small hours of the night you are confronted by three disembodied heads that come drifting through the air towards you. It seems like a nightmare until one of them tears a chunk out of your flesh with its teeth and you realize you are wide awake.
+	</p>
+	<p>
+		<lose stamina="2d">Lose 2-12 Stamina points</lose> (roll two dice). If you survive that, <goto section="273"/>.
+	</p>
+</section>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="628">
+	<p>Your fingers close around something cold.</p>
+	<p>
+		You kick hard off the bottom and up to shore. You have come up with an enchanted sword of whose kind there are few left in the <i>Fabled Lands</i>. Note the
+		<weapon name="Jade Defender" bonus="3">
+			<effect type="wielded" ability="defence" bonus="3"/>
+		</weapon>
+		on your Adventure Sheet. In effect the Jade Defender increases your Defence by 6 through its COMBAT and Defence bonuses.
+		<tick codeword="5/592" hidden="t"/>
+	</p>
+	<p><goto section="307"/>.</p>
+</section>

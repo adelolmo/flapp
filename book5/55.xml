@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="55">
+	<p>
+		'Begone, low-born knave,' says one. His voice is warped by the mask to sound like a susurration of the wind - at least you hope it is the mask that causes this effect. He touches you with a baton, and it discharges a bolt of purple energy into your body, throwing you backwards to the ground. They turn and walk on, as if floating on the air. You realise you do not have enough status in Uttaku to get justice.
+	</p>
+	<p><goto section="101"/>.</p>
+</section>

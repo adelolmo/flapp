@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="444">
+	You try to make a run for it.
+	<random>
+		<adjust ability="rank"/>
+		<adjust crew="poor" amount="-1"/>
+		<adjust crew="good" amount="1"/>
+		<adjust crew="excellent" amount="2"/>
+	</random>
+	and add your Rank. Subtract 1 from the total if you have a poor crew. Add 1 if you have a good crew or add 2 if you have an excellent crew.
+	<outcomes>
+		<outcome range="1-7" section="51">The galley overtakes you</outcome>
+		<outcome range="8+" section="402">You outrun them</outcome>
+	</outcomes>
+</section>

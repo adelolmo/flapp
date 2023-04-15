@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="459">
+	<p>
+		The village lies on the bend in a river. A jolly fellow comes out of the mill and invites you to join him over a plate of wheatcakes.
+	</p>
+	<p>
+		'Freshly baked by my good lady wife,' he declares, introducing a comely apple-cheeked woman.
+	</p>
+	<p>
+		While you are eating, other villagers come to see the traveller. When they learn you are the one responsible for the High King's return they are overcome with admiration. Gifts are thrust into your arms. <random dice="1"/> to see what you are given.
+	</p>
+	<outcomes>
+		<outcome range="1">
+			<gain shards="20"/> and a <item name="spotted scarf"/>
+		</outcome>
+		<outcome range="2">
+			<gain shards="30"/> and a length of <item name="rope"/>
+		</outcome>
+		<outcome range="3">
+			<gain shards="10"/> and a <item name="boar's tusk"/>
+		</outcome>
+		<outcome range="4">
+			<gain shards="25"/> and a <item name="lantern" tags="light"/>
+		</outcome>
+		<outcome range="5">
+			<gain shards="15"/> and a piece of <item name="parchment"/>
+		</outcome>
+		<outcome range="6">
+			<gain shards="35"/> and a <item name="four-leaf clover"/>
+		</outcome>
+	</outcomes>
+	<p>When you are ready to move on, <goto section="4"/>.</p>
+</section>

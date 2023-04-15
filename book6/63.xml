@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="63">
+	<p>
+		As winner of the bout,
+		<if shards="1">
+			he lays claim to
+			<lose shards="*">any money</lose> that you are carrying.
+		</if>
+		<else>
+			If you have no money, he takes one of your possessions instead;
+			<random dice="1" var="x"/> to see
+			<lose itemAt="x">which</lose> (e.g. if you roll a 4, he takes the fourth item listed on your Adventure Sheet).
+		</else>
+	</p>
+	<p><goto section="297"/>.</p>
+</section>

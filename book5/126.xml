@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="126" boxes="1">
+	<p>
+		The crags of the Long Homes form a range of low, broken foothills rising up to the peaks of the Grumes to the west.
+	</p>
+	<p>
+		<if ticks="0">If the box above is not ticked, <tick>tick it now</tick> and <goto section="422"/>.</if> If there is already a tick in the box, read on.
+	</p>
+	<p>
+		<if codeword="Eerie">
+			If you have the codeword Eerie,
+			<goto section="221"/>.
+		</if>
+		<if item="Black Diptych">
+			If not, but you have the <b>Black Diptych</b>,
+			<goto section="567"/>.
+		</if>
+		Otherwise, you can:
+	</p>
+	<choices>
+		<choice section="404">Explore a burial mound at random</choice>
+		<choice section="76">Leave the crags</choice>
+	</choices>
+</section>

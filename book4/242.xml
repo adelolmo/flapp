@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="242">
+	<p>
+		Protector-General Marlock sent you to speak with the commander of the citadel. You show the guards your authorization from the general, and their attitude changes from one of disdainful contempt to polite attention. You are escorted into the citadel.
+	</p>
+	<p><goto section="295"/>.</p>
+</section>

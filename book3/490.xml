@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="490">
+	<p>
+		You hail the other ship, asking its crew why they serve a monarch who is long dead.
+	</p>
+	<p>
+		&#8216;Not dead but sleeping,&#8217; counters the captain. &#8216;We are the keepers of the flame until that time when the Rimewater thaws and our liege-lord shall rise up to sweep the Uttakin into the sea.&#8217;
+	</p>
+	<p>
+		Your first mate leans over and whispers in your ear. &#8216;Fanatics, by the sound of it, captain.&#8217;
+	</p>
+	<p>You shrug. &#8216;Who knows?&#8217;</p>
+	<p>The royalist ship sails off. <goto section="475"/>.</p>
+</section>

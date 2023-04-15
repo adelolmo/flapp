@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="149">
+	<p>
+		A man accosts you as you are leaving a tavern. His breath reeks of rotting teeth, and his ear has been cut off - the mark of a man punished for piracy.
+	</p>
+	<p>
+		&#8216;Give me 10 Shards and I will tell you what you want to know,&#8217; he says.
+	</p>
+	<choices>
+		<choice section="533" shards="10">Pay the money (cross off 10 Shards)</choice>
+		<choice section="468">Refuse to pay</choice>
+	</choices>
+</section>

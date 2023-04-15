@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="316">
+	<p>
+		<if title="Chosen One of Nagil"><set var="cost" value="0"/></if>
+		<elseif god="Nagil"><set var="cost" value="200"/></elseif>
+		<else><set var="cost" value="600"/></else>
+		Resurrection costs 200 Shards if you are an initiate, 600 Shards if not. (If you have the title Chosen One of Nagil it is free of charge.)
+	</p>
+	<p>
+		Resurrection is the last word in insurance. Once you have arranged for resurrection you need not fear death, as you will be magically restored to life here at the temple.
+	</p>
+	<p>
+		To arrange resurrection, pay the fee and write
+		<resurrection text="Temple of Nagil" book="2" section="339" shards="cost" god="Nagil">
+			Temple of Nagil (<i>Cities of Gold and Glory</i> <b>339</b>)
+		</resurrection>
+		in the Resurrection box on your Adventure Sheet. If you are later killed, turn to <b>339</b> in this book.
+	</p>
+	<p>
+		You can have only one resurrection arranged at a time. If you arrange another resurrection later at a different temple, the original one is cancelled. (Cross it off your Adventure Sheet. You do not get a refund.)
+	</p>
+	<p>When you are finished here, <goto section="125"/>.</p>
+</section>

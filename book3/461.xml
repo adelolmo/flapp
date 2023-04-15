@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="461">
+	<p>
+		The fertile slopes of the volcano are covered with lush vegetation. The islanders are pleased to gather round and offer you a feast of fried yams, shellfish stew, barbecued fowl and beer made from pineapple juice.
+	</p>
+	<p><random/>.</p>
+	<outcomes>
+		<outcome range="2-6" section="442">The volcano starts to rumble</outcome>
+		<outcome range="7-12" section="706">The volcano remains dormant</outcome>
+	</outcomes>
+</section>

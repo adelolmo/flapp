@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="616">
+	<p>
+		You swim up to your ship, and haul yourself on board. The crew is astonished to see you.
+	</p>
+	<p>&#8216;Another one of the sea devils,&#8217; says the first mate.</p>
+	<p>&#8216;We don&#8217;t want any more bad luck,&#8217; says a crew member.</p>
+	<p>&#8216;Aye, we&#8217;ll have to kill this one as well,&#8217; says the first mate.</p>
+	<p>
+		You try to protest, but your words come out as a bubbling, fishy warble. The first mate finishes you with his spear. Your adventuring days are over unless you have a
+		<if resurrection="t">
+			<group>
+				<text>resurrection deal</text>
+				<lose ship="t"/>
+				<resurrection hidden="t"/>
+			</group>
+		</if>. If you do have a deal, when you come back to life, note that you have lost your ship and crew - as far as they are concerned, you never came back from the depths.
+	</p>
+</section>

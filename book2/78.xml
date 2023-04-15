@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="78">
+	You head over the downs and strike out towards the hinterlands
+	of Golnir. <random type="travel"/>:
+	<outcomes>
+		<outcome range="2-5" section="222">An uneventful journey</outcome>
+		<outcome range="6-7" section="728">Pipe music at night</outcome>
+		<outcome range="8-12" section="474">Burial mounds at dusk</outcome>
+	</outcomes>
+</section>

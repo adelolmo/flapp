@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="580">
+	A huge golden-skinned snake dangles from the bough in front of
+	you. A green gem is set into the middle of its head. As this burns
+	against the twilight, you hear a voice in your mind, all cold
+	hisses and dripping with predatory nuance: <i>Hear me, mortal. You
+	seek adventure? Hazards hold no terror for you? Then submit to my
+	wager...</i>
+	<choices>
+		<choice section="652">Accept the snake&#8217;s wager</choice>
+		<choice section="604">Attack it</choice>
+		<choice section="93">Run off</choice>
+	</choices>
+</section>

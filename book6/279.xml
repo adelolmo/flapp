@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="279" image="279.jpg">
+	<p>
+		Beside a lake stands a mansion with ornamental dragons carved from blocks of blue jade on either side of the entrance. The roof rises in sweeping tiers resembling the high prow of a ship, and the whole edifice is decorated with sinuous silver spikes that look like icicles pointing up at the sun.
+	</p>
+	<p>
+		<if codeword="Faded">
+			If you have the codeword Faded, <goto section="44"/>.
+		</if>
+		Otherwise <goto section="435"/>.
+	</p>
+</section>

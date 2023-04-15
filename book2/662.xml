@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="662">
+	<p>
+		You present the Baroness with 100 Shards (or all that you&#8217;re carrying, if you don&#8217;t have that much on you). &#8216;What is mere wealth?&#8217; you declare gallantly. &#8216;I exist only to serve you, my lady.&#8217;
+	</p>
+	<p>
+		Sir Debrumas accepts the money on Vanna&#8217;s behalf, as it is not seemly for one of high birth to handle the coins of merchants. You are escorted from the court and fetched back later for a banquet. If injured, <rest stamina="1">recover 1 Stamina point</rest> (up to the limit of your normal unwounded score).
+	</p>
+	<p>
+		The next day you awaken refreshed and ready for any adventure. <goto section="342"/>.
+	</p>
+</section>

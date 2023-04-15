@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="405">
+	<!-- HACK: we remove the candle in the next section if a lantern
+	is not found. Edit if other light sources emerge -->
+	The tunnel is unlit. To enter the mound you must possess a <b>candle</b>, <b>lantern</b>, or other light source. (If you light a <b>candle</b>, cross it off because it can be used only this once.)
+	<choices>
+		<choice item="?" tags="light" section="598">Enter the mound</choice>
+		<choice section="226">No light source</choice>
+	</choices>
+</section>

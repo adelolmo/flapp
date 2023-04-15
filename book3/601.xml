@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="601">
+	<p>
+		An icy downpour forces you to shelter in a lonely barn where you are reduced to eating some of the fodder left for the animals. By daybreak you have a fever, and are in no condition to put up a fight when you are discovered by the owner of the barn.
+	</p>
+	<p>&#8216;The Reavers will give me a reward for capturing you,&#8217; he says.</p>
+	<p><goto section="472"/>.</p>
+</section>

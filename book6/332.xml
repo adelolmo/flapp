@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="332">
+	People cannot help but be impressed by your striking good looks.
+	<tick hidden="t" ability="charisma" effect="-fixed"/>
+	<tick hidden="t" ability="charisma" effect="-cursed"/>
+	<set var="c" value="12-charisma" modifier="natural"/>
+	<gain ability="charisma" amount="c">Increase your CHARISMA score to 12</gain>.
+	You wonder who the face you now wear originally belonged to. Perhaps you will never know.
+	<lose codeword="Face">Lose the codeword Face</lose> and
+	<tick codeword="Feral">get Feral instead</tick>.
+	Also lose the codewords
+	<lose codeword="Bullion">Bullion</lose>,
+	<lose codeword="Clanger">Clanger</lose> and
+	<lose codeword="Fracas">Fracas</lose> if you had them.
+	Then <goto section="529"/>.
+</section>

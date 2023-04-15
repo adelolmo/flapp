@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="40">
+	<p>
+		You take the <b>Book of the Seven Sages</b> to Pyletes the Sage at the Gold Dust Tavern. He thanks you effusively for bringing it to him. Your reward is secret learning from the temple of Molhern, god of knowledge. <gain ability="?" amount="1">Add 1 to the ability of your choice</gain>. Also gain the title <gain title="Illuminate of Molhern">Illuminate of Molhern</gain> - write this in the Titles and Honours box on your Adventure Sheet. <lose codeword="Artefact">Lose the codeword Artefact</lose> and <lose item="Book of the Seven Sages">cross off</lose> the <b>Book of the Seven Sages</b>.
+	</p>
+	<p>
+		<tick codeword="StillInYellowport" hidden="t"/>
+		<goto section="10"/>.
+	</p>
+</section>

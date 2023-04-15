@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="114">
+	<p>
+		You are taken before the Reaver King in his grim fortress which stands at the back of the secluded cove where the pirates have their base. Many a captain in the world&#8217;s navies would pay dearly to know the location of this place, the secret harbour from which the dread Reavers swoop out to prey on passing ships.
+	</p>
+	<p>
+		<if codeword="Cutlass">
+			If you have the codeword Cutlass, <goto section="473"/>.
+		</if>
+		If not, <goto section="233"/>.
+	</p>
+</section>

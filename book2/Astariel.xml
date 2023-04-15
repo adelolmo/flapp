@@ -1,0 +1,16 @@
+<section name="Astariel Skysong" profession="Troubadour">
+	<p>
+		Astariel has the wanderlust, and chafes if he has to remain in one place for any length of time. He enjoys the freedom of the open road and the thought that he never knows what adventures each new day will bring. He lives by his wits and is a familiar figure at tavern firesides, where he regales travellers with his tales.
+	</p>
+	<p>
+		You can play as Astariel, or as a troubadour with a different name (enter it in the 'Name' field). To begin your adventure, <goto section="1" force="f"/>.
+	</p>
+	<p>For another profession, choose from the following:</p>
+	<choices>
+		<choice section="Liana">Wayfarer</choice>
+		<choice section="Andriel">Warrior</choice>
+		<choice section="Chalor">Mage</choice>
+		<choice section="Marana">Rogue</choice>
+		<choice section="Ignatius">Priest</choice>
+	</choices>
+</section>

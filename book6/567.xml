@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="567">
+	<p>
+		<lose codeword="6.567.1" hidden="t"/>
+		<if codeword="Fright">
+			If you have the codeword Fright, <goto section="751"/>.
+		</if>
+		Otherwise, read on below.
+	</p>
+	<p>
+		You climb up to the first balcony and slip in through a narrow window. The interior of the tower is an architect&#8217;s nightmare of long shadows, twisting stairs and crazy angles. In the top-most chamber you see a giant dozing in a chair. Treasure lies in heaps around his feet, but you must be careful not to wake him.
+	</p>
+	<p>
+		<tick codeword="6.567.1" hidden="t"/>
+		<group>
+			<text>Make a THIEVERY roll at a Difficulty of 16</text>
+			<lose codeword="6.567.1"/>
+			<difficulty ability="thievery" level="16"/>
+		</group>
+		if you decide to risk it.
+	</p>
+	<outcomes>
+		<success section="651"/>
+		<failure section="534"/>
+		<choice box="6.567.1" section="501">Back out and leave</choice>
+	</outcomes>
+</section>

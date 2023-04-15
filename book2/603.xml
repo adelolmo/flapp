@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="603">
+	As the punt drifts on, darkness congeals around you until the
+	only things you can see are the ghostly figures beside you.
+	Finally the punt jolts to a halt, and you walk along a jetty into a
+	shadowy hall. <goto section="689"/>.
+</section>

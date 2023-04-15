@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="559">
+	Your ship is sailing in the coastal waters off Shadar Tor.
+	<choices>
+		<choice section="222">Sail north west towards Marlock City</choice>
+		<choice section="29">Sail north east towards Yellowport</choice>
+		<choice section="416">Sail south into the Violet Ocean</choice>
+	</choices>
+</section>

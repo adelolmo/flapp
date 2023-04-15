@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="119">
+	<p>
+		You take them by surprise, and cut them down without a sound. You heave down on a massive lever, and the great gates begin to grind slowly open. Within seconds, the citadel is in uproar.
+	</p>
+	<p>
+		Outside, on the northern plain, a deafening shout, from a thousand voices, splits the quiet of the night, and an &#233;lite force of Beladai's army charges the gate. Inside, the garrison rushes to the defence.
+	</p>
+	<p>
+		In the confusion, you hope to make your escape.
+		<if codeword="Dim">
+			If you have the codeword Dim, <goto section="655"/>.
+		</if>
+		If not, <rankcheck dice="2"/>.
+		<success>
+			If the score is less than or equal to your Rank,
+			<goto section="606"/>.
+		</success>
+		<failure>
+			If it is higher than your Rank, <goto section="375"/>.
+		</failure>
+	</p>
+</section>

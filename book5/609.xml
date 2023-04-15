@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="609">
+	<p>
+		To succeed, you will need to make a MAGIC roll at Difficulty 16, followed by a SANCTITY roll at Difficulty 10. You can use the bonuses of the <b>cobalt wand (MAGIC +3)</b>, and the <b>holy symbol (SANCTITY +2)</b> for these rolls.
+	</p>
+	<p>First <difficulty ability="magic" level="16">make the MAGIC roll</difficulty>.</p>
+	<outcomes>
+		<success section="609a"/>
+		<failure section="138"/>
+	</outcomes>
+</section>

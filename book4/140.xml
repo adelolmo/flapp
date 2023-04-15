@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="140">
+	<p>
+		You lose your way in the freezing tunnels, and wander for miles. Eventually, your light source burns out completely, and you are plunged into darkness.
+	</p>
+	<p>
+		A whistling wind springs up, and something rushes at you out of the blackness, howling like a banshee. You are struck senseless.
+	</p>
+	<p>
+		You come round on the shore of the lake, drained of your vital energy by some vampiric force. <lose ability="rank" amount="1">Reduce your Rank by one</lose>, and <random dice="1" var="x"/>. The result is the <lose ability="stamina" amount="x">number of Stamina points you lose</lose>, permanently. <goto section="320"/>.
+	</p>
+</section>

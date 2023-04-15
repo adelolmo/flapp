@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="218">
+	<p>
+		You react too late to the threat. Before you can move, clammy blue hands with long, strong digits are clasped around your throat. The troll you outwitted earlier is a tenacious and vengeful foe - he has picked up your trail far from where you first saw through his illusion. The strangling hands tighten their grip as the troll's fetid breath washes over you.
+	</p>
+	<p>
+		<difficulty ability="combat" level="12"/>.
+		<failure>If you fail,
+			<lose stamina="3">lose 3 Stamina points</lose>
+			and
+			<while var="free">
+				<difficulty ability="combat" level="12">try again</difficulty>.
+				<failure>
+					Each time you fail, <lose stamina="3">lose another 3 Stamina points</lose> as you choke in the troll's merciless hold.
+				</failure>
+				<success>
+					<set var="free" value="1"/>
+					If you succeed, whether through skill or luck, you manage to wriggle free and prepare yourself for a fight.
+				</success>
+			</while>
+		</failure>
+	</p>
+	<fight name="Troll" combat="6" defence="11" stamina="15"/>
+	<p>
+		If you win, <goto section="307"/>.
+		If you lose, <goto section="7" dead="t"/>.
+	</p>
+</section>
+				

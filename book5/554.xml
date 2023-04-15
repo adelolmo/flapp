@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="554">
+	<p>
+		'I need one more ingredient before I can activate the golem,' says Hemmuwa silkily. 'To be precise, a human heart! Come to think of it, yours will be perfect, and it'll save me the payment for the ore!'
+	</p>
+	<p>He steps toward you, readying a spell.</p>
+	<choices>
+		<choice section="375">Try to talk him out of it</choice>
+		<choice section="708">Counter with a spell of your own</choice>
+		<choice section="612">Draw your weapon and attack him</choice>
+	</choices>
+</section>

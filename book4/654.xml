@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="654">
+	<p>
+		The hut heaves itself out of the mire with a horrible sucking sound, and a voice, cracked and gnarled with ancient evil, shrills at you from inside, &#8216;I&#8217;ll teach you to disturb my rest, impudent one!&#8217;
+	</p>
+	<p>
+		Spiked thorns spring forth from the jointed legs of the hut as it begins to lumber towards you.
+	</p>
+	<p>
+		<if item="rope">
+			If you have some <b>rope</b>, <goto section="545"/>.
+		</if>
+		Otherwise, <goto section="578"/>.
+	</p>
+</section>

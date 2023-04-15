@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="643">
+	<p>
+		<!-- need to make this curse fixed, and possibly invisible -->
+		You wait all night, going back to the hole to see what has been left for you. The pot and your 50 Shards have gone, but there is a
+		<item name="silver mirror"/>.
+	</p>
+	<p>
+		When you look into the mirror, however, you are horrified to see that your face has been frightfully rearranged. You now look like something out of a nightmare.
+		<tick ability="charisma" effect="+fixed">
+			Reduce your CHARISMA to 1
+		</tick>
+		and note that it can <i>never</i> increase again.
+		<i>[Note that a mask will hide your face, restoring your CHARISMA to normal while you wear it--Ed]</i>
+	</p>
+	<p>
+		Sick at heart, you trudge on through the woods. <goto section="349"/>.
+	</p>
+</section>

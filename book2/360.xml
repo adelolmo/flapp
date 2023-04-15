@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="360" image="360.jpg">
+	You see a group of smugglers bringing their contraband ashore
+	by the light of the moon.
+	<choices>
+		<choice section="415">Show yourself</choice>
+		<choice section="268">Continue on your way</choice>
+	</choices>
+</section>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="262">
+	<p>
+		You charge into the burning building in search of the child&#8217;s mother. You see her lying unconscious at the bottom of the stairs. Desperately, you try to get to her but a burning beam has fallen across your way and the smoke is making you choke.
+	</p>
+	<p>
+		<rankcheck dice="1" add="-1">Roll a die and subtract one from the result</rankcheck>.
+		<success>
+			If you score less than or equal to your Rank, <goto section="546"/>.
+		</success>
+		<failure>Otherwise, <goto section="133"/>.</failure>
+	</p>
+</section>

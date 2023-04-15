@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="198">
+	You are at sea off Knucklebones Point.
+	<choices>
+		<choice section="210">Go west</choice>
+		<choice section="119">Go east</choice>
+		<choice book="3" section="402">Go south</choice>
+	</choices>
+</section>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="41">
+	<p>
+		<if god="Ebron">If you have Ebron written in your God box, <goto section="501"/> immediately.</if> If not, read on.
+	</p>
+	<p>
+		'We don't let unbelievers like you into the palace, you blaspheming devil!' bellows the masked Expunger guard at the bottom of the stairs. You are turned away. 'Come back when you have embraced the true faith,' he yells after you.
+	</p>
+	<p><goto section="444"/>.</p>
+</section>

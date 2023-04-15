@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="233" image="232.jpg">
+	<p>
+		You are face to face with Amcha One-Eye, the bane of honest merchants throughout the northern lands. If you imagined that he would wear an eye-patch you were mistaken. His sightless eye is kept openly displayed, an unblinking white orb that strikes terror into the hearts of all who must confront him.
+	</p>
+	<p>
+		<if item="pirate captain's head">
+			If you possess a <b>pirate captain&#8217;s head</b>, <goto section="493"/>.
+		</if>
+		If not, <goto section="400"/>.
+	</p>
+</section>

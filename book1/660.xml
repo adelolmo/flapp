@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="660">
+	<p>
+		You are greeted warmly by the commander of the fort, whose daughter, Alissia, embraces you happily.
+	</p>
+	<p>
+		You can stay here, in comfortable lodgings, free of charge. You can <rest>restore any lost Stamina points</rest>, up to your maximum. When you are ready, you can leave.
+	</p>
+	<choices>
+		<choice section="225" book="4">East into Nerech</choice>
+		<choice section="299">North west to Fort Mereth</choice>
+		<choice section="259">South east to Fort Brilon</choice>
+		<choice section="548">West into the farmlands</choice>
+	</choices>
+</section>

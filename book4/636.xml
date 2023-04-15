@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="636">
+	You are traversing the barren windswept peaks at the very rim of the world. To the south is the bleak vista of the steppes; north will take you to a realm only spoken of in myths.
+	<choices>
+		<choice section="362">Go north</choice>
+		<choice section="164">Go south</choice>
+	</choices>
+</section>

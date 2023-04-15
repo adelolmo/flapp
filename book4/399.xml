@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="399">
+	<p>
+		Your foot slips, your fingers close on thin air - with a sickening lurch you go plummeting down into the void.
+	</p>
+	<p>
+		<if item="rope">
+			If you possess a <b>rope</b>, <goto section="187"/>.
+		</if>
+		If not, nothing can save you and you are doomed to fall for ever through illimitable darkness - <goto section="7"/>.
+	</p>
+</section>

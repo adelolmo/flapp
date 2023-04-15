@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="166">
+	You seek to shame them by pointing out their shortcomings in
+	comparison with the great and noble deeds of the gods. This
+	requires you to
+	<difficulty ability="sanctity" level="15">
+		make a SANCTITY roll at a Difficulty of 15
+	</difficulty>;
+	failure means that you only manage to arouse them to ire.
+	<outcomes>
+		<success section="184"/>
+		<failure section="73"/>
+	</outcomes>
+</section>

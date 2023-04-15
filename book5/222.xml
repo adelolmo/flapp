@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="222">
+	<p>
+		You are close to the banks of the River Rese, the border between Golnir and Old Harkuna. On the other side of the river you can see the flag-topped walls of Castle Ravayne, some way away.
+	</p>
+	<choices>
+		<choice section="111">Follow the river north</choice>
+		<choice book="2" section="25">Cross the river to the castle</choice>
+		<choice section="539">Go west into the countryside</choice>
+		<choice section="31">North-west into the Singing Forest</choice>
+	</choices>
+</section>

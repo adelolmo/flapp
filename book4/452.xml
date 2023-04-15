@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="452">
+	<p>
+		You cannot feel your limbs. Your blood is thick with cold. Hunger turns from a gnawing pain into a sensation of hollowness and enervation. Darkness flutters at the edge of your vision: you could imagine it is the robe of Nagil as he quickens his pace behind you in the snow.
+	</p>
+	<p>
+		<lose stamina="2d">Lose 2-12 Stamina points</lose> (the roll of two dice). If still alive, <difficulty ability="scouting" level="18"/>.
+	</p>
+	<outcomes>
+		<success section="317"/>
+		<failure section="7"/>
+	</outcomes>
+</section>

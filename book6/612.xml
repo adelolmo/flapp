@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="612" dock="Chambara">
+	Extensive quays enclosed by a broad sea wall comprise the
+	dockland area of Chambara. Here you can set sail if you have a
+	ship, or buy one if you do not. If you have neither a ship of
+	your own nor the money to buy one, it is also possible to hire
+	passage on a vessel bound for other ports.
+	<choices>
+		<choice sail="t" section="571">If your ship is docked here</choice>
+		<choice section="518">Buy a ship</choice>
+		<choice section="536">Hire crew for your ship</choice>
+		<choice section="497">Sell a ship</choice>
+		<choice section="555">Hire passage to another port</choice>
+		<choice section="79">Go back into the city</choice>
+	</choices>
+</section>

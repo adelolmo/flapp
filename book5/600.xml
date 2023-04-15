@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="600">
+	<p>
+		A sleek war-galley courses through the waves towards you. It has the wind behind it, and you are unable to escape. As it draws near, you see the decks are crowded with an evil-looking crew of cutthroats and villains. The pirates pull alongside, and grapple your ship with determined efficiency. They board you, and a bitter battle ensues.
+	</p>
+	<p>
+		<difficulty ability="combat" level="13">
+			<adjust ship="barque" value="-1"/>
+			<adjust ship="galleon" value="1"/>
+			<adjust crew="poor" value="-1"/>
+			<adjust crew="excellent" value="1"/>
+		</difficulty>.
+		Subtract one from the roll if your ship is a barque. Add one if it is a galleon. Subtract one if you have a poor crew; add 1 if you have an excellent crew.
+	</p>
+	<outcomes>
+		<success section="460"/>
+		<failure section="540"/>
+	</outcomes>
+</section>

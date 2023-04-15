@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="109">
+	<p>
+		You are about to leave when you see a crowd gathered around a slim pasty-faced scholar at a card table.
+	</p>
+	<p>
+		&#8216;By the Three Fortunes, but I&#8217;m hot tonight!&#8217; he cries. It seems he is on a winning streak. You notice a couple of dodgy-looking ruffians watching the scholar carefully.
+	</p>
+	<choices>
+		<choice section="540">Wait and follow the scholar</choice>
+		<choice section="100">Return to the city centre</choice>
+	</choices>
+</section>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="250">
+	<p>You are off the northern coast of Uttaku.</p>
+	<p><random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-3" section="600">Pirates</outcome>
+		<outcome range="4-10" section="81">Plain sailing</outcome>
+		<outcome range="11-12" blessing="storm" section="527">A storm</outcome>
+	</outcomes>
+	<p>
+		If you roll 11-12 and have a blessing of Safety from Storms,
+		<lose blessing="storm">lose the blessing</lose> and <goto section="81"/>.
+	</p>
+</section>

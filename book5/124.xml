@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="124">
+	<p>
+		'Then you are under arrest for lesser heresy,' grates one of them. They reach for you with the gem-tipped rods that they carry.
+	</p>
+	<choices>
+		<choice section="92">Run for it</choice>
+		<choice section="350">Be taken to the dungeons of Aku</choice>
+	</choices>
+</section>

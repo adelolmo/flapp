@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="691">
+	<p>
+		The feast goes on late into the night, and dawn find most of the pirates slumped across the tables. A few hardy souls are still stuffing titbits into their mouths, swilling them down with Uttakin brandy. &#8216;So, is it your intention to take up the piratical life yourself?&#8217; asks one man.
+	</p>
+	<p>
+		<if codeword="Crocus">
+			If you have the codeword Crocus, <goto section="549"/>.
+		</if>
+		<if codeword="Colour">
+			If not but you have the codeword Colour, <goto section="458"/>.
+		</if>
+		Otherwise <goto section="476"/>.
+	</p>
+</section>

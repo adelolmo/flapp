@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="564">
+	There are four vessels docked here at Braelak. The silk-robed
+	captain of an Akatsurese galley is prepared to take you to
+	Chambara for 20 Shards. A merchant whose vessel is bound for
+	Ringhorn will take you along for 10 Shards. There is an
+	explorer who wants 15 Shards to take you to Smogmaw. Or you
+	can arrange passage to Aku aboard an Uttakin warship for 15
+	Shards.
+	<choices>
+		<choice section="600" shards="20" pay="f">Pay for passage to Chambara</choice>
+		<choice section="618" shards="10" pay="f">Pay for passage to Ringhorn</choice>
+		<choice section="636" shards="15" pay="f">Pay for passage to Aku</choice>
+		<choice section="535" shards="15" pay="f">Pay for passage to Smogmaw</choice>
+		<choice section="175">Take the road to Dweomer</choice>
+	</choices>
+</section>

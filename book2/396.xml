@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="396">
+	Some say that the whistling wind carries secrets from the
+	afterlife. Is it that or some sixth sense that tells you something
+	important is going to happen?
+	<choices>
+		<choice section="496">Go north</choice>
+		<choice section="762">Go south</choice>
+		<choice section="521">Go east</choice>
+		<choice section="546">Go west</choice>
+	</choices>
+</section>

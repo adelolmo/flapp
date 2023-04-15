@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="285">
+	There are no proper roads out of Kaiju; most of the citizens
+	have no desire to venture into the barbaric hinterlands of Toho
+	island. If you wish to travel on from here by sea you should go
+	down to the harbour.
+	<choices>
+		<choice section="554">Go west over the fields</choice>
+		<choice section="592">Travel east out of the city</choice>
+		<choice section="128">Go to the harbour</choice>
+	</choices>
+</section>

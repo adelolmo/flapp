@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="441" image="441.jpg">
+	<p>
+		You manage to run outside safely. The Ruby Citadel collapses in on itself with a thundering roar, but the tattooed man calmly walks out, chunks of ruby rock bouncing off his blue energy shield. His hawk-nosed face is made all the more strange by the bizarre tattoos that cover him entirely.
+	</p>
+	<p>
+		&#8216;I am Targdaz,&#8217; he says, &#8216;the Magnificent.&#8217; He tilts his head back as he says &#8216;magnificent&#8217;, as if challenging you to gainsay him. &#8216;Anyway,&#8217; he goes on, &#8216;I&#8217;m grateful...&#8217; He pauses for a moment, and looks away, struck by a sudden thought. Then he yells, &#8216;By the Fiery One! Of course!&#8217;
+	</p>
+	<p>
+		He turns away, gestures, and a large palanquin of black and gold appears in mid-air, floating in front of him. He jump in, and yells: &#8216;Take me to the Hall of Ebron and no further!&#8217;
+	</p>
+	<p>
+		The palanquin moves off. You notice footprints appearing in the snow, as of invisible bearers, carrying the palanquin away. Then it accelerates to an impossible speed, and races out of sight. The last thing you hear is Targdaz muttering, &#8216;Must tell Hetepek....&#8217;
+	</p>
+	<p>
+		You examine the footprints, and give an involuntary shudder: they are not human.
+	</p>
+	<p>
+		Musing about the strange behaviour of wizards, especially ungrateful ones, you carry on your way.
+	</p>
+	<p>
+		<if profession="Troubadour">
+			If you are a Troubadour, <goto section="28"/>.
+		</if>
+		If not, <goto section="499"/>.
+	</p>
+</section>

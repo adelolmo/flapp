@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="312">
+	<p>
+		The homes of the merchants are safely clear of the sewage outlets in the underside of the city, although a strong wind can sometimes carry an unpleasant whiff. In front of them runs a paved promenade where heavily laden ox-carts trundle day and night. From the edge of the promenade you can get a dizzying view of the harbour far below. Strains of delicate harpsichord music waft from the leafy terraces of the city suspended over the chasm.
+	</p>
+	<p>
+		A merchant pauses beside you and half closes his eyes, smiling serenely. For an instant you think he is also enjoying the music, but then he hawks and spits over the side. You see the gobbet of phlegm swoop down to catch a slum-dweller where he squats in front of his shack a hundred feet further down the clif. 'A-ha-ha!' crows the merchant. 'See that? The stupid dozer didn't expect that, did he?'
+	</p>
+	<p>What delightful people the Uttakin are, you muse.</p>
+	<p>
+		You overhear some snippers of information regarding the best trade routes - <tick codeword="Eldritch">tick the codeword Eldritch</tick>.
+	</p>
+	<choices>
+		<choice section="721">Go to the merchants' guild</choice>
+		<choice section="444">Return to the city centre</choice>
+	</choices>
+</section>

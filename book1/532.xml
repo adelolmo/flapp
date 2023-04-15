@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="532">
+	<p>
+		The scorpion men&#8217;s shaman falls dead with an uncannily human cry.
+		<if codeword="ScorpionSting">
+			<lose codeword="ScorpionSting" hidden="t"/>
+			If you were wounded in that fight, you have been
+			<poison name="Scorpion Poison">
+				poisoned<effect ability="combat" bonus="-1"/>
+				<effect ability="thievery" bonus="-1"/>
+				<effect ability="scouting" bonus="-1"/>
+			</poison> by the scorpion man&#8217;s venom. Subtract 1 from your COMBAT, THIEVERY and SCOUTING abilities, as you are severely weakened (though no ability can drop to zero). Note that you are poisoned - you can restore your ratings to normal if you get cured.
+		</if>
+		<if poison="Scorpion Poison">
+			<if item="scorpion antidote">
+				If you have some <b>scorpion antidote</b>, it will <lose poison="Scorpion Poison">cure the poison</lose> immediately (<lose item="scorpion antidote">cross off the <b>antidote</b></lose>).
+			</if>
+		</if>
+	</p>
+	<p>
+		A quick search reveals what you were looking for - the <item name="Book of the Seven Sages"/>. Note it on your Adventure Sheet.
+	</p>
+	<p>
+		You steal out of the mound unnoticed and make it safely back to the village of Venefax, to the north. <goto section="427"/>.
+	</p>
+</section>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="325">
+	<p>
+		Cliff Wood is a pleasant tract of woodland. Birds sing in the trees, and the air is fresh and bracing.
+	</p>
+	<p>
+		You find a cottage in a clearing in the wood. The old nomad woman who lives there offers to read your fortune with regard to a particular question for 10 Shards.
+	</p>
+	<choices>
+		<choice section="635" shards="10">Ask about the High King</choice>
+		<choice section="55" shards="10">Ask about the Ruby Citadel</choice>
+		<choice section="353" shards="10">Ask about the City of Ruins</choice>
+		<choice section="280">Leave the wood</choice>
+	</choices>
+</section>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="636">
+	Room after room is unlit, cold and deserted. From outside
+	comes the growl of distant thunder and then the sound of light
+	rain gusting against the shutters. You are about to leave when
+	you notice a fine <weapon name="golden katana" tags="6.636"/>
+	hanging on the wall. Add this
+	to your list of possessions if you wish, then <goto section="657"/>.
+</section>

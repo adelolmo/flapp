@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="576">
+	You can rest at the abbey as long as it is necessary to recover
+	from your injuries.
+	<rest>Restore your Stamina</rest> to its normal
+	unwounded score. When you are ready to resume your travels,
+	<goto section="38"/>.
+</section>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="307">
+	You are in the northern Grumes. From your vantage point, you can clearly see the major feature of this area: the Lake of the Seven Needles, source of the Ruby River. To one side, you see clear signs of mining equipment - perhaps to mine the iron that is so common in this range of peaks. You can also hear the roar of a nearby waterfall and see the blood-coloured spray, which rises high and fades eerily into the thin sky.
+	<choices>
+		<choice section="592">Investigate the waterfall</choice>
+		<choice section="469">Look over the mining equipment</choice>
+		<choice section="714">Journey south along the Grumes</choice>
+		<choice section="268">Head for the Lake of the Seven Needles</choice>
+		<choice section="217">West to the Icicle Woods</choice>
+		<choice section="35">North into the Spine of Harkun</choice>
+		<choice section="328">East into Old Harkuna</choice>
+		<choice section="465">South-east along the Ruby River</choice>
+	</choices>
+</section>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="682">
+	In a hole under an oak tree you find an old copper pot. You
+	recall hearing an old folktale in which a man left 50 Shards in
+	such a pot and was rewarded by the faerie folk.
+	<choices>
+		<choice section="754" shards="50">Leave 50 Shards in the pot</choice>
+		<choice section="349">Go on your way</choice>
+	</choices>
+</section>

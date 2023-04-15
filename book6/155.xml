@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="155">
+	<p>
+		Narai is a city of high wooden stave-halls and long bridges built between the many tranquil rock gardens. Seen in winter, with snow dusting the rooftops and smudging the contours of the landscape beyond, it is a place of almost ethereal beauty.
+	</p>
+	<p>
+		<if not="t" codeword="6.155.1"><if shards="300">
+				You can buy a town house here for 300 Shards. If you do,
+				<group>
+					<text>put a tick in the box</text>
+					<lose shards="300"/>
+					<tick codeword="6.155.1"/>
+				</group>
+				beside the town house option below.
+		</if></if>
+	</p>
+	<choices>
+		<choice box="6.155.1" section="414">Visit your town house {box} (if box ticked)</choice>
+		<choice section="433">Go to the harbour</choice>
+		<choice section="511">Go shopping</choice>
+		<choice section="532">Visit a temple</choice>
+		<choice section="11">Leave the city</choice>
+	</choices>
+</section>

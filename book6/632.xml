@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="632">
+	You are at the southern tip of Yodoshi, the main island of
+	Akatsurai. The climate here is subtropical, and exotic scents
+	tinge the breeze, but the mountains to the north wear caps of
+	snow.
+	<choices>
+		<choice section="359">Travel up into the mountains</choice>
+		<choice section="323">Go west to Hidari</choice>
+		<choice section="535">Follow the coast up to Mukogawa</choice>
+	</choices>
+</section>

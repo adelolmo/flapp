@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="92">
+	He falls dead at your feet. Searching him, you find <gain shards="25"/> you can take if you wish. Then you flip up his eyepatch. Nestling in the eye-socket is a sparkling gem, a flame opal. You pluck it free. Note the <item name="flame opal eye"/> on your Adventure Sheet and
+	<group force="t">
+		<text>lose the codeword <i>Barnacle</i></text>
+		<lose codeword="Barnacle"/>
+		<lose codeword="Bumble"/>
+	</group>.
+	You hurry off, before a patrol arrives. <goto section="400"/>.
+</section>

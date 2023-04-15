@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="474">
+	From Aku, overland, you can go:
+	<choices>
+		<choice section="438">North-east into the countryside</choice>
+		<choice section="334">North-west on the road to Kunrir</choice>
+		<choice section="621">North into the southern Grumes</choice>
+	</choices>
+</section>

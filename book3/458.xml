@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="458">
+	<p>
+		The Reavers have no intention of releasing your ship and crew; slave labour is too valuable.
+	</p>
+	<p>
+		<if item="silver medallion">
+			If you have a <b>silver medallion</b>,
+			<goto section="567"/>.
+		</if>
+		If not, you must decide whether to sneak off and rescue your men (<goto section="438" force="f"/>) or forget about them and see to your own future (<goto section="476"/>).
+	</p>
+</section>

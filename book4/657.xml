@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="657">
+	<p>
+		The Cave of Bells is, in fact, a cathedral of great size. Inside its cavernous interior hang dozens of huge bronze bells. All the bells are etched with Shadar Runes; they have names such as The Thunderer, Knell of Doom, Ringer-in-Darkness and so on.
+	</p>
+	<p>
+		<if codeword="Egret">
+			If you have the codeword Egret, <goto section="704"/>.
+		</if>
+		Otherwise choose from the following options:
+	</p>
+	<choices>
+		<choice section="68">Ring a bell at random</choice>
+		<choice section="107">Visit the Vault of the Shadar</choice>
+		<choice section="298">Visit the Crypt of Kings</choice>
+		<choice section="266">Leave the City of Ruins</choice>
+	</choices>
+</section>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="404">
+	<p>You sink into a trance in which voices roar and blur.</p>
+	<p>&#8216;The assassin is dead, my lord.&#8217;</p>
+	<p>&#8216;Good. Throw the body into the sea.&#8217;</p>
+	<p>
+		You are stripped of all your possessions and money
+		(<lose item="*" shards="*">cross them off</lose>
+		your Adventure Sheet) and then flung off the cliffs.
+		When the current has carried you up on to a stretch of shoreline safely out of sight of the villa, you cancel the trance spell.
+	</p>
+	<p><goto section="362"/>.</p>
+</section>

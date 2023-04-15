@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="359">
+	<p>
+		Cross off the 200 Shards from your Adventure Sheet. Blue Cap snorts with satisfaction and lumbers off into the dark.
+	</p>
+	<p>
+		You press on down the tunnel. After a while, you come to a large round chamber of dressed stone, hung with banners. Flat, stone slabs are arranged around its edge. Upon them rest warriors in golden armour. They clasp long, two-handed swords in their gauntleted hands. They appear to be asleep. <goto section="75"/>.
+	</p>
+</section>

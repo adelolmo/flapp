@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="428">
+	<p>
+		With a martial cry you draw your weapon and charge. You manage to cut down two of the ratmen before they can react. The remaining two officers draw their swords while King Skabb ducks down behind his throne. You must fight them, both at once, as if they were one opponent.
+		<if item="rat poison">
+			If you have some <b>rat poison</b>, you can smear it on your weapon blade to add 3 to your dice rolls.
+			<group>
+				<text>Cross the <b>rat poison</b> off</text>
+				<lose item="rat poison"/>
+				<tick special="attack" bonus="3"/>
+			</group>
+			your Adventure Sheet after use.
+		</if>
+	</p>
+	<fight name="Two ratmen" combat="8" defence="11" stamina="12"/>
+	<p>
+		If you win, <goto section="145"/>.
+		If you lose, <goto section="308" dead="t"/>.
+	</p>
+</section>

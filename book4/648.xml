@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="648">
+	<p>
+		<if codeword="Double">
+			If you have the codeword Double, <goto section="189"/> immediately.
+		</if>
+		If not, read on.
+	</p>
+	<p>
+		The dead nomad has red blotches all over his face and his eyes have been pecked clean by the birds.
+	</p>
+	<choices>
+		<choice section="332">Search him</choice>
+		<choice section="698">Leave him</choice>
+	</choices>
+</section>

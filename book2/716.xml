@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="716">
+	You are on the banks of the Rainbow River where it meanders
+	between the Haunted Hills and the dreaded Forest of the
+	Foraken.
+	<choices>
+		<choice section="237">Follow the river south</choice>
+		<choice section="30">Go west</choice>
+		<choice section="122">Go east</choice>
+		<choice section="305">Go up into the Haunted Hills</choice>
+		<choice section="7">Enter the Forest of the Forsaken</choice>
+	</choices>
+</section>

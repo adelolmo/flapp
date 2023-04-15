@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="14">
+	Your ship is sailing off the south-eastern coast. &#8216;Wishport, ahoy!&#8217;
+	calls down the lookout.
+	<choices>
+		<choice section="175">Go west</choice>
+		<choice book="3" section="402">Go south</choice>
+		<choice book="1" section="222">Go east</choice>
+		<choice section="325">Dock at Wishport</choice>
+	</choices>
+</section>

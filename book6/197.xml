@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="197">
+	<p>
+		You jump lightly on to the serpent&#8217;s head just as its eyes snap open. You feel as though your heart skipped a beat. Without waiting for it to attack, you hurry on up the valley towards the trees.
+	</p>
+	<p>
+		There is a flicker in the corner of your eye. It felt as if a cold wind blew past you, ruffling your clothes. You look back towards the stream, but there is now no sign of the serpent.
+	</p>
+	<p>
+		&#8216;Hallo,&#8217; says an imperious voice. You jump back a pace. A tall man in long robes of dark green silk is standing under the trees just in front of you. Where did he come from?
+	</p>
+	<p>
+		&#8216;I am the god of the valley,&#8217; he says. &#8216;Since you were brave enough to cross the river by stepping on my head, I know you will not shrink from undertaking a dangerous task. Go now to the Yasai Mountains and retrieve my royal sceptre and you will be richly rewarded.&#8217; With those words he departs.
+	</p>
+	<p>
+		<gain codeword="Fresco">Get the codeword Fresco</gain>
+		and <goto section="111"/>.
+	</p>
+</section>

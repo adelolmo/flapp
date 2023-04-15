@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="444" image="444.jpg">
+	<p>
+		From a distance the towers of Aku seem to hover in the air like a city in a mirage. Gardens of riotous foliage cascade like green waterfalls from the elegant pinnacles and domes. Windows of brightly stained glass glint and sparkle in the white sea-cast sunlight. Choir music drifts languidly from the highest minarets. Men and women in gorgeous silk robes glide decorously along the raised esplanades and balconies. For the masked nobles of Aku, life is one long round of banquets and masked balls.
+	</p>
+	<p>
+		Not so for the poor. The city is built right across the top of a narrow river canyon hundreds of feet high. The rich live in the city proper, the better-off merchants have mansions on the upper ledges of the canyon walls, and the slums of the poor cluster far down below. There they must endure the daily shower of sewage and refuse from above but, even so, many covet the sites directly under the city. This is because the nobles sometimes toss scraps of meat or half-eaten fruits from the balconies, or even whimsically drop coins off the marble balustrades; a desperate man can always dream of a windfall from on high.
+	</p>
+	<p>
+		Guards stand on duty beside the ramps leading to the noble palaces, as stiff and unmoving as figures of cast iron. These men are members of the Expunger caste. Their tunics are cut away leaving the right arms bare from the shoulder down, the skin patterned with a black filigree of tattoos swirling down the forearm and hand towards the long, iron-hard fingernails with which they can slay a foe with a single cobra-like stab.
+	</p>
+	<p>
+		On the terraces of the canyon wall just below you are the warehouses and homes of the merchant class. A few shrubs are the only decorative touch to relieve the grey tedium of those narrow peak-roofed dwellings.
+	</p>
+	<p>
+		Aku is the capital of Uttaku. A great palace, resting on massive buttresses, sits above the city like a spider. In the palace lives the Faceless King and the nobles of the Court of Hidden Faces. You ask a passerby about the people of Uttaku. He tells you to go to an inn, where your questions will be answered.
+	</p>
+	<choices>
+		<choice section="163">Visit an inn</choice>
+		<choice section="101">Go to the Grand Bazaar</choice>
+		<choice section="141">Go to the Ice Bazaar</choice>
+		<choice section="94">Visit the Cathedral of Ebron</choice>
+		<choice section="645">Visit the Red Garden</choice>
+		<choice section="103">Explore the city</choice>
+		<choice section="330">Visit the slums</choice>
+		<choice section="300">Visit the palace</choice>
+		<choice section="312">Go to the merchants' quarter</choice>
+		<choice section="88">Visit the docks</choice>
+		<choice section="474">Leave the city on foot</choice>
+	</choices>
+</section>

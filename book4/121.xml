@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="121">
+	<p>
+		Your hair stands on end, and you feel a prickly sensation all over your body. Suddenly, you find yourself on an island beach. A thick, greenish fog-bank hangs out to sea, completely surrounding the isle. Inland, it is covered in a hot, steamy jungle from which rises a forested mountain. You have arrived on the Isle of Mystery.
+	</p>
+	<p><goto section="564"/>.</p>
+</section>

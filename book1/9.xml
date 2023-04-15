@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="9" image="9.jpg">
+	<p>
+		<if codeword="Altitude">
+			If you have the codeword Altitude, <goto section="272"/> immediately.
+		</if>
+		If not, read on.
+	</p>
+	<p>
+		A notice has been pinned up in the foyer. &#8216;Adventurer priest wanted. See the Chief Administrator.&#8217;
+	</p>
+	<p>
+		Naturally, you present yourself, and the Chief Administrator, a grey-whiskered priest of Elnir, takes you into his office. He shows you a special crystal ball that displays an aerial view of Marlock City. You notice several strange-looking clouds hanging over the city. They are shaped like gigantic demons reaching down to claw at the city laid out below them.
+	</p>
+	<p>
+		&#8216;The crystal ball shows things as they are in the spirit world,' explains the priest. &#8216;These storm demons cannot be seen under normal circumstances, but they are there, almost ready to destroy the city.&#8217;
+	</p>
+	<p>
+		He goes on to tell you that Sul Veneris, the divine Lord of Thunder is one of the sons of Elnir, the Sky God, chief among the gods. He is responsible for keeping the storm demons under control, and thunder is thought to be the sound of Sul Veneris smiting the demons in his wrath.
+	</p>
+	<p>
+		&#8216;Unfortunately, the storm demons have found a way to put Sul Veneris into an enchanted sleep. He lies at the very top of Devil&#8217;s Peak, a single spire of volcanic rock, reaching up into the clouds. The peak lies north of Marlock City and the Curstmoor. We need an enterprising priest to get to the top of the peak and free Sul Veneris from his sleep. But I must warn you that several priests have already tried, and we never saw them again.&#8217;
+	</p>
+	<p>
+		If you take up the quest, <tick codeword="Altitude" force="f">record the codeword Altitude</tick>.
+		<goto section="100"/>.
+	</p>
+</section>

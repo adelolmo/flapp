@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="58" image="58.jpg">
+	<p>
+		The Plaza of the New Gods is a large oval, the floor of which is covered in a mosaic of multi-coloured bricks that depicts a woman whose face shines like the sun, the chief goddess of the pantheon of the Akatsurai. Around the oval are several magnificent temples, their mirrored spires and gabled pagodas sparkle in the sun.
+	</p>
+	<p>
+		Many people throng the plaza: priests and holy men, hawkers and hucksters, samurai and nomads. You learn a little about the gods of Akatsurai from them.
+	</p>
+	<p>
+		In the plaza there are temples to Nisoderu, Goddess of the Rising Sun, and Queen of the Other Gods; Juntoku, Lord of War; Nai, Sender of Earthquakes; and Amanushi, Master of the Night.
+	</p>
+	<p>
+		You also hear a rumour that the temple of Nisoderu is looking for a courageous priest to help them with a task.
+	</p>
+	<choices>
+		<choice section="89">Visit the temple of Nisoderu</choice>
+		<choice section="462">Visit the temple of Juntoku</choice>
+		<choice section="614">Visit the temple of Nai</choice>
+		<choice section="194">Visit the temple of Amanushi</choice>
+		<choice section="10">Leave the plaza</choice>
+	</choices>
+</section>

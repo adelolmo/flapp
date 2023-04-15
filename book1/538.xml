@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="538">
+	<p>
+		&#8216;Refusing to pay your taxes, eh!&#8217; says their leader. That&#8217;s a crime for sure!&#8217;
+	</p>
+	<p>
+		They close in around you. You&#8217;ll have to think fast.
+		<difficulty ability="charisma" level="11"/>.
+	</p>
+	<outcomes>
+		<success section="18"/>
+		<failure section="157"/>
+	</outcomes>
+</section>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="352">
+	Spider silk hangs like wisps of mist over a mildewed altar.
+	Among the decaying strands of webbing you find 5-30 Shards
+	(<random dice="1" var="x"/> and
+	<set var="s" value="x*5"/>
+	<gain shards="s">multiply by five</gain>).
+	When you are ready to resume your journey, <goto section="398"/>.
+</section>

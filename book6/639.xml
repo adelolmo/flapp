@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="639">
+	<p>
+		You strike the monk down. He does nothing to resist.
+		<lose ability="sanctity" amount="1d">
+			Lose 1-6 points from your SANCTITY score permanently
+		</lose>
+		for attacking a blameless holy man. Your score, however, cannot go below 1.)
+	</p>
+	<p>
+		The monk levitates away nursing his injuries. Are you at all ashamed as you slope off to your bed? <goto section="610"/>.
+	</p>
+</section>

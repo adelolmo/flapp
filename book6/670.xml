@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="670">
+	You find your way into Kiyomori&#8217;s private chambers. He is
+	outside in the garden watching a play, so you have plenty of
+	time to sort through his treasure chest. You can take
+	<gain shards="1000"/>,
+	a <item name="tatsu pearl"/>,
+	a <weapon name="pole axe" bonus="2"/>
+	and <item name="silver chopsticks"/>.
+	To sneak back out, <goto section="79"/>.
+</section>

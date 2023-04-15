@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="121">
+	At dusk you come to a yawning hole in a hillside. It is
+	overgrown with creepers and you would never have noticed it
+	but for the glimmer of grey light corning from within.
+	<choices>
+		<choice section="169">Enter</choice>
+		<choice section="31">Walk on</choice>
+	</choices>
+</section>

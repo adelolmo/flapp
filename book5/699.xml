@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="699">
+	<p>
+		You cannot find the entrance to any of the Long Homes - even the one you previously entered.
+	</p>
+	<p><tick codeword="Ectoplasm"/> and <goto section="471"/>.</p>
+</section>

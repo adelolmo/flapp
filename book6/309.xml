@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="309">
+	<p>
+		The sea heaves and swells. &#8216;No sight of land,&#8217; calls down the sailor in the crow&#8217;s nest.
+	</p>
+	<p><random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-3" section="588">The ship runs aground</outcome>
+		<outcome range="4-11" section="193">A peaceful voyage</outcome>
+		<outcome range="12" section="145">Prey for pirates</outcome>
+	</outcomes>
+</section>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="333">
+	A tavern squats beside a mill-pond. Weeping willows shade the
+	tables in the beer garden at the back. It looks an inviting place to
+	spend a few days.
+	<choices>
+		<choice section="12">Stop at the tavern</choice>
+		<choice section="356">Press onwards</choice>
+	</choices>
+</section>

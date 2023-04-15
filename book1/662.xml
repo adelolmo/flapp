@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="662">
+	<p>
+		That night, after Lauria has picked the locks on your chains, you head off for the tunnel rendezvous. You find there has been a cave-in, but the overseer and a troop of guards are waiting for you!
+	</p>
+	<p>
+		Lauria steps out laughing. In return for her betraying you, the overseer has transferred her to work on the surface, from which she will be able to escape more easily. You have been stitched up again!
+	</p>
+	<p>
+		The overseer has you whipped for trying to escape and you are left with some nasty scars. <lose ability="charisma" amount="1">Lose 1 point of CHARISMA permanently</lose>.
+	</p>
+	<p>
+		<tick codeword="Anger">
+			Gain the codeword Anger
+		</tick>, and
+		<lose codeword="Ashen">
+			lose the codeword Ashen
+		</lose>.
+	</p>
+	<p>
+		A few days later, you try another escape on your own. <goto section="565"/>.
+	</p>
+</section>

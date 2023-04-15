@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="565">
+	<p>
+		<lose curse="Avenger's Bite" hidden="t"/>
+		Your last blow cleaves the ghostly apparition in two, and it dissipates into the dark. You proceed onward down the tunnel. But then you spot the spectre reforming in the air! It swoops to attack again, with an unearthly howl. This time, it stronger than before.
+	</p>
+	<fight name="Irmak's Spectre" combat="10" defence="10" stamina="12"/>
+	<p>
+		<fightdamage type="add">
+			Each time you are wounded by the spectre,
+			<difficulty ability="sanctity" level="11"/>.
+			<failure>
+				If you fail the roll, the sword
+				<curse name="Avenger's Bite" cumulative="t">
+					drains you of one COMBAT point
+					<effect ability="combat" bonus="-1"/>
+				</curse>.
+			</failure>
+			<success>
+				If you make the roll, you resist the COMBAT drain.
+			</success>
+		</fightdamage>
+	</p>
+	<choices>
+		<choice section="7" dead="t">If you lose</choice>
+		<choice section="631">If you win</choice>
+		<choice section="45">If you run away</choice>
+	</choices>
+</section>

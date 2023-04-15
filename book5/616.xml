@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="616">
+	<p>
+		You are chained to a large millstone grinder, which you and several others have to push round and round, day after day. You are well fed and cared for, however, like a farmer's valued workhorse. <rest>You can restore any lost Stamina points</rest>.
+	</p>
+	<p>
+		On your immediate left is a blue-skinned Uttakin called Isputakhsus Uilusa. Blue skin is the mark of a pure-bred aristocrat of Uttaku. You wonder what terrible crime a noble could have committed to end up a slave. He tells you it was for supreme heresy.
+	</p>
+	<p>
+		'If it wasn't for my noble birth, I would have been executed in the Red Garden,' he explains.
+	</p>
+	<p>
+		'The Red Garden?' enquires another slave, a bald-headed nomad of the northern steppes.
+	</p>
+	<p>
+		'Best you do not ask about the Red Garden ...' says the Uttakin mournfully, before sinking into a despondent silence.
+	</p>
+	<p><goto section="172"/>.</p>
+</section>

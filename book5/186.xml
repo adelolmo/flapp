@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="186">
+	<p>
+		'Hah!' shouts the lord, overjoyed. 'That is a request I do not have to grant after the twenty-third holy decree of the seventeenth Faceless King, made seven hundred and thirty-six years ago! And you cannot make more than one request of me! Excellent!'
+	</p>
+	<p>You can do nothing but leave, musing about the strange customs of the Uttakin.</p>
+	<p>You go back to the Cathedral of Ebron, purified but no wiser. <goto section="94"/>.</p>
+</section>

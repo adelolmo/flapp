@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="555">
+	Every few days, the jailer chains you to the wall and gives you a
+	pounding. One day he goes too far and thinks he has killed you
+	- perhaps he has.
+	<lose stamina="1d">Lose 1-6 Stamina points</lose>
+	(the score of one die).
+	If you survive, <goto section="505"/>.
+	If not, <goto section="560" dead="t"/>.
+</section>

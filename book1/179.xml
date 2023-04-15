@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="179">
+	<p>
+		You claim that you have come to swear allegiance to Nergan, the rightful king of Sokara. Captain Vorkung is not convinced. He narrows his eyes suspiciously.
+	</p>
+	<p>
+		&#8216;You&#8217;d better leave - now. Before I decide you are a spy, and have you shot!&#8217;
+	</p>
+	<p>
+		One of the archers looses a shaft, and an arrow thuds into the ground at your feet, quivering menacingly.
+	</p>
+	<p>
+		You realize it is time to leave, and climb down the mountain. <goto section="474"/>.
+	</p>
+</section>

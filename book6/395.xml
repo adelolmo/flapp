@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="395">
+	<p>
+		The landscape sweeps as far as you can see in all directions, a wuthering expanse of barren heath and grey swamps.
+	</p>
+	<p><random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-7" section="416">Nothing of note</outcome>
+		<outcome range="8-12" section="290">A burial mound</outcome>
+	</outcomes>
+</section>

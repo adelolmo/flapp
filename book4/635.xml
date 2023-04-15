@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="635">
+	<p>
+		Cross off 10 Shards. The old woman tosses some dirty old bones into a wooden bowl. She scrutinizes them and then fixes you with a beady stare.
+	</p>
+	<p>
+		&#8216;Go to the High King&#8217;s Seat. You will find your answer there!&#8217; she rasps.
+	</p>
+	<p>You leave the wood. <goto section="280"/>.</p>
+</section>

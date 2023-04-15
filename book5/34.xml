@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="34" image="34.jpg">
+	<p>
+		Out of the north comes a great procession of knights bearing the banner of the High King - an awesome sight. A figure in their midst rides forward bearing a crown, a scythe and a mace. It is the High King himself! At his approach, the wall of thorns that surrounds the castle withers away. He and his knights enter in triumph.
+	</p>
+	<p><goto section="9">Turn to 9</goto>.</p>
+</section>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="61" tag="temple">
+	<p>
+		You are allowed to stay one night at the abbey. <rest stamina="2">Recover 2 Stamina points</rest> if injured. &#8216;You must leave now,&#8217; the nuns tell you at breakfast. &#8216;Only initiates may remain here among us.&#8217;
+	</p>
+	<p>
+		<if safeAddGod="Lacuna">
+			If you wish to become an initiate of Lacuna you must convince the nuns of your sincerity by
+			<difficulty ability="sanctity" level="12" force="f">
+				making a SANCTITY roll at Difficulty 12
+			</difficulty>.
+		</if>
+		(But you cannot try to become an initiate of Lacuna if you are already an initiate of another god.)
+	</p>
+	<choices>
+		<success section="84">Become an initiate</success>
+		<choice section="84" god="Lacuna">Already an initiate</choice>
+		<choice section="38">Leave</choice>
+	</choices>
+</section>

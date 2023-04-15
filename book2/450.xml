@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="450">
+	Three penniless wanderers tell you a tale of being washed up on
+	a lonely shoreline. &#8216;Still, we&#8217;re determined to make names for
+	ourselves,&#8217; they vow. Their predicament reminds you of your
+	own early career, so you
+	<adjustmoney multiply="0.9">
+		give them a tenth of any cash you have on you
+	</adjustmoney>
+	(rounding fractions up). Only later, while passing
+	through a village, do you remember seeing their faces on a
+	wanted poster. <goto section="288"/>.
+</section>

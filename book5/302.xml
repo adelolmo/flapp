@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="302">
+	<p>
+		<if codeword="&#201;lan">If you have the codeword &#201;lan, <goto section="420"/> immediately.</if> If not, read on.
+	</p>
+	<p>
+		The Master of Shadows is planning an expedition to rob the Spider Palace. He is in need of good thieves, and you are invited to join the mission.
+	</p>
+	<choices>
+		<choice section="545">Accept</choice>
+		<choice section="686">Decline</choice>
+	</choices>
+</section>

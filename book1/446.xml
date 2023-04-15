@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="446" boxes="1">
+	<p>
+		<if ticks="1">
+			If there is a tick in this box, <goto section="226"/> immediately.
+		</if>
+		If not, <tick/> and read on.
+	</p>
+	<p>
+		You set out that night, on your quest.
+		<difficulty ability="magic" level="10"/>.
+	</p>
+	<outcomes>
+		<success section="511"/>
+		<failure section="328"/>
+	</outcomes>
+</section>

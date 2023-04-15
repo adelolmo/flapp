@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="678">
+	<p>
+		The brigands accept your surrender. They
+		<lose shards="*">take all your cash</lose> and, for good measure, also
+		<lose item="*">divest you of your possessions</lose>. You are left with scarcely a scrap of cloth to cover yourself.
+	</p>
+	<p>
+		&#8216;Next time you&#8217;ll know not to be so argumentative,&#8217; says the leader of the brigands as they run off.
+	</p>
+	<p>
+		Cross all the cash and possessions off your Adventure Sheet, then <goto section="258"/>.
+	</p>
+</section>

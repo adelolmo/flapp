@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="700" image="700.jpg">
+	<p>
+		<if title="Masked Lord|Masked Lady">
+			If you have the title Masked Lord or Masked Lady,
+			<goto section="473"/>.
+		</if>
+		If not, read on.
+	</p>
+	<p>
+		You are escorted to the Grand Hall of the Lord of All by a platoon of Expungers, the &#233;lite fanatical guard of the court. You have to walk down a long hallway of polished marble until you reach the throne of the Faceless King.
+	</p>
+	<p>
+		The king wears ornate robes of such finery that he can barely move. His mask is of featureless white ivory - you know that, underneath, his face is also featureless. The throne is a massive structure of gold and jewels, and is actually on wheels. The king never moves from the throne - if he wants to go anywhere the throne, which is some kind of horseless chariot, will take him there.
+	</p>
+	<p>
+		Various ministers and officials surround the king, and you have to prostrate yourself before him. He leans forward and whispers into the ear of a woman wearing a mask that is also blank, save for a single mouth painted right in the middle of it. She has the title Holy Factotum of He who is Appointed by Ebron and everything that the Faceless King has to say is relayed through her.
+	</p>
+	<p><goto section="325"/>.</p>
+</section>

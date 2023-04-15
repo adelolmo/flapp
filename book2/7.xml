@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="7">
+	The Forest of the Forsaken is a dark forbidding place. Even in
+	broad daylight, shadows cluster like a mass of cobwebs under the
+	gnarled boughs. As you skirt the forest searching for a path, you
+	see a hamlet at the edge of the trees. A man looks up as you
+	approach and starts to ring an iron bell.
+	<choices>
+		<choice section="136">Enter the hamlet</choice>
+		<choice section="159">Press on</choice>
+	</choices>
+</section>

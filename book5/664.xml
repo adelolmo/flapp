@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="664">
+	<p>The Soulwatch is pleased to see that you have a striped scarf.</p>
+	<p>
+		'Remember, if you do not wear a striped scarf on the holy day of the Burning of the Heretics in Hell you are committing a crime of lesser heresy,' one cautions as they glide away.
+	</p>
+	<p>
+		Musing on the bizarre theological zealotry of the Uttakin, you journey on. <goto section="100"/>.
+	</p>
+</section>

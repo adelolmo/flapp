@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="514">
+	<p>
+		A merchant ship is heading towards you.
+		<if codeword="Dead">
+			If you have the codeword Dead, <goto section="569"/> immediately.
+		</if>
+		<if codeword="Divest">
+			If not, but you have the codeword Divest, <goto section="470"/> immediately.
+		</if>
+		If you have neither codeword, read on.
+	</p>
+	<p>
+		The merchant ship is a large galleon, called the <i>Sea Centaur</i>.
+	</p>
+	<p>
+		Your first mate says, &#8216;That&#8217;s the ship of Avar Hordeth. He&#8217;s from Metriciens originally, but he has a villa in Yarimura. He&#8217;s one of the richest merchants around - his treasure room is said to be awash with gold and jewels. And some say he didn&#8217;t get it all honestly, if you catch my drift, cap&#8217;n.&#8217;
+	</p>
+	<p>You sail on. <goto section="236"/>.</p>
+</section>

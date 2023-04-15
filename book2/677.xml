@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="677" image="677.jpg">
+	<p>
+		The simpletons are trying to get their cow to climb up a ladder on to the roof on their house, where they have noticed some stalks of grass growing in the thatch.
+	</p>
+	<p>
+		&#8216;Go on, Daisy!&#8217; urges one of the seven fools, giving the reluctant cow a shove.
+	</p>
+	<p>
+		&#8216;Why don&#8217;t you climb the ladder, cut the grass and throw it down to the cow?&#8217; you suggest.
+	</p>
+	<p>
+		They are so pleased that they invite you to stay with them for a few days. If injured, you can <rest stamina="1d">recover 1-6 Stamina points</rest> (roll one die for how many) before setting out on your way.
+	</p>
+	<p><goto section="265"/>.</p>
+</section>

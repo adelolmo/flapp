@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="168">
+	<p>You arrive at a village. <if codeword="Diamond">If you have the codeword Diamond, <goto section="459"/>.</if> If not <goto section="299"/>.</p>
+</section>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="60">
+	You reckon your position to be at the southern edge of the Sea
+	of Hydras. To the south east lies Gashmuru Gulf - and beyond,
+	Dangor and the Forbidden Realm.
+	<choices>
+		<choice book="11" section="77">Go south-east</choice>
+		<choice section="23">Go north-west</choice>
+		<choice book="6" section="102">Go east</choice>
+		<choice section="98">Go north</choice>
+		<choice book="7" section="500">Go south-west</choice>
+	</choices>
+</section>

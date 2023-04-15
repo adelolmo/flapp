@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="505">
+	<p>
+		You are walking through the green countryside when a man on a flying throne swoops down out of the sky! He has bright blue eyes, and a long white beard that trails behind him in the wind for several feet. He looks completely out of his mind.
+	</p>
+	<p>
+		'Ha, ha!' he cries insanely. 'It's another visit from Holyamu the Unbidden!'
+	</p>
+	<p>
+		He flies past and drops a bucket of foul-smelling liquid over your head, before disappearing into the sky, laughing madly.
+	</p>
+	<p>
+		The stuff smells like skunk-juice. Note that your
+		<curse name="Skunk-juice" lift="Are you at a river, village, town or city?">
+			CHARISMA rating is reduced by one
+			<effect ability="charisma" bonus="-1"/>
+		</curse>,
+		until you can get to a river, village, town or city, where you can wash your clothes and restore your rating to normal.
+		<i>[You can lift this curse when appropriate by double-clicking it or right-clicking and selecting 'Lift curse...'. Be honest! --Ed]</i>
+	</p>
+	<p>
+		Roundly cursing Holyamu with every insult you can think of, you journey on.
+	</p>
+	<p><goto section="443"/>.</p>
+</section>

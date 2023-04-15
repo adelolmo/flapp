@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="522">
+	<p>
+		A blast of heat erupts from behind the door, burning away your hair and blistering your skin in seconds. Slamming the door shut, you stagger back outside.
+	</p>
+	<p>
+		<lose ability="stamina" amount="1d">
+			Lose 1-6 Stamina points permanently
+		</lose>
+		- i.e. reduce both your current and unwounded Stamina by the roll of one die. In addition, you
+		<lose ability="charisma" amount="1">lose 1 point of CHARISMA</lose> because of the disfiguring burns.
+	</p>
+	<p>If you are still alive, <goto section="373"/>.</p>
+</section>

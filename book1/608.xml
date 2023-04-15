@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="608">
+	<p>
+		You inch your way slowly around the edge of the old temple. Suddenly, you burst out of the shadows and cut the king down, catching the ratmen by surprise.
+	</p>
+	<p>
+		At the sight of you standing over their dead king, the four remaining ratmen flee in terror. Without their king, they have no spirit for a fight.
+	</p>
+	<p><goto section="554"/>.</p>
+</section>

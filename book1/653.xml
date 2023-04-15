@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="653">
+	<p>
+		You are on a quest to take the oak staff to the Willow Druid who lives in a sacred grove somewhere in the forest. You wander around, looking for unusual tracks, strange creatures, anything that might lead you to a druid&#8217;s den.
+	</p>
+	<p><difficulty ability="scouting" level="12"/>.</p>
+	<outcomes>
+		<success section="217"/>
+		<failure section="7"/>
+	</outcomes>
+</section>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="687">
+	<p>
+		Holyamu blinks, and looks at you a little closer. 'Oh, it's you,' he says. 'How do you like your hair?' He laughs maniacally.
+	</p>
+	<p>
+		Holyamu will restore your hair to normal for 50 Shards if you want.
+		<if shards="50">
+			If so,
+			<group>
+				<text>pay the 50 Shards</text>
+				<lose shards="50"/>
+				<lose codeword="Elk"/>
+			</group>
+			and delete the codeword <i>Elk</i>.
+		</if>
+	</p>
+	<p>
+		<if codeword="Ethereal">
+			If you have the codeword Ethereal,
+			<goto section="254"/>.
+		</if>
+		If not, you can:
+	</p>
+	<choices>
+		<choice section="19">Attack Holyamu</choice>
+		<choice section="152">Ask him to lift a curse</choice>
+		<choice section="54">Leave</choice>
+	</choices>
+</section>

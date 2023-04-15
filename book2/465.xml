@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="465" boxes="1">
+	<training ability="scouting"/>,
+	and if you get higher than your SCOUTING score
+	you can add 1 to it.
+	<if ticks="0">
+		If the box above is empty,
+		<tick>put a tick in it</tick>
+		and <goto section="489"/>.
+	</if>
+	If it was ticked already, <goto section="514"/>.
+</section>

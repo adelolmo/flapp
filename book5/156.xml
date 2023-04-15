@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="156">
+	<p>
+		The pure-bred aristocracy of Uttaku, the high caste, have blue skin. As you have blue skin, the vizier thinks you must be of noble blood, and that you must have been lost at birth or something. Obviously, this changes the attitude of the Uttakin towards you. The vizier is pleased to announce that you are to be accepted in the audience chamber.
+	</p>
+	<p><goto section="401"/>.</p>
+</section>

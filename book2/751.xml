@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="751">
+	<p>
+		You are given a plate of nourishing stew with hunks of freshly baked bread, washed down with cool refreshing ale. While you eat, the innkeeper makes you up a bed in the cosy nook beside the hearth.
+	</p>
+	<p>
+		<if blessing="poison">
+			If you have a blessing of Immunity to Disease/Poison,
+			<lose blessing="poison">cross it off</lose> and
+			<goto section="385"/>.
+		</if>
+		<else>Otherwise <goto section="560"/>.</else>
+	</p>
+</section>

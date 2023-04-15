@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="467">
+	<if title="Hatamoto">
+		If you have the title Hatamoto, <goto section="553"/>.
+	</if>
+	If not, you can stay as a guest at the mansion (if injured,
+	<rest>restore your Stamina to its unwounded score</rest>) and,
+	when you&#8217;re ready to leave, <goto section="178"/>.
+</section>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="379">
+	<p>
+		You are knocked to the ground, expertly pinned, and given a vicious beating. <lose stamina="2d">Lose 2-12 Stamina points</lose> (the roll of two dice). If still alive, you are barely conscious of the nomads stripping you of your possessions. They leave your money, having no use for coinage.
+	</p>
+	<p>
+		By the time you can get to your feet, the nomads have ridden off. Their captive hangs dead in his bonds. <lose item="*">Delete all possessions</lose> from your Adventure Sheet and <goto section="52"/>.
+	</p>
+</section>

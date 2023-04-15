@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="169">
+	<p>
+		You grab the box. Instantly, several soldiers leap out from inside the coach where they were hiding, and a masked lord steps out of the house, accompanied by three or four archers.
+	</p>
+	<p>
+		'So you're the thief!' cries the lord. 'This time we are ready for you - seize him men.'
+	</p>
+	<p>
+		You are surrounded and taken into captivity. <difficulty ability="charisma" level="15"/>. <success>If you succeed, you end up thrown into the dungeons of Aku - <goto section="350"/></success>. <failure>If you fail, you are sold into slavery in Aku - <goto section="321"/></failure>.
+	</p>
+</section>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="310" boxes="1">
+	<!-- does this box ever get ticked? -->
+	<p>
+		<if ticks="1">
+			If there is a tick in the box, <goto section="614"/> immediately.
+		</if>
+		If not, <tick/> and read on.
+	</p>
+	<p>
+		The Stinking River has cut its way through the high ground here. On the edge of the chasm that overlooks the river lies the village of High Therys.
+	</p>
+	<p>
+		The locals are behaving very oddly. You watch the villagers lay out a fine feast on the village green. A pig is set roasting on a spit, loaves of freshly baked bread are piled beside bowls overflowing with fruits, butter and cheese. Lastly, the richest merchants of the village bring coffers full of silver which they set beside the table. To your amazement, instead of sitting down to dine, the villagers then scurry home and start closing the shutters on their windows. <goto section="283"/>.
+	</p>
+</section>

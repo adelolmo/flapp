@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="386">
+	<p>
+		<i>[Weapon upgrading is currently unimplemented - sorry --Ed]</i>
+		Targdaz can attempt to increase the COMBAT bonus of any one weapon that you possess. (However, note that no weapon can have a bonus higher than six). To succeed in doing so, you must roll greater than the weapon's current COMBAT bonus on two dice. If you fail, however, <random>roll the dice again</random>.
+	</p>
+	<outcomes>
+		<outcome range="2-6">The weapon is destroyed</outcome>
+		<outcome range="7-12">The weapon loses one COMBAT bonus</outcome>
+	</outcomes>
+	<p>When you have finished here, <goto section="245"/>.</p>
+</section>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="59">
+	At the southern tip of the Innis Shoals lie the Straits of Alvir, by
+	which you can gain passage to the great western ocean.
+	<choices>
+		<choice book="9" section="84">Go west through the Shoals</choice>
+		<choice section="399">Steer along the Straits of Alvir</choice>
+		<choice section="79">Go east</choice>
+		<choice section="96">Go north</choice>
+	</choices>
+</section>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="770">
+	<lose codeword="2.770.1" hidden="t"/>
+	They say nothing in response to your defiance, but you sense
+	they are almost pleased to have the opportunity to fight you. Do
+	battle with each in turn:
+	<fight name="1st Highwayman" combat="5" defence="7" stamina="7"/>
+	<fight name="2nd Highwayman" combat="5" defence="7" stamina="7"/>
+	<fight name="3rd Highwayman" combat="4" defence="5" stamina="4"/>
+	<p>
+		<flee>
+			<set var="bonus" value="armour"/>
+			If you flee, you will get shot in the back with the crossbow that the third man is carrying:
+			<random dice="2" var="x">
+				<adjust amount="-bonus"/>
+			</random>
+			and subtract your armour&#8217;s Defence bonus to find out how many <lose stamina="x">Stamina points of damage</lose> it does.
+			<tick codeword="2.770.1" hidden="t"/>
+		</flee>
+	</p>
+	<choices>
+		<choice box="2.770.1" section="55">Flee</choice>
+		<choice section="404">Win</choice>
+	</choices>
+</section>

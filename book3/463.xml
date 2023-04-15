@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="463">
+	You believe that everything points to the bosun as the man
+	responsible for this heinous crime. You order him clapped in
+	irons, but the crew protest that he is a man of unblemished
+	character who would never kill anyone except in an honest
+	brawl.
+	<choices>
+		<choice section="677">Press the matter</choice>
+		<choice section="554">Let it drop</choice>
+	</choices>
+</section>

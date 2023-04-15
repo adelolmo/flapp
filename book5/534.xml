@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="534" boxes="1">
+	<p>
+		<if ticks="1">If there is a tick in the box, <goto section="154"/> immediately.</if> If not, <tick>put a tick there now</tick>, and read on.
+	</p>
+	<p>
+		Something is rushing toward you through the undergrowth, shaking the bushes and ferns of the forest. Yet you cannot see anything - an invisible threat!
+	</p>
+	<p><difficulty ability="magic" level="14"/>.</p>
+	<outcomes>
+		<success section="688"/>
+		<failure section="611"/>
+	</outcomes>
+</section>

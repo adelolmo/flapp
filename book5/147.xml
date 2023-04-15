@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="147">
+	<p><if title="Masked Lord|Masked Lady">If you have the title Masked Lord or Masked Lady, <goto section="224"/>.</if> If not, you can:
+	</p>
+	<choices>
+		<choice section="401">Go back to the audience chamber</choice>
+		<choice section="444">Return to the city below the palace</choice>
+	</choices>
+</section>

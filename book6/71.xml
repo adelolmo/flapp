@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="71">
+	<p>
+		Yoritomo is as busy as ever, but he has time to greet you. &#8216;I am concerned that Lord Kumonosu of Yarimura should not intervene in our struggle against the Starburst Clan,&#8217; he confides to you. &#8216;Go to Yarimura as my emissary and advise him to stay neutral.&#8217;
+	</p>
+	<p>You bow and withdraw. <goto section="553"/>.</p>
+</section>

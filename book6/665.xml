@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="665">
+	Soaring pines lean overhead, virtually blotting out the sunlight.
+	You are a solitary traveller adrift in the immensity of the
+	Kwaidan Forest.
+	<choices>
+		<choice section="687">Search for a way out</choice>
+		<choice section="715">Go deeper into the woods</choice>
+	</choices>
+</section>

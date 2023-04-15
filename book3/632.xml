@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="632">
+	<p>
+		&#8216;I knew it!&#8217; he shrieks. &#8216;The librarian sent you, didn&#8217;t he? Well, just you tell him that I&#8217;ll keep it as long as I want. I&#8217;m the Master! Me!&#8217;
+	</p>
+	<p>
+		He flicks a spell of summary dispatch. The room disappears, there is a whirling kaleidoscope around you, then you find yourself plummeting out of a clear sky to land with a thud at the base of a tall oak.
+		<goto book="1" section="596">Turn to 596</goto> in
+		<i>The War-Torn Kingdom</i>.
+	</p>
+</section>

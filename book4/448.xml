@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="448">
+	<if codeword="Defend|Deliver">
+		If you have the codeword Defend or Deliver, <goto section="376"/>.
+	</if>
+	If not, <goto section="418"/>.
+</section>

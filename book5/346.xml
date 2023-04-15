@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="346">
+	From here, you can go:
+	<choices>
+		<choice section="17">North to Spatterdash</choice>
+		<choice section="333">East to the River Rese</choice>
+		<choice section="31">South into the Singing Forest</choice>
+		<choice section="653">West, towards the High King's Seat</choice>
+	</choices>
+</section>

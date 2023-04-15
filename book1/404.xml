@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="404">
+	<p>
+		One of the cultists of Badogor the Unspoken is feigning distress in the hope of luring a sacrificial victim for dinner. He sits up when he recognizes you as a member of the cult, and says, rather disconsolately, &#8216;Ah, hallo friend. We were hoping for a big banquet tonight.&#8217;
+	</p>
+	<p>
+		Two more cultists step from the shadows, holding a net. &#8216;Oh well, perhaps another will come along,&#8217; one of them says optimistically.
+	</p>
+	<p>
+		They treat you as one of their own - even giving you a share of the cult&#8217;s recent income. You get <gain shards="20"/>.
+	</p>
+	<p>&#8216;May you never speak his name,&#8217; they intone in parting.</p>
+	<p>
+		<tick codeword="StillInYellowport" hidden="t"/>
+		You return to the city centre. <goto section="10"/>.
+	</p>
+</section>

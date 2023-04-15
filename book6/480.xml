@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="480">
+	The snake slides off into the undergrowth having sunk its fangs
+	in your ankle. Pain floods into your veins, icy cold and lava-like
+	at the same time. To survive you must either
+	<if blessing="poison">
+		<lose blessing="poison">use up a blessing</lose>
+		<set var="x" value="1"/>
+		of Immunity to Disease/Poison (if you have one)
+	</if>
+	or
+	<else>
+		suck out the poison by succeeding in
+		<difficulty ability="scouting" level="14" var="x">
+			a SCOUTING roll at Difficulty 14
+		</difficulty>.
+	</else>
+	<outcomes>
+		<success var="x" section="412">Survive</success>
+		<failure var="x" section="140">Succumb</failure>
+	</outcomes>
+</section>

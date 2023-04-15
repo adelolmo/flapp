@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="358">
+	Where will you go now?
+	<choices>
+		<choice section="714">West into the central Grumes</choice>
+		<choice section="465">East to the Ruby River</choice>
+		<choice section="487">North to the northern Grumes</choice>
+		<choice section="126">South to the Crags of the Long Homes</choice>
+	</choices>
+</section>

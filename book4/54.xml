@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="54">
+	<p>
+		Its walls, though crumbling, are still so massive and sheer that they are unclimbable. The gates, however, hang from their hinges, their rotting timbers groaning in the wind. Runes, in the language of the long-lost Shadar empire, are carved above the gate. As you step past them, a gigantic head materializes in the air before you. It looks like a jackal, with burning eyes of fire.
+	</p>
+	<p>
+		<if item="banner of the Shadar">
+			If you have a <b>banner of the Shadar</b>,
+			<goto section="695"/>.
+		</if>
+		If not, <goto section="539"/>.
+	</p>
+</section>

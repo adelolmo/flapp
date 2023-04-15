@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="487">
+	<p>
+		The northern Grumes are mere foothills compared with the cloud-capped pinnacles of the Spine of Harkun, which stretch into the distance north-east of here.
+	</p>
+	<p>
+		<if codeword="Earth">If you have the codeword Earth,
+			<lose codeword="Earth">erase it</lose> and
+			<goto section="226"/>.
+		</if>
+		If not, <random type="travel"/>.
+	</p>
+	<outcomes>
+		<outcome range="2-4" section="286">A storm in the mountains</outcome>
+		<outcome range="5-7" section="307">Nothing</outcome>
+		<outcome range="8-11" section="345">An ambush</outcome>
+		<outcome range="12" section="377">A rare sight</outcome>
+	</outcomes>
+</section>

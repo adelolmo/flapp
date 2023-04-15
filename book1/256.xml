@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="256">
+	<p>
+		The king is overjoyed with the news. &#8216;Excellent! At this rate I will be able to take my rightful place in the throne room of Old Sokar.&#8217;
+	</p>
+	<p>
+		He rewards you with the title <gain title="King's Champion"/>. Note this in the Titles and Honours box on your Adventure Sheet. The title comes with a cash gift of <gain shards="500"/> as well.
+	</p>
+	<p>
+		You also <gain ability="rank" amount="1">go up one Rank</gain>. <gain ability="stamina" amount="1d">Roll one die</gain> - the result is the number of Stamina points you gain permanently. Note the increase on your Adventure Sheet. Also, don&#8217;t forget to increase your Defence by 1 as a result of your gain in Rank.
+	</p>
+	<p>
+		The king has another mission for you. He explains that an army of steppe Nomads, Trau, Mannekyn people, and Sokaran troops still loyal to Nergan, have gathered on the steppes, and are moving to siege the Citadel of Velis Corin, which guards the Pass of Eagles through the Spine of Harkun. Nergan tells you that an alliance of northern nations has declared war on the new Sokaran regime. A certain General Beladai leads the Northern Alliance, and King Nergan has joined forces with him. He asks you to travel to the Steppes and talk to General Beladai.
+	</p>
+	<p>
+		&#8216;An adventurer like yourself might be able to steal into the citadel, and bring about its downfall from within, or some such. If the citadel falls we will have Sokara at our mercy.&#8217;
+	</p>
+	<p>
+		If you want to take up this mission for the King, <gain codeword="Assault" force="f">record the codeword Assault</gain>. When you are ready, you are led back down to the foothills of the mountains. <goto section="474"/>.
+	</p>
+</section>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="687">
+	<p>
+		The stench of loam and pine needles makes you feel slightly sick. The green half-light is gritty and filled with creeping shadows. This place is like a nightmare brought on by fever.
+	</p>
+	<p><random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-7" section="529">You follow a stream</outcome>
+		<outcome range="8-12" section="700">Unseen tormentors</outcome>
+	</outcomes>
+</section>

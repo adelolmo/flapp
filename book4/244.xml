@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="244">
+	<p>
+		You awake, coughing and spluttering. You have come back to life in one of Argon&#8217;s life-vats on the top of Sky Mountain.
+	</p>
+	<p>
+		The possessions and cash that you were carrying at the time of your death are lost. <lose item="*" shards="*">Cross them off</lose> your Adventure Sheet. Your Stamina is back to full, though. Also remember to delete the entry in the Resurrection box now that it has been used.
+	</p>
+	<p>
+		&#8216;Run into some trouble did we?&#8217; Argon asks as he helps you out of the vat.
+	</p>
+	<p><goto section="192"/>.</p>
+</section>

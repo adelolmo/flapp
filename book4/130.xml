@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="130">
+	<p>
+		Your song is sweet. The spectre hesitates and draws back. She tilts her featureless head, and swirls away from you. Then she begins to dance to the music of the song, haltingly at first, and then more surely, the haunter itself haunted by a familiar melody.
+	</p>
+	<p>'Leonara,' says a voice tinged with infinite sadness.</p>
+	<p>
+		You turn to look in astonishment. The High King has sat up, awakened by the ancient ballad.
+	</p>
+	<p>
+		The spectre of Princess Leonara sinks to her phantasmal knees before the king. She reaches up, and pulls away the blank, white mask that hid her features: underneath there is only faceless emptiness, the emptiness of desolate snow-covered wastes and ice-bound seas.
+	</p>
+	<p>
+		'Ah, Leonara...' sighs the king. Icy tears fall from her empty face to clatter like silver dewdrops on to the stony floor of the chamber. The High King touches her spectral form tenderly with his mace. A ghostly wind strikes up.
+	</p>
+	<p>
+		'Peace at last,' whispers the spectre and she is borne away by the wind. With a wail, she melts away.
+	</p>
+	<p>The High King bows his head sorrowfully.</p>
+	<p>After a while, he looks up at you. <goto section="198"/>.</p>
+</section>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="41">
+	You are sailing some way off the coast of Ankon Konu. Exotic
+	Akatsurai lies far to the north-east; strange Dangor, the
+	forbidden city, is to the south-east across Gashmuru Gulf.
+	<choices>
+		<choice section="337">Follow the coast west</choice>
+		<choice section="60">Follow the coast east</choice>
+		<choice book="7" section="400">Put in towards shore</choice>
+		<choice section="136">Steer due north</choice>
+		<choice section="98">Strike out for Akatsurai</choice>
+	</choices>
+</section>

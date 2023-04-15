@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="219">
+	<p>
+		Flat waterlogged ground surrounds you in all directions. A few trees stretch forlornly into the sky above banks of reeds. These are the Magwort Fens.
+	</p>
+	<p><difficulty ability="scouting" level="13">Make a SCOUTING roll at a Difficulty of 13</difficulty>.</p>
+	<outcomes>
+		<success section="465"/>
+		<failure section="464"/>
+	</outcomes>
+</section>

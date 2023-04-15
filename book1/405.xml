@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="405">
+	The merchants&#8217; guild of Yellowport is a large building of granite, plushly decorated inside to show off its wealth. Here you can bank your money for safe-keeping - or invest it in guild enterprises in the hope of making a profit. You hear that the guildmaster is looking for adventurers.
+	<tick codeword="StillInYellowport" hidden="t"/>
+	<tick codeword="1.605.1" hidden="t"/>
+	<lose codeword="1.605.2" hidden="t"/>
+	<lose codeword="1.605.3" hidden="t"/>
+	<choices>
+		<choice section="122">Visit the guildmaster</choice>
+		<choice section="46">Make an investment</choice>
+		<choice section="355">Check on investments</choice>
+		<choice section="605">Deposit or withdraw money (note that you are in Yellowport)</choice>
+		<choice section="10">Return to the town centre</choice>
+	</choices>
+</section>

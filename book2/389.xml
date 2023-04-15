@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="389">
+	<p>
+		Frightened by the power of your magic, the three wizards offer tribute if you will release them from the curse. <random dice="1" var="x"/> to see what they offer you:
+	</p>
+	<p>1 <if var="x" equals="1">a <item name="scarab amulet"/></if></p>
+	<p>2 <if var="x" equals="2">a <item name="silver horseshoe"/></if></p>
+	<p>3 <if var="x" equals="3"><tick shards="150"/></if></p>
+	<p>4 <if var="x" equals="4">
+			an <armour name="electrum breastplate" bonus="4"/>
+	</if></p>
+	<p>5 <if var="x" equals="5">
+			an <tool name="amber wand" ability="magic" bonus="1"/>
+	</if></p>
+	<p>6 <if var="x" equals="6">a <item name="peacock feather"/></if></p>
+	<p>
+		As you won the duel, you also get a chance to increase your MAGIC score. <training ability="magic"/>, and if the total exceeds your MAGIC score, increase your score by 1.
+	</p>
+	<p>When you have finished here, <goto section="335"/>.</p>
+</section>

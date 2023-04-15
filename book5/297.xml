@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="297">
+	<p>
+		No sooner have you announced your challenge when one of the Soulwatch, the black-garbed, demon-masked religious police, stops you from proceeding.
+	</p>
+	<p>
+		'Exalted One, it is not seemly for one such as you to behave in such a manner!' whispers the Soulwatcher in a rather surprised yet insistent tone.
+	</p>
+	<p>
+		Two more of them arrive, and escort you from the bazaar. They are diffident and respectful, yet quite determined - you understand who holds the real power in Aku.
+	</p>
+	<p><goto section="444"/>.</p>
+</section>

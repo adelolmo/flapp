@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="8">
+	You see a hermit squatting beside a hut built of piled stones
+	wadded with moss. Seeing you, he says: &#8216;Do you seek the key of
+	stars? You&#8217;ll find it at the end of a sinister path.&#8217;
+	<choices>
+		<choice section="124">Go west on to the Whistling Heath</choice>
+		<choice section="94">Go east to the Monastery of Molhern</choice>
+		<choice section="54">Go south</choice>
+		<choice section="195">Go north</choice>
+	</choices>
+</section>

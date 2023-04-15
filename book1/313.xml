@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="313">
+	You stand against the wall as the high priestess draws back her arm, and hurls a stream of daggers at you. <random dice="2" var="x"/>.
+	<if ability="defence" lessthan="x">
+		If the total is higher than your Defence, a dagger hits you and you <lose stamina="1d">lose 1-6 Stamina points</lose> (roll a die to see how many).
+	</if>
+	<else>
+		If the two dice score less than or equal to your Defence, the daggers all miss.
+	</else>
+	Either way, if you survive then you are free to leave. <lose god="Lacuna">Delete Lacuna from the God box</lose> on your Adventure Sheet and <goto section="400"/>.
+</section>

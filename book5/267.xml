@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="267">
+	<p>You manage to pull off a spectacular victory.</p>
+	<p>
+		'Ebron has seen fit to aid you,' is all your opponent has to say on the matter.</p>
+	<p>You are cleared of all crimes and released. <goto section="444"/>.</p>
+</section>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="436">
+	<p>
+		Now you are closer, you can make out the details of the runes on the needles. On each is carved pictographic images, subtitled with runes. The images seem to represent elements of an arcane philosophy: ice, fire, water, air, metal, stone and wood are pictured.
+	</p>
+	<p>
+		<if codeword="BladeSeven">
+			If you have one of the seven blades from the Long Home of the Seven Lords, <goto section="610"/>.
+		</if>
+		Otherwise, there is nothing you can do but swim back to shore - <goto section="268"/>.
+	</p>
+</section>

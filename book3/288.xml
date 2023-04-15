@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="288">
+	<p>
+		<if codeword="Calcium" not="t">
+			<lose stamina="2">Lose 2 more Stamina points</lose>
+		</if>
+		in the rarefied air if you don&#8217;t have the codeword <i>Calcium</i>.
+	</p>
+	<p>
+		You descend a narrow gangway to a passage with a door to either side. You suspect that the two Golnir men with you are beginning to understand the difference between courage and recklessness.
+	</p>
+	<choices>
+		<choice section="326">Try the left-hand door</choice>
+		<choice section="10">Try the right-hand door</choice>
+		<choice section="29">Advance down the passage</choice>
+		<choice section="308">Return to your ship</choice>
+	</choices>
+</section>

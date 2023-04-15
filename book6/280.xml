@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="280">
+	You are in the desolate countryside of Kumo Province, home
+	only to wild savages and hairy spider-goblins.
+	<choices>
+		<choice section="592">Head towards Kaiju</choice>
+		<choice section="245">Go up into the hills</choice>
+		<choice section="706">Follow the east coast</choice>
+	</choices>
+</section>

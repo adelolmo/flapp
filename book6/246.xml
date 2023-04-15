@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="246">
+	Akatsurai is known as the Land of a Thousand Gods. The people
+	revere a vast pantheon that ranges from the great celestial spirits
+	such as Juntoku, Lord of War, down to little hearth gods and
+	deities of the rocks and streams. On almost every street corner
+	there is a shrine. You go into one and the priest asks how he can
+	be of service.
+	<choices>
+		<choice section="171">Make an offering</choice>
+		<choice section="267">Buy or sell a wand</choice>
+		<choice section="79">Leave the shrine</choice>
+	</choices>
+</section>

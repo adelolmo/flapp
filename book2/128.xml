@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="128">
+	<p>
+		The trail leads you down by the docks. Suddenly, two men leap out at you from behind a pile of crates. They are brandishing deviltooth knives: sharp slivers of mottled yellow ivory that dissolve after use so that they leave no evidence.
+	</p>
+	<p>Fight the two men one after the other.</p>
+	<fight name="1st Assassin" combat="6" defence="8" stamina="7"/>
+	<fight name="2nd Assassin" combat="7" defence="8" stamina="7"/>
+	<p>If you beat them, <goto section="174"/>.</p>
+</section>

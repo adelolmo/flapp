@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="506">
+	<p>
+		&#8216;You can get it off the trau,&#8217; says Knocklar. &#8216;They love to collect the stuff for some reason.&#8217;
+	</p>
+	<p>&#8216;All very well, but where can I find the trau?&#8217; you ask him.</p>
+	<p>&#8216;Try Haggart&#8217;s Corner. They sometimes show up there.&#8217;</p>
+	<p><goto section="456"/>.</p>
+</section>

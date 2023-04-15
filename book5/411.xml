@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="411">
+	<p>
+		You bore most of the children to tears with your tales. A vindictive young prince of royal blood decides to amuse himself by watching you die in the Red Garden.
+	</p>
+	<p><goto section="170"/>.</p>
+</section>

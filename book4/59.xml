@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="59">
+	<p>
+		With regret, Bakhan tells you that she cannot make you another selenium wand.
+	</p>
+	<p>
+		'A wizard can make only one such wand in a single lifetime,' she explains.
+	</p>
+	<p>
+		All Bakhan can do for you is to lift a curse, if you are suffering from one. This she will do at no cost because you saved her from her own curse. <lose curse="*">Cross off any curses</lose> you have recorded and adjust any affected abilities to normal.
+	</p>
+	<p>When you are finished, <goto section="10"/>.</p>
+</section>

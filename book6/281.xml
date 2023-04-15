@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="281" dock="Mukogawa">
+	The quayside is bustling with activity as ships unload supplies in
+	preparation for the civil war which everyone expects within a
+	few months. If you have a ship here you could easily sell it, as
+	the Moonrise Clan is only too eager to expand its fleet.
+	<choices>
+		<choice section="315">Sell a ship</choice>
+		<choice section="655">Buy a ship</choice>
+		<choice section="462">Get passage on a ship</choice>
+		<choice section="676">Trade at the warehouses</choice>
+		<choice section="695" sail="t">Go aboard your ship (if docked here)</choice>
+		<choice section="724">Hire crewmen for your ship</choice>
+		<choice section="178">Go to the city centre</choice>
+	</choices>
+</section>

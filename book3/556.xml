@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="556">
+	<p>
+		One of the crew is revealed as a woman who disguised herself in order to sign aboard. Her deception only comes to light because she is about to give birth. &#8216;I thought he - er, she - was getting rather tubby,&#8217; says the ship&#8217;s surgeon.
+	</p>
+	<p>&#8216;Can you deliver the child?&#8217; you ask him.</p>
+	<p>&#8216;You&#8217;re joking. I can barely set a splint.&#8217;</p>
+	<p>
+		There is nothing for it. You must set a course for the Island of Fire, a volcanic isle which is the nearest place where you might find a competent midwife. Thankfully you reach it before the woman goes into labour. The islanders give you a friendly welcome and their chief&#8217;s wives take the woman to their hut.
+	</p>
+	<p><goto section="461"/>.</p>
+</section>

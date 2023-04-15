@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="560">
+	<p>
+		The Master waves you to a chair and thrusts a glass of sherry into your hand. He then drones on at great length about all manner of subjects.
+	</p>
+	<p>
+		You wake up suddenly to hear him describing the Forest of Larun: &#8216;...which may have been the wizard&#8217;s tomb found by Silvanus Ent. Doctor Ent's studies suggested the demonic door of the tomb would respond to the password &#8220;Rebirth&#8221;. Who can say why? Let me tell you my own theory...&#8217;
+	</p>
+	<p>
+		You doze off again. When you wake the next time, you are being carried back to your room by two college servants.
+	</p>
+	<p>&#8216;You&#8217;re lucky, sir,&#8217; says one chirpily.</p>
+	<p>&#8216;How's that?&#8217; you ask, yawning.</p>
+	<p>&#8216;He literally killed the last one with boredom. Stone dead, like!&#8217;</p>
+	<p>
+		<tick codeword="Crag">Get the codeword Crag</tick> and <goto section="607"/>.
+	</p>
+</section>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="274">
+	<p>
+		You are well-known to the actors of Hagashin, who respect your reputation for generosity. They steer you away from the humdrum plays performed at the canalside theatres.
+	</p>
+	<p>
+		&#8216;Those are just for the punters,&#8217; says one, slipping his arm into yours. &#8216;We&#8217;ll show you something better.&#8217;
+	</p>
+	<p>
+		You are taken to an open-air theatre built high up on the hillside, where the audience sits on stone benches above the performers so that the sea and sky form a spectacular backdrop.
+	</p>
+	<p><random/> to see which play is being performed today.</p>
+	<outcomes>
+		<outcome range="2-8" section="93">The yeoman and the dragon</outcome>
+		<outcome range="9-12" section="708">The artful frog</outcome>
+	</outcomes>
+</section>

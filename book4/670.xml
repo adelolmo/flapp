@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="670">
+	You have a mission from General Beladai of the Northern Alliance. Your job is to open the gates of the citadel. If you want to try now, <goto section="498" force="f"/>. If not, <goto section="152"/>.
+</section>

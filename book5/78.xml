@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="78">
+	<p>
+		You are travelling along the road when you come to a country mansion. Outside, an ornate horse-drawn carriage is waiting. It is being loaded up with the luggage of some lord or lady, travelling to the city for a banquet or some such. You have arrived during a brief moment when no one is nearby. You notice a jewel-box lying atop a large trunk.
+	</p>
+	<choices>
+		<choice section="247">Grab it</choice>
+		<choice section="589">Leave it be and journey on</choice>
+	</choices>
+</section>

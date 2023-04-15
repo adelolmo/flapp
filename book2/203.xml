@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="203" tag="temple">
+	The priestesses come forward to ask your business. From the
+	back of the temple you can hear the sound of dice rattling on a
+	wooden table.
+	<choices>
+		<choice section="42">Become an initiate of the Fortunes</choice>
+		<choice section="65">Renounce their worship</choice>
+		<choice section="88">Seek a blessing</choice>
+		<choice section="111">Gamble</choice>
+		<choice section="81">Leave the temple</choice>
+	</choices>
+</section>

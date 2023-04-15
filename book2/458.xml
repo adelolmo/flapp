@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="458">
+	You are bundled in irons, divested of all your possessions and
+	cash (<lose item="*" shards="*">cross them off</lose>
+	your Adventure Sheet) and hauled off to
+	Castle Ravayne, where you are flung into the dungeons.
+	<goto section="365"/>.
+</section>

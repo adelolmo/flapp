@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="498">
+	<p>
+		That night you decide to make your move. You will have to get to the Great Gate undetected, and then into the winch-house, where a huge cog-wheel mechanism is turned to open and shut the gates.
+	</p>
+	<p>
+		The corridors of the citadel are regularly patrolled, but the lighting is poor, and there are many niches and shadowy corners where a stealthy person can hide.
+	</p>
+	<p><difficulty ability="thievery" level="14"/>.</p>
+	<outcomes>
+		<success section="674"/>
+		<failure section="530"/>
+	</outcomes>
+</section>

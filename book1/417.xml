@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="417">
+	<p>
+		The other knights are amazed by your skill, and they seem quite pleased that the Black Dragon Knight is dead.
+	</p>
+	<p>&#8216;He was an evil man,&#8217; says the Green Dragon Knight.</p>
+	<p>
+		You take the <item name="black dragon shield"/> - note it on your Adventure Sheet. As you watch, the rest of your opponent&#8217;s body dissolves into a foul-smelling smoke, armour and all.
+	</p>
+	<p><lose codeword="Axe">Lose the codeword Axe</lose>.</p>
+	<p>You leave the castle. <goto section="276"/>.</p>
+</section>

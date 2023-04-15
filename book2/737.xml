@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="737">
+	<p>
+		It costs <rest shards="1" stamina="1">1 Shard a day</rest>
+		to stay at the inn. During the time you spend here, you will recover 1 Stamina point per day if injured, up to the maximum limit set by your normal unwounded Stamina score.
+	</p>
+	<p>When you are ready to leave, <goto section="217"/>.</p>
+</section>

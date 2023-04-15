@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="174">
+	<p>
+		The tunnels are natural, probably the course of an old underground river, now long dead.
+	</p>
+	<p><difficulty ability="scouting" level="13"/>.</p>
+	<outcomes>
+		<success section="466"/>
+		<failure section="73"/>
+	</outcomes>
+</section>

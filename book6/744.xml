@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="744">
+	<p>
+		The officer in charge of the armoury, Lord Saga of the Nine Lakes clan, does not even bother to ask if you are a warrior or a merchant.
+	</p>
+	<p>
+		&#8216;The time for such distinctions is past,&#8217; he says. &#8216;All that matters now is to be ready for war.&#8217;
+	</p>
+	<p>
+		You soon find that the local arms and armour prices are severely inflated.
+	</p>
+	<market>
+		<header type="armour"/>
+		<armour name="leather" bonus="1" buy="100" sell="90"/>
+		<armour name="ring mail" bonus="2" buy="200" sell="180"/>
+		<armour name="chain mail" bonus="3" buy="400" sell="350"/>
+		<armour name="splint armour" bonus="4" buy="750" sell="600"/>
+		<armour name="plate armour" bonus="5" sell="1500"/>
+
+		<header type="weapon"/>
+		<weapon bonus="0" buy="100" sell="75"/>
+		<weapon bonus="1" buy="500" sell="350"/>
+		<weapon bonus="2" buy="950" sell="700"/>
+		<weapon bonus="3" sell="1400"/>
+	</market>
+	<p>When you have finished your business here, <goto section="178"/>.</p>
+</section>

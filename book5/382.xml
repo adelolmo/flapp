@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="382">
+	The vizier tells you that permission to enter the audience chamber has not yet come through. You will have to pay another 50 Shards to rent your rooms for another week.
+	<choices>
+		<choice section="136" shards="50">Pay another 50 Shards</choice>
+		<choice section="343">Challenge the vizier to a game of bokh</choice>
+		<choice section="444">Give up and leave the palace</choice>
+	</choices>
+</section>

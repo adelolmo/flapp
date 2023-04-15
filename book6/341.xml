@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="341">
+	<p>
+		The priest can only bring you back to life if you agree to sacrifice some of your innate vital force - an energy he calls <i>ki</i>. This means you must lose 2 points off your MAGIC score.
+	</p>
+	<p>
+		You complain. &#8216;The priests of the west do not deprive a person of their <i>ki</i> when bringing them back to life.&#8217;
+	</p>
+	<p>
+		&#8216;But they call upon the gods to restore life,&#8217; he points out. &#8216;I must revivify you with nothing but my own skill.
+	</p>
+	<choices>
+		<choice section="382">Agree to the revivify spell</choice>
+		<choice section="559">Change your mind</choice>
+	</choices>
+</section>

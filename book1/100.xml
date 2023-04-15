@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="100" image="100.jpg">
+	<p>
+		Marlock City is a huge sprawling metropolis, enclosed in a fortified wall said to have been built one thousand years ago by the ancient Shadar Empire. It is the capital city of Sokara. Marlock City was once known as Sokar, until General Grieve Marlock led the army in bloody revolt against the old king, Corin VII, and had him executed. The general renamed the city after himself - it is now a crime to call it Sokar.
+	</p>
+	<p>
+		The general lives in the old king&#8217;s palace, and calls himself the Protector-General of all Sokara. Whereas the old king was corrupt, the general rules with a fist of iron. Some people like the new regime; others are royalists, still loyal to Nergan, the heir to the throne, who has gone into hiding somewhere.
+	</p>
+	<p>
+		Outside the city gates hang the bodies of many dead people - labels around their necks read: &#8216;Rebels, executed by the state for the good of the people&#8217;.
+	</p>
+	<p>
+		&#8216;You&#8217;d best behave yourself if you don&#8217;t want to end up like one of them,&#8217; grates a guardsman, nodding towards the swinging corpses, as you pass through the great eagle-headed gates of Marlock City.
+	</p>
+	<p>
+		<if not="t" codeword="1.100.1">
+			You can buy a town house in Marlock City for 200 Shards. Owning a house gives you a place to rest, and to store equipment. If you buy one, <lose shards="200" price="x">cross off 200 Shards</lose> and <tick codeword="1.100.1" flag="x">tick the box</tick> by the town house option.
+		</if>
+	</p>
+	<p>
+		To leave Marlock City by sea, or to buy or sell ships and cargo, go the harbourmaster.
+	</p>
+	<choices>
+		<choice section="158">Visit the Three Rings Tavern</choice>
+		<choice section="154">Visit the temple of Alvir and Valmir</choice>
+		<choice section="71">Visit the temple of Nagil</choice>
+		<choice section="235">Visit the temple of Sig</choice>
+		<choice section="568">Visit the temple of Elnir</choice>
+		<choice section="396">Visit the market</choice>
+		<choice section="142">Visit the harbourmaster</choice>
+		<choice section="571">Go to the merchants&#8217; guild</choice>
+		<choice section="138">Explore the city</choice>
+		<choice section="434" box="1.100.1">Visit your town house {box} (if box ticked)</choice>
+		<choice section="535">Visit the House of Priests</choice>
+		<choice section="601">Visit the general&#8217;s palace</choice>
+		<choice section="377">Travel east towards Trefoille</choice>
+		<choice section="166">Head south-east towards the Shadar Tor</choice>
+		<choice section="99">Follow the River Grimm north</choice>
+		<choice section="175">Journey north into the Curstmoor</choice>
+		<choice section="579">Head west to the River Grimm delta</choice>
+	</choices>
+</section>

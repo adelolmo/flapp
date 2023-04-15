@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="514" image="514.jpg">
+	<p>
+		A knight in strange oriental armour is sitting beside the empty chest. Seeing you, he looks up with narrowed eyes and says: &#8216;So, villain, you return to the scene of your crime!&#8217;
+	</p>
+	<fight name="Samurai" combat="6" defence="12" stamina="7"/>
+	<p>
+		<if dead="f">
+			If you kill him, you can take his
+			<armour name="splint armour" bonus="4"/> and
+			<weapon name="ivory-handled katana"/>.
+			Then <goto section="338"/>.
+		</if>
+	</p>
+</section>

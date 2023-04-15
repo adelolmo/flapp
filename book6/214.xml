@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="214">
+	You take a nap in a moss-lined cleft of rock. When you wake,
+	you notice a young woman burying something under a tree
+	nearby. Her long hair hangs down around her face as she digs,
+	obscuring her vision so that she hasn&#8217;t noticed you.
+	<choices>
+		<choice section="311">Go over to her</choice>
+		<choice section="261">Stay hidden until she&#8217;s gone</choice>
+	</choices>
+</section>

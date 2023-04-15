@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="515">
+	<p>
+		<lose codeword="2.567.1a" hidden="t"/>
+		<tick codeword="2.567.1b" hidden="t"/>
+		&#8216;Excellent!&#8217; says Estragon, snatching the <b>scarab amulet</b> eagerly from your hands.
+	</p>
+	<p>
+		He teaches you a few simple enchantments.
+		<training ability="magic"/>,
+		and if the total is higher than your MAGIC score then you gain 1 point of MAGIC.
+	</p>
+	<p>
+		Remember to
+		<lose item="scarab amulet">
+			cross the <b>scarab amulet</b>
+		</lose>
+		off your Adventure Sheet, then <goto section="342"/>.
+	</p>
+</section>

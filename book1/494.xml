@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="494">
+	<p>
+		You dodge down a side tunnel, and mutter an enchantment intended to give you the appearance of a ratman. Your pursuers come bundling around a corner - one of them stops to shout at you, &#8216;Where&#8217;d the human go?&#8217;
+	</p>
+	<p>
+		Nonchalantly, you point down the tunnel, and the ratmen go haring off down it, whooping and yelling. You turn and walk the other way, a smile on your face. <goto section="580"/>.
+	</p>
+</section>

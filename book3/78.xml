@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="78">
+	You are at sea close to the great port city of Aku. Westwards lie
+	the first bleak rocky islands of the Innis Shoals.
+	<choices>
+		<choice book="5" section="200">Head for Aku</choice>
+		<choice book="9" section="100">Go west</choice>
+		<choice section="21">Go east</choice>
+		<choice section="96">Strike out south</choice>
+	</choices>
+</section>

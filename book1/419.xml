@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="419">
+	<p>
+		The trail of gruesome murders, and tales of terror leads you to an old cemetery in a near-deserted part of the old quarter. It is early morning, a few hours before dawn, so you haven&#8217;t much time before the ghoul goes into hiding.
+	</p>
+	<p>
+		At the gates of the cemetery, you find a small girl, hunched over, sobbing. When she sees you, she backs away, terrified.
+	</p>
+	<p><difficulty ability="charisma" level="10"/>.</p>
+	<outcomes>
+		<success section="553"/>
+		<failure section="45"/>
+	</outcomes>
+</section>

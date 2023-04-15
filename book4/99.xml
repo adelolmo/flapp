@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="99">
+	<p>
+		Szgano finishes untying the woman as the last of your opponents falls beneath your blade. The old shaman, however, is still alive; the woman grabs his head, and looks deep into his eyes. He screams horribly as his soul, a grey gibbous thing, is sucked out of him into the woman's mouth. All that is left of the shaman is a dry husk, withered like a thousand-year-old mummy.
+	</p>
+	<p>
+		<lose ability="sanctity" amount="1">Lose 1 point of SANCTITY permanently</lose>, for saving the witch.
+	</p>
+	<p>
+		The Ruzbahn's skin becomes fresh and rosy, and she laughs a rich vibrant laugh. Szgano falls to his knees and kisses her feet devotedly.
+	</p>
+	<p>
+		'Thank you, my pet,' she says in a creamy voice, absently patting Szgano's head.
+	</p>
+	<p>
+		'They were right, of course,' she says, fixing you with her emerald eyes. 'I am the vampire witch. But you did save me, so I will let you live. Indeed, I have certain other powers. Give me some of your blood, and I will transmute it into gold.'
+	</p>
+	<choices>
+		<choice section="227">Give her some blood</choice>
+		<choice section="472">Run off</choice>
+	</choices>
+</section>

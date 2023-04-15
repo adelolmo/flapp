@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="601">
+	<p>
+		You can bank money with the merchants' guild simply by writing the sum you wish to leave in the box here. (Remember to cross it off your Adventure Sheet.) It can be useful to have money banked - if you are ever robbed, your money in the bank won't be touched and you may have to use your banked money to pay off a ransom, if you ever get captured. If you have banked any money with the guild in another book in the <i>Fabled Lands</i> series, add it now to this box and erase it from the other book.
+	</p>
+	<moneycache name="MerchantBank" text="Money banked" withdrawCharge="0.1"/>
+	<p>
+		To withdraw money from your account, simply transfer it from the box to your Adventure Sheet. The guild charges 10% on any withdrawals. (So if you withdrew 50 Shards, for example, it would deduct 5 Shards as its cut. Round fractions in the guild's favour.)
+	</p>
+	<p>
+		When you are ready to leave, <goto section="444" force="f"/>. Or, if you visited here to withdraw money, <return>turn back to the paragraph</return> you came from.
+	</p>
+</section>

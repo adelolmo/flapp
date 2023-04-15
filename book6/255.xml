@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="255">
+	<p>
+		You trip and go sprawling. The boulder comes down like a giant&#8217;s foot about to stamp out your life, but at the last instant it changes course and crunches into the earth a few paces away. A few small fragments break off and go whizzing in all directions, one scratching your face for
+		<lose stamina="1">1 Stamina point</lose>.
+	</p>
+	<p>&#8216;Sorry,&#8217; says a voice. &#8216;My mistake. Your time wasn&#8217;t up yet.&#8217;</p>
+	<p>
+		You look around but can see no one. A scroll is pressed into your hands. &#8216;This will ensure the same sort of thing doesn&#8217;t happen again,&#8217; says the voice.
+	</p>
+	<p>
+		You now have a
+		<item name="catastrophe certificate"/>.
+		Add it to your possessions and <goto section="632"/>.
+	</p>
+</section>

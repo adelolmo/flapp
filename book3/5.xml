@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="5">
+	<p>
+		You return to the ship and waste no time getting under way.
+		<lose codeword="Cosy">Lose the codeword Cosy</lose> if you had it.
+	</p>
+	<p>
+		The helmsman stifles a yawn. &#8216;You know, skipper, I felt quite drowsy on the island,&#8217; he says. &#8216;The sea breeze is waking me up. though.&#8217;
+	</p>
+	<choices>
+		<choice section="281">Steer north</choice>
+		<choice section="117">Steer south</choice>
+		<choice section="153">Steer east</choice>
+		<choice section="370">Steer west</choice>
+	</choices>
+</section>

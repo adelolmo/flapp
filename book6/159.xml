@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="159">
+	<p>
+		<lose item="royal sceptre">Cross off</lose>
+		the <b>royal sceptre</b>.
+	</p>
+	<p>
+		The god of the valley rewards you with a blessing of
+		<tick blessing="storm" permanent="true">Safety from Storms</tick>.
+		However, unlike an ordinary blessing, this will never be used up; it is permanent. Note it on your Adventure Sheet (and remember to mark it as permanent).
+	</p>
+	<p>
+		The god waves his hand in front of your face. You wake to find yourself lying on the bank of the stream, although you cannot remember dozing off. The rock is again just that: a flat mossy boulder shaped vaguely like a serpent&#8217;s head.
+	</p>
+	<p><goto section="111"/>.</p>
+</section>

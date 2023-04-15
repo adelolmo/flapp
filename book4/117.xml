@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="117">
+	<p>
+		You must be a Mage to enter the arena contest.
+		<if not="t" profession="mage">
+			If you are not, <goto section="274"/>.
+		</if>
+	</p>
+	<p>
+		If you are a Mage, you must first pay an entrance fee of 50 Shards. If you cannot or will not pay, <goto section="274" force="f"/>.
+		<if shards="50">
+			Otherwise,
+			<lose shards="50">cross off the money</lose>
+			and <goto section="214"/>.
+		</if>
+	</p>
+</section>	

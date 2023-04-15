@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="434">
+	<p>
+		You pass a group of miners on their way back to the surface. They are bony sallow-faced wretches clad in rags. The well-to-do lords who own this mine pay their workers barely more than they need to stay alive.
+	</p>
+	<p>
+		<if codeword="Church">
+			If you have the codeword Church, <goto section="453"/>.
+		</if>
+		If not, <goto section="471"/>.
+	</p>
+</section>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="204">
+	Far below, you see a harbour where ships with metal sails put out on the sea of night. The starfarers look like common sailors except that their clothes glitter in the celestial light. You come to a ledge. Beside the ledge, a silvery barge, covered in strange blocky glyphs, is floating in the air. It is unoccupied.
+	<choices>
+		<choice section="423">Climb back up</choice>
+		<choice section="3">Get on the barge</choice>
+	</choices>
+</section>

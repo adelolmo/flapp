@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="8">
+	<p>
+		You know that the carnivorous alalakh plant is drawn to movement and that at night it is dormant. All you have to do to stay alive is remain absolutely still, no matter what, until nightfall.
+	</p>
+	<p><difficulty ability="Thievery" level="14"/>.</p>
+	<outcomes>
+		<success section="288"/>
+		<failure section="259"/>
+	</outcomes>
+</section>

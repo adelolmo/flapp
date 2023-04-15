@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="424">
+	<p>
+		&#8216;He sings of the victory of One-Eyed Crow, our first ancestor, over Grey Worm. Grey Worm made himself invulnerable, you see, by rolling in the magic dust of the gods&#8217; footprints. But he forgot that he hadn&#8217;t got any of the dust on his nose, so One- Eyed Crow pecked him on his nose again and again until he fled. He hid in a hole in the ground, which is where worms have lived ever since.&#8217;
+	</p>
+	<p>
+		He gives you a wide half-mad grin. Spittle drools down his chin and his head slowly sinks to his chest. You rise, intending to leave him to sleep off his potion, but suddenly he grasps your arm and says: &#8216;Worm has a big burrow these days!&#8217;
+	</p>
+	<p>
+		With that he falls asleep. You return to the camp to get some rest yourself. <tick codeword="Drape">Get the codeword Drape</tick> and <goto section="394"/>.
+	</p>
+</section>

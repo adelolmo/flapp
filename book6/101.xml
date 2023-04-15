@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="101">
+	<p>
+		Do you have a <b>royal sceptre</b>?
+		<if item="royal sceptre">
+			If so, <goto section="134">turn now to 134</goto>.
+		</if>
+		If not, read on.
+	</p>
+	<p>
+		The serpent opens one eye, gives you a baleful look, and submerges. Once the ripples have vanished there is no sign to show it wasn&#8217;t just a trick of your imagination.
+	</p>
+	<p>
+		You climb the side of the valley to where the stream gushes out from a cleft in the rocks, where you find a tiny shrine to the river god.
+		<if blessing="disease" not="t">
+			If you succeed in
+			<difficulty ability="sanctity" level="14">
+				a SANCTITY roll at Difficulty 14
+			</difficulty>
+			you can gain a blessing of
+			<success>
+				<tick blessing="disease">Immunity to Disease/Poison</tick>
+			</success>, as long as you didn&#8217;t already have one.
+		</if>
+	</p>
+	<p><goto section="111"/>.</p>
+</section>

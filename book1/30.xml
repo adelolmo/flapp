@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="30" image="30.jpg">
+	<p>
+		The market is large and busy. At the corner of Brimstone Plaza, gigantic braziers burn sweet-smelling incense in an attempt to overpower the rotten-egg smell that permeates the whole city. There are many stalls and goods to chose from. You may buy any of the items listed, as long as you have the money and the space to carry it. You may also sell any items you own that are listed below, for the price stated - if you do, don&#8217;t forget to cross them off your Adventure Sheet.
+	</p>
+	<p>Items with no purchase price are not available locally.</p>
+	<market>
+		<header type="armour"/>
+		<armour name="leather" bonus="1" buy="50" sell="45"/>
+		<armour name="ring mail" bonus="2" buy="100" sell="90"/>
+		<armour name="chain mail" bonus="3" buy="200" sell="180"/>
+		<armour name="splint armour" bonus="4" sell="360"/>
+		<armour name="plate armour" bonus="5" sell="720"/>
+		<armour name="heavy plate" bonus="6" sell="1440"/>
+
+		<header type="weapon"/>
+		<weapon bonus="0" buy="50" sell="40"/>
+		<weapon bonus="1" buy="250" sell="200"/>
+		<weapon bonus="2" sell="400"/>
+		<weapon bonus="3" sell="800"/>
+
+		<header type="magic"/>
+		<tool name="amber wand" ability="magic" bonus="1" buy="500" sell="400"/>
+		<tool name="ebony wand" ability="magic" bonus="2" sell="800"/>
+		<tool name="cobalt wand" ability="magic" bonus="3" sell="1600"/>
+
+		<header type="other"/>
+		<tool name="mandolin" ability="charisma" bonus="1" buy="300" sell="270"/>
+		<tool name="lockpicks" ability="thievery" bonus="1" buy="300" sell="270"/>
+		<tool name="holy symbol" ability="sanctity" bonus="1" buy="200" sell="100"/>
+		<tool name="compass" ability="scouting" bonus="1" buy="500" sell="450"/>
+		<item name="rope" buy="50" sell="45"/>
+		<item name="lantern" tags="light" buy="100" sell="90"/>
+		<item name="climbing gear" buy="100" sell="90"/>
+		<item name="bag of pearls" sell="100"/>
+		<item name="rat poison" buy="60" sell="50"/>
+		<item name="silver nugget" sell="200"/>
+	</market>
+	<p>
+		One trader is offering a
+		<buy item="treasure map" shards="200" quantity="1">
+			<effect type="use" verb="Read">
+				<desc><i>The War-Torn Kingdom</i> <b>200</b></desc>
+				<goto book="1" section="200"/>
+			</effect>
+		</buy>
+		for sale at 200 Shards, and will buy any old <sell item="treasure map" shards="150"/> for 150 Shards. If you buy the map, you can consult it at any time by turning to <b>200</b> in this book.
+	</p>
+	<p>
+		<tick codeword="StillInYellowport" hidden="t"/>
+		If you wish to buy cargo for a ship, you need to visit the warehouses at the harbourmaster. When you are ready to return to the city centre, <goto section="10"/>.
+	</p>
+</section>

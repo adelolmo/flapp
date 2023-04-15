@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="362">
+	Shingen is a quiet seaside town where the Lord Chancellor has
+	his private residence. There is no mistaking the building: a
+	sprawling mansion of polished cedarwood with scarlet gonfalons
+	streaming from the eaves. It sits on a hillside, glaring down on
+	the town like a tiger sunning itself on a rock.
+	<choices>
+		<choice section="393">Take lodging at an inn</choice>
+		<choice section="523">Call on the chancellor</choice>
+		<choice section="130">Travel on from here</choice>
+	</choices>
+</section>

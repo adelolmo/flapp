@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="96">
+	<p>
+		&#8216;I require you to undertake a mission on our lord&#8217;s behalf,&#8217; says Shuriyoku. &#8216;Go you to Yarimura. The magnate of the White Spear Clan, that dog Kumonosu, has his eyes on our lord&#8217;s domain. Find out if his army would be any threat to us.&#8217;
+	</p>
+	<p>
+		<tick codeword="Fog">Get the codeword Fog</tick>
+		and then <goto section="553"/>.
+	</p>
+</section>

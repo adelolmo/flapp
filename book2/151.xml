@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="151">
+	<p>
+		You have a sneaking suspicion that the priests of Sig were behind the robbery, but you cannot prove it. There is no point in reporting this incident to the City Watch - they are paid well by the priests of Sig to turn a blind eye.
+	</p>
+	<p>
+		Remember to cross off the money (or possession) that was stolen, then <goto section="2"/>.
+	</p>
+</section>

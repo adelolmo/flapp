@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="663">
+	Talanexor is a powerful mage and pyrotechnics is his speciality.
+	To counter his fire jets you must
+	<difficulty ability="magic" level="16">
+		make a MAGIC roll of Difficulty 16
+	</difficulty>.
+	<outcomes>
+		<success section="718"/>
+		<failure section="140"/>
+	</outcomes>
+</section>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="126">
+	<p>
+		The abbot is pleased to tell you about the god Molhern. &#8216;Originally he was the god of craftsmen, blacksmiths and stonemasons,&#8217; he says.
+	</p>
+	<p>
+		&#8216;It was Molhern who gave mankind the secret of making fire. But he also taught the secret of writing, which is why he is the patron deity of scholars. Our library here is the most magnificent in the world.&#8217;
+	</p>
+	<p>
+		<if codeword="Bumble">
+			If you have the codeword Bumble, <goto section="149"/>.
+		</if>
+		If not, <goto section="28"/>.
+	</p>
+</section>

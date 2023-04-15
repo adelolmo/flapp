@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="354">
+	The merchants of Kaiju offer these goods for sale:
+	<market>
+		<header header1="Item" header2="To buy" header3="To sell"/>
+		<tool name="compass" ability="scouting" bonus="1" buy="380" sell="360"/>
+		<tool name="cross-staff" ability="scouting" bonus="2" buy="700" sell="660"/>
+		<tool name="lotus talisman" ability="sanctity" bonus="1" buy="250" sell="150"/>
+		<tool name="paradise talisman" ability="sanctity" bonus="2" buy="500" sell="300"/>
+		<item name="parchment" buy="8" sell="5"/>
+		<item name="tatsu pearl" sell="700"/>
+		<item name="climbing gear" buy="65" sell="40"/>
+		<item name="platinum earring" sell="500"/>
+		<item name="silver nugget" sell="170"/>
+		<item name="bag of pearls" sell="120"/>
+	</market>
+	When you have finished your shopping, <goto section="270"/>.
+</section>

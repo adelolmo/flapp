@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="16">
+	&#8216;The best buys in Metriciens are grain and cloth,&#8217; a merchant
+	advises you.
+	<tick codeword="Bastion">
+		Acquire the codeword Bastion
+	</tick> if you didn&#8217;t have it already.
+	<lose codeword="2.36.1" hidden="t"/>
+	<tick codeword="2.36.2" hidden="t"/>
+	<lose codeword="2.36.3" hidden="t"/>
+	<lose codeword="2.36.4" hidden="t"/>
+	<lose codeword="2.36.5" hidden="t"/>
+	<choices>
+		<choice section="85">Make an investment</choice>
+		<choice section="108">Check on investments</choice>
+		<choice section="36">Deposit or withdraw money</choice>
+		<choice section="48">Return to the town centre</choice>
+	</choices>
+</section>

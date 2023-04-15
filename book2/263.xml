@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="263">
+	<p>
+		The road follows the ridge of low hills extending out into the headland of Knucklebones Point.
+	</p>
+	<p><random type="travel"/> for encounters:</p>
+	<outcomes>
+		<outcome range="2-5" section="400">Eerie things</outcome>
+		<outcome range="6-8" section="288">Uneventful journey</outcome>
+		<outcome range="9-12" section="450">Penniless adventurers</outcome>
+	</outcomes>
+</section>

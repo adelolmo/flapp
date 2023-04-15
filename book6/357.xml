@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="357">
+	You are skirting the high, forested Kwaidan Mountains of
+	central Akatsurai. The locals believe the forests are the abode of
+	cantankerous spirits and, indeed, the very word kwaidan means a
+	ghost story.
+	<choices>
+		<choice section="312">Enter the forest</choice>
+		<choice section="282">Go east</choice>
+		<choice section="30">Go north</choice>
+		<choice section="515">Go south</choice>
+	</choices>
+</section>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="612">
+	<p>
+		Over the past few days you have had cause to reduce rations and enforce some stern discipline. Now the men are getting unruly. You must address them and hope to sway them with the force of your personality.
+	</p>
+	<p>
+		<difficulty ability="charisma" level="13">
+			Make a CHARISMA roll at a Difficulty of 13
+		</difficulty>.
+	</p>
+	<outcomes>
+		<success section="594"/>
+		<failure section="576"/>
+	</outcomes>
+</section>

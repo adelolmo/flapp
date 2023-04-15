@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="557">
+	<p>
+		A squirrel comes scampering up to you. It watches you with large luminous eyes, head cocked quizzically. Then, to your great surprise, it speaks: &#8216;My lords and ladies of the wildwood crave a boon. Your presence chafes them. Your aura is the cause of discomfort. The odour of violets is one they cannot abide.&#8217;
+	</p>
+	<p>
+		All of this means nothing to you. But then, the fact that a squirrel can talk at all is miracle enough. You can hardly expect it to talk sense.
+	</p>
+	<p>
+		&#8216;If you would leave the glade now, my lords and ladies can take their repast,&#8217; says the squirrel more plainly. &#8216;To compensate for the inconvenience to yourself, they offer a pot of fine faery mead, which you will find inside the hollow tree trunk behind you.&#8217;
+	</p>
+	<p>
+		You reach into the tree trunk. There is indeed a pot of <item name="faery mead"/>. You take it and, not wishing to incur the elves&#8217; displeasure, return along the path without delay. <goto section="22"/>.
+	</p>
+</section>

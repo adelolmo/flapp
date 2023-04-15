@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="545" boxes="1">
+	<p>
+		<if ticks="1">
+			If there is a tick in the box, <goto section="369"/> immediately.
+		</if>
+		If not, <tick/>, and read on.
+	</p>
+	<p>
+		Thinking fast, you tie the rope between two gnarled stumps of dead marsh trees. The hut hurtles towards you with frightening speed, and an eerie howling fills the air - Gura Goru, spurring her hut onwards. But its legs are caught by the rope, and the whole thing comes crashing to the ground.
+	</p>
+	<p>
+		A scream of rage spills from the hut, along with a shower of objects - a cooking pot, some rags, firewood and the like.
+	</p>
+	<p>
+		You find a
+		<tool name="cross-staff" ability="scouting" bonus="2"/> and a
+		<item name="verdigris key"/>,
+		that fall at your feet. Note them on your Adventure Sheet.
+	</p>
+	<p>
+		Gura Goru is shrieking at the hut to get up, so you make a run for it while you still can. <goto section="92"/>.
+	</p>
+</section>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="666">
+	The passage leads to a tomb chamber. On a catafalque of blueveined
+	white marble lies a man who might be either sleeping or
+	dead. The spear driven right through his chest argues in favour
+	of the latter. All around him on the floor of the chamber are
+	scattered antique oblong coins.
+	<choices>
+		<choice section="625">Help yourself to some treasure</choice>
+		<choice section="645">Withdraw the spear</choice>
+		<choice section="583">Leave without rifling the tomb</choice>
+	</choices>
+</section>

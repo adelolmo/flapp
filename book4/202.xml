@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="202" image="202.jpg">
+	<p>
+		Wild horses rush out of the twilit gloom and thunder toward you. The herd is led by a huge black stallion, whose glossy flanks seem to glow in the pale radiance of a full moon.
+	</p>
+	<p><difficulty ability="sanctity" level="14"/>.</p>
+	<outcomes>
+		<success section="86"/>
+		<failure section="694"/>
+	</outcomes>
+</section>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="312">
+	The woodland is a tangled green web of roots and branches
+	pinpricked with stray shafts of daylight. A stream runs down
+	between banks of bare earth, wet stones glinting through the
+	current like tarnished silver. Above the treetops nearby rises a
+	spire of grey rock.
+	<choices>
+		<choice section="330">Go upstream</choice>
+		<choice section="351">Go towards the rock spire</choice>
+	</choices>
+</section>

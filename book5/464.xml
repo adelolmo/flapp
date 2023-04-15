@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="464">
+	<p>
+		She screams in terror and, with a puff of smoke, suddenly changes into a small, brightly coloured butterfly that flutters away on the breeze. You chase after her, but she flies up out of sight. You catch a tiny titter of laughter wafting towards you on the wind.
+	</p>
+	<p>
+		Note you have a
+		<curse name="Curse of Donkey's Ears">
+			<effect ability="charisma" bonus="-2"/>
+		</curse>, CHARISMA -2.
+		Reduce your CHARISMA by two until you can find a way to lift the curse. <goto section="393"/>.
+	</p>
+</section>

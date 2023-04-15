@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="626">
+	Luroc leads you to the back of the villa. After one of the patrols has gone past, he throws his grappling-hook, muffled with cloth, up on to the rooftop. He clambers up the rope like a monkey, and sits on the gable, waiting for you to follow.
+	<p><difficulty ability="thievery" level="12"/>.</p>
+	<outcomes>
+		<success section="66"/>
+		<failure section="104"/>
+	</outcomes>
+</section>

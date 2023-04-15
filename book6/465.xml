@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="465">
+	You turn aside from the Unbounded Ocean. The prospect of
+	adventure may be tempting, but no ship has ever returned from
+	crossing those leaden waters.
+	<choices>
+		<choice section="72">Go south-east</choice>
+		<choice book="3" section="55">Go west</choice>
+		<choice section="90">Go south to Dragon Isle</choice>
+		<choice book="1" section="136">Go north to Druids&#8217; Isle</choice>
+	</choices>
+</section>

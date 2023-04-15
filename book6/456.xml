@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="456" tag="temple">
+	<p>
+		The guards were expecting you to back off and make a run for it, so when you run further into the villa it takes them unawares. They chase you through to the courtyard at the back. &#8216;We&#8217;ve got you cornered now!&#8217; shouts one. &#8216;There&#8217;s no way out!&#8217;
+	</p>
+	<p>
+		At the back of the courtyard stands a plain building of unpainted wood with a moss-lined roof. Only the large bronze bell gives any clue to its function. Rushing inside, you come across a statue that gazes down at you with a look of great serenity.
+	</p>
+	<p>
+		A man in priest&#8217;s robes looks up from his prayers. &#8216;Who dares invade the temple of the Sage of Peace?&#8217; he says sternly.
+	</p>
+	<p>
+		The guards are right behind you. Unless you can think of an escape route, this is where you must make your stand.
+	</p>
+	<p>
+		<tick codeword="Fracas">Get the codeword Fracas</tick>
+		and <goto section="385"/>.
+	</p>
+</section>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="485">
+	She recognizes the pendant and allows you to pass.
+	<choices>
+		<choice section="568">Go west towards Oni Province</choice>
+		<choice section="522">Go east to Sakkaku</choice>
+	</choices>
+</section>

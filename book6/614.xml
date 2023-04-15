@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="614">
+	<if item="paper sword"><tick codeword="6.614" hidden="t"/></if>
+	<elseif weapon="?"><tick codeword="6.614" hidden="t"/></elseif>
+	<else><lose codeword="6.614" hidden="T"/></else>
+	&#8216;If you wish, we can exchange weapons,&#8217; says the lady with a
+	polite bow. &#8216;I would not want you to think I had an unfair
+	advantage simply because my father&#8217;s wealth can buy the best
+	swords in the land.&#8217;
+	<choices>
+		<choice box="6.614" section="635">Agree to exchange (if you have a weapon)</choice>
+		<choice section="656">Tell her to get on and fight</choice>
+	</choices>
+</section>

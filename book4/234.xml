@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="234">
+	You are walking across the plains, a featureless expanse of seemingly endless grasslands. <random type="travel" dice="2"/>.
+	<outcomes>
+		<outcome range="2-5" section="491">An old ruin</outcome>
+		<outcome range="6-7" section="144">No event</outcome>
+		<outcome range="8-12" section="326">A miserable pedlar</outcome>
+	</outcomes>
+</section>

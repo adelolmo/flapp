@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="269" boxes="1" image="269.jpg">
+	<p>
+		<if ticks="1">If there is a tick in the box, <goto section="305"/> immediately.</if> If not, <tick>put a tick there now</tick>, and read on.
+	</p>
+	<p>
+		A small faerie woman, dressed in red trousers, a green tunic, and big stompy boots, leaps out of a bush to confront you.
+	</p>
+	<p>
+		'Hallo!' she squeaks happily. 'I'm Lorna the lop-eared leprechaun, and if you give me a kiss, I'll tell you a secret!'
+	</p>
+	<p>
+		She smiles up at you sweetly, pursing her lips and closing her eyes. The little leprechaun is startlingly pretty, save for the pair of long donkey's ears that hang down on either side of her head.
+	</p>
+	<choices>
+		<choice section="434">Kiss her</choice>
+		<choice section="626">Hurry on your way</choice>
+	</choices>
+</section>
+		

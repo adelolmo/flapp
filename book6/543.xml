@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="543">
+	You are sailing the coastal waters west of the straits that separate
+	Shaku, the small southern island, from the main part of
+	Akatsurai. The helmsman looks to you to set the course.
+	<choices>
+		<choice section="649">East</choice>
+		<choice section="350">North</choice>
+		<choice section="102">West</choice>
+		<choice section="550">South</choice>
+		<choice section="340">Put in at Hagashin</choice>
+		<choice section="361">Put in at Hidari</choice>
+	</choices>
+</section>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="593">
+	<p>
+		Upon hearing the name of the first of the gods, the skeletons burst asunder and fall clattering to the deck. Your men flatly refuse to cross to the other vessel, which is now slowly slipping below the waves in any case, but among the heap of bones you find a
+		<weapon name="sword" bonus="6"/> and a suit of
+		<armour name="splint armour" bonus="4"/>.
+	</p>
+	<p>After noting your new possessions, <goto section="321"/>.</p>
+</section>

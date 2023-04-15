@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="411">
+	<p>
+		The high priest tells you that the <b>golden net</b> of the twin gods has been stolen. The repulsive ones have taken it to their palace beneath the sea in the Sunken City of Ziusudra. The repulsive ones worship the fish-god Oannes, who struggles with Alvir and Valmir for control of the sea.
+	</p>
+	<p>
+		&#8216;We must have that <b>golden net</b>, or the repulsive ones will use it against us. If you return it to us, we will reward you,&#8217; says the high priest. &#8216;The Sunken City lies under the coastal waters off the Shadar Tor.&#8217;
+	</p>
+	<p>
+		If you take the mission, <tick codeword="Anchor" force="f">gain the codeword Anchor</tick>. When you are finished, <return>turn to <b>220</b></return>.
+	</p>
+</section>

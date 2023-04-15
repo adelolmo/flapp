@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="138">
+	<p>
+		Your speech fills them with courage and loyalty. You sail slowly into the fog, which closes around the ship like a glove. You cannot see more than a few yards in front. A sailor checks the depth of the water with a plumb-line - his shouts, deadened by the fog, are the only sound you can hear.
+	</p>
+	<p><difficulty ability="magic" level="12"/>.</p>
+	<outcomes>
+		<success section="476"/>
+		<failure section="341"/>
+	</outcomes>
+</section>

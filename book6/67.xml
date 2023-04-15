@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="67">
+	As you approach the tower there is a frantic skittering sound
+	from above and a couple of roof tiles come crashing down. You
+	glance up in time to see a couple of hunched figures scrambling
+	out of sight inside the belfry. From the brief glimpse it looked as
+	if they might be giant crows.
+	<choices>
+		<choice section="141">Ring the bell</choice>
+		<choice section="117">Call up to them</choice>
+		<choice section="92">Go to the shrine building</choice>
+		<choice section="398">Leave and resume your journey</choice>
+	</choices>
+</section>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="38">
+	The time has come for you to take your leave of the Abbey of Lacuna.
+	<choices>
+		<choice section="7">Go north</choice>
+		<choice section="168">Go south</choice>
+		<choice section="99">Go east</choice>
+		<choice section="237">Go west</choice>
+	</choices>
+</section>

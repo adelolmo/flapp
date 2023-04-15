@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="507">
+	<p>
+		You watch the elves of the Forsaken Forest come slinking out of the shadows. Their faces are narrow and vulpine, their bodies slim as saplings. A few are wrapped in rich furs. The others go naked.
+	</p>
+	<p>
+		They sit and eat, but their revelry is muted. Every now and then, one of them will look around suspiciously and murmur: &#8216;But I could swear the air has a mortal smell...&#8217;
+	</p>
+	<p>
+		Eventually they melt away into the woods again. You take the opportunity to pilfer a jug of <item name="faery mead"/> from their banqueting table before heading back down the path. <goto section="22"/>.
+	</p>
+</section>

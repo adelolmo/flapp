@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="376">
+	You are in the demon-haunted wilderness that is Oni Province.
+	Clouds cast doleful shadows on the heath.
+	<choices>
+		<choice section="395">Head north</choice>
+		<choice section="568">Cross the Gai River to the east</choice>
+		<choice section="472">Make for the Black Pagoda</choice>
+		<choice section="20">Go down to the sea</choice>
+	</choices>
+</section>

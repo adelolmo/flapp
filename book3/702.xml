@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="702">
+	Lauria finally leaves the tavern, apparently well lubricated with
+	Bluewood cider by now, and goes striding off into the fog
+	singing to herself. To track her to her digs you must
+	<difficulty ability="scouting" level="14"/>.
+	<outcomes>
+		<success section="401"/>
+		<failure section="477"/>
+	</outcomes>
+</section>

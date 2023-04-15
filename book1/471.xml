@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="471">
+	<p>
+		<if codeword="Animal">
+			If you have the codeword Animal, <goto section="369"/>.
+		</if>
+		If not, read on.
+	</p>
+	<p>
+		The priestess, dressed in silken robes, and wearing a wreath of oak leaves, says, &#8216;I have need of an adventurer like yourself. For arcane reasons involving the secret mysteries of Lacuna, I need the tusk of a boar. A were-boar, in fact. I believe they can be found in the Forest of the Forsaken, in northern Golnir. Hunt down a were-boar, and bring me a <b>boar&#8217;s tusk</b>. In return I will teach you how to be a better scout.&#8217;
+	</p>
+	<p>
+		If you accept the mission, <tick codeword="Animal" force="f">acquire the codeword Animal</tick>.
+	</p>
+	<p><goto section="544"/>.</p>
+</section>

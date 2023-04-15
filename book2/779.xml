@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="779">
+	<p>
+		The market at Haggart&#8217;s Corner amounts to just a few shops whose dusty shelves suggest they don&#8217;t do a roaring trade. &#8216;People prefer to do business with the trau,&#8217; says one storekeeper with a shrug. &#8216;Who can compete?&#8217;
+	</p>
+	<p>Perhaps you will find a bargain here all the same:</p>
+	<market>
+		<header type="armour"/>
+		<armour name="leather" bonus="1" buy="50" sell="45"/>
+		<armour name="ring mail" bonus="2" buy="100" sell="90"/>
+		
+		<header type="weapon"/>
+		<weapon bonus="0" buy="50" sell="45"/>
+		<weapon bonus="1" sell="200"/>
+
+		<header type="magic"/>
+		<tool name="amber wand" ability="magic" bonus="1" buy="500" sell="400"/>
+		<tool name="ebony wand" ability="magic" bonus="2" sell="800"/>
+		<tool name="cobalt wand" ability="magic" bonus="3" sell="1600"/>
+
+		<header type="other"/>
+		<tool name="lockpicks" ability="thievery" bonus="1" buy="300" sell="270"/>
+		<tool name="compass" ability="scouting" bonus="1" buy="500" sell="450"/>
+		<item name="rope" sell="45"/>
+		<item name="candle" tags="light,useonce" buy="1" sell="1"/>
+		<item name="faery mead" sell="150"/>
+	</market>
+	<p>
+		Items that have no purchase price listed are not available here. When you&#8217;ve completed your business, <goto section="242"/>.
+	</p>
+</section>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="698">
+	<p>
+		You camp for the night.
+		<if item="wolf pelt|fur cloak">
+			If you have a <b>wolf pelt</b> or <b>fur cloak</b>, the fur helps to keep you warm.
+		</if>
+		<else>
+			If you do not, <lose stamina="1">lose 1 Stamina</lose> from the cold.
+		</else>
+	</p>
+	<p>
+		You need to hunt for food.
+		<difficulty ability="SCOUTING" level="11"/>.
+		<success>If you succeed, you find a snow-hare to eat.</success>
+		<failure>
+			If you fail, you go hungry and must <lose stamina="1">lose 1 Stamina point</lose>.
+		</failure>
+	</p>
+	<p>
+		If you still live, the sun rises, its warm rays barely warming the morning air.
+	</p>
+	<choices>
+		<choice section="630">Go north</choice>
+		<choice section="281">Go west</choice>
+		<choice section="118">Go south</choice>
+		<choice section="17">Go east</choice>
+	</choices>
+</section>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="707">
+	<tick codeword="6.707.1" hidden="t"/>
+	The Chu River is a fierce white torrent between rocky banks.
+	You will need to be a strong swimmer to get across.
+	<group>
+		<text>Make a SCOUTING roll at Difficulty 13</text>
+		<lose codeword="6.707.1"/>
+		<difficulty ability="scouting" level="13"/>
+	</group>
+	if you try it, and
+	<failure>
+		if you fail the roll you must turn back after
+		<lose stamina="1">losing 1 Stamina point</lose>.
+		<tick codeword="6.707.1" hidden="t"/>
+	</failure>
+	<success><lose codeword="6.707.1" hidden="t"/></success>
+	<outcomes>
+		<choice box="6.707.1" section="378">Turn back</choice>
+		<success section="97">Get across</success>
+	</outcomes>
+</section>

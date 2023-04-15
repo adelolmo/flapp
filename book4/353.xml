@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="353">
+	<p>Cross off the 10 Shards.</p>
+	<p>
+		The woman stares into a ball of blue-coloured glass for some minutes, then whispers, as if in a trance, &#8216;There is wealth ahead of you - or death. Seek for a way forward in the pyramid. You will suffer a calamity but do not despair, all is not lost!&#8217; Then she slumps forward, suddenly asleep.
+	</p>
+	<p>You leave the wood. <goto section="280"/>.</p>
+</section>

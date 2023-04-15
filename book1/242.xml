@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="242">
+	<p>
+		You fight the Sokarans to a standstill. The Sokaran captain orders the retreat; he and his marines pull back to their galley. You and your crew are too tired to pursue, and the Sokarans pull away.
+	</p>
+	<p>&#8216;I&#8217;ll get you next time!&#8217; yells the captain.</p>
+	<p>You sail on. <goto section="439"/>.</p>
+</section>

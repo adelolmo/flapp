@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="227">
+	<p>
+		You cut your arm. The watch, smiling evilly, passes her hand over your blood, as it flows from the cut. It turns into liquid gold and spatters to the ground. For <lose stamina="1" price="x">every Stamina point</lose>, you can <gain shards="10" flag="x">gain 10 Shards</gain>.
+	</p>
+	<p>
+		When you are finished, she leaves, disappearing with Szgano into the night. <goto section="472"/>.
+	</p>
+</section>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="296">
+	You are sailing close to the mist-shrouded Isle of Mystery.
+	<choices>
+		<choice section="310">West towards Disaster Bay</choice>
+		<choice section="50">South-west along the coast of Nerech</choice>
+		<choice section="93">Into the fog around the Isle of Mystery</choice>
+		<choice section="587">East into the Unbounded Ocean</choice>
+	</choices>
+</section>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="262">
+	To the north lies Braelak, island of sorcerers. Far to the south are
+	the marsh-enclosed ruins of old Tarshesh. Westwards there are
+	the priests of Innis; pirates lurk in the east. Where now?
+	<choices>
+		<choice section="9">Head north</choice>
+		<choice section="153">Head south</choice>
+		<choice section="630">Head east</choice>
+		<choice section="281">Head west</choice>
+	</choices>
+</section>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="270">
+	<p>
+		Kaiju is a charming fishing town of smart villas with low-pitched roof climbing a hillside tufted with feathery pine trees. The Shi River cascades down through the town in a spectacular waterfall where, according to legend, the god Sanobu paused to wash his feet after traversing the lost lands of the east. Kaiju is the town of which a famous poet wrote:
+	</p>
+	<p>&#8216;Blue like smoke under rails of spring rain,</p>
+	<p>The town where my heart dwells</p>
+	<p>Is surely half in the next world.&#8217;</p>
+	<p>Decide what you will do now.</p>
+	<choices>
+		<choice section="128">Go to the seafront</choice>
+		<choice section="702">Find an inn</choice>
+		<choice section="215">Go to pray at the shrine</choice>
+		<choice section="354">Do some shopping</choice>
+		<choice section="285">Leave town</choice>
+	</choices>
+</section>

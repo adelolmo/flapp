@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="476">
+	<p>
+		<lose codeword="3.476.2" hidden="t"/>
+		<lose codeword="3.476.1" hidden="t"/>
+		<lose codeword="3.476.0" hidden="t"/>
+		
+		You&#8217;re obliged to fall in with the Reavers, at least for a while. You are given a midshipman&#8217;s position aboard one of their vessels and told that promotion will depend on how you acquit yourself in this job.
+	</p>
+	<p>
+		<difficulty ability="thievery" level="14" var="t">
+			Make a THIEVERY roll
+		</difficulty>
+		and
+		<difficulty ability="scouting" level="14" var="s">
+			a SCOUTING roll
+		</difficulty>, both at Difficulty 14.
+		<success var="t">
+			<success var="s">
+				<tick codeword="3.476.2" hidden="t"/>
+				<lose codeword="3.476.1" hidden="t"/>
+			</success>
+			<failure var="s">
+				<lose codeword="3.476.2" hidden="t"/>
+				<tick codeword="3.476.1" hidden="t"/>
+			</failure>
+		</success>
+		<failure var="t">
+			<success var="s">
+				<tick codeword="3.476.1" hidden="t"/>
+				<lose codeword="3.476.0" hidden="t"/>
+			</success>
+			<failure var="s">
+				<lose codeword="3.476.1" hidden="t"/>
+				<tick codeword="3.476.0" hidden="t"/>
+			</failure>
+		</failure>
+	</p>
+	<choices>
+		<choice box="3.476.2" section="494">Both rolls successful</choice>
+		<choice box="3.476.1" section="513">One roll successful</choice>
+		<choice box="3.476.0" section="531">Fail both rolls</choice>
+	</choices>
+</section>

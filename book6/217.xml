@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="217">
+	<p>
+		The occupant of the sedan chair is none other than Lord Yoritomo of the Moonrise Clan - the self-proclaimed Shogun, or First General of Akatsurai. He is not shaken by the close call he has just had, just annoyed with himself for getting careless.
+	</p>
+	<p>
+		<if codeword="Frog">
+			If you have the codeword Frog, <goto section="294"/>.
+		</if>
+		If not, <goto section="375"/>.
+	</p>
+</section>

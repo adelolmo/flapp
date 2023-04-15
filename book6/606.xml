@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="606" dock="Hagashin">
+	<p>
+		<if codeword="Frame">
+			If you have the codeword Frame,
+			<goto section="627">turn now to 627</goto>.
+		</if>
+		Otherwise read on.
+	</p>
+	<p>
+		You must have a ship docked in the harbour in order to transport goods. The prices given here are for single Cargo Units, which are much more than one person could hope to carry. Any cargo you buy will be delivered to your ship in the harbour, so note it on the Ship&#8217;s Manifest.
+	</p>
+	<market>
+		<header type="cargo"/>
+		<trade cargo="furs" buy="250" sell="175"/>
+		<trade cargo="grain" buy="150" sell="100"/>
+		<trade cargo="metals" buy="700" sell="600"/>
+		<trade cargo="minerals" buy="550" sell="500"/>
+		<trade cargo="spices" buy="580" sell="540"/>
+		<trade cargo="textiles" buy="200" sell="150"/>
+		<trade cargo="timber" buy="200" sell="150"/>
+	</market>
+	<p>
+		When you have made all your business arrangements, <goto section="302"/>.
+	</p>
+</section>

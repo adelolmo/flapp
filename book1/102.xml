@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="102">
+	<p>
+		<if codeword="Defend">
+			If you have the codeword Defend, <goto section="655"/> immediately.
+		</if>
+		If not, read on.
+	</p>
+	<p>
+		&#8216;What are you doing back here,&#8217; asks Grieve Marlock, angrily. &#8216;You should be defending the citadel! You know, that castle in the Pass of Eagles, up north! Get back there and talk to Orin Telana!&#8217;
+	</p>
+	<p>
+		<if item="coded missive">
+			If you have a <b>coded missive</b>, <goto section="677"/>.
+		</if>
+		Otherwise, you are shown out in short order. <goto section="100"/>.
+	</p>
+</section>

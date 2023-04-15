@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="377">
+	<p>
+		At this height, everything looks huge - including the stag beetles. To you, they have become hideous giant insects, the size of your arm! And to them, you have become a viable meal. The ancient Shadar builders of this pyramid certainly knew how to deal with tomb-robbers.
+	</p>
+	<p>
+		The structure&#8217;s very age, however, may have saved you. You spot a hole in the wall where some of the masonry has fallen away. It is just big enough for you to crawl through. You make a run for it as the beetles close in.
+	</p>
+	<p>
+		<rankcheck dice="1"/> and add one.
+		<success>
+			If the result is less than or equal to your Rank, <goto section="412"/>
+		</success>.
+		<failure>
+			If it is greater than your Rank, <goto section="708"/>.
+		</failure>
+	</p>
+</section>

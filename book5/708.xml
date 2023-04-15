@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="708">
+	<p>
+		Hammuwas Tamalkaya points at you, and speaks a word of magic. You begin to feel your heart straining inside your chest.
+	</p>
+	<p><difficulty ability="magic" level="13"/>.</p>
+	<outcomes>
+		<success section="33"/>
+		<failure section="342"/>
+	</outcomes>
+</section>

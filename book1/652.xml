@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="652">
+	<p>
+		You clamber up until you come to a mountain track. It rises up between a cleft in the rock, ahead of you.
+	</p>
+	<p>
+		A man steps out in front of you. He is clearly a soldier, but his clothes are rough and ready, as if he had been living in the wild for some time.
+	</p>
+	<p>
+		<if title="King's Champion">
+			If you have the title King&#8217;s Champion, <goto section="2"/>.
+		</if>
+		<if codeword="Ambuscade">
+			If not, but you have the codeword Ambuscade, <goto section="629"/>.
+		</if>
+		<if codeword="Ark">
+			If you have neither of the above, but you do have the codeword Ark, <goto section="353"/>.
+		</if>
+		Otherwise read on.
+	</p>
+	<p>
+		The soldier looks you over critically. He signals that he wants to parley with you.
+	</p>
+	<choices>
+		<choice section="557">Talk to him</choice>
+		<choice section="49">Attack him straight away</choice>
+	</choices>
+</section>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="125">
+	<p>
+		The sea, which for many days now has been a rich mauve-blue, now begins to take on a rusty colour.
+	</p>
+	<p>
+		&#8216;It is silt from the Nozama estuary,&#8217; says the navigator. &#8216;The same stuff that gives Lake Firewater its blood-tinged hue.&#8217;
+	</p>
+	<choices>
+		<choice section="266">Steer south to Smogmaw</choice>
+		<choice section="4">Steer north</choice>
+		<choice section="227">Steer west</choice>
+		<choice section="302">Steer east</choice>
+	</choices>
+</section>

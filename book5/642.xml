@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="642">
+	<p>
+		The interior of the dimly lit tomb is murky and scented with myrrh.
+		<tick codeword="5.Tomb" hidden="t"/>
+	</p>
+	<p><difficulty ability="thievery" level="12"/>.</p>
+	<outcomes>
+		<success section="238"/>
+		<failure section="311"/>
+	</outcomes>
+</section>

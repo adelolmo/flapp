@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="358">
+	<p>
+		Lord Shuriyoku is pleased to receive your report. &#8216;The chancellor is a lion, but he is an old lion. Kumonosu is a rodent in his prime, hence he is more dangerous.&#8217;
+	</p>
+	<p>
+		Shuriyoku gestures for his guards to search you. &#8216;Don&#8217;t be offended. These are parlous times and we must be watchful in case of double agents.&#8217;
+	</p>
+	<p>
+		<if item="crimson arrow">
+			If you possess a <b>crimson arrow</b>, <goto section="694"/>.
+		</if>
+		If not, <goto section="103"/>.
+	</p>
+</section>

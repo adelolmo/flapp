@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="39">
+	You and some of your crew clamber aboard the wreck. You find some dead sailors amid the wreckage. Their bodies are curiously bloated. <difficulty ability="scouting" level="9"/>.
+	<outcomes>
+		<success section="194"/>
+		<failure section="465"/>
+	</outcomes>
+</section>

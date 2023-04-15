@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="392">
+	<p>
+		Avar staggers back, groaning. In the press of the melee, you and he are separated, but it is clear to your crew and to the enemy that you were winning. This is good for the morale of your crew, and bad for the enemies&#8217; morale.
+	</p>
+	<p>
+		The main battle is still unfinished.
+		<if profession="warrior">
+			<random dice="3">
+				<adjust ability="rank"/>
+				<adjust crew="poor" amount="-2"/>
+				<adjust crew="good" amount="2"/>
+				<adjust crew="excellent" amount="3"/>
+			</random>
+			if you are a Warrior,
+		</if>
+		<else>
+			or
+			<random dice="2">
+				two dice
+				<adjust ability="rank"/>
+				<adjust crew="poor" amount="-2"/>
+				<adjust crew="good" amount="2"/>
+				<adjust crew="excellent" amount="3"/>
+			</random> if you belong to any other profession.
+		</else>
+		Add your Rank to this roll. Then, if your crew is poor quality, subtract 2 from the total. If the crew is good quality, add 2. If the crew is excellent quality, add 3.
+	</p>
+	<outcomes>
+		<outcome range="0-10" section="282">You are defeated</outcome>
+		<outcome range="11-15" section="240">They are beaten off</outcome>
+		<outcome range="16+" section="149">You get the upper hand</outcome>
+	</outcomes>
+</section>

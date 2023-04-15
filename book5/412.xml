@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="412">
+	<p><tick codeword="Expunge"/>.</p>
+	<p>
+		You manage to cut down the last vampire. Quickly, you cut off their heads to make sure they stay dead.
+	</p>
+	<p>
+		In the morning, your COMBAT rating
+		<lose curse="Vampire's Kiss">returns to normal</lose>
+		(if it was reduced in the fight) and the bodies of the vampires have dissolved in the sunlight. They have left <gain shards="150"/> and a book called the <b>Black Diptych</b>. It is a map of the tombs in the Crags of the Long Homes. Note the
+		<item name="Black Diptych">
+			<effect type="use" verb="Read" text="Court of Hidden Faces 410">
+				<desc><i>Court of Hidden Faces</i> <b>410</b></desc>
+				<goto book="5" section="410" hidden="t"/>
+			</effect>
+		</item>.
+		Whenever you want to consult the book, note the paragraph you are at and <goto section="410" force="f"/>.
+	</p>
+	<p>
+		When you are ready, you journey on. <goto section="393"/>.
+	</p>
+</section>

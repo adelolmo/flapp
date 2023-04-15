@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="682">
+	You are travelling across north-west Uttaku. The countryside is rocky and sparse; it is largely uninhabited save for the occasional goatherd. You spot a squat tower of red stone in a field. It appears to be floating a couple of inches off the ground. A sign leans drunkenly nearby. It reads, written in a crazed scrawl: 'The House of Holyamu the Unbidden. Visitors welcome (to buzz off!).'
+	<choices>
+		<choice section="54">Journey on</choice>
+		<choice section="90">Visit Holyamu</choice>
+	</choices>
+</section>

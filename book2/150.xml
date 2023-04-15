@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="150">
+	The town of Haggart&#8217;s Corner stands at a place where three
+	roads meet. Here, in certain seasons of the year, the trau are said
+	to come and trade their marvellous trinkets in exchange for
+	human favours.
+	<choices>
+		<choice section="242">Stop at Haggart&#8217;s Corner</choice>
+		<choice section="173">Continue on your journey</choice>
+	</choices>
+</section>

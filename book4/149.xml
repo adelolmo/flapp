@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="149">
+	<p>
+		Your men drive the boarders back to the <i>Sea Centaur</i>, where you find Avar Hordeth, battered and weak, in his cabin.
+	</p>
+	<p>
+		He snarls, saying, 'You'll never take me alive!' and runs at you wielding his axe. You must fight him again.
+	</p>
+	<fight name="Avar Hordeth" combat="7" defence="8" stamina="3"/>
+	<p>
+		If you win, <goto section="114"/>.
+		If you lose, <goto section="7" dead="t"/>.
+	</p>
+</section>

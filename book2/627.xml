@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="627">
+	Guffawing, the sprites let you go. You run pell-mell until there&#8217;s
+	no breath left in you. Only then do you notice that they stole
+	one of your fingers.
+	<lose ability="thievery" amount="1">
+		Lose 1 from THIEVERY
+	</lose>	(down to a minimum score of 1) and <goto section="288"/>.
+</section>

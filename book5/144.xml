@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="144">
+	<p>
+		At last you have finished your book of tales. The master is pleased, and he takes it to the Grand Telling (to which you are not invited). If you undertook one of the quests (the princess as a bird, the dragon's hoard, or the magic portal), regardless of whether you were successful, <goto section="108" force="f"/>. If you didn't take up any of the quests, <goto section="63"/>.
+	</p>
+</section>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="638">
+	<p>
+		Akugenda recoils with a grimace, like a man who had sipped at a wine-cup only to discover it contained vinegar.
+	</p>
+	<p>
+		&#8216;Never mind the foreigner,&#8217; says Kiyomori to his guards. &#8216;Akugenda is the real threat. Concentrate your attacks on him.&#8217;
+	</p>
+	<p>
+		Akugenda only laughs, performing a series of complex magical gestures that cause a thick mist to spring up from the grass. You catch a glimpse of his silhouette rising into the air as the chancellor&#8217;s guards mill about in confusion.
+	</p>
+	<choices>
+		<choice section="681">Grab Akugenda&#8217;s ankle</choice>
+		<choice section="659">Wait to see what happens</choice>
+	</choices>
+</section>

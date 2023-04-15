@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="224">
+	<p>
+		As a lord or lady of the Court of Hidden Faces you are welcome in the palace. Expungers stand on guard, and salute as you pass by.
+	</p>
+	<p>
+		You come to the Garden of Exotic Fragrances where masked lord take their pleasure (and make their plots). You have your own suite of rooms in the palace, of course. You can also make use of the services of the court physician.
+	</p>
+	<choices>
+		<choice section="624">Go to your apartment</choice>
+		<choice section="401">Go to the audience chamber</choice>
+		<choice section="674">See the court physician</choice>
+		<choice section="444">Leave the palace</choice>
+	</choices>
+</section>

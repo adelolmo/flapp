@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="453">
+	<p>
+		Once again you find yourself a slave to the masked lords of Uttaku.
+		<group force="t">
+			<text>
+				Lose the codewords
+				<i>Erebus</i> and <i>Evade</i>
+			</text>
+			<lose codeword="Erebus"/>
+			<lose codeword="Evade"/>
+		</group> if you had them.
+		<lose item="*" shards="*">Cross off all the money and items</lose> you were carrying from your Adventure Sheet; they are gone forever.
+	</p>
+	<p>
+		You are taken to Aku, city of the Faceless King, and brought before the Master of Minions, a masked noble who decides where slaves will work.
+	</p>
+	<p><random dice="1"/>.</p>
+	<outcomes>
+		<outcome range="1" section="32"/>
+		<outcome range="2" section="197"/>
+		<outcome range="3" section="283"/>
+		<outcome range="4" section="387"/>
+		<outcome range="5" section="462"/>
+		<outcome range="6" section="668"/>
+	</outcomes>
+</section>

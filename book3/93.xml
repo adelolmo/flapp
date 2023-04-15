@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="93">
+	<p>
+		&#8216;Hear that melody, captain?&#8217; asks the mate, his expression a mixture of fear and longing. &#8216;It is the song of the mermaids.&#8217;
+	</p>
+	<p>
+		It is an unearthly sound, beautiful but somehow terrible. Men must feel this way when, having drawn their last breath, they gaze on the lovely face of a Valkyrie.
+	</p>
+	<p>
+		<if codeword="Cynosure">
+			If you have the codeword Cynosure, <goto section="131"/>.
+		</if>
+		If not, <goto section="149"/>.
+	</p>
+</section>

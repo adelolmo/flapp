@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="521">
+	You stop for a rest in the lee of an old cairn. When you are
+	ready to set out on your travels again, you are disgusted to
+	discover that while you were sleeping an invisible thief stole 1-6
+	of your possessions.
+	(<random dice="1" var="x">Roll a die</random> to find out how many.
+	<lose item="?" multiple="x">Possessions are stolen</lose>
+	in the order they were written down on
+	your Adventure Sheet.)
+	<choices>
+		<choice section="496">Go east</choice>
+		<choice section="595">Go west</choice>
+		<choice section="124">Go south</choice>
+		<choice section="546">Go north</choice>
+	</choices>
+</section>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="480">
+	<p>
+		&#8216;Well, tell you what - I&#8217;ll teach you a few tricks, and then you can go away. What do you say?&#8217;
+	</p>
+	<p>
+		You&#8217;ve got nothing to lose so you accept. Damor was once a Troubadour, and he instructs you in its arts. <gain ability="charisma" amount="1">Gain 1 CHARISMA point permanently</gain>. Afterwards, for a few hours, he lifts the curse that soured your water so you can make it down the mountain path safely. <goto section="244"/>.
+	</p>
+</section>

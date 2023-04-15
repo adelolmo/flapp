@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="561">
+	You are left alone, free to trawl for <b>smoulder fish</b>.
+	<random dice="1" var="x"/> - the result is the number of <item name="smoulder fish" quantity="x"/> you catch. When you are ready, you return to shore and give the boat back. <goto section="135"/>.
+</section>

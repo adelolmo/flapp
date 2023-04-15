@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="330">
+	<p>
+		The sea spider collapses, oozing a foul-smelling black ichor into the water.
+	</p>
+	<p>
+		Its lair is an underground cave full of water that comes up to your waist. It would be totally submerged at high tide. There you find the skeletal remains of some poor unfortunate sailor, the last meal of the spider. In a pouch, you discover a <tool name="gold compass" ability="scouting" bonus="2"/>. Note it on your Adventure Sheet.
+	</p>
+	<p>You climb out to find your crew searching for you.</p>
+	<p>
+		&#8216;We thought you were a goner for sure, cap&#8217;n,&#8217; says one of them.
+	</p>
+	<p>You make it back to your ship, and set sail at high tide.</p>
+	<p><goto section="471"/>.</p>
+</section>

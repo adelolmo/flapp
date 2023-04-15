@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="138">
+	<p>
+		<if codeword="Ague">
+			If you have the codeword Ague, <goto section="115"/>.
+		</if>
+		If not, read on.
+	</p>
+	<p>
+		You take a stroll through the streets - Marlock City is teeming with people.
+	</p>
+	<choices>
+		<choice section="15">Explore the Barracks area</choice>
+		<choice section="129">Visit the Street of Entertainers</choice>
+		<choice section="619">Enter the residential quarter</choice>
+	</choices>
+</section>

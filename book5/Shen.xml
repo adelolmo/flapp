@@ -1,0 +1,16 @@
+<section name="Shen Darkeye" profession="Rogue">
+	<p>
+		Darkness has always attracted you more than harsh daylight.  As a child you practised until your footstep was quieter than a spider's, your touch lighter than a moth's wing.  No lock nor vault is proof against your skills.  You have learned of the self-styled king of thieves, the Master of Shadows, in the slums of Aku.  Perhaps he may present you with a challenge.
+	</p>
+	<p>
+		You can play as Shen, or as a rogue with a different name (enter it in the 'Name' field). To begin your adventure, <goto section="1" force="f"/>.
+	</p>
+	<p>For another profession, choose from the following:</p>
+	<choices>
+		<choice section="Nakir">Warrior</choice>
+		<choice section="Jadhak">Mage</choice>
+		<choice section="Anathema">Priest</choice>
+		<choice section="Domisellus">Troubadour</choice>
+		<choice section="Melmoth">Wayfarer</choice>
+	</choices>
+</section>

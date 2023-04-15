@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="192" image="192.jpg">
+	Starspike Island is a breath-taking sight: from its centre a slender
+	mountain rises straight up into the sky. Its pinnacle is lost far
+	beyond the clouds. &#8216;It&#8217;s said to be higher than Sky Mountain in
+	Sokara,&#8217; says one of your crewmen.
+	<choices>
+		<choice section="704">Put in at the island</choice>
+		<choice section="230">Sail off</choice>
+	</choices>
+</section>

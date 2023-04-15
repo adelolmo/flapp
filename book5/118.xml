@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="118">
+	<p>
+		<if item="?" group="5.238" greaterthan="1">
+			If you took more than one item,
+			<tick codeword="Ectoplasm">
+				note down the codeword Ectoplasm
+			</tick>.
+		</if>
+	</p>
+	<p>
+		The bag of gold contains
+		<item name="2000 Shards" replace="bag of gold"/>.
+		The flute is a
+		<tool name="silver flute" ability="charisma" bonus="2" replace=""/>;
+		the axe is a
+		<weapon name="black axe" bonus="1" replace=""/>.
+		The <b>stone bracelet</b> is a magical trap to ensnare the unwary - you cannot rid yourself of it once you have picked it up, and it cuts your MAGIC ability in half (halves round up). Note you have a Curse of Blighted Magic, MAGIC ability halved, if you took it.
+	</p>
+	<p>
+		<if codeword="Eerie">
+			If you have the codeword Eerie, <goto section="336"/>.
+		</if>
+		Otherwise, you have no idea what purpose the <b>gossamer net</b> serves.
+	</p>
+	<p>You leave this place. <goto section="471"/>.</p>
+</section>
+		

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="114">
+	A prickling of the hairs on the nape of your neck warns you that
+	dire sorcery is at work here. The emerald is most probably
+	cursed.
+	<choices>
+		<choice section="137">Take it anyway</choice>
+		<choice section="160">Descend and enter the crypt</choice>
+		<choice section="22">Go back and take the other path</choice>
+		<choice section="23">Leave the forest</choice>
+	</choices>
+</section>

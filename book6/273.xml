@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="273">
+	<p>
+		<transfer armour="*" to="6.273" hidden="t"/>
+		All three heads attack you at once. This means that they will all get a die roll to try to injure you while you are striking back at just one of them. Also, you do not get the benefit of your armour because you won&#8217;t have gone to sleep wearing it.
+	</p>
+	<fight name="First Flying Head" combat="8" defence="18" stamina="5" group="h"/>
+	<fight name="Second Flying Head" combat="8" defence="18" stamina="5" group="h"/>
+	<fight name="Third Flying Head" combat="8" defence="18" stamina="5" group="h"/>
+	<p>
+		<transfer armour="*" from="6.273" hidden="t"/>
+		If you manage to kill all three, <goto section="661"/>.
+	</p>
+</section>

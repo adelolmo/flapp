@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="248">
+	Mischievous elfin fingers delve into your haversack when you aren&#8217;t looking. You must lose 1-6 possessions (<random dice="1" var="x">roll a die</random> to see how many).
+	<lose item="?" multiple="x">The items stolen</lose> are the ones listed first on your Adventure Sheet.
+	<if codeword="Bosky">
+		If you have the codeword Bosky, <goto section="300"/>.
+	</if>
+	If not, <goto section="93"/>.
+</section>

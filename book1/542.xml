@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="542" boxes="1">
+	<p>
+		<if ticks="1">
+			If there is a tick in the box, <goto section="620"/> immediately.
+		</if>
+		If not, <tick/>, and read on.
+	</p>
+	<p>
+		&#8216;By Tyrnai! It&#8217;s the one who killed that pretender to the throne, Nergan Corin!&#8217; says one of them. They line up and give you a drunken salute, and then fall to slapping you on the back, and offering to buy you beers all night.
+	</p>
+	<p>
+		They also give you a present - a
+		<item name="potion of strength">
+			<effect type="use" ability="combat"/>
+		</item>.
+		Note it on your Adventure Sheet. When used it will add 1 to your COMBAT rating, for one COMBAT roll, or one fight only, after which it will wear off.
+	</p>
+	<p><goto section="100"/>.</p>
+</section>

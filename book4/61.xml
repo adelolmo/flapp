@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="61">
+	<p>
+		After the battle, you are taken to see General Beladai. His beaming smile looks out of place on his dour, grizzled, veteran's face. He embraces you and says in his booming voice, 'The Northern Alliance and King Nergan will honour you above all others, my friend.'
+	</p>
+	<p>
+		Beladai gives you personal training in the art of war. <gain ability="combat" amount="1">Add 1 to your COMBAT ability</gain>, permanently.
+	</p>
+	<p>
+		After a few days, King Nergan and his court arrive to set up base at the citadel. The King rewards you with a title, in this case, the title of your next Rank. You <gain ability="rank" amount="1">gain a Rank</gain>. Also, <random dice="1" var="x"/> and <gain ability="stamina" amount="x">add the result to your unwounded Stamina total</gain>, permanently. The King also gives you <gain shards="500">500 Shards</gain>.
+	</p>
+	<p>
+		After a victory banquet, at which you are the guest of honour, you leave the citadel. <goto section="152"/>.
+	</p>
+</section>

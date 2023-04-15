@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="429">
+	The seneschal asks if you have learned about the spectral minuet. <if codeword="Cruel|Hill">If you have the codeword Cruel or Hill, <goto section="347"/>.</if> If not, <goto section="715"/>.
+</section>

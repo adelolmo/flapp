@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="162">
+	You emerge from the wood. Not far off to your right, you see
+	smoke rising from the chimneys of a few crude cottages. A man
+	wrapped in sackcloth stumbles about gathering wood.
+	<choices>
+		<choice section="136">Approach the man</choice>
+		<choice section="23">Continue on your way</choice>
+	</choices>
+</section>

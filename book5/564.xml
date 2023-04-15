@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="564">
+	<p>
+		Cross off the <lose item="hyperium wand"/> from your Adventure Sheet. Targdaz uses it up (or so he says) in the creation of the special ring.
+	</p>
+	<p>
+		Note the
+		<item name="ring of ultimate power">
+			<effect type="aura" ability="*" bonus="1" text="+1 all abilities"/>
+			<effect type="aura" ability="Rank" bonus="2" text="+2 Rank"/>
+			<effect type="aura" ability="Stamina" bonus="10" text="+10 Stamina"/>
+		</item>.
+		While you carry the ring, all your abilities (i.e. CHARISMA, COMBAT, MAGIC and so on) are increased by one. Your Rank is also increased by two (which will increase your Defence by two) and your total unwounded Stamina score is increased by 10. If you ever lose the ring, you have to restore everything to normal.
+	</p>
+	<p>
+		When you are ready, <goto section="245"/>.
+	</p>
+</section>

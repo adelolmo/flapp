@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="462">
+	<p>
+		It is the wizard Targdaz, whom you freed from imprisonment inside a giant ruby. &#8216;I have come to tell you of a vacant castle in Old Harkuna,&#8217; he says. &#8216;If you&#8217;d care to take up residence there I&#8217;d be happy to serve as your court sorcerer.&#8217;
+	</p>
+	<p>&#8216;Fine, but where is it exactly?&#8217;</p>
+	<p>
+		He throws up his hands. &#8216;I didn&#8217;t bring a map! It can&#8217;t be that hard to find.&#8217;
+	</p>
+	<p>So saying, he flies off. <goto section="135"/>.</p>
+</section>

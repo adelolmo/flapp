@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="430">
+	<p>
+		You throw the fight in such a way as to make the Uttakin lord look good. Lord Elbistan realises what you have done, and waives the 100 Shards you owe him in a magnanimous gesture that makes him look even better in front of his peers. The group of nobles leave.
+	</p>
+	<p>
+		'A wise move, my friend,' comments one of the crowd of spectators, a merchant from Golnir. <goto section="235"/>.
+	</p>
+</section>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="499">
+	<p>
+		You board your ship, which is docked in the harbour. The crew give a drunken cheer as you come on board.
+	</p>
+	<p>&#8216;Where are we bound, Cap&#8217;n?&#8217; asks the first mate.</p>
+	<choices>
+		<choice section="555">Return to shore</choice>
+		<choice section="29">Set sail</choice>
+	</choices>
+</section>

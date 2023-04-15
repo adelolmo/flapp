@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="499">
+	You stumble upon thirteen witches dancing &#8216;sky-clad&#8217; in a circle
+	of old standing stones. They are livid at your intrusion, and
+	challenge you to a contest of sorcery. You see no way to back
+	out without antagonizing them even more.
+	<difficulty ability="magic" level="11">
+		Make a MAGIC roll at a Difficulty of 11
+	</difficulty>
+	to convince them to let you go on your way unmolested.
+	<outcomes>
+		<success section="268"/>
+		<failure section="429"/>
+	</outcomes>
+</section>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="699">
+	You are taken to see Akradai, prince of the Azure Sky tribe. He 	is an old friend, and his shamans will <lose disease="*">cure you of any disease or poison</lose> you may be suffering from (but they cannot lift a curse). After a fine dinner at the table of a prince of the steppes, you retire to bed, warm with Kvass, the intoxicating liquor of the nomads. The next day, you continue on your way.
+	<choices>
+		<choice section="15">Go north</choice>
+		<choice section="280">Go east toward Yarimura</choice>
+		<choice section="234">Go south</choice>
+		<choice section="17">Head west deeper into the steppes</choice>
+	</choices>
+</section>

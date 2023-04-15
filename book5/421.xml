@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="421">
+	<p>
+		You have come to the Mixen Sumps, a flat expanse of stinking swampland, where twisted and emaciated trees drag themselves up out of the viscous, boggy, black-water marshes. Stringy reeds and bullrushes ripple in the wind, and clouds of gnats and mosquitoes fill the reeking air with a constant buzzing noise. The Ruby River loses itself amid the sludge, on its way to the sea.
+	</p>
+	<p><random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-5" section="310">A sunken idol</outcome>
+		<outcome range="6-7" section="371">No event</outcome>
+		<outcome range="8-12" section="243">An ugly guide</outcome>
+	</outcomes>
+</section>

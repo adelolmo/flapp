@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="349">
+	<p>
+		The abbot searches you to verify that you are not carrying anything that could help you cheat in the tests. (If you have any possessions that you did not leave in the great hall, they are confiscated;
+		<lose item="*">cross them off</lose> your Adventure Sheet.)
+		A stone plug is raised from the floor and the monks lower you on a rope into the catacombs below the monastery.
+	</p>
+	<p>
+		The first test requires you to find your way through a darkened maze.
+		<difficulty ability="scouting" level="14">
+			Make a SCOUTING roll at a Difficulty of 14
+		</difficulty>.
+	</p>
+	<outcomes>
+		<success section="390"/>
+		<failure section="371"/>
+	</outcomes>
+</section>

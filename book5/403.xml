@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="403">
+	<p>
+		Picking your way hurriedly along the trail, you see below you a small girl in distress. She has slipped off the path, fallen down a cleft in the rock and cut her head and arms badly &#8211; your instinct is to climb down and help.
+	</p>
+	<p><difficulty ability="magic" level="13"/>.</p>
+	<outcomes>
+		<success section="22"/>
+		<failure section="173"/>
+	</outcomes>
+</section>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="547">
+	<p>
+		The dragon turns the attention of all three heads upon you, as if noticing you for the first time.
+	</p>
+	<p>
+		&#8216;Wait,&#8217; it rumbles, bathing you in a blast of warm, sulphurous air, &#8216;I sense that you are indeed blessed. Though not dead. Hmm. Odd. Still, I have my duty.&#8217;
+	</p>
+	<p>
+		The dragon shuffles aside, opening the way to the Stairs of the Land Below the World.
+	</p>
+	<p>
+		&#8216;By the way, once you go through the arch, you cannot get back this way,&#8217; adds the celestial dragon.
+	</p>
+	<choices>
+		<choice section="653">Descend into the dark</choice>
+		<choice section="684">Go back down the way you came</choice>
+	</choices>
+</section>

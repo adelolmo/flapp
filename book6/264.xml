@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="264">
+	<p>
+		With your help the barbarians make short work of their foes. They leap joyfully about, cavorting over the bodies and grunting as they pat you on the back. When they start building a fire to roast the corpses, though, you think it may be time to get going.
+	</p>
+	<p>
+		You can salvage a
+		<item name="lady's court robe"><b>lady&#8217;s court robe</b></item>
+		and a <weapon name="dagger" bonus="2"/>
+		from the wreckage of the sedan chair as it goes up in flames.
+	</p>
+	<p>
+		<lose codeword="Frog">Lose the codeword Frog</lose>
+		if you had it and <goto section="280"/>.
+	</p>
+</section>

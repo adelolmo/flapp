@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="423">
+	<p>
+		'You have defeated me! How galling!' cries the Grand Vizier, rather surprised. 'Still, it happens every now and again. I find I must allow you into the audience chamber after all.'
+	</p>
+	<p><goto section="401"/>.</p>
+</section>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="399">
+	<p>
+		In return for treating your injuries, the clerics expect a small donation to the upkeep of the temple. They will heal 1-6 lost Stamina points for
+		<rest stamina="1d" shards="3">3 Shards</rest>
+		or 2-12 Stamina points (the score of two dice) for
+		<rest stamina="2d" shards="5">5 Shards</rest>.
+	</p>
+	<p>
+		When you have taken your medicine and paid the priests their due, <goto section="79"/>.
+	</p>
+</section>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="633">
+	<p>
+		The streets are a maze of smoky alleys and dark passages built around a central square. The square contains a hulking mansion of dilapidated stone. A large door, with several dodgy-looking cutthroats loitering around outside, has a banner hanging over it that reads: Brotherhood of the Night.
+	</p>
+	<p>
+		Around the square, Thieves&#8217; Kitchen is divided into three areas - rough, very rough, and extremely rough!
+	</p>
+	<choices>
+		<choice section="560">Visit the brotherhood</choice>
+		<choice section="591">Head for the rough area</choice>
+		<choice section="494">Enter the very rough area</choice>
+		<choice section="448">Go to the extremely rough area</choice>
+		<choice section="182">Leave</choice>
+	</choices>
+</section>

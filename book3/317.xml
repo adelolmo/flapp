@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="317">
+	The hills of Copper Island are honeycombed with mine
+	workings. Beside a tunnel mouth you see a hut where the mine
+	foreman conducts business.
+	<choices>
+		<choice section="38">Go to see the foreman</choice>
+		<choice section="394">Enter the mines</choice>
+		<choice section="99">Return to Brazen</choice>
+	</choices>
+</section>

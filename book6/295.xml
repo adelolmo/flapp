@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="295">
+	You must pay
+	<rest stamina="1" shards="2">2 Shards a day</rest> to stay at the inn.
+	Each day you rest here you can recover 1 lost Stamina point. Remember that your Stamina will not increase above its normal unwounded score, though. When you are ready to leave, <goto section="573"/>.
+</section>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="218">
+	<p>
+		The pirates obey their own warped code of honour, surrendering now that you&#8217;ve slain their leader. You can take his
+		<weapon name="sword" bonus="1"/> and
+		<armour name="splint armour" bonus="4"/>.
+		The new pirate leader also presents you with the
+		<item name="pirate captain's head">
+			<b>pirate captain&#8217;s head</b>
+		</item>	if you want it.
+		As the new leader he agrees to take you to their lair in a secluded cove midway between Shingen and Hidari, where they hand over their loot.
+	</p>
+	<p><random dice="1"/> to see what you get:</p>
+	<outcomes>
+		<outcome range="1-2">
+			<gain shards="1000"/> and
+			<tool name="lockpicks" ability="thievery" bonus="1"/>
+		</outcome>
+		<outcome range="3-4">
+			<gain shards="750"/> and a
+			<item name="silver nugget"/>
+		</outcome>
+		<outcome range="5">
+			<gain shards="550"/> and an
+			<item name="iron fan"/>
+		</outcome>
+		<outcome range="6">
+			<gain shards="350"/> and a
+			<item name="bag of pearls"/>
+		</outcome>
+	</outcomes>
+	<p>Record the loot on your Adventure Sheet and <goto section="556"/>.</p>
+</section>

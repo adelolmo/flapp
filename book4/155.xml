@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="155">
+	<p>
+		Blue Cap chuckles inanely. 'Yes sir!' he says. A few ear-crashing moments later and the panel of seemingly unbreakable ice is a pile of gleaming rubble.
+	</p>
+	<p>'Payment now, please,' rumbles Blue Cap.</p>
+	<p>'How much?'</p>
+	<p>'Manthings pay two hundred Shards a job to Blue Cap.'</p>
+	<p>'Two hundred Shards for smashing one piece of ice!'</p>
+	<p>
+		'Payment always the same, whatever job. Smash ice, dig tunnel all day - payment the same,' says Blue Cap. He hefts his pickaxe ominously.
+	</p>
+	<choices>
+		<choice section="359" shards="200">Pay the money</choice>
+		<choice section="562">Can't or won't pay</choice>
+	</choices>
+</section>

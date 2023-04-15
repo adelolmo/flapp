@@ -1,0 +1,16 @@
+<section name="Dilmun Snow-Walker" profession="Wayfarer">
+	<p>
+		Dilmun is a scout and hunter, the best in his tribe - but he wants to be the best in the world. He has heard tell of a stairway in the Peaks at the Edge of the World, and that they lead to a place beyond the world. With the blessing of Tambu, great spirit of the steppes, perhaps he can find this place, and prove that he is truly the best.
+	</p>
+	<p>
+		You can play as Dilmun, or as a wayfarer with a different name (enter it in the 'Name' field). To begin your adventure, <goto section="1" force="f"/>.
+	</p>
+	<p>For another profession, choose from the following:</p>
+	<choices>
+		<choice section="Kitunai">Priest</choice>
+		<choice section="Ilak">Warrior</choice>
+		<choice section="Arabel">Mage</choice>
+		<choice section="Vilss">Rogue</choice>
+		<choice section="Charyss">Troubadour</choice>
+	</choices>
+</section>

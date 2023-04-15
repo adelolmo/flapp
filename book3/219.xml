@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="219">
+	<p>
+		Dangling on a long rope usually used for keelhauling, you manage to get down to the top of the waterspout. From there you swim down to the sea bed, where you discover a rusty wheel beside a wide vent. Could this be the source of the waterspout?
+	</p>
+	<p>
+		With the last breath in your lungs, you turn the wheel until the vent closes and the torrent of water is cut off. Then you bob back to the surface to find your ship drifting safely on the waves once more. Your crew gratefully hauls you aboard with loud cheers.
+	</p>
+	<p>&#8216;A strange experience,&#8217; you say to the first mate.</p>
+	<p>
+		He waves his hand to make light of the matter. &#8216;Oh, a seafarer sees many strange things. Let me tell you about the time...&#8217;
+	</p>
+	<p>And so you sail on. <goto section="39"/>.</p>
+</section>

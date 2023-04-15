@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="272">
+	<p>
+		You are pushed and shoved into the middle of a circle formed by many of the nomads - men, women and children who mock and jeer at you. You shudder to think of your fate - the nomads of the steppes are renowned for their cruelty.
+	</p>
+	<p>
+		A burly fellow elbows his way into the circle. His piggy eyes regard you intently from within folds of fat. His stare seems most challenging.
+	</p>
+	<p>
+		&#8216;You maggot-ridden, dung-faced, flea-infested mound of horse manure!&#8217; he bellows at you. &#8216;I, Yagotai the Brave, have slain dragons! I have slain demons of hell! I have already achieved more than one such as you could achieve in an entire lifetime, so worthless are you!&#8217;
+	</p>
+	<p>
+		The crowd laughs, and applauds wildly. Then they fall silent, all eyes upon you. Clearly, they expect you to reply. It is a contest of boasts and insults, an old nomad custom.
+	</p>
+	<p><difficulty ability="charisma" level="15"/>.</p>
+	<outcomes>
+		<success section="393"/>
+		<failure section="64"/>
+	</outcomes>
+</section>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="85">
+	You are sailing around Scorpion Bight.
+	<choices>
+		<choice section="190">Sail north along the coast</choice>
+		<choice section="29">Sail west towards Yellowport</choice>
+		<choice section="136">Sail east into the Sea of Whispers</choice>
+		<choice section="416">Sail south into the Violet Ocean</choice>
+		<choice section="176">Go ashore at Scorpion Bight</choice>
+	</choices>
+</section>

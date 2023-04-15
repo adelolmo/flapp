@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="515" boxes="1">
+	<p>
+		You come across a man crouching miserably on a desolate reef. &#8216;If you had not come along I would have been dead before the end of the week,&#8217; he says tearfully as you help him aboard.
+	</p>
+	<p>
+		<if ticks="0">
+			If the box above is empty,
+			<tick>put a tick in it</tick>
+			and <goto section="608"/>.
+		</if>
+		If the box was already ticked, <goto section="572"/>.
+	</p>
+</section>

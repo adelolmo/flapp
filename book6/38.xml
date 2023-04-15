@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="38">
+	<p>
+		Nothing you say will persuade Kokoro to come back with you. As you are leaving, she makes you a present of her finest
+		<item name="lady's court robe" force="T"/>,
+		a valuable garment of brocaded silk with raised white butterflies on a field of blue-washed grey. It would be rude to refuse this; add it to your list of possessions even if it means you have to discard something else.
+	</p>
+	<p>
+		Bidding Kokoro farewell, you set out back to the city just as dawn begins to show as a cherry-blossom tinge over the eastern hills. How will Takakura react when you give him the bad tidings? Perhaps it would be better not to go back to the palace but just to slink off quietly.
+	</p>
+	<choices>
+		<choice section="131">Return to the palace</choice>
+		<choice section="79">Lose yourself in the city</choice>
+	</choices>
+</section>

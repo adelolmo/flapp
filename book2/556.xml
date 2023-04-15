@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="556">
+	<p>
+		You learn that the Tower of Despair, which is commonly thought to stand on the edge of the Endless Plains, is in fact in this very forest. &#8216;It contains the treasure of an undead knight,&#8217; says Knocklar. &#8216;He pledged half of what he had to gain eternal life, and the other half he locked in that tower.&#8217;
+	</p>
+	<p>&#8216;A considerable sum, presumably.&#8217;</p>
+	<p>
+		&#8216;Enough to make every king despair, and every merchant weep with greed! But forget about stealing it. The only way to open the tower is with the key of stars, which is in the hands of the Trau King of the Whistling Heath.&#8217;
+	</p>
+	<p>
+		Knocklar has no more time for gossip. He has to be getting on with his chores. <goto section="456"/>.
+	</p>
+</section>

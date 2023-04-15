@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="543">
+	<p>
+		You step forward into the ghost-light. The spectres fall silent and turn like drifting wisps of smoke to face you. &#8216;What&#8217;s this?&#8217; you cry in outrage. &#8216;If tombs and charnel-houses cannot hold the dead, burials should be made in ravens&#8217; guts instead!&#8217;
+	</p>
+	<p>&#8216;Will you mock us, mortal?&#8217; creaks a dusty voice.</p>
+	<p>
+		The spectres reach out with white hands, thinking to take your soul, but you confound them by speaking one of the names of Harkun the Creator-God. The spectres disband into tatters of fading ectoplasm.
+	</p>
+	<p>
+		They departed so suddenly that they left something on the floor of the cavern: a pattern of sparkling lines made up of tiny ice crystals. You stoop, discovering on closer inspection that the lines mark out the steps of their dance. Intriguing. You practise it yourself - a stately minuet which can be easily executed with both dignity and grace.
+	</p>
+	<p>
+		<tick codeword="Cruel">Get the codeword Cruel</tick>
+		and then <goto section="633"/>.
+	</p>
+</section>

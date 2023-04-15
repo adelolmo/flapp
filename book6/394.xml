@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="394">
+	<p>
+		The wizard Shugen instantly appears in a gout of blue flame and deals you a crippling blow with his wand.
+		<lose ability="magic" amount="2">
+			Lose 2 from your MAGIC score
+		</lose>.
+		Weakened by your efforts to free the trapped god, your only option is to make a run for it.
+	</p>
+	<p><goto section="44"/>.</p>
+</section>

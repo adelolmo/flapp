@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="354">
+	<p>
+		You recall a shipwrecked sailor you rescued called Etla, who gave you half a treasure map. Later, you found him murdered in Yarimura, a city of the north. A pirate called Nyelm Starhand was the perpetrator and he left you a message to meet him here, at the House of Sweet Repose in Kunrir, for he has the other half of the treasure map. He is not here now, but a sealed letter has been left with the innkeeper for you.
+	</p>
+	<p>
+		It reads: 'I cannot wait any longer for you. I know the treasure is buried somewhere in the Weeping Jungles of Ankon-Konu, the southern continent. I have sailed for the Feathered Lands. I intend to set up a base of operations in the city of Dunpala. Meet me there, and we will find and divide the treasure.'
+	</p>
+	<p>The letter is signed: 'Your friend and partner, Nyelm Starhand.'</p>
+	<p><tick codeword="Endless">Tick the codeword Endless</tick>.</p>
+	<p>When you are ready, <goto section="100"/>.</p>
+</section>

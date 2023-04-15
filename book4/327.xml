@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="327">
+	<p>
+		You do not hear the voices again. Eventually, the storm subsides, leaving you soaked, and half-frozen. <lose stamina="1">Lose 1 point</lose> of Stamina.
+	</p>
+	<p>
+		Before you can make camp for the night, you have to hunt for food. <difficulty ability="scouting" level="11"/>. If you succeed, you find a small, flightless bird to eat.
+		<failure>
+			If you fail, you go hungry and must <lose stamina="1">lose another Stamina point</lose>.
+		</failure>
+	</p>
+	<p>If you are still alive, <goto section="65"/>.</p>
+</section>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="745">
+	You underestimated the potency of the local brew. Unless you have a blessing of Immunity to Disease/Poison,
+	<if blessing="poison">
+		<lose blessing="poison" hidden="t"/>
+	</if>
+	<else>
+		you wake up in a ditch with a pounding headache. It is midmorning and the fair is packing up. You have
+		<adjustmoney multiply="0.5">lost half your money</adjustmoney>
+		(cross it off your Adventure Sheet) but have somehow managed to acquire a <item name="candle" tags="light,useonce"/>, a <item name="silver horseshoe"/>, and a
+		<item name="peacock feather"/>
+	</else>.
+	<goto section="199"/>.
+</section>

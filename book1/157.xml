@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="157">
+	<tick codeword="StillInYellowport" hidden="t"/>
+	You try to prove your loyalty to the new regime, but they don&#8217;t believe a word of it. They beat you into unconsciousness, and leave you lying in the gutter. They rob you of <lose shards="*">all the money</lose> you had, but leave your possessions untouched. You come round with only <lose staminato="3">3 Stamina points</lose>. <goto section="10"/>.
+</section>

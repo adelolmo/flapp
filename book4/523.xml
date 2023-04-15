@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="523">
+	<p>
+		The shaman&#8217;s tent is pitched beyond the boundary of the camp, on a patch of ground surrounded by animal skulls. He disdains the use of fire, chewing his meat raw from the bone. When he looks up you notice that his eyes are glassy, his pupils dilated, and you wonder if he has ingested a hallucinogenic potion.
+	</p>
+	<p>
+		You squat beside him. He acknowledges you with a disinterested grunt. What will you speak to him about?
+	</p>
+	<choices>
+		<choice section="424">The bard&#8217;s song</choice>
+		<choice section="508">The Fane of the Four Winds</choice>
+		<choice section="458">The Rimewater</choice>
+		<choice section="344">Tayang Khan</choice>
+	</choices>
+</section>

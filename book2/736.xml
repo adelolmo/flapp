@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="736">
+	<tick codeword="Bunting">Get the codeword Bunting</tick>.
+	Delete the <lose item="parchment"/> from your
+	Adventure Sheet and note that you now possess a
+	<item name="map of the mountains"/> instead.
+	Once you&#8217;ve done that, <goto section="712"/>.
+</section>

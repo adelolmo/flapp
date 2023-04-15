@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="284">
+	<p>
+		<tick special="lock" cache="6.284" hidden="t"/>
+		<if codeword="Fruit">
+			If you have the codeword Fruit,
+			<goto section="453"/> straight away.
+		</if>
+		If not, read on.
+	</p>
+	<p>
+		Your town house is a single-storey villa on Plum Blossom Street. You can leave possessions and money here to save having to carry them around with you. Record anything you leave in the box below. Each time you return,
+		<random dice="2"/> to see what has happened in your absence.
+	</p>
+	<outcomes>
+		<outcome range="2-8">Your belongings are safe</outcome>
+		<outcome range="9-10">
+			Theft;
+			<lose shards="*" cache="6.284">all the money</lose>
+			you left here is gone
+		</outcome>
+		<outcome range="11-12">
+			Fire;
+			<group force="t">
+				<text>the town house and its contents</text>
+				<lose codeword="6.79.1"/>
+				<lose item="*" shards="*" cache="6.284"/>
+			</group>
+			have been destroyed
+		</outcome>
+	</outcomes>
+	<p>
+		<if codeword="6.79.1">
+			<tick special="unlock" cache="6.284" hidden="t"/>
+		</if>
+		<else>
+			If your town house has burned down,
+			<goto section="79"/>
+			and erase the tick beside the town house option there.
+		</else>
+		Otherwise read on.
+	</p>
+	<itemcache name="6.284" text="Items at town house"/>
+	<p>
+		The town house has an ornamental garden overlooked by a simple but delightful veranda. Here you can rest and recuperate from your travels. If injured,
+		<rest>restore your Stamina</rest>
+		to its normal score. When you are ready to leave, <goto section="79"/>.
+	</p>
+</section>

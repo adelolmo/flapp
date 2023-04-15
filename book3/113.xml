@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="113">
+	The squatters cannot see why they shouldn&#8217;t use your property
+	while you&#8217;re away at sea. A vigorous two-fisted arguement soon
+	sets them straight, but you get a bloody nose and a black eye in
+	the process of evicting them. You throw them in the mud at the
+	side of the river before striding back to your shack.
+	<lose stamina="1d">Lose 1-6 Stamina</lose> and
+	(if you can survive that) <return>turn to <b>74</b></return>.
+</section>

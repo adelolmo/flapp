@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="478">
+	<p>
+		At the top, you find only the large, sprawling ruin of a mountain stronghold. Broken towers and shattered walls are all that is left.
+	</p>
+	<p>
+		A voice rings out, as if from nowhere, &#8216;By Molhern! It&#8217;s you!&#8217;
+	</p>
+	<p>
+		The ruin seems to waver and dissolve in front of your eyes, to be replaced by a thriving fortified settlement! At the gate tower stands Pyletes the Sage. You took the Book of the Seven Sages from the scorpion men and returned it to Pyletes in Yellowport, Sokara. It seems like an age ago now, but he hasn&#8217;t forgotten you.
+	</p>
+	<p>
+		He opens the gates for you, and explains that the Isle of Mystery is inhabited by magicians who worship Molhern, the god of knowledge and magic. They like to live in solitude, and shield their island with illusions.
+	</p>
+	<p>&#8216;But an illuminate is always welcome,&#8217; says Pyletes.</p>
+	<p>You enter the City of Mystery. <goto section="274"/>.</p>
+</section>

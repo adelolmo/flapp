@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="353">
+	<p>
+		The guard recognises you, and shouts at the top of his lungs, &#8216;It&#8217;s the stinking traitor who killed Nergan. Get him!&#8217;
+	</p>
+	<p>
+		Several archers pop up from behind the rocks overhead, and start shooting at you. An arrow embeds itself in your shoulder. <lose stamina="3">Lose 3 Stamina points</lose>. If you still live, you realize you made a bad mistake in coming back here, and you run for your life. As you climb down, you are shot at again. <random dice="1">Roll a die</random>.
+	</p>
+	<outcomes>
+		<outcome range="1,2">
+			You are hit twice, <lose stamina="6">lose 6 Stamina</lose>
+		</outcome>
+		<outcome range="3,4">
+			Hit once, <lose stamina="3">lose 3 Stamina</lose>
+		</outcome>
+		<outcome range="5,6">
+			Missed completely, no wounds
+		</outcome>
+	</outcomes>
+	<p>
+		After that, if you are still alive, you make it back to the foothills of the mountains. <goto section="474"/>.
+	</p>
+</section>

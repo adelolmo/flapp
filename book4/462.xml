@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="462" tag="temple">
+	The Temple of Juntoku is built to look like a gigantic granite helmet. Juntoku is the &#8216;Warrior that Never Sleeps&#8217;, the war god of Akatsurai. He is worshipped as a great general, and leader of men. He is not a god of battle, but of the art of war.
+	<choices>
+		<choice section="96">Become an initiate of Juntoku</choice>
+		<choice section="23">Renounce his worship</choice>
+		<choice section="299">Seek a blessing</choice>
+		<choice section="58">Leave the temple</choice>
+	</choices>
+</section>

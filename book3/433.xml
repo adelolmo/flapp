@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="433">
+	<p>
+		Instead of the idyllic garden you found on your first visit, the place is now a rank wilderness. The lawns have become a waterlogged marsh dotted with fungi. Insects skirl above stagnant ponds and dense weeds have choked the life from the trees. A creeping miasma cloaks out the sunlight.
+	</p>
+	<p>
+		A single breath of this foul air is enough to slay your men. You&#8217;ll die yourself unless you have a blessing of Immunity to Disease/Poison.
+		<if blessing="poison">
+			(If you did have such a blessing, remember to <lose blessing="poison">cross if off</lose> now it&#8217;s used up).
+			<tick codeword="3.433.temp" hidden="t"/>
+		</if>
+	</p>
+	<p>
+		<if codeword="3.433.temp">
+			<lose codeword="3.433.temp" hidden="t"/>
+			If, thanks to a the blessing, you survived, <goto section="64"/>.
+		</if>
+		<else>Otherwise <goto section="123"/>.</else>
+	</p>
+</section>

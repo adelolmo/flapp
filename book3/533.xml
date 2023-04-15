@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="533" image="533.jpg">
+	<p>
+		Wavering like will-o&#8217;-the-wisps above a light haze, a ship&#8217;s lights gradually appear out of the night. A pallid mariner in a ragged, ancient-looking coat calls to you from the rail, saying that the ship is under a curse. Behind him stands a throng of sad-faced seamen.
+	</p>
+	<p>
+		&#8216;We cannot put in to any port,&#8217; the captain explains in a hollow voice, &#8216;but are doomed to sail the high seas for evermore.&#8217;
+	</p>
+	<p>
+		If you want to lift the curse you will need to
+		<difficulty ability="magic" level="15">
+			make a MAGIC roll at a Difficulty of 15
+		</difficulty>.
+	</p>
+	<choices>
+		<success section="410">Lift the curse</success>
+		<choice section="137">Fail (or don't try)</choice>
+	</choices>
+</section>

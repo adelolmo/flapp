@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="548">
+	<p>
+		It should be possible to bring the young man back from the dead. You need many ingredients, the most important of which are a <b>silver holy symbol</b> and a <b>cobalt wand</b>. You can buy these items easily enough at the bazaar. The <b>holy symbol</b> costs
+		<buy tool="silver holy symbol" ability="sanctity" bonus="2" shards="400" quantity="1">
+			400 Shards
+		</buy>, and the <b>cobalt wand</b> costs
+		<buy tool="cobalt wand" ability="magic" bonus="3" shards="2000" quantity="1">
+			2000 Shards
+		</buy>. Note that these items will be destroyed during the spell.
+	</p>
+	<p>
+		If you have these items, or buy these items and want to try raising the dead, cross off any money you need to spend (you can <goto section="601" force="f"/>, the bank, and withdraw some money then turn back to here, if you wish) and
+		<if item="silver holy symbol"><if item="cobalt wand">
+				<goto section="609" force="f"/>.
+		</if></if>
+	</p>
+	<p>
+		If you don't have the items, the cash or the inclination, <goto section="274"/>.
+	</p>
+</section>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="373">
+	At the side of the coastal road there is a weathered old fort. It
+	looks abandoned, with moss cladding the pitted black stones of
+	its high walls. Its empty windows stare out to sea. It may be a
+	relic from ancient times, when the ruthless Uttakin swept up out
+	of the south to conquer all Harkuna.
+	<choices>
+		<choice section="9">Investigate the fort</choice>
+		<choice section="78">Head north over open country</choice>
+		<choice section="32">Take the road east</choice>
+		<choice section="140">Take the road west</choice>
+		<choice section="511">Go down to the beach</choice>
+	</choices>
+</section>

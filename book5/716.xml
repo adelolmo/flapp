@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="716">
+	<p>
+		<set var="keepblessing" value="1" hidden="t"/>
+		You are picked up by a passing ship. <random dice="1" var="x"/>.
+		<if not="t" var="keepblessing" equals="1">
+			<lose blessing="storm" hidden="t"/>
+		</if>
+	</p>
+	<outcomes>
+		<outcome var="x" range="1" section="321">Sold into slavery</outcome>
+		<outcome var="x" range="2-3" section="100">Dropped off at Kunrir</outcome>
+		<outcome var="x" range="4-5" section="88">Dropped off at Aku</outcome>
+		<outcome var="x" range="6" section="510" blessing="storm">The ship capsizes</outcome>
+	</outcomes>
+	<p>
+		<if var="x" equals="6">
+			<if blessing="storm">
+				<set var="keepblessing" value="0" hidden="t"/>
+				If you roll a 6 and have a blessing of Safety from Storms,
+				lose the blessing and <reroll>reroll</reroll>.
+			</if>
+		</if>
+	</p>
+</section>

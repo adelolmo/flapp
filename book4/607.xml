@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="607">
+	<p>
+		You wake up to find yourself lying on a road, near the city of Yarimura. Two trau have just heaved you up out of a hole in the ground.
+	</p>
+	<p>
+		&#8216;Bored of that human now,&#8217; says one of them, as they disappear back below the earth, filling the hole as they go.
+	</p>
+	<p>
+		A farmer and his family are standing there, looking at you in stunned disbelief. You learn from them that several months have passed since you were kidnapped by the trau.
+	</p>
+	<p>
+		<lose item="*" shards="*">Cross off all possessions and money</lose> on your Adventure Sheet but <rest>restore any lost Stamina points</rest>. Any blessings you had are also <lose blessing="*">lost</lose>. Instead, you are carrying a <item name="wolf pelt"/>, a few gems worth <tick shards="75"/> (note the cash), <armour name="leather armour" bonus="1"/>, some <item name="selenium ore"/>, and a <item name="verdigris key"/>. Although you have <lose ability="sanctity" amount="1">lost one point of SANCTITY</lose>, permanently, you have <gain ability="magic" amount="1">gained one point of MAGIC</gain>.
+	</p>
+	<p>When you are ready, <goto section="280"/>.</p>
+</section>

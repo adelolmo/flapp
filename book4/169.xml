@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="169">
+	Luckily, your life has been spared. You wake up in the gutter of a street alongside other tramps and ne'er-do-wells. <lose staminato="1">You have 1 Stamina point left</lose>, but all the money and possessions you were carrying have been taken. <lose shards="*" item="*">Erase them</lose> from your Adventure Sheet. <goto section="10"/>.
+</section>

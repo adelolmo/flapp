@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="692">
+	<p>
+		Gradually you begin to see distinct silvery figures wavering in the air in front of you. &#8216;We are the spirits of the waterfall,&#8217; they whisper to you. &#8216;We can show you great treasure, but only once.&#8217;
+	</p>
+	<p>&#8216;One great treasure is enough,&#8217; you reply glibly.</p>
+	<p>
+		&#8216;You misunderstand. It is not easy to get the treasure. There are snares and challenges. You will have only one chance. If you have not seen and decoded the plaque, you can only rely on luck.&#8217;
+	</p>
+	<p>Enigmatic. What will you decide?</p>
+	<choices>
+		<choice section="648">Tell them to show you the treasure</choice>
+		<choice section="716">Leave</choice>
+	</choices>
+</section>

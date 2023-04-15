@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="416">
+	<p>
+		&#8216;The Violet Ocean&#8217;s a dangerous place, Cap&#8217;n&#8217;, says the first mate. &#8216;The crew probably won&#8217;t follow you there if they don&#8217;t think you&#8217;re good enough!&#8217;
+	</p>
+	<p>
+		<if ability="rank" greaterthan="3">
+			If your Rank is 4 or more, you can take the ship south-west, <goto book="3" section="77" force="f">turn to paragraph 77 in <i>Over the Blood-Dark Sea</i></goto>. Or you can head south-east, <goto book="3" section="66" force="f">turn to paragraph 66 in <i>Over the Blood-Dark Sea</i></goto>.
+		</if>
+	</p>
+	<p>
+		If your Rank is less than 4, the first mate advises you against the ocean journey. If you take his advice, <goto section="559" force="f">turn back to 559</goto>.
+	</p>
+	<p>
+		If you insist on making the trip, you need to
+		<difficulty ability="charisma" level="12"/> to convince the crew to follow you.
+		<success>
+			If you succeed, you can take the ship south-west,
+			<goto book="3" section="77" force="f">
+				turn to paragraph 77 in <i>Over the Blood-Dark Sea</i>
+			</goto>, or south-east -
+			<goto book="3" section="66" force="f">
+				turn to 66 in <i>Over the Blood-Dark Sea</i>
+			</goto>.
+		</success>
+		If you fail, <goto section="559">turn back to 559</goto>.
+	</p>
+</section>

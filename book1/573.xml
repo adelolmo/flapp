@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="573">
+	<!-- reordered to make my life easier -->
+	<p>
+		To renounce the worship of the Three Fortunes, you will have to undergo a ritual. Do you want to reconsider? If so, <goto section="86" force="f">return to 86</goto>.
+	</p>
+	<p>
+		&#8216;We must determine what the Three Fortunes have to say about the matter,&#8217; says the high priest.
+		<if god="The Three Fortunes">
+			<random dice="1"/>.
+		</if>
+	</p>
+	<outcomes>
+		<outcome range="1,2">
+			You are free to go
+		</outcome>
+		<outcome range="3,4">
+			<lose shards="25">pay 25 Shards</lose> in compensation
+		</outcome>
+		<outcome range="5,6">
+			they demand a sacrifice of some of your blood - <lose stamina="1">lose 1 Stamina point</lose>
+		</outcome>
+	</outcomes>
+	<p>
+		<lose god="The Three Fortunes">Delete The Three Fortunes from the God box</lose> on your Adventure Sheet.
+	</p>
+	<p>When you have finished here, <goto section="86"/>.</p>
+</section>

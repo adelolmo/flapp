@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="552">
+	<p>
+		You remember an old technique for making an enchanted cloak from the skin of a giant chameleon. After a few hours of ritual magic, you have created a
+		<tool name="chameleon cloak" ability="thievery" bonus="3" sell="500"/>.
+		<!-- originally I had this as a magical (bonus) effect, then
+		I reread the rules; no particular reason to treat the bonus
+		as cumulative, so now it's another tool -->
+		Note it on your Adventure Sheet, and that you can sell it at any market for 500 Shards.
+	</p>
+	<p>When you are ready, <goto section="206"/>.</p>
+</section>

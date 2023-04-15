@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="409">
+	<p>
+		A chunk of <b>selenium ore</b> is discovered embedded in a coral reef. It is still hot from its fall, causing the sea to hiss each time a wave laps over it.
+	</p>
+	<p>
+		&#8216;Heaven must be hotter than hell,&#8217; is the bosun&#8217;s eminently scientific conjecture based on the evidence.
+	</p>
+	<p>
+		Note the <item name="selenium ore"/> on your Adventure Sheet.
+		<if god="Molhern">
+			If you are an initiate of Molhern, <goto section="389"/>.
+		</if>
+		Otherwise <goto section="262"/>.
+	</p>
+</section>

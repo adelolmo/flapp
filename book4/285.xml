@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="285">
+	<p>
+		You end up floating in the harbour, your throat cut, just another victim. You are dead. <lose item="*" shards="*">Cross off the possessions</lose> listed on your Adventure Sheet.
+	</p>
+	<p>
+		<if resurrection="t">
+			If you have a resurrection arranged then you can <resurrection>turn to the entry</resurrection> marked for it.
+		</if>
+		<else>
+			If you have no resurrection then it really is the end; you should delete all ticks and codewords in all your <i>Fabled Lands</i> books and then start again (at <b>1</b> in any book in the series) with a new character.
+		</else>
+	</p>
+</section>

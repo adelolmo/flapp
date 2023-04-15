@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="504">
+	<p>&#8216;I hope this won&#8217;t spoil your appetite,&#8217; you say to the bogle.</p>
+	<p>He squints at you. &#8216;Spoil my appetite for what?&#8217;</p>
+	<p>
+		&#8216;For those seven lovely plump milkmaids I saw coming along the path a bit behind me.&#8217;
+	</p>
+	<p>
+		He licks his lips. Either that or he&#8217;s halfway through eating a giant eel. &#8216;Mmmm, I love milkmaids,&#8217; he says. &#8216;Very tasty. But you&#8217;re right that I couldn&#8217;t manage seven of them after eating you. Decent of you to tell me.&#8217;
+	</p>
+	<p>
+		&#8216;No problems. I&#8217;ll just wait over here, and you can eat me later.&#8217;
+	</p>
+	<p>
+		A sudden glint of suspicion appears in his beady little eyes but by that time you are running away for all you&#8217;re worth. It&#8217;s a good job that bogles are so stupid. <goto section="153"/>.
+	</p>
+</section>

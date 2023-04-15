@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="91" boxes="1">
+	<p>
+		He smiles and takes you into the Gambler&#8217;s Den. It is a smokefilled casino, full of all kinds of dubious characters, playing cards and dice. If you want to gamble, decide how much you want to bet, to a maximum of 20 Shards, and
+		<group force="t">
+			<text>roll two dice</text>
+			<random dice="2"/>
+			<tick special="lock" cache="1.91" hidden="t"/>
+		</group>.
+	</p>
+	<moneycache name="1.91" text="Your bet" max="20"/>
+	<outcomes>
+		<outcome range="2">
+			<adjustmoney name="1.91" multiply="5">
+				win five times your bet
+			</adjustmoney>
+		</outcome>
+		<outcome range="3-4">
+			<adjustmoney name="1.91" multiply="2">
+				win twice your bet
+			</adjustmoney>
+		</outcome>
+		<outcome range="5-9">
+			<adjustmoney name="1.91" multiply="0">
+				lose your bet
+			</adjustmoney>
+		</outcome>
+		<outcome range="10-11">
+			<adjustmoney name="1.91" multiply="2">
+				win twice your bet
+			</adjustmoney>
+		</outcome>
+		<outcome range="12">
+			<adjustmoney name="1.91" multiply="5">
+				win five times your bet
+			</adjustmoney>
+		</outcome>
+	</outcomes>
+	<p>
+		<tick special="unlock" cache="1.91" hidden="t"/>
+		When you are ready to leave,
+		<if ticks="0">
+			<tick>put a tick in the box</tick> and <goto section="109"/>,
+		</if>
+		unless the box is already ticked, in which case <goto section="100"/>.
+	</p>
+</section>

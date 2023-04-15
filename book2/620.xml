@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="620">
+	<p>
+		You make your way to a camp where a bevy of beautiful young dancers are cavorting around in the firelight. Their footsteps are so light that they hardly make the dry leaves rustle at all.
+	</p>
+	<p>
+		<if codeword="Bones">
+			If you have the codeword Bones, <goto section="209"/>.
+		</if>
+		Otherwise, <goto section="37"/>.
+	</p>
+</section>

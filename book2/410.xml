@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="410">
+	The approaching vessel at first appears to be an innocent
+	merchantman, but then your lookout points to the banks of oars.
+	&#8216;A pirate galley!&#8217; he cries. Sure enough, at that moment the ship
+	hoists the red pennant of the Kingdom of the Reavers. Her oars
+	give her a good burst of speed over short distances, and she is
+	soon bearing down on you.
+	<choices>
+		<choice section="435">Make a run for it</choice>
+		<choice section="460">Parley</choice>
+		<choice section="485">Fight it out</choice>
+	</choices>
+</section>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="267" image="267.jpg">
+	<p>
+		You row out into the lake, spread the net, and wait to see what happens.
+	</p>
+	<p>
+		After an hour or so, a great bubbling and frothing of the lake disturbs your solitude. A massive scaly head, the size of your boat, erupts out of the ochre-coloured water on the end of a long, sinuous neck. Great luminous green eyes look down at you. The creature is covered in brown scales, with a bright red crest running from the head down its thick, ropy neck.
+	</p>
+	<p>
+		&#8216;I am Vayss the Sea Dragon,&#8217; it says in a rich, creamy voice, tinged with evil greed. &#8216;To fish in my lake, you have to pay tribute - to wit, one silver nugget. Pay now, or face my wrath.&#8217;
+	</p>
+	<choices>
+		<choice item="silver nugget" section="505">Hand over a <b>silver nugget</b></choice>
+		<choice section="582">Unable or refuse to pay</choice>
+	</choices>
+</section>

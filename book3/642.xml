@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="642">
+	<p>
+		You climb so high that the atmosphere itself just drops away. You are surrounded by thousands of stars shining like diamonds in a midnight blue firmament.
+	</p>
+	<p>
+		At the summit of the mountain is a gateway of wrought iron fastened with a padlock. You will need a <b>fretwork key</b> or
+		<if item="fretwork key">
+			<set var="x" value="1"/>
+		</if>
+		<else>
+			<difficulty ability="thievery" level="20" var="x">
+				a THIEVERY roll at Difficulty 20
+			</difficulty>
+		</else>
+		to unlock it.
+	</p>
+	<outcomes>
+		<success section="497" var="x">Unlock the gate</success>
+		<failure section="606" var="x">Can't unlock it</failure>
+	</outcomes>
+</section>

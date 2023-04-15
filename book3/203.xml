@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="203">
+	<p>
+		The three mutineers leave after a while, each clutching a bottle of strong spirit. You follow them through the maze of boardwalks and low-eaved shacks.
+	</p>
+	<p>
+		<difficulty ability="scouting" level="14">
+			Make a SCOUTING roll at a Difficulty of 14
+		</difficulty>; failure means that you lose them.
+	</p>
+	<outcomes>
+		<success section="222"/>
+		<failure section="44"/>
+	</outcomes>
+</section>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="367">
+	<p>
+		<if god="Ebron">If you have Ebron written in the God Box on your Adventure Sheet, <goto section="441"/>.</if> If not, read on.
+	</p>
+	<p>
+		The cathedral is a tall, many-tiered structure of dark stone, covered in hideous gargoyles and the carven masks of demons. You are not allowed to enter, unless you are a member of the Church of Ebron.
+	</p>
+	<p>
+		'Go to Aku, and apply at the cathedral there, if you wish to join,' says a Soulwatch guard.
+	</p>
+	<p><goto section="100"/>.</p>
+</section>

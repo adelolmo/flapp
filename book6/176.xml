@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="176" dock="Kaiju">
+	<p>
+		You are shown a couple of vessels. When you sourly remark that you are hardly spoiled for choice, the owner of the ships remarks that the Moonrise Clan has bought up the best vessels for its navy. Choose a ship if you still want one and copy her details on to the Ship&#8217;s Manifest. (Don&#8217;t forget to cross off the money.)
+	</p>
+	<market>
+		<header type="ship"/>
+		<trade ship="barque" initialCrew="average" buy="250"/>
+		<trade ship="brigantine" initialCrew="average" buy="550"/>
+	</market>
+	<p>
+		You can sell a ship for 10% less than these prices. If you buy a ship, the crew quality is average. Note that the ship is docked at Kaiju and then <goto section="128"/>.
+	</p>
+</section>

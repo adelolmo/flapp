@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="627">
+	<p>
+		You are welcomed in the Hall of Heroes as the one who slew Grindel the Ripper. You are asked repeatedly to tell the tale of your adventures, and make about <gain shards="5"/> during the telling. Bylewyn Buskle, the innkeeper, treats you frostily for some reason.
+	</p>
+	<p>
+		You can stay here as long as you like. The tavern costs you 2 Shards a day. <rest shards="2" stamina="1">Each day you spend here</rest>, you can recover 1 Stamina point if injured, up to the limit of your normal unwounded Stamina score.
+	</p>
+	<p>
+		When you are ready, you leave the Hall of Heroes.
+		<goto section="11"/>.
+	</p>
+</section>

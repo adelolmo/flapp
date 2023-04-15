@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="561">
+	After consulting various magical texts in the archives, you find out that you need an egg of the mythical glissith lizard to use in the spell that will restore the princess to her rightful form.
+	<choices>
+		<choice section="606">Quest for the egg</choice>
+		<choice section="702">Give up, and return to your writings</choice>
+	</choices>
+</section>

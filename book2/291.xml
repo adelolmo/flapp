@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="291">
+	Castle Orlock is a brooding fortress encased behind walls of
+	weathered black granite. The interior is unlit, and in order to
+	explore you must have a <b>lantern</b> or <b>candle</b>.
+	<choices>
+		<choice section="440" item="?" tags="light">Enter the castle</choice>
+		<choice section="314">Go on your way</choice>
+	</choices>
+</section>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="62">
+	<p>&#8216;I&#8217;ll vouch for this man,&#8217; you tell the youths.</p>
+	<p>
+		Grumbling, they slope off with sullen glances back at you. No doubt they&#8217;d like to beat you up as well, but they know you are a personal friend of the chancellor, Lord Kiyomori.
+	</p>
+	<p>
+		&#8216;This country&#8217;s gone to the dogs, all right, when you get curs like that roaming the city in packs,&#8217; ventures the old man shakily. He is a lord of the Wistaria Clan. You have made a useful friend today.
+		<tick codeword="Fuchsia">Get the codeword Fuchsia</tick>
+		and <goto section="79"/>.
+	</p>
+</section>

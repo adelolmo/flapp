@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="405">
+	<p>
+		&#8216;I have a special boon for such a devout worshipper,&#8217; says the god. He touches you on the brow, leaving a silvery mark in the shape of a skull. Note on your Adventure Sheet that you have the title
+		<gain title="Chosen One of Nagil"/>.
+	</p>
+	<p>
+		Swirling darkness surrounds you. &#8216;Do not fear,&#8217; you hear Nagil saying. &#8216;You are being returned to the vale of mortality.&#8217;
+	</p>
+	<p><goto section="99"/>.</p>
+</section>

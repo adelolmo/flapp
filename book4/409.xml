@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="409">
+	<p>
+		<if codeword="Citrus">
+			If you have the codeword Citrus, <goto section="532"/> immediately.
+		</if>If not, read on.
+	</p>
+	<p>
+		You have been here before. Kaschuf the Deathless cannot be killed by normal means, and you have still not found a way of defeating him.
+	</p>
+	<p>
+		If you want to talk to his butler, old man Kevar, <goto section="249" force="f"/>. Otherwise, you might as well leave Vodhya - <goto section="398"/>.
+	</p>
+</section>

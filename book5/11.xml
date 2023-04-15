@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="11">
+	<p>You are at the Hall of Heroes.</p>
+	<choices>
+		<choice section="421">Enter the Mixen Sumps</choice>
+		<choice section="12">East</choice>
+		<choice section="438">West</choice>
+		<choice section="126">North-west to the Crags of the Long Homes</choice>
+		<choice section="317">Follow the river north</choice>
+	</choices>
+</section>

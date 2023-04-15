@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="280">
+	<p><tick codeword="Eternal"/>.</p>
+	<p>
+		After many hours of hard labour, you manage to set the idol upright. Once you have cleaned off the mud and filth you see a noble face, carved with a halo of sunfire around its crowned head. As the sun strikes its pitted features, you feel a momentary sense of joy emanating from the statue, as if the light had awakened the ancient god from his sleep.
+	</p>
+	<p>
+		The god rewards you with a blessing. Write <tick blessing="magic"/> in the Blessings box on your Adventure Sheet. The blessing allows you to try again if you fail a MAGIC roll. It is good for only one reroll. When you use the blessing, cross it off your Adventure Sheet. You can have only one MAGIC blessing at any one time.
+	</p>
+	<p>You take your leave of the primordial sun-god.</p>
+	<choices>
+		<choice section="213">North to the Hall of Heroes</choice>
+		<choice section="12">East</choice>
+		<choice section="438">West</choice>
+	</choices>
+</section>

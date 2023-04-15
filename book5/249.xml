@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="249">
+	You get on with your story. <tick name="EpistleWeeks" count="2">Add 2 to the running total of weeks spent</tick>. <if name="EpistleWeeks" greaterthan="4">If the total is now 5 or more, <goto section="144"/>.</if> If it less than 5, <goto section="164"/>.
+</section>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="37">
+	<p>
+		You are happy to share the fire on this cold night. As you sit on a pillow of dead leaves and watch the dancers, the heat of the fire makes you drowsy and your eyelids feel heavy because of the woodsmoke.
+	</p>
+	<p>
+		<difficulty ability="sanctity|magic" level="15">
+			Make either a SANCTITY roll or a MAGIC roll (your choice) at a Difficulty of 15
+		</difficulty>.
+	</p>
+	<outcomes>
+		<success ability="sanctity" section="60"/>
+		<success ability="magic" section="129"/>
+		<failure section="83">Failed roll</failure>
+	</outcomes>
+</section>

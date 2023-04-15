@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="192" dock="Kunrir">
+	<p>
+		The ship <i>Wrath of God</i> is indeed docked here. 'At last, someone's arrived to claim the old tub,' says the harbourmaster. 'There's fifty Shards of maintenance fees outstanding, though'.
+	</p>
+	<p>
+		<if shards="50">
+			If you pay the
+			<group>
+				<text>50 Shards</text>
+				<buy ship="brig" name="Wrath of God" shards="50" initialCrew="none" quantity="1"/>
+				<lose item="deed to the Wrath of God"/>
+			</group>,
+			note <i>Wrath of God</i> (you can change the name if you want), on the Ship's Manifest, and that it is docked in Kunrir. The ship is a brigantine and has a cargo capacity of 2 Cargo Units.
+		</if>
+	</p>
+	<p>
+		You will have to pay to hire a crew. <buy crew="poor" shards="25"/> gets a poor crew, <buy crew="average" shards="50"/> buys an average crew, <buy crew="good" shards="100"/> recruits a good crew, and <buy crew="excellent" shards="150"/> will obtain an excellent crew.
+	</p>
+	<p>
+		When you are finished, if you have claimed the ship, cross the <b>deed to the Wrath of God</b> off your Adventure Sheet.
+	</p>
+	<p><goto section="145"/>.</p>
+</section>

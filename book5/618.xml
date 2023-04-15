@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="618">
+	<p>
+		'The Faceless King is angry,' says the Factotum, 'for you have come into his presence without the tatsu pearl. Go at once to Akatsurai and bring him the object of his desire - he will not acknowledge your existence until you have done this.'
+	</p>
+	<p>
+		Hastily you back out, bowing the whole time. <goto section="648"/>.
+	</p>
+</section>

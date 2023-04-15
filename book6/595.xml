@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="595">
+	You go through to the outer royal apartments, where you spend
+	a pleasant morning chatting with other courtiers. Servants bustle
+	in with lunch, which consists of baked fish fresh from the Moku
+	River, pickles, rice patties and iced sherbets. In the afternoon
+	you take a nap while a lady-in-waiting strums idly at a lute.
+	Later you take a bottle of rice wine and sit on the terrace
+	exchanging poems until the moon sets.
+	<rest stamina="1">Regain 1 Stamina</rest> for
+	your peaceful sojourn at the palace, then <goto section="79"/>.
+</section>

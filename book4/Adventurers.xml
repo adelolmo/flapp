@@ -1,0 +1,32 @@
+<adventurers>
+  <abilities>
+    <header>Charisma Combat Magic Sanctity Scouting Thievery</header>
+    <profession name="Priest">5 3 4 7 5 2</profession>
+    <profession name="Mage">3 3 7 1 6 4</profession>
+    <profession name="Rogue">6 5 5 2 3 7</profession>
+    <profession name="Troubadour">7 4 5 4 3 5</profession>
+    <profession name="Warrior">4 7 2 5 4 3</profession>
+    <profession name="Wayfarer">3 6 3 4 7 5</profession>
+  </abilities>
+  <stamina amount="20"/>
+  <rank amount="4"/>
+  <gold amount="65"/>
+  <items>
+    <armour name="chain mail" bonus="3"/>
+    <weapon profession="Priest" name="spear"/>
+    <weapon profession="Mage" name="staff"/>
+    <weapon profession="Rogue" name="sword"/>
+    <weapon profession="Troubadour" name="sword"/>
+    <weapon profession="Warrior" name="sword"/>
+    <weapon profession="Wayfarer" name="sword"/>
+    <item name="map"/>
+  </items>
+  <starting>
+	  <adventurer name="Kitunai the Wolf Shaman" profession="Priest" gender="M"/>
+	  <adventurer name="Arabel the Mystic" profession="Mage" gender="f"/>
+	  <adventurer name="Ilak the Swordsman" profession="Warrior" gender="m"/>
+	  <adventurer name="Vilss Snake-Fingers" profession="Rogue" gender="m"/>
+	  <adventurer name="Charyss Willow" profession="Troubadour" gender="f"/>
+	  <adventurer name="Dilmun Snow-Walker" profession="Wayfarer" gender="m"/>
+  </starting>
+</adventurers>

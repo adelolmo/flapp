@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="336">
+	You are sailing in Tigre Bay. It is bitterly cold; ice floes dot the
+	surface of the bay. <random dice="2" type="travel"/>.
+	<outcomes>
+		<outcome range="2-4" section="512">Storm</outcome>
+		<outcome range="5-8" section="438">An uneventful voyage</outcome>
+		<outcome range="9-12" section="301">A black speck in the sky</outcome>
+	</outcomes>
+</section>

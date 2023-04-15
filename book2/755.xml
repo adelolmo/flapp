@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="755">
+	<p>
+		The wizards say you should apply to one of the sorcerous colleges in Dweomer, but not to bother if you&#8217;re a priest. &#8216;To be godly, a person must close their minds to life&#8217;s mysteries.&#8217;
+	</p>
+	<p>Thanking them for their advice you sail off. <goto section="335"/>.</p>
+</section>

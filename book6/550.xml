@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="550">
+	You are sailing in the placid coastal waters south-west of Shaku
+	Island.
+	<choices>
+		<choice book="11" section="77">Head south into Gashmuru Gulf</choice>
+		<choice section="601">Follow the coast eastwards</choice>
+		<choice section="450">Go north</choice>
+		<choice section="102">Make for the open sea</choice>
+	</choices>
+</section>

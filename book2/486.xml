@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="486">
+	You hear the strains of bagpipe music. You sit on a milestone
+	and listen for a while, but just as you are about to set off and
+	look for the piper, the music stops. <goto section="222"/>.
+</section>

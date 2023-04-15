@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="286">
+	When you and your crew join the fray, the battle is short-lived. The pirates are overpowered, though they fight to the last man, preferring death to enslavement or execution. The Sokaran leader, an admiral in the navy, thanks you gravely for your help. He rewards you with a share of the pirates booty - you get <gain shards="400"/> and <buy cargo="spices" quantity="1">1 Cargo Unit of spices</buy>, if you have room for it in your ship&#8217;s hold. You sail on. <goto section="420"/>.
+</section>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="193">
+	An inn with low overhanging eaves nestles in the lee of a hill
+	beside the bleak Whistling Heath.
+	<choices>
+		<choice section="218">Stop at the inn</choice>
+		<choice section="170">Take the road north</choice>
+		<choice section="147">Take the road south</choice>
+		<choice section="98">Head west cross-county</choice>
+		<choice section="124">Head east over the Heath</choice>
+	</choices>
+</section>

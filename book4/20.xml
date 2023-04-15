@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="20">
+	<p>The guards at the fort think you are mad to enter the land of Nerech.</p>
+	<p>
+		'Goodbye, then,' one of them says, 'for ever!' The others laugh cruelly, as they open the gates.
+	</p>
+	<choices>
+		<choice book="1" section="299">Turn back</choice>
+		<choice section="32">Venture forth</choice>
+	</choices>
+</section>

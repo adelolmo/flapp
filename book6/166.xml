@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="166">
+	Something catches your eye among the heaps of silver and gold.
+	At first glance it is only a plain wooden baton, but you sense a
+	powerful aura of magic. It is surely the <b>royal sceptre</b> you have
+	been searching for.
+	<item name="royal sceptre">Add it</item>
+	to your list of possessions and
+	<lose codeword="Fresco">lose the codeword Fresco</lose>,
+	then <goto section="646"/>.
+</section>

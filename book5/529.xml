@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="529">
+	<p>'Look!' screams one, pointing at you. 'A foreign swine!'</p>
+	<p>'I bet he isn't a true worshipper of Ebron,' yells another.</p>
+	<p>'Let's stone the blaspheming heretic,' shouts someone else.</p>
+	<p>
+		'No, wait,' says their leader. 'We should at least give this foreigner a chance.'
+	</p>
+	<p>
+		They demand you recite a blessing of Ebron to prove you are a member of the church. Desperately you rack your brains, trying to remember what you have picked up during your time in Uttaku.
+	</p>
+	<p>
+		<difficulty ability="sanctity" level="13">
+			<adjust god="Ebron" value="1"/>
+		</difficulty>. Add one if you are a member of the Church of Ebron.
+	</p>
+	<outcomes>
+		<success section="623"/>
+		<failure section="426"/>
+	</outcomes>
+</section>

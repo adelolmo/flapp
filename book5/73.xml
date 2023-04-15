@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="73">
+	<p>
+		You manage to grab the branch and haul yourself out of the stinking, sucking mud. Unfortunately, you are now lost in the Mixen Sumps without a guide.
+	</p>
+	<p><difficulty ability="scouting" level="16"/>.</p>
+	<outcomes>
+		<success section="6"/>
+		<failure section="669"/>
+	</outcomes>
+</section>

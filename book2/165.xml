@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="165">
+	<p>
+		A visit to Wheatfields market is a noisy bustling affair. You force your way through crowds of farmers who have come to trade their cattle. Outside the taverns, merchants from the south lean eagerly across the tables as they discuss the year&#8217;s grain prices.
+	</p>
+	<market>
+		<header type="armour"/>
+		<armour name="leather" bonus="1" buy="50" sell="45"/>
+		<armour name="ring mail" bonus="2" buy="100" sell="90"/>
+		<armour name="chain mail" bonus="3" buy="200" sell="180"/>
+		<armour name="splint armour" bonus="4" sell="360"/>
+		<armour name="plate armour" bonus="5" sell="720"/>
+		<armour name="heavy plate" bonus="6" sell="1440"/>
+
+		<header type="weapon"/>
+		<weapon bonus="0" buy="50" sell="40"/>
+		<weapon bonus="1" buy="250" sell="200"/>
+		<weapon bonus="2" sell="400"/>
+		<weapon bonus="3" sell="800"/>
+
+		<header type="magic"/>
+		<tool name="amber wand" ability="magic" bonus="1" sell="400"/>
+		<tool name="ebony wand" ability="magic" bonus="2" sell="800"/>
+		<tool name="cobalt wand" ability="magic" bonus="3" sell="1600"/>
+
+		<header type="other"/>
+		<tool name="lockpicks" ability="thievery" bonus="1" buy="300" sell="270"/>
+		<tool name="holy symbol" ability="sanctity" bonus="1" buy="200" sell="100"/>
+		<item name="faery mead" sell="80"/>
+	</market>
+	<p>
+		Items which do not have a purchase price given are not available here. When you have completed your transactions, <goto section="71"/>.
+	</p>
+</section>

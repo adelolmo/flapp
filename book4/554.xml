@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="554">
+	<p>
+		<if god="Nai">
+			<set var="cost" value="10"/>
+			If you are an initiate it costs only 10 Shards to purchase Nai&#8217;s blessing.
+		</if>
+		<else>
+			<set var="cost" value="25"/>
+			A non-initiate must pay 25 Shards.
+		</else>
+		<lose shards="cost" price="x">Cross off the money</lose> and
+		<tick blessing="combat" flag="x">mark COMBAT</tick>
+		in the Blessings box on your Adventure Sheet.
+	</p>
+	<p>
+		The blessing works by allowing you to try again when you fail a COMBAT roll. It is good for only one reroll. When you use the blessing, cross it off your Adventure Sheet. You can have only one COMBAT blessing at any one time. Once it is used up, you can return to any branch of the temple of Nai to buy a new one.
+	</p>
+	<p>When you are finished here, <goto section="58"/>.</p>
+</section>

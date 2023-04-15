@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="326">
+	These are eerie woods haunted by the rustling of leaves and the
+	occasional mournful cry of an animal far off between the trees.
+	Not many people are to be seen this far from the farmlands of
+	the river valley. <random type="travel"/>:
+	<outcomes>
+		<outcome range="2-4" section="620">Smoke over the treetops</outcome>
+		<outcome range="5-6" section="644">A robber</outcome>
+		<outcome range="7-8" section="349">Uneventful journey</outcome>
+		<outcome range="9-12" section="668">A hole under an oak tree</outcome>
+	</outcomes>
+</section>

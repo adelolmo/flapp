@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="314">
+	You leave Castle Orlock behind. <random type="travel"/>:
+	<outcomes>
+		<outcome range="2-6" section="600">Pursued</outcome>
+		<outcome range="7" section="268">Uneventful journey</outcome>
+		<outcome range="8-9" section="337">A pitfall</outcome>
+		<outcome range="10-12" section="360">Smugglers</outcome>
+	</outcomes>
+</section>

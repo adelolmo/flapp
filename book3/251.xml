@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="251">
+	<p>
+		Several sailors grab the stranger and bring him over to you. You ply him with questions, but he has gone limp and begun to gasp for breath. He dies as quickly as a man might drown at six fathoms.
+	</p>
+	<p>
+		&#8216;What now, skipper?&#8217; says the first mate in an awestruck voice. &#8216;Shall we cut the cable and let their ship go drifting off?&#8217;
+	</p>
+	<choices>
+		<choice section="228">Cut the flying ship&#8217;s cable</choice>
+		<choice section="269">Take a party of seamen aloft</choice>
+	</choices>
+</section>

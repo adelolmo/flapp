@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="468">
+	<p>
+		You are walking down a side alley when a figure steps out of a doorway to block your path - it is a man with a velvet eyepatch.
+	</p>
+	<p>
+		His one good eye glitters with evil humour from a face ravaged with the scars of many a fight.
+	</p>
+	<p>&#8216;I hear you are looking for me,&#8217; he says in a silky voice.</p>
+	<p><difficulty ability="thievery" level="11"/>.</p>
+	<outcomes>
+		<success section="393"/>
+		<failure section="14"/>
+	</outcomes>
+</section>

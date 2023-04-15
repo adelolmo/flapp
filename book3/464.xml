@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="464">
+	You walk down into pitch darkness. The scent is of damp loam
+	and ozone. Sorcery is in the very air here, strong enough to
+	make your skin tingle. To master the winding paths below the
+	world you must
+	<difficulty ability="magic|scouting" level="17">
+		make a MAGIC or SCOUTING roll
+	</difficulty>
+	(your choice) at a Difficulty of 17.
+	<outcomes>
+		<success section="445"/>
+		<failure book="12" section="25"/>
+	</outcomes>
+	<if book="12" not="t">
+		<i>[If you&#8217;re missing book 12, don&#8217;t say you weren&#8217;t warned - <goto section="123"/>.]</i>
+	</if>
+</section>

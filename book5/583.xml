@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="583">
+	<p>
+		The morning sun rises over the hill, and you decide the time is right to enter the crypt. You step in through a low portal. Instantly, a stone slab slams down behind you, trapping you in the crypt. Ahead, another heavy stone door bars your passage. It is enscribed in magical runes.
+	</p>
+	<p><difficulty ability="magic" level="12"/>.</p>
+	<outcomes>
+		<success section="712"/>
+		<failure section="654"/>
+	</outcomes>
+</section>

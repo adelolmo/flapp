@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="590">
+	<p>
+		You spot a giant chameleon observing you from the trees. This one seems to recognise the nature of your cloak and scuttles away into the undergrowth, merging into the greenery.
+	</p>
+	<p><goto section="206"/>.</p>
+</section>

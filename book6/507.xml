@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="507">
+	Your knocking is answered by heavy footfalls as something drags
+	itself over to the door. There is a rusty screech as the bolts are
+	drawn back.
+	<choices>
+		<choice section="501">Run away</choice>
+		<choice section="528">Stand your ground</choice>
+	</choices>
+</section>

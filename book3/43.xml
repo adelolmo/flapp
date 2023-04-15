@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="43">
+	You have not gone far along the avenue before you begin to be
+	overcome by tiredness. The stone slabs beside the avenue
+	suddenly look as inviting as feather beds. To stay awake you
+	must either
+	<if codeword="Chill">
+		have the codeword Chill
+		<set var="3.43" value="1"/>
+	</if>
+	<else>
+		or succeed in
+		<difficulty ability="magic" level="13" var="3.43">
+			a MAGIC roll of Difficulty 13
+		</difficulty>; otherwise you have to take a nap.
+	</else>
+	<outcomes>
+		<success var="3.43" section="62">Stay awake</success>
+		<failure var="3.43" section="582">Fall asleep</failure>
+	</outcomes>
+</section>

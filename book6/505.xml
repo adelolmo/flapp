@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="505">
+	<p>
+		You run into a group of soldiers from the capital, immediately recognizable as the Lord Chancellor&#8217;s troops by the manypointed red star embossed on their breastplates.
+	</p>
+	<p>
+		<if codeword="Fracas">
+			<if codeword="Face" not="T">
+				If you have the codeword <i>Fracas</i> but not the codeword Face, <goto section="18"/>.<text/>
+		</if></if>
+		Otherwise the soldiers pass by without a word and you can <goto section="196"/>.
+	</p>
+</section>

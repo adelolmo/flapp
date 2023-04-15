@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="551">
+	The nuns are disappointed that you have decided to leave their
+	order. &#8216;May Lacuna watch over you and guide you back to the
+	path of righteousness,&#8217; says the Abbess.
+	<lose god="Lacuna">
+		Delete Lacuna from the God box
+	</lose>
+	on your Adventure Sheet. <goto section="38"/>.
+</section>

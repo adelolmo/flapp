@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="630">
+	This far north, the days are short, and the nights long. Everywhere, the snow stretches away like a bright white blanket. To the north, the snow rises up, clinging to the flanks of the Peaks at the Edge of the World. <random type="travel" dice="2"/>.
+	<outcomes>
+		<outcome range="2-5" section="278">A tunnel in the snow</outcome>
+		<outcome range="6-7" section="226">No event</outcome>
+		<outcome range="8-12" section="385">A tower in the air</outcome>
+	</outcomes>
+</section>

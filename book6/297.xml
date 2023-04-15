@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="297">
+	You are travelling over open country between the Chiku and
+	the Hitsu. The sun rises over mountain peaks and sets in deep
+	ocean.
+	<choices>
+		<choice section="125">Join the road</choice>
+		<choice section="362">Travel north to Shingen</choice>
+		<choice section="323">Travel south to Hidari</choice>
+		<choice section="359">Go up into the mountains</choice>
+	</choices>
+</section>

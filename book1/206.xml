@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="206">
+	<p>
+		The crew absolutely refuses to sail into the Unbounded Ocean. &#8216;There&#8217;s no land out there, and the seas are infested with Demons of the Deep - if we go too far, we&#8217;ll fall off the edge of the world!&#8217; says the first mate.
+	</p>
+	<p>
+		You have no choice but to reconsider your destination. <goto section="507">Turn back to 507</goto> and choose again.
+	</p>
+</section>

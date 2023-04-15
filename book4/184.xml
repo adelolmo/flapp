@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="184">
+	<p><tick codeword="Dismal"/>.</p>
+	<p>
+		You realise the dagger is coated with poison; the wound you took is burning painfully. Your head swims, and your vision blurs. Then you pass out.
+	</p>
+	<p>
+		You wake up tied to a chair in a dingy room. You have lost all your money and possessions. <lose shards="*" item="*">Cross them off</lose> your Adventure Sheet.
+	</p>
+	<p>
+		A tall gangly fellow, dressed in dirty street clothes, regards you equably. His thin, pinched face has a sallow, unhealthy pallor. Behind him stand two large men, their arms folded.
+	</p>
+	<p>
+		The thin one speaks in a reedy voice. 'Hallo, there. I'm Grib Dante and you've been kidnapped. After all, you're a famous person. Everyone's heard about that affair over the Citadel of Velis Corin. YOu've made some powerful friends, and I'm sure they'll be happy to pay our ransom demand of 500 Shards. I couldn't believe it when you just strolled on to our turf without a care in the world. Talk about a gift horse! At last, Grib, I said to myself, Sig himself - may he be forever blessed - has seen fit to hand you 500 Shards on a plate as it were...'
+	</p>
+	<p>
+		He chatters on like this for some time. Which codeword do you have ticked?
+	</p>
+	<outcomes>
+		<outcome codeword="Deliver" section="247"/>
+		<outcome codeword="Defend" section="211"/>
+	</outcomes>
+</section>

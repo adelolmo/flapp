@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="485">
+	Bakhan welcomes you to her tower.
+	<if item="selenium ore">
+		If you have some <b>selenium ore</b> <goto section="259"/>.
+	</if>
+	If not, all Bakhan can do for you is to lift a curse, if you are suffering from one. This she will do free of charge, as you saved her from her own curse. <lose curse="*">Cross off any curses</lose> you have recorded and adjust your abilities to normal. When you are finished, <goto section="10"/>.
+</section>

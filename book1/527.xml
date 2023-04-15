@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="527">
+	You run off, leaving the terrible Gob-gobbler behind. The villagers of Venefax greet you with snorts of derision and contempt, and the young boy, Mikail, looks away, disappointed. It would be prudent to leave Venefax for a while.
+	<choices>
+		<choice section="492">South into Scorpion Bight</choice>
+		<choice section="87">North east towards Blessed Springs</choice>
+		<choice section="621">South west on the road to Yellowport</choice>
+		<choice section="278">North into open countryside</choice>
+	</choices>
+</section>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="422">
+	<p>
+		<rest stamina="2d">Recover 2-12 Stamina points</rest>
+		(the roll of two dice) if injured. After several days you collect your belongings and prepare to set out again into the world. The monks gather to see you off.
+	</p>
+	<p>&#8216;You are always welcome here,&#8217; says the abbot.</p>
+	<p><goto section="675"/>.</p>
+</section>

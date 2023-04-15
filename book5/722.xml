@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="722">
+	<p>
+	  <extrachoice remove="TargdazRecall"/>
+	  <tick codeword="Extinguish"/>.</p>
+	<p>
+		You slink away tasting the bitter ashes of defeat. In the distance, as the sun sets, you see flames lick around the once proud towers of your castle. Your court wizard, your loyal steward and all your men-at-arms lie dead or dying.
+	</p>
+	<p><goto section="539"/>.</p>
+</section>

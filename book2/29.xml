@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="29">
+	To travel on from here by river, you must pay a fare of 5 Shards.
+	Otherwise you can cross the bridge and set out in the direction
+	of the Singing Forest, or travel into the hinterlands.
+	<choices>
+		<choice book="5" section="111">Go west</choice>
+		<choice section="327">Take the road to Wheatfields</choice>
+		<choice section="350" shards="5">Travel upriver</choice>
+		<choice section="121" shards="5">Travel downriver</choice>
+		<choice section="52">Go north across open country</choice>
+		<choice section="75">Go south across open country</choice>
+	</choices>
+</section>

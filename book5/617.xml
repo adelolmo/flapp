@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="617">
+	<p>
+		You fail to deflect the flames sufficiently. You are burnt horribly. <lose stamina="3d">Lose 3-18 Stamina</lose> (the roll of three dice). If that kills you, <goto section="7" dead="t"/>. Otherwise, read on.
+	</p>
+	<p>
+		You scream horribly and collapse. The courtiers, however, think it is all part of the act and applaud your excellent acting.
+	</p>
+	<p>
+		'Ha, ha!' bellows an old courier. 'That's what I call the Righteous Fires of Retribution!'
+	</p>
+	<p>
+		The Faceless King himself actually claps once or twice, an event not seen in some time! The conjuror is extremely pleased. He apologises for burning you (somewhat insincerely, you feel) but he rewards you by teaching you a few magical techniques - <training ability="magic"/> and if the result is higher than your MAGIC rating you can add one to that rating. He also gives you <gain shards="50"/> for your trouble.
+	</p>
+	<p>
+		Your act has also enhanced your reputation in court circles. Turn to <b>401</b> and <tick name="UttakuStatus" amount="2">add 2 to your Status points</tick> in the box provided. Then make a choice <goto section="401">from there</goto>.
+	</p>
+</section>

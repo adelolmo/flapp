@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="114" todock="Yarimura">
+	<p>
+		Avar Hordeth falls at last. <tick codeword="Dead">Record the codeword Dead</tick>.
+	</p>
+	<p>
+		You can take Hordeth's ship if you like. To do so,
+		<buy ship="galleon" name="Sea Centaur" initialCrew="poor" shards="0" quantity="1">fill in the details</buy> on the Ship's Manifest. It is a galleon, called the <i>Sea Centaur</i>; you can transfer the crew from your own ship to the <i>Sea Centaur</i>.
+	</p>
+	<p>
+		Decide which ship you want to travel on. The ship you don't want to use sails to Yarimura with a poor quality crew. Note that it is docked in Yarimura. <i>[You can transfer crew and cargo between the two ships by selecting 'Ship Transfer' from the 'Windows' menu --Ed]</i>
+	</p>
+	<p>
+		The <i>Sea Centaur</i> was carrying <buy cargo="spices" shards="0" quantity="1">1 Cargo Unit of Spices</buy>, which is yours now. You also find <gain shards="150"/> in Avar's sea-chest, and a <item name="mariner's ruttier"/>. Note it on your Adventure Sheet. Your first mate tells you that the ruttier will help in navigating certain dangerous waters.
+	</p>
+	<p>When you are ready, you sail on. <goto section="236" sail="t"/>.</p>
+</section>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="165" boxes="1" image="165.jpg">
+	<p>
+		<if ticks="1">If there is a tick in the box, <goto section="93"/> immediately.</if> If not, <tick>put a tick there now</tick>, and read on.
+	</p>
+	<p>
+		The pavilion is a new addition to the bazaar. Inside, you find a woman with a starburst of silvery spiky hair, and mad staring eyes.
+	</p>
+	<p>
+		'Welcome,' she says. 'I am a priestess of The Oracle in Atticala, and I have been expecting you. A reading of your future will cost 250 Shards.'
+	</p>
+	<choices>
+		<choice section="114" shards="250">Pay the money</choice>
+		<choice section="101">Leave</choice>
+	</choices>
+</section>

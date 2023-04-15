@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="742">
+	<p>
+		You get to hear about a spice shipment from Ankon-Konu that is due to arrive in port within a few days. &#8216;I got the news from a wizard who&#8217;s just come from Dweomer,&#8217; says the merchant who is telling you this.
+	</p>
+	<p>
+		&#8216;How come his ship got here before the one with the spice?&#8217; He gives you a knowing smirk. &#8216;I said he&#8217;s a wizard. He probably flew here on a demon&#8217;s back!&#8217;
+	</p>
+	<p>
+		If you want to invest in the market on the basis of this information, decide how much you are investing (in multiples of 100 Shards) and then <goto section="594" force="f"/>.
+	</p>
+	<moneycache name="2.594" multiples="100" text="Money invested"/>
+	<p>
+		If you aren&#8217;t interested in making an investment, <goto section="48"/>.
+	</p>
+</section>

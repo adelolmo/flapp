@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="521" image="521.jpg">
+	<p>
+		You are looking for the Black Dragon Knight on a quest that was set for you by Yanryt the Son. You ask the knights if he is here.
+	</p>
+	<p>
+		&#8216;The Black Dragon Knight? Yes, he is,&#8217; replies one of them. &#8216;But he fights only to the death - there is no wager save the greatest of all for him, that is to say, life itself.&#8217;
+	</p>
+	<choices>
+		<choice section="321">Fight the Black Dragon Knight</choice>
+		<choice section="276">Don&#8217;t fight and leave instead</choice>
+	</choices>
+</section>

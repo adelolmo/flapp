@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="657">
+	Passing the latticed windows of a tavern, you happen to glance
+	inside where you see a tall young woman having dinner with an
+	older man who has a scholarly look about him. You walk on a
+	few steps and then stop as if struck by a thunderbolt. The
+	woman is Lauria, the thief who twice played you for a fool. You
+	swore you&#8217;d get even with her one day!
+	<choices>
+		<choice section="692">Go inside and confront her</choice>
+		<choice section="702">Wait for her to leave</choice>
+		<choice section="571">Swallow your pride and forget it</choice>
+	</choices>
+</section>

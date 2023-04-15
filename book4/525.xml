@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="525">
+	A storm gathers, plunging the day into gloom. A howling wind descends upon you, and the heavens open in a deluge of rain. Thunder and lightning shatter the sky. You cannot see more than a few feet in front of you, and there is nowhere to take shelter. Amid the fury of the storm you fancy to hear voices, calling. Or is it the wind?
+	<choices>
+		<choice section="628">Follow the voices</choice>
+		<choice section="327">Huddle down and sit out the storm</choice>
+	</choices>
+</section>

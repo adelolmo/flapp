@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="457">
+	<if god="Tambu"><tick codeword="4.457" hidden="t"/></if>
+	<else><lose codeword="4.457" hidden="t"/></else>
+	The chief shaman is a short fat fellow who is dressed in furs and covered in strange tattoos. If you are an initiate, or if you donate 10 Shards to the temple, he will speak with you.
+	<choices>
+		<outcome section="345" codeword="4.457">Initiate</outcome>
+		<choice section="345" shards="10">Donate 10 Shards</choice>
+		<choice section="33">Leave</choice>
+	</choices>
+</section>

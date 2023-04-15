@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="347" tag="temple">
+	<p>
+		The only temple in Brazen is consecrated to Molhern. It is a low stone building, artfully fashioned to reflect the style of ancient menhirs.
+	</p>
+	<p>
+		The priest cannot induct you into the inner mysteries of Molhern&#8217;s worship. &#8216;I am not senior enough for that, but I can grant blessings.&#8217;
+	</p>
+	<p>
+		<if title="Illuminate of Molhern">
+			If you have the title Illuminate of Molhern, <goto section="517"/>.
+		</if>
+		If not, <goto section="498"/>.
+	</p>
+</section>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="84">
+	<p>
+		The master is waiting in the archives. 'I've been looking for you everywhere,' he rages. 'Where have you been?'
+	</p>
+	<p>
+		You thought you had been gone no more than an hour - in fact a whole week has passed back in Aku. You explain about your little adventure.
+	</p>
+	<p>
+		'Extraordinary!' he exclaims. 'See what I mean about things happening to you adventurer types - make sure you put it in the story!'
+	</p>
+	<p>
+		<tick name="EpistleWeeks" count="1">Add 1 to your running total of weeks</tick> spent on the book. <if name="EpistleWeeks" greaterthan="4">If the total is now 5 or more, <goto section="144"/>.</if> If it less than 5, <goto section="164"/>.
+	</p>
+</section>

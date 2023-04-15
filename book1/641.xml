@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="641">
+	<p>
+		&#8216;Want to try your luck in the Gambler&#8217;s Den?&#8217; asks a short, dark man, dressed as a mercenary bodyguard. &#8216;Just 5 Shards entrance fee.&#8217;
+	</p>
+	<p>He nods to a door at the top of some rickety stairs.</p>
+	<p>
+		<if shards="5">
+			If you pay the money,
+			<group>
+				<text>cross it off and turn to <b>91</b></text>
+				<lose shards="5"/>
+				<goto section="91"/>
+			</group>.
+		</if>
+		If not, he shrugs, and hisses at another passerby. You wander off and pass an uneventful evening, <goto section="100"/>.
+	</p>
+</section>

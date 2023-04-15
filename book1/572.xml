@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="572">
+	<p>
+		You open the door on to a large dining hall and kitchen. About thirty ratmen are standing around, eating and drinking. Everything goes quiet as they turn to stare at you with their black beady eyes.
+	</p>
+	<p>&#8216;Er, I do have an invitation,&#8217; you stutter, holding up the note.</p>
+	<p>&#8216;And we&#8217;d love to have you for dinner,&#8217; one of them snarls.</p>
+	<p>
+		Yelling noisily, they charge toward you. You have little choice but to turn and flee for your life! You race down the sewer tunnels, with the ratmen in hot pursuit.
+	</p>
+	<choices>
+		<choice section="79">Lose them in the tunnels</choice>
+		<choice section="296">Try some magic</choice>
+		<choice section="127">Hide</choice>
+	</choices>
+</section>

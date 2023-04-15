@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="398">
+	The pedlar has a few bargains among the bric-a-brac on his cart:
+	<market sell="f">
+		<header header1="Item" header2="To buy"/>
+		<item name="candle" tags="light,useonce" buy="1"/>
+		<weapon name="hunting spear" bonus="0" buy="30"/>
+		<armour name="leather armour" bonus="1" buy="50"/>
+		<item name="fishing hook" buy="2"/>
+		<item name="parchment" buy="2"/>
+	</market>
+	<p>
+		After buying whatever you think might come in useful, <goto section="212"/>.
+	</p>
+</section>

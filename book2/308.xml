@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="308">
+	You approach the captain of a Sokaran brigantine which is soon
+	to set sail. He is happy to make a little extra money by taking a
+	paying passenger along. You soon discover that passage to
+	Marlock City or Ringhorn will cost you 10 Shards, while
+	passage to Yellowport costs 15 Shards. You can pay the fare and
+	set sail at once, or give up and review your other options
+	instead.
+	<choices>
+		<choice shards="15" section="239">Set sail for Yellowport</choice>
+		<choice shards="10" section="262">Set sail for Marlock City</choice>
+		<choice shards="10" section="163">Set sail for Ringhorn</choice>
+		<choice section="33">Don&#8217;t put to sea</choice>
+	</choices>
+</section>

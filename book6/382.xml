@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="382">
+	<p>
+		The priest pokes his finger in the middle of your forehead and you go as stiff as a board, falling back against the side of the barn where you remain immobile while the moon sets. At dawn you begin to get some feeling back in your limbs, which gradually thaw out so you can move. You know you must be alive because you are cold, tired, hungry and you ache all over.
+	</p>
+	<p>
+		<lose ability="magic" amount="2">
+			Permanently reduce your MAGIC score by 2
+		</lose>,
+		then <goto section="611"/>.
+	</p>
+</section>

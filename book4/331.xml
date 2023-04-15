@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="331">
+	<p>
+		The trau reach for you with coal-black hands, intend on seizing you and dragging you down into the underworld. But they cannot abide piety and godliness. You are too saintly for their needs, and they fall back, cursing.
+	</p>
+	<p>&#8216;Aaach, this one smells like temple incense,&#8217; growls one.</p>
+	<p>
+		They disappear into the hole as fast as they came, and the stone slab slams firmly shut with a resounding crash.
+	</p>
+	<p>Where will you go from here?</p>
+	<choices>
+		<choice section="280">North to Yarimura</choice>
+		<choice section="234">West into the plains</choice>
+		<choice section="145">South</choice>
+	</choices>
+</section>

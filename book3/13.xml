@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="13">
+	Your vessel is more or less due south of Metriciens. The lookout
+	reports no sight of land in any direction.
+	<choices>
+		<choice book="2" section="210">Steer north</choice>
+		<choice section="504">Steer south</choice>
+		<choice section="402">Steer east</choice>
+		<choice section="200">Steer west</choice>
+	</choices>
+</section>

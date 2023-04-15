@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="676">
+	<p>
+		You camp for the night.
+		<if item="wolf pelt|fur cloak">
+			If you have a <b>wolf pelt</b> or <b>fur cloak</b>, the fur helps to keep you warm.
+		</if>
+		<else>
+			If you do not, <lose stamina="1">lose 1 Stamina point</lose> because of the cold.
+		</else>
+	</p>
+	<p>
+		You need to hunt for food.
+		<difficulty ability="scouting" level="11"/>.
+		<success>If you succeed, you find a snow-hare to eat.</success>
+		<failure>
+			If you fail, you go hungry and must <lose stamina="1">lose 1 Stamina point</lose>.
+		</failure>
+		If you still live, the next day a thick mist has sprung up over the River of Destiny to your west.
+	</p>
+	<choices>
+		<choice section="91">West into the mist</choice>
+		<choice section="281">Head north</choice>
+		<choice section="118">Head east</choice>
+		<choice section="643">Head south</choice>
+	</choices>
+</section>

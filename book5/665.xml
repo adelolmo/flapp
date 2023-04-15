@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="665">
+	<p>
+		You fail to locate the enemy. Later, it transpires that the nomads raided a nearby village, which they looted and burned. A prince of the Court of Hidden Faces happened to be in the village at the time, on a hunting trip, and he was killed. The commander of the army holds you responsible. You are hauled off to the Red Garden in Aku for immediate execution.
+	</p>
+	<p><goto section="170"/></p>
+</section>

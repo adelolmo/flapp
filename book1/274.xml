@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="274">
+	<p>
+		Desperately, you try to sneak behind a pile of coins but the dragon spots you.
+	</p>
+	<p>
+		&#8216;A sneaky little thief, eh! Can&#8217;t have that, oh no, not at all!&#8217; hisses the dragon, and it breathes a cloud of billowing acidic gas all over you. You watch in horror as the coins in front of you begin to melt, and then the cloud engulfs you.
+	</p>
+	<p>
+		<if item="amulet of protection">
+			If you have an <b>amulet of protection</b>, <goto section="298"/>.
+		</if>
+		Otherwise, <goto section="212"/>.
+	</p>
+</section>

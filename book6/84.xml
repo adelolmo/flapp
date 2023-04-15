@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="84">
+	<p>
+		When you tell him about the ticket in his hat he gives you a look of steely-eyed outrage.
+	</p>
+	<p>
+		&#8216;It is my taboo label, you oaf! It signals to all and sundry that I am in ritual seclusion and should not be approached.&#8217;
+	</p>
+	<p>
+		Having broken the taboo, you can only try to set matters right with a benediction.
+		<difficulty ability="sanctity" level="14">
+			Make a SANCTITY roll at a Difficulty of 14
+		</difficulty>.
+	</p>
+	<outcomes>
+		<success section="714"/>
+		<failure section="730"/>
+	</outcomes>
+</section>

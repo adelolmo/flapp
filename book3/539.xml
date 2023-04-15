@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="539">
+	<p>
+		The skeletons are all around you. They make a noise like the rattling of hollow sticks as they clasp your limbs and try to bear you to the cabin floor.
+	</p>
+	<p>
+		To drive them off you must
+		<difficulty ability="combat" level="15">
+			make a COMBAT roll at a Difficulty of 15
+		</difficulty>.
+	</p>
+	<outcomes>
+		<success section="557"/>
+		<failure section="484"/>
+	</outcomes>
+</section>

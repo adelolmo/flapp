@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="349">
+	<p>
+		<if title="Nightstalker">
+			If you have the title Nightstalker, <goto section="450"/> immediately.
+		</if>
+		If not, read on.
+	</p>
+	<p>
+		The thugs guarding the entrance to the building look you up and down.
+	</p>
+	<p>
+		&#8216;Another enterprising rogue, come to pay his respects to the brotherhood,&#8217; one of them says to his friend. They laugh, but none the less move aside to let you through the door.
+	</p>
+	<choices>
+		<choice section="309">Enter the building</choice>
+		<choice section="633">Leave</choice>
+	</choices>
+</section>

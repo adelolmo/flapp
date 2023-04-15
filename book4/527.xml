@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="527">
+	<p>
+		You set your shoulder to the lid and push, straining with all your might. After several seconds it moves slightly, producing a deep scraping noise. A gust of dry air wafts up...
+	</p>
+	<p>
+		All at once the lid shoots straight up. You stumble forward and find yourself lying across the lap of the casket&#8217;s dreadful occupant, who is now sitting bolt upright with the heavy stone lid held above his head as though it weighed no more than a plank of wood. He leans his grinning grey face close to yours and speaks in a gravid whisper: &#8216;Despoiler. The gods will give you no merit for such deeds.&#8217;
+	</p>
+	<p>
+		<lose ability="sanctity" amount="1">Lose a point of SANCTITY</lose>. Reeling from his rank breath, you bolt from the tomb and run headlong across the wintry landscape until you drop from exhaustion. Fortunately, the cadaver has not pursued you. <goto section="226"/>.
+	</p>
+</section>

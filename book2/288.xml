@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="288">
+	You are on the road between Wishport and Haggart&#8217;s Corner.
+	<choices>
+		<choice section="217">Follow the road to Wishport</choice>
+		<choice section="150">Go north to Haggart&#8217;s Corner</choice>
+		<choice section="101">Go due south towards the coast</choice>
+		<choice section="219">Go east into the Magwort Fens</choice>
+	</choices>
+</section>

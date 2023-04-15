@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="56">
+	Storm clouds swell like black mushrooms above a churning sea.
+	<if blessing="storm">
+		If you have a blessing of Safety from Storms,
+		<lose blessing="storm">cross it off</lose>
+		and <goto section="471"/>.
+	</if>
+	Otherwise, <goto section="222"/>.
+</section>

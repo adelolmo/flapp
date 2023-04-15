@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="667" image="667.jpg">
+	<p>
+		You take lodging at a quaint inn standing on stilts out over the main canal. Every morning you can buy fresh fruit for breakfast from punts that come right up to your window.
+	</p>
+	<p>
+		Each day you spend at the inn costs
+		<rest stamina="1" shards="2">2 Shards</rest>
+		and allows you to recover 1 lost Stamina point, up to the limit of your unwounded Stamina score. When you are ready to move on, <goto section="226"/>.
+	</p>
+</section>

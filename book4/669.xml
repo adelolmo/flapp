@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="669" dock="Tigre Bay">
+	<p>
+		You are on the rocky, windswept coast of Tigre Bay. Ice floes litter the bay, and the sky is grey and as cold as iron. You spot the wrecked timbers of a ship, washed up on the cruel rocks.
+	</p>
+	<p>
+		If you have a ship docked in Tigre Bay, and want to put out to sea, <goto section="336" sail="t" force="f"/>. Otherwise, you can:
+	</p>
+	<choices>
+		<choice section="181">Investigate the wreck</choice>
+		<choice section="91">Head east into the river plain</choice>
+		<choice section="320">Head south-east to the Rimewater</choice>
+	</choices>
+</section>

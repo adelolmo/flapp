@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="255">
+	<p>
+		The crew will not follow you unless you are at least 7th Rank or higher.
+		<if ability="rank" lessthan="4">
+			If you are not of high enough Rank, you will have to have to sail back south - <goto section="201"/>.
+		</if>
+	</p>
+	<p>
+		If you are 7th Rank or higher, and still want to enter the cave, you must have <i>Into the Underworld</i>. If you haven&#8217;t you&#8217;ll have to turn back anyway - <goto section="201" force="f"/>. If you have, turn to <goto book="12" section="35" force="f"/>.
+	</p>
+</section>

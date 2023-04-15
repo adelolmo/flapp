@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="298" image="298.jpg">
+	<p>
+		<if codeword="Dawn">
+			If you have the codeword Dawn, <goto section="610"/> immediately.
+		</if>
+		Otherwise, read on.
+	</p>
+	<p>
+		The Crypt of Kings is a large marble mausoleum. Tall, fluted columns flank the entrance. Inside you discover many tombs set into its walls. Heavy blocks of stone seal the tombs, inscribed with the names and deeds of those buried there. Without a team of labourers, you cannot open them.
+	</p>
+	<p>
+		A slithering sound disturbs you. From the far end of the crypt, a serpentine shape coils towards you. It has the head and torso of man, but the body of giant snake. Eyes like black pearls stare from a face that is hooded like a cobra&#8217;s head. Venom drips, hissing, to the floor from its fanged mouth.
+	</p>
+	<p><difficulty ability="magic" level="14"/>.</p>
+	<outcomes>
+		<success section="469"/>
+		<failure section="566"/>
+	</outcomes>
+</section>

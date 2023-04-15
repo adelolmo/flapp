@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="185">
+	<p>
+		Half the inhabitants of Smogmaw are pirates or the friends of pirates. No doubt the trophy you just sold was recognized by someone, because as you are walking past a row of shanties you are struck in the neck by a poisoned dart.
+	</p>
+	<p>
+		<if blessing="poison">
+			If you have a blessing of Immunity to Disease/Poison,
+			<lose blessing="poison">cross it off</lose> and
+			<goto section="44"/>.
+		</if>
+		<else>
+			Otherwise you can do nothing to save yourself; <goto section="123"/>.
+		</else>
+	</p>
+</section>

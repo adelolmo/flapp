@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="12">
+	<p>You are crossing the countryside of Old Harkuna.</p>
+	<p><random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-5" section="109">Creatures of the night</outcome>
+		<outcome range="6-7" section="393">No event</outcome>
+		<outcome range="8-12" section="269">Laughter in the bushes</outcome>
+	</outcomes>
+</section>

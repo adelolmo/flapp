@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="165">
+	<p>
+		Down from the belfry come two tengu: scampering creatures with glossy black plumage and crow-like beaks. They tell you the shrine was abandoned because of a terrible massacre many years ago that caused it to become defiled.
+	</p>
+	<p>
+		&#8216;We used to roost in the main hall and store our loot on the altar, but we gave that up when a goblin spider took up residence.&#8217;
+	</p>
+	<p>They soon lose interest in talking to you.</p>
+	<p>
+		&#8216;Come to the heart of the wood if you dare,&#8217; says one, tilting its head to one side and giving you an inscrutable look. &#8216;Our king likes mortals.&#8217;
+	</p>
+	<p>They flit off into the brightening sky.</p>
+	<choices>
+		<choice section="92">Go over to the main building</choice>
+		<choice section="398">Leave the shrine now</choice>
+	</choices>
+</section>

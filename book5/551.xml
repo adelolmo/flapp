@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="551">
+	<p>
+		A masked priest of the Chosen of Ebron informs you of the result of the rite.
+	</p>
+	<p>'Ebron has spoken - you are to pay a fine of 150 Shards.'</p>
+	<choices>
+		<choice section="532" shards="150">Pay the fine</choice>
+		<choice section="23">Can't or won't pay</choice>
+	</choices>
+</section>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="239">
+	<p>
+		A flock of migrating birds alights to cover every inch of deck, masts and spars. Their plumage is a striking mixture of ebony, scarlet, and metallic green.
+	</p>
+	<p>
+		&#8216;Queer sort of birds,&#8217; remarks the mate. &#8216;Got almost a wise look to them, wouldn&#8217;t you say?&#8217;
+	</p>
+	<p><random/>.</p>
+	<outcomes>
+		<outcome range="2" section="257"/>
+		<outcome range="3-12" section="275"/>
+	</outcomes>
+</section>

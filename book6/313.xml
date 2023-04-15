@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="313">
+	<p>
+		The market stalls are laid out under a long colonnade built up against the flanks of the inner stockade.
+	</p>
+	<market>
+		<header header1="Item" header2="To buy" header3="To sell"/>
+		<tool name="compass" ability="scouting" bonus="1" buy="400" sell="350"/>
+		<tool name="cross-staff" ability="scouting" bonus="2" buy="750" sell="650"/>
+		<item name="lantern" tags="light" buy="80" sell="60"/>
+		<item name="parchment" buy="8" sell="5"/>
+		<item name="platinum earring" sell="525"/>
+		<item name="silver nugget" sell="150"/>
+		<item name="bag of pearls" sell="200"/>
+	</market>
+	<p>
+		Items with no purchase price are not available locally. When you have finished, if you want to see the local merchants about investing some money, <goto section="333" force="f"/>. If not, <goto section="8"/>.
+	</p>
+</section>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="447">
+	The storyteller is sitting on a turnstile, regaling the children from
+	a nearby village with his tall tales. <random/>:
+	<outcomes>
+		<outcome range="2-5" section="186"/>
+		<outcome range="6-8" section="472"/>
+		<outcome range="9-12" section="478"/>
+	</outcomes>
+</section>

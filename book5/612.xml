@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="612">
+	<p>
+		He casts a spell that causes your weapons and armour to heat up unbearably. You have no choice but to remove them as fast as you can - even so, you lose <lose stamina="2d">2-12 Stamina points</lose> (the roll of two dice) before you can get them off.
+	</p>
+	<p>If you are still alive, he begins readying another spell.</p>
+	<choices>
+		<choice section="375">Reason with him</choice>
+		<choice section="708">Counter his spell</choice>
+	</choices>
+</section>

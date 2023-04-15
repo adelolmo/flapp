@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="570">
+	<p>
+		There are ten of them, battle-hardened veterans to a man. You will have to be one of the best warriors in all the world to beat the lot.
+	</p>
+	<p><difficulty ability="combat" level="24"/>.</p>
+	<outcomes>
+		<success section="495"/>
+		<failure section="542"/>
+	</outcomes>
+</section>

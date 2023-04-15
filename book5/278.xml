@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="278">
+	You meet a wandering priest. He has an amulet and a scroll of Ebron for sale. The <buy item="amulet of Ebron" shards="100" quantity="1"/> costs 100 Shards, and the <buy item="scroll of Ebron" shards="200" quantity="1"/> costs 200 Shards. Buy what you wish and then <goto section="74"/>.
+</section>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="709">
+	<p>
+		You tell General Beladai about the tunnels you have mapped that lead through the Spine of Harkun, thus bypassing the Pass of Eagles. He is amazed at the news. He decides to send a small force through the tunnels, to attack the citadel from the southern side.
+	</p>
+	<p>
+		'As soon as you have opened the gates, some of the Mannekyn People will fly over the citadel to give the word to our troops there. We will crush them like an acorn in a nutcracker!'
+	</p>
+	<p>
+		<lose codeword="Deep">Lose the codeword Deep</lose>
+		and
+		<gain codeword="Dim">gain the codeword Dim</gain>
+		instead. Now <goto section="145"/>.
+	</p>
+</section>

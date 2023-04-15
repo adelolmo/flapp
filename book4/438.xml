@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="438">
+	From here, you can sail:
+	<choices>
+		<choice book="10" section="50">West to the Cragdrift Sea</choice>
+		<choice book="5" section="250">South, along the coast</choice>
+		<choice section="342">Go ashore in Tigre Bay</choice>
+	</choices>
+</section>

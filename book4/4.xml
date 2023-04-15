@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="4">
+	<p>
+		A great curtain of flames rises in front of you, and roars away, rushing toward the druidess. She has unleashed a huge hedge of thorns, which hurtles toward you and threatens to rip you to shreds. Your fiery spell, however, crisps the deadly brambles to cinders, and rolls on. Dialla manages to throw herself aside, and escapes with a few minor burns. You are declared the winner.
+	</p>
+	<p><goto section="24"/>.</p>
+</section>

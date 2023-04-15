@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="322">
+	<lose cache="2.322.t" shards="*" hidden="t"/>
+	<tick cache="2.322.t" shards="900" hidden="t"/>
+	The more treasure you collect, the longer it will take and the
+	greater the chance the bats will notice you.
+	<moneycache name="2.322.t" text="Available treasure:"/>
+	Decide how much you will collect
+	<i>[<tick special="lock" cache="2.322.t">click here</tick>
+		when you're done]</i>,
+	<set var="RandomPlus" value="(900-shards)/100" cache="2.322.t"/>
+	then
+	<random>
+		<adjust value="RandomPlus"/>
+	</random>
+	and add 1 to the total for every 100 Shards you have taken.
+	<outcomes>
+		<outcome range="2-10" section="345">You leave with your loot</outcome>
+		<outcome range="11+" section="368">The vampire bats awaken</outcome>
+	</outcomes>
+</section>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="31">
+	<p>
+		A dark emptiness surrounds you. Then, as if in your sleep, you see a tiny glimmer of light off in the distance. Suddenly you wake up, and find yourself coughing and spluttering, up to your neck in water. You look around - you are floundering in the holy waters of Blessed Springs.
+	</p>
+	<p>
+		Standing at the side of the pool is a tall, slim, moustached man who says &#8216;I am Aklar the Bold. I found you as bottled dust in the lair of Vayss the Sea Dragon. By sprinkling your ashes into the holy waters, I have brought you back to life. I think a reward is in order, don&#8217;t you?&#8217;
+	</p>
+	<p>
+		You explain that you have nothing to give. Aklar frowns in annoyance: &#8216;Blast, I knew I should have taken one of the other bottles! Well, you&#8217;ll just have to owe me a favour. A big favour.&#8217;.
+	</p>
+	<p>
+		You can hardly refuse. <tick codeword="Aklar">Record the codeword Aklar</tick>.
+	</p>
+	<p>
+		&#8216;Well, I must be about my business - we shall meet again, count on it.&#8217; With that he leaves.
+	</p>
+	<p>You stagger out of the pool. <goto section="510"/>.</p>
+</section>

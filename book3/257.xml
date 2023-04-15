@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="257">
+	There are so many birds that, when they rise again into the air,
+	their wings all but blot out the sun. At the same time you feel a
+	strange enchantment creeping over you. But is it harmful, or
+	beneficial? To resist the enchantment (assuming you want to try)
+	you must succeed on
+	<difficulty ability="magic" level="15" force="f">
+		a MAGIC roll at a Difficulty of 15
+	</difficulty>.
+	<outcomes>
+		<success section="171"/>
+		<choice section="294">Fail to resist (or don&#8217;t try)</choice>
+	</outcomes>
+</section>

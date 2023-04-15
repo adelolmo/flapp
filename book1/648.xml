@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="648">
+	<p>
+		You remain quiet as a mouse, behind a pile of coins. After a long wait, the sea dragon slithers into the water, and swims out on some errand.
+	</p>
+	<p>
+		You have some time to loot the hoard. You scrabble about for the chest that Oliphard the Wizardly wanted you to find for him. You find a rune-covered box which is positively glowing with magic. Note the <item name="magic chest"/> on your Adventure Sheet. You can also choose up to three treasures from the following:
+		<items limit="3" group="1.648"/>
+	</p>
+	<p><weapon name="enchanted sword" bonus="3" group="1.648"/></p>
+	<p><armour name="plate armour" bonus="5" group="1.648"/></p>
+	<p><tool name="ebony wand" ability="magic" bonus="2" group="1.648"/></p>
+	<p><item name="500 Shards" group="1.648"/></p>
+	<p><tool name="magic mandolin" ability="charisma" bonus="2" group="1.648"/></p>
+	<p><tool name="gold compass" ability="scouting" bonus="2" group="1.648"/></p>
+	<p><tool name="magic lockpicks" ability="thievery" bonus="2" group="1.648"/></p>
+	<p><tool name="silver holy symbol" ability="sanctity" bonus="2" group="1.648"/></p>
+	<p>
+		After you have taken the third treasure, you hear the sea dragon returning. Quickly you climb up through the hole in the roof on to an island in the middle of the lake. From there, you manage to get a lift on a passing boat, and make it safely to Cadmium village.
+	</p>
+	<p>
+		During the journey, you examine the <b>magic chest</b>, but it is guarded by great sorcery and is impossible to open.
+	</p>
+	<p>
+		<lose codeword="Avenge">
+			Delete the codeword Avenge
+		</lose>
+		and <goto section="135"/>.
+	</p>
+</section>

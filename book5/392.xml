@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="392">
+	<p>
+		The popra tree stands alone in a clearing and towers above the other trees in the forest. Its five trunks twist around each other as they reach upwards to the canopy high above. You look up and see vast berries hanging from the branches. You reach up, take one and plunge your teeth into the juice-laden popra berry, drinking in the rich mauve liquid that gushes from it. It tastes like sweet nectar but as you go to take another bite your head starts to spin and your knees begin to buckle ...
+	</p>
+	<p>
+		You become aware of a strange hissing sound from the ice-trees. The hissing becomes clearer and you realise that it is the whispered speech of the trees. You listen and hear many things about the goings-on in the icicle wood. The trees tell you about an ancient book buried in the hollow bole of the five-trunked tree. Inside you find an ancient codex of the Shadar. It tells of the Cave of Bells, an old Shadar cathedral and the rituals the Shadar priests used to practise there. It involved the ringing of bells - one called the Whisperer must always be rung first or dire consequences will follow. The sceptre of kings lies buried there, in the Cave of Bells. The cave itself lies in the City of Ruins on the Great Steppes, far to the north.
+	</p>
+	<p><tick codeword="Egret">Gain the codeword Egret</tick>.</p>
+	<p>When you are ready to leave the Icicle Woods, <goto section="47"/>.</p>
+</section>

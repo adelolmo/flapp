@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="448a">
+	<extrachoice remove="6.448"/>
+	The curse is lifted; the <b>cursed sword</b> turns into a
+	<weapon name="sword" bonus="2" replace="cursed sword"/>.
+	You can now <return>return to the section you came from</return>.
+</section>

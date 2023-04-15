@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="299">
+	<if god="Juntoku">
+		<set var="cost" value="10"/>
+		If you are an initiate it costs only 10 Shards to purchase Juntoku&#8217;s blessing.
+	</if>
+	<else>
+		<set var="cost" value="25"/>
+		A non-initiate must pay 25 Shards
+	</else>.
+	<if shards="cost">
+		Cross off the money and
+		<group>
+			<text>mark CHARISMA</text>
+			<lose shards="cost"/>
+			<tick blessing="charisma"/>
+		</group>
+	</if>
+	in the Blessings box on your Adventure Sheet. The blessing works by allowing you to try again when you fail a CHARISMA roll. It is good for only one reroll. When you use the blessing, cross it off your Adventure Sheet. You can have only one CHARISMA blessing at any one time. Once it is used up, you can return to any branch of the temple of Juntoku to buy a new one. <goto section="58"/>.
+</section>

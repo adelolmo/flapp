@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="102">
+	The Gemstone Hills seem deserted. You spot neither hide nor hair of anything.
+	<choices>
+		<choice section="280">North to Yarimura</choice>
+		<choice section="234">West into the plains</choice>
+		<choice section="145">South</choice>
+	</choices>
+</section>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="261">
+	<p>
+		The ship manoeuvres out of the harbour and on to the open sea. &#8216;We&#8217;ll have no trouble on this voyage,&#8217; announces the captain. &#8216;I took the precaution of buying a charm of protection from Fortuity College in Dweomer.&#8217;
+	</p>
+	<p>
+		Whether it is the power of the charm or simple good luck, the journey is indeed without mishap and a few days later you dock at Dweomer. <goto book="3" section="100">Turn to 100</goto> in <i>Over the Blood-Dark Sea</i>.
+	</p>
+</section>

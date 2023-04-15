@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="305">
+	<p>
+		The badger has taken refuge in a hole in a bank. As you stoop to peer inside, two long thin hairy arms suddenly sprout out of the hole and seize you by the throat. You must fight for your life.
+	</p>
+	<fight name="Hairy arms" combat="9" defence="18" stamina="12"/>
+	<p>
+		<flee>
+			You can break free and run off, but the arms will rake at your retreating back for a final <lose stamina="1d">1-6 Stamina points</lose> if you do.
+		</flee>
+	</p>
+	<choices>
+		<choice section="181" flee="t">Flee back to the lodge</choice>
+		<choice section="326">Fight on and win</choice>
+	</choices>
+</section>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="719">
+	One day, you notice something the High Holy Administrator has written in the holy texts. You are certain he has made a mistake, and that he has inadvertently committed an act of supreme heresy, punishable under Uttakin law by instant death.
+	<choices>
+		<choice section="530">Quietly tell him of his error</choice>
+		<choice section="593">Report him to the Soulwatch</choice>
+	</choices>
+</section>

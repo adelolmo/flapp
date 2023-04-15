@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="689">
+	<p>
+		You soon get into serious trouble. Dangling halfway up the cliff, you can see no way on and you aren&#8217;t sure you can get back down.
+		<difficulty ability="scouting" level="17">
+			Make a SCOUTING roll at a Difficulty of 17<adjust item="rope" amount="1"/>
+			<adjust item="climbing gear" amount="2"/>
+		</difficulty>.
+		You can add 1 to the dice roll if you have <b>rope</b> and 2 if you have <b>climbing gear</b>.
+		<success>
+			A successful roll means you manage to get safely back to the base of the cliff.
+		</success>
+		<failure>
+			A failed roll means you slip and fall,
+			<lose stamina="4d">losing 4-24 Stamina points</lose>
+			(roll four dice).
+		</failure>
+	</p>
+	<p>Assuming you survive, <goto section="646"/>.</p>
+</section>

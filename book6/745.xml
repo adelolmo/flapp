@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="745">
+	<p>
+		The sea gleams like tarnished silver under a sky heavy with cloud. A faint drizzle, barely less fine than mist, mingles with the salt spray.
+	</p>
+	<p>
+		You are sailing the Ugetsu Straits that lies between Yodoshi, the main island of the Akatsurese chain, and the easternmost island, Toho.
+	</p>
+	<choices>
+		<choice section="77">Make for Port Kaiju</choice>
+		<choice section="35">Dock at Mukogawa</choice>
+		<choice section="209">Put in at Udai Island</choice>
+		<choice section="64">Go north</choice>
+		<choice section="641">Go south</choice>
+	</choices>
+</section>

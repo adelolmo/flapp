@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="81">
+	<p>
+		A strong breeze flutters the sails. The crewmen go about their chores merrily, scrambling through the rigging like carefree monkeys.
+	</p>
+	<p>&#8216;Five bells,&#8217; intones the mate.</p>
+	<p>
+		<rest stamina="1">Recover 1 Stamina point</rest> if injured,
+		then <random type="travel"/>.
+	</p>
+	<outcomes>
+		<outcome range="2-5" section="354">Pirates</outcome>
+		<outcome range="6-12" section="101">An uneventful journey</outcome>
+	</outcomes>
+</section>

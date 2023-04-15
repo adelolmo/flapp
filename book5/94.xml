@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="94">
+	<p>
+		The Cathedral of Ebron is a tall, monolithic tower of black stone, carved with gargoyles and devils. At the entrance stand two of the Soulwatch, the religious police, dressed in black and purple robes, wearing masks fashioned to resemble the Usskhem, avenging demons of Ebron. You must pass between them to enter the cathedral.
+	</p>
+	<p><if codeword="Ecumenical">If you have the codeword Ecumenical, <goto section="191"/>.</if> If not, <goto section="130"/>.</p>
+</section>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="159">
+	<p>
+		Your mind falls into a waking dream, and you walk lazily into the waters. The mer-folk, laughing and singing, take you down to their undersea home of living coral, where they stop you from drowning with their faery magic. They keep you for several weeks, until you are no longer an amusement to them.
+	</p>
+	<p>
+		<lose codeword="StillInYellowport" hidden="t"/>
+		You wake up, as is from a long sleep, with only a shadowy memory of your ordeal, to find yourself washed up in the harbour of Yellowport. You have lost all the possessions you were carrying (<lose item="*">erase them from your Adventure Sheet</lose>) but you still have your money. <goto section="10"/>.
+	</p>
+</section>

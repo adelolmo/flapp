@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="250">
+	<p>
+		The pirates take your cargo, all your possessions and your cash. They also seize your ship for themselves.
+		<lose ship="t" item="*" shards="*">
+			Cross all these off
+		</lose>
+		your Adventure Sheet. At least they decide to spare your life - probably in the hope that you&#8217;ll earn enough to buy another ship so they can rob you again.
+	</p>
+	<p>You are put off in Smogmaw. <goto section="44"/>.</p>
+</section>

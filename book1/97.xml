@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="97">
+	<p>
+		You climb down a narrow track to the beach. The sea pounds the rocky shore, and the spray lashes your face. A mournful, yet utterly captivating singing suddenly fills your ears. You look out to sea, and spot several mermaids and mermen, cavorting in the surf.
+	</p>
+	<p>
+		&#8216;Come, come to us...&#8217; one of them calls in a lilting voice that fills you with a yearning desire to plunge into the sea and swim out to them.
+	</p>
+	<p><difficulty ability="sanctity" level="10"/>.</p>
+	<outcomes>
+		<success section="584"/>
+		<failure section="159"/>
+	</outcomes>
+</section>

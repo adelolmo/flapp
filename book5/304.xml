@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="304">
+	'The spell ingredients are expensive,' Targdaz warns you. 'I will require 150 Shards.'
+	<choices>
+		<choice section="386" shards="150">Pay him the money</choice>
+		<choice section="245">Tell him to go</choice>
+	</choices>
+</section>

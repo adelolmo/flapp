@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="241">
+	<p>
+		To renounce the worship of Elnir, you must pay 40 Shards to the priesthood by way of compensation. The high priest says nothing - he merely regards you with a mild contempt, as if he expected you to fail in the worship of Elnir. Do you want to change your mind?
+	</p>
+	<p>
+		<if god="Elnir"><if shards="40">
+				If you are determined to renounce your faith,
+				<group>
+					<text>pay the 40 Shards and delete Elnir</text>
+					<lose shards="40"/>
+					<lose god="Elnir"/>
+				</group>
+				from the God box on your Adventure Sheet.
+		</if></if>
+		When you have finished here, <goto section="100"/>.
+	</p>
+</section>

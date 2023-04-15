@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="95">
+	<p>
+		You encounter a young man who is beset by worries. He is glad to have someone to whom he can pour out his troubles. You learn he belongs to a warrior clan but is in disgrace because of cowardice. His family has told him not to come back until he has proved himself.
+	</p>
+	<p>
+		<if item="dead head|pirate captain's head|ghoul's head">
+			If you have a <b>dead head</b>,
+			a <b>pirate captain&#8217;s head</b> or
+			a <b>ghoul&#8217;s head</b> that you are willing (and able) to part with, <goto section="144" force="f"/>.
+		</if>
+		Otherwise you can only advise the young man to bear up, then <goto section="396"/>.
+	</p>
+</section>

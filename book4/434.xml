@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="434" image="434.jpg">
+	<p>
+		The key fits into the hole, and then disappears. It is lost forever. Cross the <lose item="obsidian key"/> off your Adventure Sheet.
+	</p>
+	<p>
+		The plaque swings open with a click, and a rush of cloying, sickly air blows out of it into your face. Coughing, you step into the tomb.
+	</p>
+	<p>
+		Inside, you find a heavy stone sarcophagus, around which has been arrayed the goods and materials for Xinoc to use in the afterlife. Much of it is decayed and rotten now, but not the more durable of items. You find a triangular key. Note the <item name="pyramid key"/> on your Adventure Sheet. You also find a <weapon name="Shadar sword" bonus="4"/>, some <armour name="heavy plate" bonus="6"/>, a jar of <item name="uncanny salts"/>, and a
+		<item name="ring of defence +4">
+			<effect type="use" uses="3" verb="Use">
+				<desc>{uses} uses</desc>
+				<tick special="defence" bonus="4"/>
+			</effect>
+		</item>
+		(three uses). Note that the ring can be used three times only. You can invoke the ring before a fight, and it will add 4 to your Defence for the duration of that combat only. You also find some rainbow-coloured <item name="parrot fungus"/>, inside an old jar of oil.
+	</p>
+	<p>When you are finished, you return to the central square.</p>
+	<choices>
+		<choice section="657">Visit the Cave of Bells</choice>
+		<choice section="107">Visit the Vault of the Shadar</choice>
+		<choice section="298">Visit the Crypt of Kings</choice>
+		<choice section="266">Leave the City of Ruins</choice>
+	</choices>
+</section>

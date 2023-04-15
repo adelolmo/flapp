@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="340">
+	<difficulty ability="scouting|thievery" level="10">Make a SCOUTING or THIEVERY roll at Difficulty 10</difficulty>.
+	<outcomes>
+		<success section="239">Successful SCOUTING or THIEVERY roll</success>
+		<failure section="34">Failed SCOUTING or THIEVERY roll</failure>
+	</outcomes>
+</section>

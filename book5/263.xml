@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="263">
+	<p>'Right,' says the troll matter-of-factly, and he attacks you.</p>
+	<fight name="Troll" combat="9" defence="12" stamina="20" flee="8"/>
+	<p>
+		If you lose, <goto section="66" dead="t"/>.
+		If you reduce the troll to 8 or fewer Stamina points, <goto section="97"/>.
+	</p>
+</section>

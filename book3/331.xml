@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="331">
+	In one corner you see three of your treacherous former
+	crewmen enjoying a drink. They don&#8217;t seem to have noticed
+	you. The memory of their mutiny makes your blood seethe.
+	<choices>
+		<choice section="344">Attack them</choice>
+		<choice section="35">Speak to them</choice>
+		<choice section="203">Wait and watch</choice>
+	</choices>
+</section>

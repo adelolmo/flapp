@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="558">
+	<p>
+		These are choppy seas and the strong current makes swimming difficult. You also have the problem of keeping track of the surgeon over the heavy swell.
+	</p>
+	<p>
+		To rescue him you must
+		<difficulty ability="scouting" level="14">
+			make a SCOUTING roll at a Difficulty of 14
+		</difficulty>. If you fail you will be forced to return to the ship without him.
+	</p>
+	<outcomes>
+		<success section="427"/>
+		<failure section="22"/>
+	</outcomes>
+</section>

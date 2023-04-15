@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="545">
+	<p>
+		You are given the cage. The trau speaks to you so quickly that you can barely distinguish the syllables.
+	</p>
+	<p>&#8216;Let me out of here, and I&#8217;ll reward you!&#8217; it says.</p>
+	<choices>
+		<choice section="642">Free it</choice>
+		<choice section="651">Sell it to the mines in the Bronze Hills</choice>
+	</choices>
+</section>

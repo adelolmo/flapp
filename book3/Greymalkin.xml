@@ -1,0 +1,16 @@
+<section name="Greymalkin Smith" profession="Rogue">
+	<p>
+		A dashing scoundrel, Greymalkin lives by his wits and has no care for either the future or the past. Money slips through his fingers as fast as he can earn it, but of late he has begun to be tempted by a story he overheard in a dockside tavern - a story of great riches that lie unguarded on an island in the south sea.
+	</p>
+	<p>
+		You can play as Greymalkin, or as a rogue with a different name (enter it in the 'Name' field). To begin your adventure, <goto section="1" force="f"/>.
+	</p>
+	<p>For another profession, choose from the following:</p>
+	<choices>
+		<choice section="Jaluda">Warrior</choice>
+		<choice section="Damontir">Mage</choice>
+		<choice section="Arcadia">Priest</choice>
+		<choice section="Silas">Troubadour</choice>
+		<choice section="Varkung">Wayfarer</choice>
+	</choices>
+</section>

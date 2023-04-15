@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="646">
+	<p>
+		The island turns out to be the back of a sea-going behemoth that has basked in the sun for so long that vegetation has started to grow on it. Woken by the tread of your boots, the creature issues forth an angry waterspout and dives beneath the waves.
+	</p>
+	<p>
+		Several of your men are lost in the mad scramble back aboard the ship.
+		<lose crew="3">Reduce your ship&#8217;s Crew Quality to poor</lose>
+		and <goto section="283"/>.
+	</p>
+</section>

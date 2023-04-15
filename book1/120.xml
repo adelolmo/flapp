@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="120">
+	You ship is sailing in the coastal waters off the Shadar Tor. You can just see the tor, a jumbled mass of rocks, sitting on the clifftops as it has done for a thousand years. <random type="travel"/>:
+	<outcomes>
+		<outcome range="2-4" section="324">Storm</outcome>
+		<outcome range="5-9" section="559">An uneventful voyage</outcome>
+		<outcome range="10-12" section="207">A merchant ship</outcome>
+	</outcomes>
+</section>

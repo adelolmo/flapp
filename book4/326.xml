@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="326" boxes="1">
+	<p>
+		<if ticks="1">
+			If there is a tick in the box, <goto section="213"/> immediately.
+		</if>
+		If not, <tick/>, and read on.
+	</p>
+	<p>
+		You find a feeble old man sitting by the dirt track you are following. His eyes are almost sightless, and his hands quiver and shake with ague. As you near, he pushes out a basket in front of him, trying to sell you his wares. All he has for sale is an ancient scroll, engraved with gold letters and strange glyphs. He wants 5 Shards for it.
+	</p>
+	<choices>
+		<choice section="31" shards="5">Buy the scroll</choice>
+		<choice section="144">Leave</choice>
+	</choices>
+</section>

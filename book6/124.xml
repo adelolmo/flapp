@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="124">
+	A shrine reveals itself as a splash of gold and red half-hidden in
+	the trees beside a waterfall. As you stand watching, a group of
+	white-clad women come out to dance for the local spirit.
+	<choices>
+		<choice section="731">Stop at the shrine</choice>
+		<choice section="147">Press on</choice>
+	</choices>
+</section>

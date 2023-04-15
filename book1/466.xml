@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="466">
+	The road between Blessed Springs and Fort Brilon is patrolled by troopers of the Sokaran army. The fort is well-supplied from Blessed Springs, and traffic abounds.
+	<choices>
+		<choice section="259">Visit Fort Brilon</choice>
+		<choice section="510">Head for Blessed Springs</choice>
+		<choice section="548">Set off north into the farmlands</choice>
+	</choices>
+</section>

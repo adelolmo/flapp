@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="297">
+	<p>
+		The market is held in a warren of booths set up in a roofed arcade at the eastern edge of town. Items with no purchase price are not available locally.
+	</p>
+	<market>
+		<header type="armour"/>
+		<armour name="leather" bonus="1" buy="60" sell="45"/>
+		<armour name="ring mail" bonus="2" buy="120" sell="90"/>
+		<armour name="chain mail" bonus="3" buy="240" sell="180"/>
+
+		<header type="weapon"/>
+		<weapon bonus="0" buy="50" sell="40"/>
+		<weapon bonus="1" buy="250" sell="200"/>
+		<weapon bonus="2" sell="400"/>
+
+		<header type="magic"/>
+		<tool name="amber wand" ability="magic" bonus="1" sell="300"/>
+
+		<header type="other"/>
+		<tool name="compass" ability="scouting" bonus="1" buy="500" sell="400"/>
+		<tool name="cross-staff" ability="scouting" bonus="2" buy="900" sell="700"/>
+		<tool name="sextant" ability="scouting" bonus="3" buy="1300" sell="1100"/>
+		<item name="lantern" tags="light" buy="80" sell="40"/>
+		<item name="selenium ore" sell="700"/>
+	</market>
+	<p>
+		If you have a ship and want to load a cargo of copper ore, you should visit the mines. When you&#8217;re through here, <goto section="99"/>.
+	</p>
+</section>

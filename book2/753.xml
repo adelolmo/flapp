@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="753">
+	<p>
+		The stranger holds the shell to your ear. At first there is nothing to be heard, but then a spectral voice begins to whisper. It tells you many secrets of ancient wisdom.
+	</p>
+	<p>
+		<gain ability="rank" amount="1">Gain one Rank</gain>.
+		Going up in Rank will increase your Defence, and also gives you an additional
+		<gain ability="stamina" amount="1d">1-6 Stamina points <i>permanently</i></gain>
+		- i.e. increase your unwounded Stamina score by the roll of one die.
+	</p>
+	<p>
+		Bidding you farewell, the stranger climbs back into his carriage. &#8216;Wait,&#8217; you ask. &#8216;Who are you?&#8217;
+	</p>
+	<p>
+		His reply is almost drowned out by the fierce whinny of the horses: &#8216;They call me Dom Daniel.&#8217;
+	</p>
+	<p>
+		As the carriage turns and speeds back towards the sea, you hear the lilting music of Dom Daniel&#8217;s pipe keening on the wind. <goto section="705"/>.
+	</p>
+</section>

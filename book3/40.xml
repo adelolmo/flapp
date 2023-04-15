@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="40">
+	<p>
+		The wind freshens and veers to blow from the north-east. You must be careful, or your ship could be blown onto the reefs fringing the Innis archipelago. <random type="travel" var="x"/>.
+		<if var="x" lessthan="5">
+			<if book="9" not="t">
+				[<i>If you roll 2-4 and lack book 9, <reroll>roll again</reroll> --Ed</i>]
+			</if>
+		</if>
+	</p>
+	<outcomes>
+		<outcome var="x" range="2-4" book="9" section="84">Blown off course</outcome>
+		<outcome var="x" range="5-8" section="59">A peaceful voyage</outcome>
+		<outcome var="x" range="9-12" section="551">A vision in the sunset</outcome>
+	</outcomes>
+</section>

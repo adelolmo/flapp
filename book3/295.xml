@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="295">
+	The streets of Smogmaw are narrow boardwalks, some of them
+	floating on pontoons out over the sluggish yellow river. The air
+	is hot and sticky like watery treacle. At dusk a sparkling haze
+	crawls out from the jungle, giving this place its name: the Misty
+	Estuary. <random type="travel"/>.
+	<outcomes>
+		<outcome range="2-4" section="315">Press-ganged!</outcome>
+		<outcome range="5-9" section="44">A pleasant stroll</outcome>
+		<outcome range="10-12" section="332">A mysterious hut</outcome>
+	</outcomes>
+</section>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="320">
+	<p>
+		Your opponent falls with a heavy clatter to the sward, releasing a wisp of green vapour. When you throw open the visor, you are amazed to see the armour is empty.
+	</p>
+	<p>
+		The dwarf comes running out of the pavilion in a state of high dudgeon. &#8216;You cheated!&#8217; he says. &#8216;It isn&#8217;t fair. I will have my revenge.&#8217; So saying, he darts off into the bushes.
+	</p>
+	<p>
+		<tick codeword="Baluster">
+			Get the codeword Baluster
+		</tick>. You can take the remnants of your uncanny opponent:
+		<armour name="plate armour" bonus="5"/> and a
+		<weapon name="jagged sword" bonus="1"/>.
+		Also
+		<training ability="combat"/>, and if the total is higher than your COMBAT score then increase it by 1.
+	</p>
+	<choices>
+		<choice section="343">Continue along the path</choice>
+		<choice section="23">Leave the forest</choice>
+	</choices>
+</section>

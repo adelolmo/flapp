@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="602">
+	You may not be able to take the ghost ship&#8217;s cargo, but you get
+	another kind of reward for saving the cat&#8217;s life.
+	<training ability="magic" dice="2"/>.
+	If the total exceeds your MAGIC score, you gain 1 point of MAGIC.
+	Then <goto section="32"/>.
+</section>

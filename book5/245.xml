@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="245">
+	<p>
+		Here at your castle you can leave possessions and money to keep them safe. Write the items you are leaving in the box provided (remembering to erase them from your Adventure Sheet).
+	</p>
+	<itemcache name="5.245" text="Items at castle"/>
+	<p>
+		You can also recuperate here if injured: <rest>restore your Stamina</rest> to its normal unwounded score.
+	</p>
+	<p>
+		<random var="siege"/>.
+		<if var="siege" equals="2">
+			If you score a double one, <goto section="625"/> immediately.
+		</if> If not, read on.
+	</p>
+	<p>
+		Your steward comes in to welcome you home. 'What do you require?' he asks.
+	</p>
+	<choices>
+		<choice section="315">Gather your knights for weapons practice</choice>
+		<choice section="341">Summon the castle blacksmith</choice>
+		<choice section="196">Summon Targdaz, your sorcerer</choice>
+		<choice section="365">Visit the chapel</choice>
+		<choice section="539">Leave the castle</choice>
+	</choices>
+</section>

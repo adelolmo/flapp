@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="295">
+	<p>
+		The citadel is a vast complex of corridors and doors, a fortification of breathtaking sophistication. Huge cisterns are driven into the bedrock of the mountains and hold enough water for a year or more. The citadel also encloses a large open-aired field, given over to agriculture. Great nets are spread across the towers to defend against aerial attack from Mannekyn People. The garrison, the Knights of the Northern Shield, is the best Sokara has to offer.
+	</p>
+	<p>
+		The local gossip is that a large army, led by General Beladai, is camped to the north. This army of the Northern Alliance consists of warriors of the Horde of the Thousand Winds, Mannekyn People, some trau and Sokaran troops still loyal to King Nergan, ruler of Sokara before Grieve Marlock and his new order took over.
+	</p>
+	<p>
+		The commander of the fort is Orin Telana, newly appointed by Grieve Marlock.
+	</p>
+	<p>
+		<if codeword="Drizzle">
+			If you have the codeword Drizzle, <goto section="670"/>.
+		</if>
+		<if codeword="Assist">
+			If not, but you have the codeword Assist, <goto section="72"/>.
+		</if>
+		If you have neither codeword, <goto section="152"/>.
+	</p>
+</section>

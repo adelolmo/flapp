@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="570">
+	<p>
+		You find the remains of a poor wretch who had been left lashed to a rock for the carrion birds to peck at. All that is left when you come along are yellow bones and a rust-coloured patch of dried blood.
+	</p>
+	<p>
+		<if profession="Troubadour">
+			If you are a Troubadour, <goto section="652"/>.
+		</if>
+		If not, <goto section="52"/>.
+	</p>
+</section>

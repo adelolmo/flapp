@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="284">
+	This time the golem does not give you three choices. Your only hope is to guess the password by luck. Add up the score of
+	<if not="t" god="The Three Fortunes">
+		<random dice="4">four dice</random>
+	</if> - 
+	<if god="The Three Fortunes">or
+		<random dice="3">three dice</random>
+		if you are an initiate of the Three Fortunes.
+	</if>
+	<outcomes>
+		<outcome range="3-5" section="425"/>
+		<outcome range="6+" section="351"/>
+	</outcomes>
+</section>

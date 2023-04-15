@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="583">
+	Gnarled branches dripping with rampant foliage twine high
+	overhead, choking out the daylight and leaving the ground in a
+	perpetual pall of green dusk.
+	<choices>
+		<choice section="644">Penetrate deeper into the forest</choice>
+		<choice section="603">Search for a way out</choice>
+	</choices>
+</section>

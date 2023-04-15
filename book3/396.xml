@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="396">
+	You can take a <weapon name="pickaxe"/> and a lump of <item name="copper ore"/>. There is nothing else to interest you here, so when you are ready to leave <goto section="394"/>.
+</section>

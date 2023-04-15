@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="515">
+	<p>'Why not?' he demands curtly.</p>
+	<p>
+		You explain that Holyamu wants an <b>amulet of Ebron</b> before he'll let you use his Incredible Aoristic Pool.
+	</p>
+	<p>'Oh, no problem,' mutters the Blender of Spices. He hands you one.</p>
+	<p>
+		Note the <item name="amulet of Ebron"/> on your Adventure Sheet, and <goto section="401"/>.
+	</p>
+</section>

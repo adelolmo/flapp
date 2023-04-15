@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="536">
+	<p>
+		The accused protests his innocence, but you are convinced he is guilty. As he is tossed overboard he shrieks a curse on everyone aboard. Only later do you find out he was the seventh son of a seventh son, born in Dweomer during an eclipse of the moon.
+	</p>
+	<p>
+		To deflect the curse you must
+		<difficulty ability="magic" level="14"/>.
+	</p>
+	<outcomes>
+		<success section="188"/>
+		<failure section="641"/>
+	</outcomes>
+</section>

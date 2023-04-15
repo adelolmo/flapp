@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="703">
+	<p>
+		You dodge aside, grab the lance, and heave. The birdrider is yanked out of the saddle and crashes headfirst into the ground. He doesn&#8217;t get up. The other riders rein in their beaked steeds, and look you up and down. Your courage and skill have impressed them.
+	</p>
+	<p><difficulty ability="charisma" level="13"/>.</p>
+	<outcomes>
+		<success section="449"/>
+		<failure section="504"/>
+	</outcomes>
+</section>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="156">
+	<!-- reordered because Troubadours don't need Cerumen
+		to pass next test -->
+	<if profession="troubadour">
+		If you are a Troubadour, <goto section="227"/>.
+	</if>
+	<if codeword="Flux">
+		If not but you have the codeword Flux, <goto section="204"/>.
+	</if>
+	Otherwise, <goto section="251"/>.
+</section>

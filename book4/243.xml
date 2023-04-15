@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="243" boxes="1">
+	<p>
+		<if ticks="1">
+			If there is a tick in the box, <goto section="193"/> immediately.
+		</if>
+		If not, <tick/>, and read on.
+	</p>
+	<p>
+		Through the grey skies, and sheets of rain, you can just make out a bright orange fire in the distance.
+	</p>
+	<p>
+		&#8216;That&#8217;s the beacon. It&#8217;s lit to guide ships through the rocky reefs of the bay. We should head straight for it - that way we should miss the danger spots, cap&#8217;n,&#8217; says the first mate.
+	</p>
+	<p>You examine your charts of the area.</p>
+	<p>
+		<difficulty ability="scouting" level="12">
+			<adjust item="mariner's ruttier" value="1"/>
+		</difficulty>. You can add one to the roll if you have a <b>mariner&#8217;s ruttier</b>.
+	</p>
+	<outcomes>
+		<success section="8"/>
+		<failure section="46"/>
+	</outcomes>
+</section>

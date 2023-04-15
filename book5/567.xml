@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="567">
+	<p>
+		<if codeword="5.Tomb">
+			If you have previously entered a tomb in the Crags of the Long Homes, <goto section="699"/>.
+		</if>
+		Otherwise read on.
+	</p>
+	<p>
+		Guided by the <b>Black Diptych</b> (which you can consult <goto section="410" force="f">at reference 410</goto> - don't forget to note this paragraph number before you turn to <b>410</b>), you can make an informed choice.
+	</p>
+	<p>Whose long home will you enter?</p>
+	<choices>
+		<choice section="642">King Elhonar Shadar</choice>
+		<choice section="363">King Alkanar Shadar</choice>
+		<choice section="24">The Hangman</choice>
+		<choice section="198">The Seven Lords</choice>
+		<choice section="76">Leave</choice>
+	</choices>
+</section>

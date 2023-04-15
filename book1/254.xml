@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="254">
+	<p>
+		You ask for a kiss. &#8216;Oh no!&#8217; cry the mer-folk, &#8216;A kiss is not so easily won! Tell us a tale to stir our hearts - then we may reward you.&#8217;
+	</p>
+	<p><difficulty ability="charisma" level="9"/>.</p>
+	<outcomes>
+		<success section="12"/>
+		<failure section="281"/>
+	</outcomes>
+</section>

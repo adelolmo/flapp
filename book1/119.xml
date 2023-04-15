@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="119">
+	<p><tick codeword="Ashen">Gain the codeword Ashen</tick>.</p>
+	<p>
+		You hear the shouts from outside, muffled by the swirling sulphurous fog. A stab of icy panic pulses at your heart, and an instant later the door bursts open. Three militiamen armed with maces burst through the doorway. Behind them, a tall cadaverous gentleman wrapped in a cape is stamping in fury.
+	</p>
+	<p>&#8216;A thief in my house!&#8217; he rages. &#8216;Do your duty!&#8217;</p>
+	<p>
+		You realise the truth: Lauria has used you as a decoy to cover her escape. You&#8217;ll get even later - if you survive.
+	</p>
+	<p>
+		The militiamen race forward to seize you.
+		<difficulty ability="combat" level="12">
+			Make a COMBAT roll at a Difficulty of 12
+		</difficulty>.
+	</p>
+	<outcomes>
+		<success section="588"/>
+		<failure section="96"/>
+	</outcomes>
+</section>

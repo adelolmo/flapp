@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="127">
+	The entire ship&#8217;s company sinks into a coma. Unlike you, they
+	cannot breathe the thin air up here. You must do something
+	before they are all dead.
+	<choices>
+		<choice section="145">Use sorcery to save them</choice>
+		<choice section="199">Dive into the sea</choice>
+		<choice section="219">Climb down the side of the ship</choice>
+	</choices>
+</section>

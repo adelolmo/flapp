@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="188">
+	<p>
+		A small bottle is bobbing in the water nearby. You pick it up, pull out the cork, and take the paper from inside. On it, a message reads, 'Don't open the bottle. And whatever you do, don't read this message.'
+	</p>
+	<p>
+		Instantly, you drop the bottle and its contents, terrified you may have incurred some kind of curse, but nothing seems to have happened. Puzzled, you return to your ship.
+	</p>
+	<p>
+		Later, the tide rises, and refloats your ship. You sail on. <goto section="471"/>.
+	</p>
+</section>

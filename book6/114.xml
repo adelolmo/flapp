@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="114">
+	<p>
+		Takakura weakens fast and before dawn he is dead. &#8216;He was never strong, even as a child,&#8217; says Shirakawa, his father, before turning and sweeping out of the room.
+	</p>
+	<p>
+		Later a courtier comes to inform you that Shirakawa is making changes. You are no longer welcome at the palace. Lose the title
+		<group force="t">
+			<text>Senior Court Rank</text>
+			<lose title="Senior Court Rank"/>
+			<lose title="Junior Court Rank"/>
+		</group>
+		(and also Junior Court Rank if you forgot to erase it earlier) and then <goto section="79"/>.
+	</p>
+</section>

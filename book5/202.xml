@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="202">
+	<p>You manage to evade the Soulwatch.</p>
+	<choices>
+		<choice book="2" section="2">East to Ringhorn</choice>
+		<choice section="539">West into Old Harkuna</choice>
+		<choice section="222">Follow the River Rese north</choice>
+	</choices>
+</section>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="204" boxes="1">
+	<p>
+		<if ticks="1">If there is a tick in the box, <goto section="146"/> immediately.</if> If not, <tick>put a tick there now</tick>, and read on.
+	</p>
+	<p>
+		You are told that you will be brought before the arbiters in a day or two. That night, while eating your bowl of prison gruel, you notice a loose block of stone in one wall of your cell.
+	</p>
+	<choices>
+		<choice section="146">Wait for judgment</choice>
+		<choice section="691">Start digging a tunnel</choice>
+	</choices>
+</section>

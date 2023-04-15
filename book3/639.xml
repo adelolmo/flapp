@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="639">
+	You push your luck too far. You have many enemies - among
+	them a wealthy silk merchant who lost several of his shipments
+	during your last outing as a pirate. He sets a price on your head
+	that brings bounty hunters from all across the known world, and
+	within a month you have been taken at sea. Your execution
+	comes soon after. <goto section="123"/>.
+</section>

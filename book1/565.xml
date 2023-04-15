@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="565">
+	<difficulty ability="thievery" level="10"/>.
+	<outcomes>
+		<success section="654"/>
+		<failure section="376"/>
+	</outcomes>
+</section>

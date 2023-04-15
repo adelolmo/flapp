@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="52">
+	<p>
+		The pirates strip you of everything you own and then jeeringly toss you into the sea.
+		<lose ship="t">Cross off your ship and crew</lose> as well as
+		<lose item="*" shards="*">your possessions and money</lose>
+		- you&#8217;ll never see them again, and it will be a miracle if you survive to see dry land.
+	</p>
+	<p>
+		<difficulty ability="scouting" level="15">
+			Make a SCOUTING roll at a Difficulty of 15
+		</difficulty>.
+	</p>
+	<outcomes>
+		<success section="241"/>
+		<failure section="140"/>
+	</outcomes>
+</section>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="674">
+	<p>
+		The physician may be able to cure you of disease or poison, but he cannot lift a curse. It will cost you 25 Shards an attempt.
+		<if shards="25">
+			If you want him to make an attempt,
+			<lose price="c" shards="25">cross off the 25 Shards</lose> and
+			<random flag="c" dice="1"/>.
+		</if>
+	</p>
+	<outcomes>
+		<outcome flag="c" range="1">Misdiagnosis. 
+			<lose stamina="1d" flag="c">Lose 1-6 Stamina</lose>
+		</outcome>
+		<outcome flag="c" range="2">He fails to cure you<tick flag="c" hidden="true"/></outcome>
+		<outcome flag="c" range="3-6">
+			Cured of one <lose disease="?" flag="c">disease or poison effect</lose>
+		</outcome>
+	</outcomes>
+	<p>When you are ready you can:</p>
+	<choices>
+		<choice section="624">Go to your apartment</choice>
+		<choice section="401">Visit a minister in the audience chamber</choice>
+		<choice section="444">Leave the Spider Palace</choice>
+	</choices>
+</section>

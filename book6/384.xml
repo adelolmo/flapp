@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="384">
+	<p>
+		The Sovereign is disappointed in you. &#8216;What it is to be a prince,&#8217; he sighs, &#8216;who can command duty but cannot even ask for loyalty!&#8217; By way of chastisement he orders Masayori to revoke your title.
+		<lose title="Senior Court Rank">Lose Senior Court Rank</lose>
+		and
+		<gain title="Junior Court Rank">get Junior Court Rank</gain>
+		instead.
+	</p>
+	<p><goto section="79"/>.</p>
+</section>

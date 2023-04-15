@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="465">
+	<p>
+		You arrive at the northern flow of the Ruby River. The water is a reddish hue, discoloured by iron ore carried down from the Grumes.
+	</p>
+	<p>
+		A hairy troll steps out from under the bridge that spans the river here. He wears a wooden mask, like the lords of Uttaku, and has two scarves wrapped around his neck, a striped one, and a spotted one.
+	</p>
+	<p>
+		'There's a toll of five Shards to use the bridge,' growls the troll menacingly, hefting the tree trunk he uses as a club.
+	</p>
+	<choices>
+		<choice section="27" shards="5">Pay the 5 Shards and cross</choice>
+		<choice section="139">Talk to the troll</choice>
+		<choice section="263">Refuse to pay</choice>
+		<choice section="487">Follow the river north into the Grumes</choice>
+		<choice section="317">Follow the river south</choice>
+	</choices>
+</section>

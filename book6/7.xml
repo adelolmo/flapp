@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="7">
+	<p>
+		The Chu River is spanned by a wooden bridge. It creaks slightly as you set out across it. At the mid-point you are stopped by a female warrior who wears maroon armour over a tunic of black and scarlet silk. She tells you she belongs to the extensive Black Swan family, whose members are famous for their martial prowess.
+	</p>
+	<p>
+		&#8216;If you wish to cross the bridge you must face me in a duel,&#8217; she says.
+	</p>
+	<choices>
+		<choice section="614">Accept her challenge</choice>
+		<choice section="485" item="agate swan">Show her an <b>agate swan</b> if you have one</choice>
+		<choice section="568">Turn back</choice>
+	</choices>
+</section>

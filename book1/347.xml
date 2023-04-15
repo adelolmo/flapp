@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="347">
+	<p>
+		The road is nearly blocked by wagons and supply convoys. A troop of soldiers forces its way through the throng - the men bang heads indiscriminately to clear people out of the way. <random type="travel" dice="1">Roll a die</random>.
+	</p>
+	<outcomes>
+		<outcome range="1,2">
+			Banged on the head! <lose stamina="1">Lose 1 Stamina</lose>
+		</outcome>
+		<outcome range="3,4">Nothing happens</outcome>
+		<outcome range="5,6">
+			Mistaken for a beggar - receive <gain shards="10"/> from a passing priest
+		</outcome>
+	</outcomes>
+	<p>When you are ready, you can go:</p>
+	<choices>
+		<choice section="400">North to Caran Baru</choice>
+		<choice section="474">East into the Coldbleak Mountains</choice>
+		<choice section="387">South along the road</choice>
+		<choice section="47">West into the Forest of Larun</choice>
+	</choices>
+</section>

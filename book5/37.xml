@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="37">
+	<p>
+		You follow the passage for some time. After a while the light ahead of you disappears.
+	</p>
+	<p>
+		'False friend,' hisses a voice in your ear. 'Now I shall never be free - you should have travelled directly to me, as I asked you to do. You faithless creature!'
+	</p>
+	<p><lose codeword="Eerie">Lose the codeword Eerie</lose>.</p>
+	<p>The shade chases you from the barrow. <goto section="76"/>.</p>
+</section>

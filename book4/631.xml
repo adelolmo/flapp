@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="631">
+	<p>
+		You find a poor shipwrecked sailor, clinging to a piece of driftwood. Unfortunately, he has expired - still holding on even in death. It seems he was once a captain. You find his log, the last entry of which reads: &#8216;We set sail today with a good wind behind us. I am worried, however, that we couldn&#8217;t afford to buy a blessing from the temple of Alvir and Valmir.&#8217;
+	</p>
+	<p>You sail on. <goto section="236"/>.</p>
+</section>

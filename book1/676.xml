@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="676">
+	<p>
+		You were given the message to take to the king by some spies in Golnir. The king takes the <b>coded missive</b>.
+		<lose item="coded missive">Cross it off</lose>
+		your Adventure Sheet. He hands it to one of his counsellors to read.
+	</p>
+	<p>
+		&#8216;You have done well in bringing this to me. It is important,&#8217; says the king.
+	</p>
+	<p>You are rewarded with <gain shards="200"/>.</p>
+	<p>
+		<if codeword="Deliver">
+			If you have the codeword Deliver, <goto section="98"/> immediately.
+		</if>
+		If not, read on.
+	</p>
+	<p>
+		The king goes on, &#8216;However, I was hoping you had spoken with General Beladai of the allied army by now - we need that citadel. Now go. That is a Royal command!&#8217;
+	</p>
+	<p>
+		You leave, climbing down to the foothills of the mountains. <goto section="474"/>.
+	</p>
+</section>

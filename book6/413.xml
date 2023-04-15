@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="413">
+	He explains just a few of the arcane secrets of his sect.
+	<training ability="magic" dice="1"/>,
+	and if the number rolled is higher than your MAGIC score
+	then increase it by 1.
+	<choices>
+		<choice section="373">Ask him to teach you more</choice>
+		<choice section="352">Go into the shrine</choice>
+		<choice section="398">Thank him and leave</choice>
+	</choices>
+</section>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="33">
+	<p>
+		<if god="Tyrnai"><set var="cost" value="200"/></if>
+		<else><set var="cost" value="800"/></else>
+		Resurrection costs 200 Shards if you are an initiate, and 800
+		Shards if not. Once you have arranged for resurrection you need not fear death, as you will be magically restored to life here at the temple. To arrange resurrection, pay the fee and write
+		'<resurrection text="Temple of Tyrnai" god="Tyrnai" book="1" section="640" shards="cost"/>'
+		in the Resurrection box on your Adventure Sheet. If you are later killed, turn to <b>640</b> in <i>The War-Torn Kingdom</i>.
+	</p>
+	<p>
+		You can have only one resurrection arranged at any one time. If you arrange another resurrection later at a different temple, the original one is cancelled. Cross it off your Adventure Sheet. You do not get a refund.
+	</p>
+	<p>When you are finished here, <goto section="282"/>.</p>
+</section>

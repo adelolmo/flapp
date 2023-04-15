@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="326">
+	<p>
+		Suddenly the struggling stops. You are astonished to see the long limbs have gone. There is only an old badger lying in front of you breathing its last. Perhaps the local folktales are right when they attribute strange powers to animals like badgers and foxes.
+	</p>
+	<p>
+		You return to the lodge with your kill. The proprietor cooks it but refuses to share in the meal out of fear. What about you?
+	</p>
+	<choices>
+		<choice section="344">Eat the badger</choice>
+		<choice section="181">Leave it</choice>
+	</choices>
+</section>

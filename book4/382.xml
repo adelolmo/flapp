@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="382">
+	<p>
+		<if codeword="Drink">
+			If you have the codeword Drink, <goto section="30"/>.
+		</if>
+		If not, read on.
+	</p>
+	<p>A black stallion stands on the bank of the River of Destiny, lapping at the water.
+	</p>
+	<p><difficulty ability="scouting" level="15"/>.</p>
+	<outcomes>
+		<success section="312"/>
+		<failure section="95"/>
+	</outcomes>
+</section>

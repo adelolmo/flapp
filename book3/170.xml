@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="170">
+	<p>
+		&#8216;Ah, this is the life!&#8217; you hear the cabin boy telling himself. &#8216;One day I&#8217;ll be as rich as the captain, and then I&#8217;ll buy my own ship.&#8217;
+	</p>
+	<p>
+		You put a hand on his shoulder, startling him out of his reverie. &#8216;In the meantime, lad, you&#8217;d better see to your chores,&#8217; you growl at him. &#8216;Else we&#8217;ll hear the ship&#8217;s cat purring before the day is done.&#8217;
+	</p>
+	<p>You sail on. <random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-5" section="237">A magical wind</outcome>
+		<outcome range="6-8" section="188">An uneventful journey</outcome>
+		<outcome range="9-12" section="659">Murder most foul</outcome>
+	</outcomes>
+</section>

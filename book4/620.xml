@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="620">
+	<p>
+		You tie the rope to a tree-trunk, and climb down. The rope gets you to a part of the mountain you can traverse, but you have to leave it behind.
+	</p>
+	<p><lose item="rope">Cross the rope off</lose> your Adventure Sheet.</p>
+	<p>
+		You think you are in the mountains of the Spine of Harkun. <goto section="100"/>.
+	</p>
+</section>

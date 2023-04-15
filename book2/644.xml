@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="644">
+	You make the acquaintance of a friendly fellow who
+	accompanies you on your journey and entertains you with his
+	jokes.
+	<difficulty ability="thievery" level="13">
+		Make a THIEVERY roll at a Difficulty of 13
+	</difficulty>.
+	<outcomes>
+		<success section="40"/>
+		<failure section="774"/>
+	</outcomes>
+</section>

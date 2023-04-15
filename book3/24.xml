@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="24">
+	<p>
+		<if title="Saviour of Vervayens Isle">
+			If you have the title Saviour of Vervayens Isle,
+			<goto section="169"/>.
+		</if>
+	</p>
+	<p>
+		If not, you pore over your charts until late into the night trying to decide where to set your course.
+	</p>
+	<choices>
+		<choice section="42">Steer west</choice>
+		<choice section="303">Steer east</choice>
+		<choice section="263">Steer south</choice>
+		<choice section="119">Steer north</choice>
+	</choices>
+</section>

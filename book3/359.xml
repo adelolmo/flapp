@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="359">
+	<p>
+		How about that money I put into your business venture?&#8217; you ask him.
+	</p>
+	<p>&#8216;Oh yes,&#8217; he says, &#8216;that.&#8217;</p>
+	<p>
+		<random dice="2">
+			<adjust god="The Three Fortunes" amount="1"/>
+		</random>,
+		and add 1 to the dice roll if you are an initiate of the Three Fortunes.
+	</p>
+	<outcomes>
+		<outcome range="2-4">
+			<adjustmoney cache="3.652" multiply="0.8">
+				Loss of 20%
+			</adjustmoney>
+		</outcome>
+		<outcome range="5-6">
+			<adjustmoney cache="3.652" multiply="0.9">
+				Loss of 10%
+			</adjustmoney>
+		</outcome>
+		<outcome range="7-8">
+			<adjustmoney cache="3.652" multiply="1.1">
+				Profit of 10%
+			</adjustmoney>
+		</outcome>
+		<outcome range="9-11">
+			<adjustmoney cache="3.652" multiply="1.2">
+				Profit of 20%
+			</adjustmoney>
+		</outcome>
+		<outcome range="12-13">
+			<adjustmoney cache="3.652" multiply="1.25">
+				Profit of 25%
+			</adjustmoney>
+		</outcome>
+	</outcomes>
+	<p>
+		Now <goto section="652"/> and withdraw the sum noted in the box there after adjusting it according to the result rolled.
+	</p>
+</section>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="135">
+	Your ship, crew and cargo are lost to the deep, dark sea.
+	<lose ship="t">Cross them off</lose> your Ship's Manifest.
+	Your only thought now is to save yourself.
+	<rankcheck dice="2"/>.
+	<failure>
+		If the score is greater than your Rank, you are drowned - <goto section="7"/>.
+	</failure>
+	<success>
+		If the score is less than or equal to your Rank, you manage to find some driftwood, and make it back to shore. Lose Stamina points equal to the score of <lose stamina="1d">one die roll</lose> and, if you can survive that, <goto section="436"/>.
+	</success>
+</section>

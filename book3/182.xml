@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="182">
+	<p>
+		On the south of the island you find a sheltered bay surrounded by high mist-cloaked crags.
+	</p>
+	<p>
+		&#8216;This would make a good anchorage, skipper,&#8217; says the first mate.
+	</p>
+	<choices>
+		<choice section="220">Drop anchor here</choice>
+		<choice section="152">Continue around the island to Dweomer</choice>
+		<choice section="122">Sail away from the island</choice>
+	</choices>
+</section>

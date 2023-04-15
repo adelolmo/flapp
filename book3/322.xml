@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="322">
+	<p>
+		You are south of Marlock City - or Old Sokar, to give the port its original name, which still appears on most charts. The helmsman asks for a new bearing.
+	</p>
+	<choices>
+		<choice section="402">Steer west</choice>
+		<choice section="81">South</choice>
+		<choice book="1" section="222">North</choice>
+		<choice section="66">East</choice>
+	</choices>
+</section>

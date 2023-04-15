@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="21">
+	<p>
+		&#8216;Go back out into the world,&#8217; advises the abbot. &#8216;You are not yet ready for enlightenment.&#8217;
+	</p>
+	<p>&#8216;What must I do?&#8217;</p>
+	<p>&#8216;The saint of Vulture Peak will advise you.&#8217;</p>
+	<p>&#8216;Where will I find him?&#8217;</p>
+	<p>
+		The abbot smiles. &#8216;That is something you must discover for yourself. Now go.&#8217;
+	</p>
+	<p><lose codeword="Friz">Lose the codeword Friz</lose> if you had it.</p>
+	<p><goto section="211"/>.</p>
+</section>

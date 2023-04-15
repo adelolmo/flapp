@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="319">
+	You are given a sound drubbing for your impertinence.
+	<lose stamina="2">Lose 2 Stamina points</lose> and (if still alive)
+	<random dice="1"/>:
+	<outcomes>
+		<outcome range="1-3" section="365">Thrown in the dungeon</outcome>
+		<outcome range="4-5" section="118">Thrown in the moat</outcome>
+		<outcome range="6" section="315">Let off with a warning</outcome>
+	</outcomes>
+</section>

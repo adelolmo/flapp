@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="695">
+	<p>It seems to recognise the banner.</p>
+	<p>&#8216;Pass, friend,&#8217; it booms, and then fades away.</p>
+	<p>
+		You enter the ruined city along a road lined with gigantic stone heads. Each granite face sheds carved tears of stone. You trek past mounds of rubble and wild, overgrown gardens. The wind whistles a doleful dirge through the deserted streets and shattered houses.
+	</p>
+	<p>
+		You come to a large central square in the middle of which has been laid a wide, circular mosaic that depicts a map of the city. Most of the places marked on the map are no more, but a few have stood the test of time.
+	</p>
+	<choices>
+		<choice section="657">Visit the Cave of Bells</choice>
+		<choice section="107">Visit the Vault of the Shadar</choice>
+		<choice section="298">Visit the Crypt of Kings</choice>
+		<choice section="266">Leave the City of Ruins</choice>
+	</choices>
+</section>

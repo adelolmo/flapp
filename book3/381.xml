@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="381">
+	<p>
+		A ship comes alongside showing the banner of the High King: a golden starburst on a field of azure blue.
+	</p>
+	<p>
+		&#8216;Long live the King!&#8217; cries your helmsman, a gruff old Harkunan who at heart is a wild romantic.
+	</p>
+	<p>
+		<if codeword="Diamond">
+			If you have the codeword Diamond, <goto section="676"/>.
+		</if>
+		If not, <goto section="490"/>.
+	</p>
+</section>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="139">
+	<p>
+		The sky turns sulphur-grey. Thunderheads pile up on the horizon like vengeful gods. Lightning flickers like burning pitch on the world&#8217;s rim. &#8216;It&#8217;s the end!&#8217; shrieks the bosun. &#8216;Say your prayers, lads!&#8217;
+	</p>
+	<p>
+		<if blessing="storm">
+			If you have the blessing of Alvir and Valmir, which confers Safety from Storms, you can ignore the storm. <lose blessing="storm">Cross off your blessing</lose> and <goto section="154"/>.
+		</if>
+	</p>
+	<p>
+		Without a blessing to save you, the hurricane strikes.
+		<if ship="barque">
+			<random dice="1">
+				<adjust crew="poor" amount="-1"/>
+				<adjust crew="excellent" amount="1"/>
+			</random> if your ship is a barque,
+		</if>
+		<elseif ship="brigantine">
+			<random dice="2">
+				two dice<adjust crew="poor" amount="-1"/>
+				<adjust crew="excellent" amount="1"/>
+			</random> if it is a brigantine, or
+		</elseif>
+		<else>
+			<random dice="3">
+				three dice<adjust crew="poor" amount="-1"/>
+				<adjust crew="excellent" amount="1"/>
+			</random> if a galleon.
+		</else>
+		Add 1 to the roll if you have an excellent crew; subtract 1 if you have a poor crew.
+	</p>
+	<outcomes>
+		<outcome range="0-5" section="157">Your ship sinks</outcome>
+		<outcome range="6-7" section="581">The mast splits</outcome>
+		<outcome range="8-19" section="98">You weather the storm</outcome>
+	</outcomes>
+</section>

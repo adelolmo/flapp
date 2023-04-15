@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="523">
+	<p>
+		You cast grappling hooks to hold your vessel alongside the slavers&#8217; ship while ladders are flung out to allow your crew to go board. The Uttakin warriors stand ready to receive you; their smiles give a sensation of grim foreboding.
+	</p>
+	<p>
+		<if profession="warrior">
+			<random dice="3">
+				Roll three dice<adjust ability="rank"/>
+				<adjust crew="poor" amount="-2"/>
+				<adjust crew="good" amount="2"/>
+				<adjust crew="excellent" amount="3"/>
+			</random> if you are a Warrior,
+		</if>
+		<else>
+			or
+			<random dice="2">
+				two dice<adjust ability="rank"/>
+				<adjust crew="poor" amount="-2"/>
+				<adjust crew="good" amount="2"/>
+				<adjust crew="excellent" amount="3"/>
+			</random> if you belong to any other profession.
+		</else>
+		Add your Rank to this roll.
+	</p>
+	<p>
+		Then, if your crew is poor quality, subtract 2 from the total. If the crew is good quality, add 2. If the crew is excellent quality, add 3.
+	</p>
+	<outcomes>
+		<outcome range="0-4" section="123">You are killed</outcome>
+		<outcome range="5-15" section="613">
+			Enslaved; <lose stamina="2d">lose 2-12 Stamina</lose>
+		</outcome>
+		<outcome range="16-17" section="300">The Uttakin withdraw</outcome>
+		<outcome range="18+" section="559">Outright victory</outcome>
+	</outcomes>
+</section>

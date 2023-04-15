@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="353">
+	Your first thought is that it feels good to have a nose again. Now
+	you can use CHARISMA without having to wear a mask.
+	<tick ability="charisma" effect="-cursed">
+		Erase the brackets around your CHARISMA score
+	</tick>
+	and
+	<lose codeword="Face">lose the codeword Face</lose>,
+	then <goto section="529"/>.
+</section>

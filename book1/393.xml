@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="393">
+	<p>
+		You hear a sound behind you. You spin around just as another man, a beefy, disreputable-looking thug, comes for you with a long dagger. &#8216;Get him!&#8217; yells the man with the eyepatch. You must fight.
+	</p>
+	<fight name="Thug" combat="3" defence="6" stamina="13"/>
+	<p>
+		If you win, <goto section="476"/>.
+		If you lose, you are dead, unless you have a <resurrection>resurrection deal</resurrection>.
+	</p>
+</section>

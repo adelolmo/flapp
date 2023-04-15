@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="47">
+	<p>You leave the frozen crystal trees behind.</p>
+	<choices>
+		<choice section="35">Go north to the Spine of Harkun</choice>
+		<choice section="487">East into the northern Grumes</choice>
+		<choice section="682">South</choice>
+	</choices>
+</section>

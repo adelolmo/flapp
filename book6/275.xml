@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="275">
+	<p>
+		The high wind has blasted grotesque shapes in the rock, like distorted gargoyles hewn by a mad sculptor. They crouch above the chasms and leer blindly at you as you descend.
+	</p>
+	<p>
+		<difficulty ability="scouting" level="14">
+			Make a SCOUTING roll at a Difficulty of 14<adjust item="rope" amount="1"/>
+			<adjust item="climbing gear" amount="1"/>
+		</difficulty>;
+		you can add 1 to the roll if you have <b>rope</b> and 1 if you have <b>climbing gear</b>.
+	</p>
+	<outcomes>
+		<success section="5"/>
+		<failure section="210"/>
+	</outcomes>
+</section>

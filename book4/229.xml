@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="229">
+	<p>
+		The other warriors growl, but honour forbids them from interfering. The opening feints and leg-sweeps soon tell you that you are matched against a cunning fighter.
+	</p>
+	<p><difficulty ability="combat" level="14"/>.</p>
+	<outcomes>
+		<success section="80"/>
+		<failure section="379"/>
+	</outcomes>
+</section>

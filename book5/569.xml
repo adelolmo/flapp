@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="569">
+	<p>You are travelling through the countryside of north-west Uttaku.</p>
+	<p><random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-5" section="290">A smoking crater</outcome>
+		<outcome range="6-7" section="74">No event</outcome>
+		<outcome range="8-12" section="120">A priest of Ebron</outcome>
+	</outcomes>
+</section>

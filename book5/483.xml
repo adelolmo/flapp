@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="483">
+	You find the wizard's inner sanctum, where several magic items are kept. Suddenly, a mirror on the wall flares brightly, and a face appears in it, looking at you angrily. It opens its mouth to shout a warning. Quick as lightning, you grab a tablecloth and throw it over the mirror. The light fades, and the mirror falls quiet. You grab some <item name="selenium ore"/>, and <item name="amulet of Ebron"/> and a <tool name="cobalt wand" ability="magic" bonus="3"/>. Note what you take on your Adventure Sheet. You also find a strange book covered in red leather. You snatch it up, and make a safe getaway. <goto section="549"/>.
+</section>

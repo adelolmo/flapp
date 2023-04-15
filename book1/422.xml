@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="422">
+	<p>
+		The bandits are dead. The man in the suit surrenders. It is Fourze, the master of the market. He terrified people with the monster disguise, and used a large pair of bellows full of gas to put his victims to sleep. Then he sold them to a slaver from Caran Baru, for work in the slave mines. You find Haylie, and several other villagers in the cellar of an old farm nearby.
+	</p>
+	<p>
+		&#8216;Don&#8217;t hurt me,&#8217; begs Fourze, &#8216;I&#8217;m only trying to make a few Shards!&#8217;
+	</p>
+	<p>
+		&#8216;What! By selling your own people into slavery!&#8217; says one of the villagers, giving him a good kick.
+	</p>
+	<p>You lead them back to Venefax. <goto section="414"/>.</p>
+</section>

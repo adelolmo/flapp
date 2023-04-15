@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="224">
+	<p>
+		These are rough waters. You brace yourself against the rail of the bridge and listen to the mariner&#8217;s constant lullaby: the roar of the waves, the scream of the wind, the dour muttering of the sails, and the soft reassuring creak as the ship flexes her timbers.
+	</p>
+	<p><random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-9" section="247">An uneventful voyage</outcome>
+		<outcome range="10-12" section="9">The wind gets up</outcome>
+	</outcomes>
+</section>

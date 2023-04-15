@@ -1,0 +1,16 @@
+<section name="Andriel the Hammer" profession="Warrior">
+	<p>
+		Andriel seeks fame through adventure and the glory of battle. He left his homeland when an extended outbreak of peace made his skills redundant there. He is blunt and outspoken, but scrupulously follows the warrior's code. He knows that the merchants' guild in Yellowport needs assistance.
+	</p>
+	<p>
+		You can play as Andriel, or as a warrior with a different name (enter it in the 'Name' field). To begin your adventure, <goto section="1" force="f"/>.
+	</p>
+	<p>For another profession, choose from the following:</p>
+	<choices>
+		<choice section="Liana">Wayfarer</choice>
+		<choice section="Chalor">Mage</choice>
+		<choice section="Marana">Rogue</choice>
+		<choice section="Ignatius">Priest</choice>
+		<choice section="Astariel">Troubadour</choice>
+	</choices>
+</section>

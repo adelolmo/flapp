@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="707">
+	<p>
+		The sailmaster is not popular with anyone on board. His protests of innocence fall on deaf ears. You order him trussed up and bundled overboard like a sack of food that had gone off.
+	</p>
+	<p>
+		Some days later, passing the mess, you overhear a conversation that you realize confirms the sailmaster&#8217;s alibi. He could not possibly have committed the murder. You are filled with remorse.
+		<tick codeword="Clanger">Gain the codeword Clanger</tick>
+		and <goto section="188"/>.
+	</p>
+</section>

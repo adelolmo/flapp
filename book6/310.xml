@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="310">
+	<p>
+		<lose item="*" cache="6.310" hidden="t"/>
+		He strokes his beard and considers your request. At last he announces that he will train you in magic if you can give him &#8216;a wand that wounds&#8217;.
+	</p>
+	<p>
+		Decide what item you are presenting to him (if any) and, after
+		<transfer item="?" to="6.310" force="f">crossing it off</transfer>
+		your Adventure Sheet, <goto section="392"/>.
+	</p>
+</section>

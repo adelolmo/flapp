@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="413">
+	<if item="treasure map" group="3.94">
+		If you have a <b>treasure map</b>, <goto section="132"/>.
+	</if>
+	If not, <goto section="150"/>.
+</section>

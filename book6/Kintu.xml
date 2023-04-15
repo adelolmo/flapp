@@ -1,0 +1,16 @@
+<section name="Kintu Ironhands" profession="Warrior">
+	<p>
+		Kintu believes weapons are for sissies and prefers to fight with his fists. People who have met Kintu describe him as constantly seething with proud anger, perhaps because he was unjustly exiled from his homeland. He has heard about the skilled martial artists of Akatsurai and intends to show them a thing or two.
+	</p>
+	<p>
+		You can play as Kintu, or as a warrior with a different name (enter it in the 'Name' field). To begin your adventure, <goto section="1" force="f"/>.
+	</p>
+	<p>For another profession, choose from the following:</p>
+	<choices>
+		<choice section="Panjang">Mage</choice>
+		<choice section="Abraxas">Priest</choice>
+		<choice section="Elektra">Troubadour</choice>
+		<choice section="Shikibu">Rogue</choice>
+		<choice section="Ithacus">Wayfarer</choice>
+	</choices>
+</section>

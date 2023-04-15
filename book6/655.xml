@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="655" dock="Mukogawa">
+	<p>
+		The only ships available for sale are the ones rejected by the Moonrise Clan as unsuitable for their fleet. After several days of persistent effort you find a small vessel with a worm-eaten figurehead that might just suit your purposes.
+	</p>
+	<market>
+		<header type="ship"/>
+		<trade ship="barque" initialCrew="poor" quantity="1" buy="240"/>
+	</market>
+	<p>
+		If you decide to buy it, cross off the money and record the ship&#8217;s details on the Ship&#8217;s Manifest. The crew quality at the moment is poor.
+	</p>
+	<p>
+		Each time you arrive at a new destination, remember to change the entry in the Docked column on the Ship&#8217;s Manifest. So, if you don&#8217;t intend to set sail right away, note that the ship is docked at Mukogawa.
+	</p>
+	<p>When you have finished here, <goto section="281"/>.</p>
+</section>

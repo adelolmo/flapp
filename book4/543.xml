@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="543">
+	<p>
+		<if codeword="Dirty">
+			If you have the codeword Dirty, <goto section="414"/>.
+		</if>
+		<if codeword="Drop">
+			If not, but you have the codeword Drop, <goto section="468"/>.
+		</if>
+		Otherwise read on.
+	</p>
+	<p>
+		The villa of Avar Hordeth is a white-marbled structure built in the Atticalan style - fortified walls surrounding an inner open courtyard. As you approach, an armed guard stops you at the gate.
+	</p>
+	<p>&#8216;Avar Hordeth is not at home,&#8217; he says gruffly, &#8216;Go away.&#8217;</p>
+	<p>
+		You have little choice but to do just that - there&#8217;s not much you can do in broad daylight. <goto section="280"/>.
+	</p>
+</section>

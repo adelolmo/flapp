@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="138">
+	Drifting in light fog, you are startled by the sound of ripping
+	canvas and splintered wood. The ship lurches to a dead halt,
+	then begins to turn about. The cause is almost unbelievable: an
+	anchor, dangling from above the fog bank, has lodged against
+	the forecastle! As you watch, a spindly fellow with violet skin
+	comes scrambling down and tries to work the anchor free.
+	<choices>
+		<choice section="251">Order the violet man seized</choice>
+		<choice section="228">Let him do his work and depart</choice>
+	</choices>
+</section>

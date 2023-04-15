@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="428" boxes="1">
+	<p>
+		<if ticks="1">
+			If there is a tick in the box, <goto section="192"/> immediately.
+		</if>
+		If not, <tick/>, and read on.
+	</p>
+	<p>A scholarly-looking gentleman comes out of the back.</p>
+	<p>
+		&#8216;So you&#8217;re the one Pikalik told me about,&#8217; he says in a thin, reedy voice.
+	</p>
+	<p>
+		He tells you his name is Argon the Alchemist. He takes you to his sanctum, a laboratory full of vats and alembics. Several contain half-formed Mannekyn People.
+	</p>
+	<p>
+		&#8216;They are my creations, you see,&#8217; says Argon. &#8216;I grow them all, here, in the life-vats. I think of them as my children, and because you helped one of my people, I will help you.&#8217;
+	</p>
+	<p>
+		Argon will create a duplicate clone of your body in one of his vats. &#8216;If you are slain, your spirit will leave your body, and fly to your clone, and you will live again!&#8217;
+	</p>
+	<p>
+		Write <resurrection text="Sky Mountain" book="4" section="244"/> in the Resurrection box on your Adventure Sheet. If you are later killed, turn to <b>244</b> in this book. You can have only one resurrection arranged at any one time, so if you already had a resurrection deal from a temple, the temple one is cancelled. You do not get a refund.
+	</p>
+	<p>
+		When you are ready to leave, the Mannekyn People fly you to the base of Sky Mountain.
+	</p>
+	<p><goto section="668"/>.</p>
+</section>

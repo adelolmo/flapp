@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="23" image="23.jpg">
+	<p>
+		One of the crew goes mad and hurls himself from the rigging crying, &#8216;Hydras! Hydras! Cut off a head and two more shall take its place!&#8217;
+	</p>
+	<p>
+		You have his broken body wrapped in a sail and commended to the gods of the sea. Death aboard ship is always a bad omen.
+	</p>
+	<p><random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-5" section="83">Storm</outcome>
+		<outcome range="6-7" section="41">Brooding quiet</outcome>
+		<outcome range="8-10" section="574">Haunted</outcome>
+		<outcome range="11-12" section="105">A mysterious island</outcome>
+	</outcomes>
+</section>

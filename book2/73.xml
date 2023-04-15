@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="73">
+	You get talking to the captain of a small sloop, who tells you
+	that he will take you as far as Marlock City for 5 Shards.
+	Another ship is sailing for Dweomer, and passage aboard that
+	will cost 8 Shards. You can pay the fare and set sail, or stay in
+	Wishport a while longer.
+	<choices>
+		<choice shards="8" section="261">Set sail for Dweomer</choice>
+		<choice shards="5" section="266">Set sail for Marlock City</choice>
+		<choice section="217">Don&#8217;t put to sea yet</choice>
+	</choices>
+</section>

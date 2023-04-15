@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="204">
+	<p>
+		<if god="Tyrnai"><set var="cost" value="200"/></if>
+		<else><set var="cost" value="800"/></else>
+		Resurrection costs 200 Shards if you are an initiate, and 800 Shards if not. It is the last word in insurance. Once you have arranged for resurrection you need not fear death, as you will be magically restored to life here at the temple.
+	</p>
+	<p>
+		To arrange resurrection, pay the fee and write
+		<resurrection god="Tyrnai" text="Shrine of Tyrnai" book="2" section="227" shards="cost">
+			Shrine of Tyrnai (<i>Cities of Gold and Glory</i> <b>227</b>)
+		</resurrection>
+		in the Resurrection box on your Adventure Sheet. If you are killed, turn to <b>227</b> in this book. You can have only one resurrection arranged at a time.
+	</p>
+	<p>When you are finished here, <goto section="43"/>.</p>
+</section>

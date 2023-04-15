@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="215">
+	You sail out of Ringhorn towards Marlock City. <random type="travel"/>:
+	<outcomes>
+		<outcome range="2-5" section="781">Storm at sea</outcome>
+		<outcome range="6-12" book="1" section="240">Nothing untoward</outcome>
+	</outcomes>
+</section>

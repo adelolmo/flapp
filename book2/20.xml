@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="20">
+	&#8216;Get lost, you low-born dog,&#8217; says a sentry, jabbing you with the
+	butt of his halberd. <lose stamina="1">Lose 1 point of Stamina</lose>
+	and <goto section="118"/>.
+</section>

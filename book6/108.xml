@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="108">
+	<p>
+		You are skirting the coast roughly south of Sakkaku. From time to time you see scarlet-sailed warships from Chambara, but they are interested only in pirates.
+	</p>
+	<p>Choose your next course.</p>
+	<choices>
+		<choice section="250">West</choice>
+		<choice section="150">East</choice>
+		<choice section="80">South</choice>
+	</choices>
+</section>

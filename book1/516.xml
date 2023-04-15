@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="516">
+	You pull the <b>wolf pelt</b> over you, and drop to all fours.
+	Gingerly, you crawl in. In the dark, you now look and smell like
+	a wolf. At the back of the cave, you find a hole in the roof and
+	an iron ladder leading up to it.
+	<choices>
+		<choice book="4" section="350">Climb the ladder</choice>
+		<choice section="3">Leave the cave</choice>
+	</choices>
+</section>

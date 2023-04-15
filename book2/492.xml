@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="492">
+	<p>
+		&#8216;I cannot allow my knights to slander one another,&#8217; says Vanna in stern outrage. &#8216;Such a thing only foments discontent. I will not have my realm eaten away from within, like a bad apple!&#8217;
+	</p>
+	<p>
+		Too late, you remember that Parpulax is her uncle. You are stripped of the title Paladin of Ravayne.
+		<lose title="Paladin of Ravayne">Cross it off</lose>
+		your Adventure Sheet and <goto section="315"/>.
+	</p>
+</section>

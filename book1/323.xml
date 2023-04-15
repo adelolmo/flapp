@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="323">
+	<p>
+		A few locals are discussing recent events - it seems some hideous beast has made its lair in a cave on the hill that overlooks the village.
+	</p>
+	<p>
+		&#8216;It&#8217;s a gorlock,&#8217; says a farmer. &#8216;And it&#8217;s amassed quite a bit of treasure by all accounts - lifted from its victims. A brave adventurer like yourself could get rich if you killed it. You&#8217;d be doing us a favour as well.&#8217;
+	</p>
+	<p>You ask what a gorlock looks like, but no one knows.</p>
+	<p>&#8216;Nobody&#8217;s come back to tell the tale!&#8217; says the innkeeper.</p>
+	<p>You leave the tavern. <goto section="510"/>.</p>
+</section>

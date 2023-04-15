@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="626">
+	<p>You walk past, ignoring her.</p>
+	<p>
+		'Hey! Where d'ya think you're going! Come back here and give us a kiss,' she screams petulantly.
+	</p>
+	<choices>
+		<choice section="434">Go back and give her a kiss</choice>
+		<choice section="675">Break into a run</choice>
+	</choices>
+</section>

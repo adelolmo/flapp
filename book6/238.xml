@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="238">
+	<p>
+		<lose codeword="6.238.1" hidden="t"/>
+		<tick special="lock" cache="6.238" hidden="t"/>
+		You can leave possessions and money here at your town house. Record anything you leave in the box below. Each time you return, <random/> to see what has happened in your absence:
+	</p>
+	<outcomes>
+		<outcome range="2-9">Your belongings are safe</outcome>
+		<outcome range="10-12">
+			Earthquake; the town house and its contents have been
+			<if god="Nai" not="t">
+				<group force="t">
+					<text>destroyed</text>
+					<tick codeword="6.238.1"/>
+					<lose item="*" shards="*" cache="6.238"/>
+				</group>
+			</if>
+			unless you are an initiate of Nai
+		</outcome>
+	</outcomes>
+	<p>
+		<if codeword="6.238.1">
+			If your town house has been destroyed,
+			<group force="t">
+				<text>turn to <b>226</b></text>
+				<lose codeword="6.226.1"/>
+				<goto section="226"/>
+			</group>
+			and erase the tick beside the town house option there.
+		</if>
+		<tick special="unlock" cache="6.238" hidden="t"/>
+		Otherwise read on.
+	</p>
+	<itemcache name="6.238" text="Items at town house"/>
+	<p>
+		The town house is a good place to relax after your travels. If injured,
+		<rest>restore your Stamina</rest>
+		to its normal score. When you are ready to leave,
+		<goto section="226"/>.
+	</p>
+</section>

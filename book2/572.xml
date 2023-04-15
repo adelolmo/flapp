@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="572">
+	Behind the door is a copper chest containing <gain shards="300"/>,
+	<armour name="ring mail" bonus="2"/> and a
+	<tool name="compass" ability="scouting" bonus="1"/>.
+	After making a note of anything you want to take, decide whether to
+	try one of the other doors or leave.
+	<choices>
+		<choice section="497">Open the left-hand door</choice>
+		<choice section="522">Open the central door</choice>
+		<choice section="373">Leave the fort</choice>
+	</choices>
+</section>

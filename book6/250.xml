@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="250">
+	<p>
+		The sea tosses fretfully, the sky is thick with muttering clouds. &#8216;Storms or dark sorcery,&#8217; remarks the bosun in a doomful voice.
+	</p>
+	<p><random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-9" section="471">The portents come to nothing</outcome>
+		<outcome range="10-12" section="56">The fury of heaven</outcome>
+	</outcomes>
+</section>

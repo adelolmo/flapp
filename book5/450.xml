@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="450">
+	<p>You are recognised by the innkeeper and the patrons of the tavern.</p>
+	<p>
+		'It's the traitor who's in league with the monster, Grindel the Ripper!' shouts Buskle, the proprietor. They tell you to begone. This time, however, there are only two others, a priest and a warrior, with Buskle.
+	</p>
+	<choices>
+		<choice section="80">Attack and try to kill the lot</choice>
+		<choice section="11">Leave</choice>
+	</choices>
+</section>

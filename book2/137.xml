@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="137">
+	<p>
+		A flare of green light emanates from the gem. Icy cold pain stabs through your bones. <lose ability="magic" amount="1d" fatal="f">Lose 1-6 points</lose> (the roll of one die) from your MAGIC score, down to a minimum score of 1.
+	</p>
+	<p>
+		Reeling from the psychic shock, you stumble off in blind panic until you reach the edge of the woods. <goto section="23"/>.
+	</p>
+</section>

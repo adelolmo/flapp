@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="736">
+	It will not be easy to find the house where Kokoro has been
+	taken. Fortunately, the rain soon lets up. You scour the suburbs
+	all night long, stopping at each small house to examine the door.
+	<difficulty ability="scouting" level="17">
+		Make a SCOUTING roll at a Difficulty of 17<adjust item="?" tags="light" amount="2"/>
+	</difficulty>.
+	You can add 2 to the dice roll if you possess a light source such as a <b>lantern</b> or <b>candle</b>.
+	<outcomes>
+		<success section="487"/>
+		<failure section="81"/>
+	</outcomes>
+</section>

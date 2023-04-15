@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="159">
+	A hamlet of wattle-and-daub cottages with thatched roofs nestles
+	under the branches of the trees. Beside the hamlet, a path snakes
+	off into the gloomy wood. Not far off, several bald peasants stop
+	work and lean on their spades to watch you.
+	<choices>
+		<choice section="205">Talk to the peasants</choice>
+		<choice section="228">Go along the path</choice>
+		<choice section="23">Strike out for fresh pastures</choice>
+	</choices>
+</section>

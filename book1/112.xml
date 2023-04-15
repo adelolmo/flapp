@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="112">
+	<lose codeword="1.605.1" hidden="t"/>
+	<lose codeword="1.605.2" hidden="t"/>
+	<tick codeword="1.605.3" hidden="t"/>
+	The merchants&#8217; guild is comparatively small here. Most of its work involves financial services for the army. Here you can bank your money for safe-keeping, but there are no facilities for investment. You can deposit or withdraw money - note that you are in Caran Baru and <goto section="605" force="f"/> - or return to the town centre, <goto section="400"/>.
+</section>

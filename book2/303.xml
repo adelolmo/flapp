@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="303" image="303.jpg">
+	You come to a pool at the bottom of a waterfall. Here a fine
+	spray hangs in the air like sparkling mist. The longer you look at
+	it, the more you imagine you can see dancing figures outlined in
+	the mist. Above the roar of the waterfall you seem to hear soft
+	voices calling out to you.
+	<choices>
+		<choice section="692">Stay here a while longer</choice>
+		<choice section="716">Leave now</choice>
+	</choices>
+</section>

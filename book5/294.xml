@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="294">
+	<p>
+		Cross off the <lose item="cobalt wand"/> and the <lose item="silver holy symbol"/> - they have been used up in the ritual.
+	</p>
+	<p>
+		To the astonishment of all present, the young man is revived to full health.
+	</p>
+	<p>'My son, my son!' cries the noble lady.</p>
+	<p>He smiles up at her.</p>
+	<p>
+		The noble lady shows her gratitude by presenting you with two family heirlooms: a <weapon name="holy sword" bonus="6"/>, the rune-engraved blade of which pulses with white flames, and a
+		<item name="ring of guarding">
+			<effect type="aura" ability="defence" bonus="2"/>
+		</item>. The Defence bonus of the ring is cumulative with any armour bonus you might have.
+	</p>
+	<p><goto section="444"/>.</p>
+</section>

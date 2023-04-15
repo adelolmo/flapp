@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="53">
+	The creature bursts open in death, spilling a black inky cloud into the water. The sac in which this ink is kept falls free from its body. You can take the <item name="ink sac"/> if you wish - note it on your Adventure Sheet. You also find coral jewellery worth about <gain shards="15"/>. Nothing else occurs during your foray into the depths, so you return to land. You climb back up the path that leads to the clifftop tor without incident.
+	<choices>
+		<choice section="602">Take the road to Trefoille</choice>
+		<choice section="166">Take the road to Marlock City</choice>
+	</choices>
+</section>

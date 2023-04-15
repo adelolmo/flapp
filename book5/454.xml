@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="454">
+	<p>You are pursued and overwhelmed.</p>
+	<p>
+		'You fool!' hisses one of the Soulwatch. 'Did you think you could avoid the ineluctable hand of Ebron?'
+	</p>
+	<p>
+		Usually, the punishment for supreme heresy is instant death. Because you have been captured outside of Uttaku proper, however, the complex and arcane religious codes of the Uttakin class you as an unbeliever who has defiled the holy name of Ebron, rather than an outright heretic. Your punishment is slavery. You are bound in chains and shipped of to Aku, City of the Faceless King. <goto section="321"/>.
+	</p>
+</section>

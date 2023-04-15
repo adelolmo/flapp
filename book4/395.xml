@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="395" boxes="1">
+	<p>
+		<if ticks="1">
+			If there is a tick in the box, <goto section="563"/> immediately.
+		</if>If not, <tick/>, and read on.
+	</p>
+	<p>
+		You hand over the copy you made of the carvings on the Shadar Runestone. Runciman is pleased with your performance and his mages instruct you in the arcane arts. <gain ability="magic" amount="1">Add one to your MAGIC ability permanently</gain>.
+	</p>
+	<p>When you are ready, <goto section="274"/>.</p>
+</section>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="722">
+	<p>
+		The newcomer is a tall gentleman whose silk robes hang around his spare frame like the wings of a bat. His eyes are narrow and deep-set and he seems ancient, but he has no trouble spotting you in the gloom.
+	</p>
+	<p>
+		&#8216;A stranger,&#8217; he says in a quiet, clear voice. &#8216;Come forward, villain.&#8217;
+	</p>
+	<p>
+		As he speaks, the paper lantern that is hovering above his head rotates to throw a stabbing beam of light that picks you out in the darkness.
+	</p>
+	<choices>
+		<choice section="540">Run off</choice>
+		<choice section="575">Wait to see what happens</choice>
+	</choices>
+</section>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="51">
+	<p>
+		Unfortunately for you, the captain of the vessel is Avar Hordeth - a powerful man, and one who you have crossed before.
+	</p>
+	<p>
+		'Wait a minute,' he bellows. 'I know you - you're that snot-nosed little bandit who robbed my villa in Yarimura! Well, well, how sweet that the Fates should bring us together again.'
+	</p>
+	<p>
+		You are too weak to put up much of a fight and his crew seize you, clap you in irons and throw you into the brig. You can hardly believe your misfortune - of all the people to be picked up by! Avar Hordeth takes
+		<lose shards="*" item="*">all the money and items</lose>
+		you were carrying.
+	</p>
+	<p>
+		Later, you are taken to Yarimura, where you are sold to the city's small navy and put to work as a galley slave, condemned to row under the lash.
+	</p>
+	<p><goto section="222"/>.</p>
+</section>

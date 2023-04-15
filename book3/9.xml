@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="9">
+	You sail into the coastal waters of Sorcerers&#8217; Isle. Here the sea
+	foam takes on an odd pearly glow by moonlight, and strange
+	songs can be heard across the darkling waters.
+	<choices>
+		<choice section="152">Put into Dweomer harbour</choice>
+		<choice section="182">Sail around the island</choice>
+		<choice section="122">Steer out on to the open sea</choice>
+	</choices>
+</section>

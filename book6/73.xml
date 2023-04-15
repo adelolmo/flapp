@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="73">
+	<p>
+		The Eastern Coastal Road is busy with traders and messengers passing between the great cities of Chompo and Mukogawa.
+	</p>
+	<p><random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-8" section="396">An untroubled journey</outcome>
+		<outcome range="9-12" section="70">A talkative youth</outcome>
+	</outcomes>
+</section>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="233">
+	<p>
+		'I cannot fault your zeal in wishing to embrace the true faith. Still, it is somewhat galling,' says the lord. He signals to one of his servants who hands you a <item name="scroll of Ebron"/>.
+	</p>
+	<p>
+		'These scrolls are rather rare,' adds the lord unhappily, 'but I cannot refuse.'
+	</p>
+	<p>
+		When you are ready, you go back to the Cathedral of Ebron, purified and prepared. <goto section="94"/>.
+	</p>
+</section>

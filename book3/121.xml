@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="121">
+	<p>
+		You look up into two pairs of eyes that glitter like onyx. There is a rustling sound, a snake-like hiss, and then you dimly hear these words: &#8216;This one is stricken like the others, my sister...&#8217;
+	</p>
+	<p>
+		A terrible spell prevents you from moving a muscle. There is a sense of days and nights flitting past in less than a heartbeat. You must summon your fading concentration to shrug off the spell before it is too late.
+	</p>
+	<p>
+		<difficulty ability="magic" level="14">
+			Make a MAGIC roll at a Difficulty of 14
+		</difficulty>.
+	</p>
+	<outcomes>
+		<success section="713"/>
+		<failure section="522"/>
+	</outcomes>
+</section>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="139">
+	You stagger on, dashing the branches aside in your desperate
+	search for a way out of this accursed wood. <random type="travel"/>:
+	<outcomes>
+		<outcome range="2-5" section="208">Ensnared in a web</outcome>
+		<outcome range="6-7" section="93">Ominous silence</outcome>
+		<outcome range="8-9" section="231">Elfin japes</outcome>
+		<outcome range="10-12" section="254">A jewelled serpent</outcome>
+	</outcomes>
+</section>

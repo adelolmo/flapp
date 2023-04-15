@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="407" image="407.jpg">
+	<p>
+		You are at the top of high cliffs swathed in mist. Nearby stands a gloomy tower. Looking north, you are faced by the impenetrable mass of the Bluewood, that trackless forest from whose bourne few travellers return except as mindless shrieking zombies with a ravenous thirst for human blood ...
+	</p>
+	<p>No, no; that&#8217;s just an old wives&#8217; tale. Or so you tell yourself.</p>
+	<choices>
+		<choice section="697">Venture into the Bluewood</choice>
+		<choice section="426">Go to the tower</choice>
+		<choice section="387">Descend the cliffs</choice>
+	</choices>
+</section>

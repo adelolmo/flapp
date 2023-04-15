@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="510" image="510.jpg">
+	<p><tick codeword="Colour">Get the codeword Colour</tick>.</p>
+	<p>
+		People come flocking down from the citadel to watch you sail into the bay. There are hundreds of them - not just the crews of the pirate vessels, but their wives and children too. This is a complete community, just like any number of other towns around the world except that their livelihood rests on bare-faced villainy.
+	</p>
+	<p>
+		To impress on them that you are not to be trifled with you must
+		<difficulty ability="charisma" level="15">
+			<adjust ship="galleon" amount="2"/>
+			<adjust crew="excellent" amount="1"/>
+		</difficulty>. (You can add 2 to the dice roll if your ship is a galleon, and 1 if you have an excellent crew.)
+	</p>
+	<outcomes>
+		<success section="656"/>
+		<failure section="114"/>
+	</outcomes>
+</section>

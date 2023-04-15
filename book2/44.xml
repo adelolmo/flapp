@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="44">
+	Sir Debrumas, the seneschal, takes you in to the baroness&#8217;s court.
+	She sits in regal splendour on the gilded seat of House Ravayne.
+	A gonfalon showing the black lion crest hangs on the wall
+	behind her. Although young and slender, she has the fierce
+	unflinching gaze of one who is born to rule. &#8216;Why have you
+	come?&#8217; she asks.
+	<choices>
+		<choice section="733">Undertake a quest or just completed one</choice>
+		<choice section="709">Ask for a boon</choice>
+		<choice section="685">Assassinate the baroness</choice>
+	</choices>
+</section>

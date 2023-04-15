@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="287">
+	You are on the road leading down to Metriciens on the coast.
+	<choices>
+		<choice section="48">Go south to Metriciens</choice>
+		<choice section="193">Go north towards Wheatfields</choice>
+		<choice section="78">Leave the road and head west</choice>
+		<choice section="54">Leave the road and head east</choice>
+	</choices>
+</section>

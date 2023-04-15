@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="14">
+	You can only imagine that the stairs were built by a race of giants. You clamber up and up, into the thin, icy air. The Great Steppes are spread out below you, and the pyramid looks like a toy from here. Above you, the stairs climb up to the top of the volcano. Soon the cold becomes unbearable, and it becomes difficult to breathe the rarefied air.
+	<choices>
+		<choice section="684">Continue up</choice>
+		<choice section="271">Go down</choice>
+	</choices>
+</section>

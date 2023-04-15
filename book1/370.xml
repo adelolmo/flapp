@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="370">
+	<p>
+		You come round, back to your Stamina score before the fight started. You lose the weapon and armour you were using -
+		<group force="t">
+			<text>cross them off</text>
+			<lose weapon="?" using="t"/>
+			<lose armour="?" using="t"/>
+		</group>
+		your Adventure Sheet. The Dragon Knights compliment you on your bravery.
+	</p>
+	<p>&#8216;Until the next time!&#8217; says your recent opponent.</p>
+	<p>You take your leave, somewhat bruised. <goto section="276"/>.</p>
+</section>

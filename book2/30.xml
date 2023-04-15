@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="30">
+	You are in the broad valley of the Rainbow River. Close to the
+	riverbanks, fertile soil means that there are many villages. Up on
+	the wooded valley slopes, you see only the occasional stonewalled
+	croft. A pedlar tells you that the countryside hereabouts
+	has an eerie reputation.
+	<choices>
+		<choice section="303">Stay close to the river</choice>
+		<choice section="326">Venture further afield</choice>
+	</choices>
+</section>

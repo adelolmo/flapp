@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="54">
+	<p>From here you can go:</p>
+	<choices>
+		<choice section="217">North to the Icicle Woods</choice>
+		<choice section="714">East into the central Grumes</choice>
+		<choice section="569">South</choice>
+	</choices>
+</section>

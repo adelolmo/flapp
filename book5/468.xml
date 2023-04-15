@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="468">
+	<p>
+		The guards are big and tough. You cannot force a way through. Hurriedly, the lord completes his ablutions and puts his mask back on, signifying that he can no longer be approached!
+	</p>
+	<p>
+		You return to the cathedral.
+		<goto section="94"/>.
+	</p>
+</section>

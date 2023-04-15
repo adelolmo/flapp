@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="302">
+	<p>
+		Wishport market is located in a warren of alleys adjacent to the waterfront. Each alley is dedicated to a different commodity. In one you can buy rope, in another lanterns, and so on. You hear the echo of hammer on anvil from the weaponsmith&#8217;s forge just ahead.
+	</p>
+	<market>
+		<header type="armour"/>
+		<armour name="leather" bonus="1" buy="50" sell="45"/>
+		<armour name="ring mail" bonus="2" buy="100" sell="90"/>
+		<armour name="chain mail" bonus="3" buy="200" sell="180"/>
+		<armour name="splint armour" bonus="4" sell="360"/>
+		<armour name="plate armour" bonus="5" sell="720"/>
+		<armour name="heavy plate" bonus="6" sell="1440"/>
+
+		<header type="weapon"/>
+		<weapon bonus="0" buy="50" sell="45"/>
+		<weapon bonus="1" buy="250" sell="200"/>
+		<weapon bonus="2" sell="400"/>
+		<weapon bonus="3" sell="800"/>
+
+		<header type="magic"/>
+		<tool name="amber wand" ability="magic" bonus="1" sell="400"/>
+		<tool name="ebony wand" ability="magic" bonus="2" sell="800"/>
+		<tool name="cobalt wand" ability="magic" bonus="3" sell="1600"/>
+
+		<header type="other"/>
+		<tool name="lockpicks" ability="thievery" bonus="1" sell="270"/>
+		<tool name="holy symbol" ability="sanctity" bonus="1" buy="200" sell="100"/>
+		<tool name="compass" ability="scouting" bonus="1" buy="500" sell="450"/>
+		<item name="parchment" buy="2" sell="1"/>
+		<item name="rope" buy="50" sell="45"/>
+		<item name="lantern" tags="light" buy="100" sell="90"/>
+	</market>
+	<p>
+		Items which have no purchase price listed are not available locally.
+	</p>
+	<p>
+		The market is where you can buy and sell possessions to carry on your person. To buy trade goods that can be carried on board ship, you need to visit the warehouses at the waterfront.
+	</p>
+	<p>When you&#8217;re through here, <goto section="217"/>.</p>
+</section>

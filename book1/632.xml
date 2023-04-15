@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="632">
+	<difficulty ability="sanctity" level="12"/>.
+	<outcomes>
+		<success section="392"/>
+		<failure section="125"/>
+	</outcomes>
+</section>

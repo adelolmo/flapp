@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="501">
+	<p>
+		The bogle picks you up and is about to pop you in his mouth. His breath makes an open drain smell as sweet as a bouquet of tulips, and his teeth look like jagged bits of flint. You had better think fast if you don&#8217;t want to end up being picked out of those teeth with a bit of matchwood.
+	</p>
+	<p>
+		<difficulty ability="charisma" level="10">Make a CHARISMA roll at a Difficulty of 10</difficulty>.
+	</p>
+	<outcomes>
+		<success section="504"/>
+		<failure section="560"/>
+	</outcomes>
+</section>

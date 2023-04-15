@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="557">
+	<p><tick codeword="Flimsy">Get the codeword Flimsy</tick>.</p>
+	<p>
+		The play concerns a knight who is given hospitality at a lonely house where the inhabitants are flying-head goblins. During the night he overhears the flying heads plotting to kill him but foils the plan by destroying their bodies, which kills them. The whole thing is artfully portrayed using masks, with the effect of the flying heads being achieved by having black garbed actors standing against a black backdrop so that only their terrifying white masks are visible.
+	</p>
+	<p>
+		When the play is over, one of the actors offers to sell you his
+		<buy item="paper sword" shards="5" quantity="1"/>
+		as a souvenir for 5 Shards. Buy it if you wish
+		and then <goto section="289"/>.
+	</p>
+</section>

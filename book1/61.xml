@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="61">
+	<p>
+		&#8216;Wait,&#8217; you cry, &#8216;I have seen the light! I wish to join your cult!&#8217;
+	</p>
+	<p>&#8216;What!&#8217; yells the chef. Then his shoulders sag in resignation.</p>
+	<p>
+		&#8216;We cannot refuse a new member,&#8217; says the leader with obvious disappointment. &#8216;And we cannot eat our own people,&#8217; he adds sadly.
+	</p>
+	<p>
+		A short ceremony later - fortunately, the initiation does not involve any cannibalistic rites - and you are a full member of the Cult of Badogor. Write <gain title="Unspeakable Cultist"/> in the Titles and Honours box on your Adventure Sheet. You <lose ability="sanctity" amount="1">lose 1 point of SANCTITY permanently</lose> for joining such a vile cult.
+	</p>
+	<p>
+		You take your leave, and they wish you well, all smiles and friendship.
+	</p>
+	<p>
+		&#8216;Remember, never say his name! And don&#8217;t forget to bring us new recruits,&#8217; says the leader. &#8216;And some people for dinner!&#8217; adds the chef.
+	</p>
+	<p>
+		<tick codeword="StillInYellowport" hidden="t"/>
+		Hastily, you head for the city centre. <goto section="10"/>.
+	</p>
+</section>

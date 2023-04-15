@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="542">
+	<p>
+		You have to leave your weapons, armour and money behind because these things are not permitted in the Pure Land. The path takes you up beyond the stars to a place of invigoratingly cold air. Here you meet a venerable sage who explains many mystic truths.
+	</p>
+	<p>
+		Suddenly you hear the gong. At the same time, the venerable sage breaks off from his sermon to shout, &#8216;Cock-a-doodle-do!&#8217; You jump up to look for the path, but the clouds underfoot have become dingy and dry, rustling like straw. They give way and you plunge downwards with a scream, expecting to fall miles back to earth, but in fact you land with a solid <i>thwack</i> in the middle of the kitchen table. The proprietor of the lodge pauses in the act of striking the breakfast gong to stare at you in amazement. You gaze up through the hole in the roof to see a beady-eyed rooster watching you with haughty disdain.
+	</p>
+	<p>
+		Racing back to your room, you discover that your weapons, armour and money have gone.
+		<group force="t">
+			<text>Cross them off</text>
+			<lose weapon="*"/>
+			<lose armour="*"/>
+			<lose shards="*"/>
+		</group>
+		your Adventure Sheet and
+		<lose codeword="Fusty">lose the codeword Fusty</lose>,
+		then <goto section="654"/>.
+	</p>
+</section>

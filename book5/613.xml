@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="613">
+	<p>
+		The border outpost is manned by troops of the High King. Under its new ruler, Old Harkuna has rebelled and thrown out the Uttakin. The people recognise you as the one who freed the High King and hail you as their saviour.
+	</p>
+	<p>
+		If you are wounded, <rest>you can rest here</rest> at the outpost for as long as you like, free of charge, until your Stamina is restored to norml.
+	</p>
+	<choices>
+		<choice book="2" section="2">East to Ringhorn</choice>
+		<choice section="539">West into Old Harkuna</choice>
+		<choice section="222">Follow the River Rese north</choice>
+	</choices>
+</section>

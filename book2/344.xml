@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="344">
+	At the back of the knight&#8217;s crypt you find a
+	<item name="green medallion"/>.
+	When you are ready to leave, <goto section="22"/>.
+</section>

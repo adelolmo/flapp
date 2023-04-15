@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="620">
+	<p>
+		The ghoul arrives at midnight, poking its grey face in through the window of the room where the dead girl is lying. You watch from behind a door as it creeps inside, but as soon as it so much as licks the corpse it recoils with an agonized shriek and flees off into the night.
+	</p>
+	<p>
+		The next day you find it dead in front of its lair, poisoned by the holy aura you laid on the corpse. Inside the lair you find a jar of
+		<item name="faery mead"/> and
+		<gain shards="250"/>.
+		You can also take the
+		<item name="ghoul's head"><b>ghoul&#8217;s head</b></item>
+		as a trophy if you want. Note anything you are taking on your Adventure Sheet and <goto section="53"/>.
+	</p>
+</section>

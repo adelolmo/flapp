@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="729">
+	<p>
+		You eagerly throw open the lid. An aroma of salt and tar rises from the chest. Inside is a <armour name="pearl breastplate" bonus="6"/> and a <weapon name="coral spear" bonus="2"/>. Record these on your Adventure Sheet.
+	</p>
+	<p>
+		Bidding you farewell, the stranger climbs back into his carriage. &#8216;Wait,&#8217; you ask. &#8216;Who are you?&#8217;
+	</p>
+	<p>
+		His reply is almost drowned out by the fierce whinny of the horses: &#8216;They call me Dom Daniel...&#8217;
+	</p>
+	<p>
+		As the carriage turns and speeds back towards the sea, you hear the lilting music of Dom Daniel&#8217;s pipe keening on the wind. <goto section="705"/>.
+	</p>
+</section>

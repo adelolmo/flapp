@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="458">
+	<p>
+		The shaman throws back his head and stares directly upwards as if reading his answer from the ice-bright pattern of the stars. &#8216;A foreign lord lies sleeping there, under the hard waters. His dreams are dreams of life. When life becomes an intolerable nightmare, then he will awaken.&#8217;
+	</p>
+	<p>
+		The legends of Old Harkuna say that the High King will return in the country&#8217;s hour of need.
+	</p>
+	<p>&#8216;Is there any other way to wake him?&#8217; you ask.</p>
+	<p>
+		He thrusts a vial of <item name="uncanny salts"/> into your hand. Note this on your list of possessions. The salts smell pungent, like smelling salts.
+	</p>
+	<p>The shaman suddenly falls into a drug-induced sleep.</p>
+	<choices>
+		<choice section="319">Use the uncanny salts to wake him</choice>
+		<choice section="394">Leave and get some sleep</choice>
+	</choices>
+</section>

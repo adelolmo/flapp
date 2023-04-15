@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="229">
+	The guildmaster welcomes you warmly. He has no further missions for you, though he treats you with respect because you brought Amcha to justice.
+	<if not="t" shards="1"><if not="t" shards="1" cache="MerchantBank">
+		If you are completely broke, without a Shard in your pocket or in the bank, he will give you <gain shards="200"/>.
+	</if></if>
+	If you have any money at all, he will not help. <goto section="100"/>.
+</section>

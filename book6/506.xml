@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="506">
+	It is only when you have gone a mile down the road that you
+	realize you have left your money behind.
+	<lose shards="*">Cross it off</lose>
+	your Adventure Sheet and <goto section="53"/>.
+</section>

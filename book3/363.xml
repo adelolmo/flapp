@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="363">
+	<p>
+		The Reavers notice the medallion that hangs from your neck. One of them steps forward. His bow to the King is clumsy because his stance is skewed by an old back injury, but he speaks with great eloquence: &#8216;Once a great service was done to me by this seafarer. When sore-pressed by Sokaran warships, the god Sig saw fit to send me a saviour. That saviour, O King, was the one who stands before you now - one to whom I pledged to give aid whenever it was needed.&#8217;
+	</p>
+	<p>
+		The King would probably rather torture you to death, but Verin Crookback is highly respected among the Reavers. You are granted your freedom. <goto section="656"/>.
+	</p>
+</section>

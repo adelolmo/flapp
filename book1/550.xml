@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="550">
+	<if item="gold chain mail of Tyrnai">
+		If you have the <b>gold chain mail of Tyrnai</b>,
+		<goto section="380"/>.
+	</if>
+	If not, <goto section="134"/>.
+</section>

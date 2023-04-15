@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="638">
+	<p>
+		You are chained to the wall of the Reaver King&#8217;s throne room and flogged whenever he is in a bad temper - which is often. Days turn into weeks and gradually your health declines.
+		<lose stamina="3d">Lose 3-18 Stamina points</lose>.
+		<if dead="f">
+			If you survive, there eventually comes a time when you are too weak and battered to give the Reavers any sport. They sell you to slavers from Yarimura, who strip you of
+			<lose item="*" shards="*">any possessions and money</lose>
+			you may have managed to hold on to.
+		</if>
+	</p>
+	<p>
+		Lose the codewords <lose codeword="Crocus">Crocus</lose> or
+		<lose codeword="Colour">Colour</lose> if you have them, then
+		<goto book="4" section="357">turn to 357</goto>
+		in <i>The Plains of Howling Darkness</i>.
+	</p>
+</section>

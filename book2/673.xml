@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="673">
+	<p>&#8216;Hey you!&#8217; cries an incredulous voice. &#8216;What are you doing?&#8217;</p>
+	<p>
+		You look up from the carcass of the dead bull. &#8216;This bull attacked me...&#8217;
+	</p>
+	<p>
+		&#8216;Course it did!&#8217; says the farmer. &#8216;Didn&#8217;t you have enough sense to stay out of its field?&#8217; That was my prize bull, I&#8217;ll have you know. I&#8217;ve a good mind to send for the militia.&#8217;
+	</p>
+	<p>
+		He forces you to pay <lose shards="150"/> as compensation. (If you don&#8217;t have that much, give him whatever you have.) Still, at least you get the chance to increase your COMBAT score by 1 if you can roll higher than your current COMBAT score on
+		<training ability="combat" dice="2">two dice</training>.
+	</p>
+	<p>Then <goto section="199"/>.</p>
+</section>

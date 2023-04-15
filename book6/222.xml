@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="222">
+	The storm keeps up for days. Your only recourse is to strike the
+	sails and let the ship run before the wind until it blows itself out.
+	<if ship="barque">
+		<random dice="1">
+			<adjust crew="good" amount="1"/>
+			<adjust crew="excellent" amount="2"/>
+		</random> if your ship is a barque
+	</if>,
+	<elseif ship="brigantine">
+		<random dice="2">
+			two dice<adjust crew="good" amount="1"/>
+			<adjust crew="excellent" amount="2"/>
+		</random> if it&#8217;s a brigantine
+	</elseif>,
+	<else>
+		<random dice="3">
+			three<adjust crew="good" amount="1"/>
+			<adjust crew="excellent" amount="2"/>
+		</random>
+		if it&#8217;s a galleon.
+	</else>
+	Add 1 to the roll if you have a good crew; add 2 if you have an excellent crew.
+	<outcomes>
+		<outcome range="1-3" section="126">The ship founders</outcome>
+		<outcome range="4-20" section="6">You weather the storm</outcome>
+	</outcomes>
+</section>

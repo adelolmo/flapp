@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="25">
+	<set var="lights" item="?" tags="light" value="matches"/>
+	<set var="candles" item="?" tags="light,useonce" value="matches"/>
+	<if var="candles" equals="lights">
+		If you used a <b>candle</b> in the mines,
+		<lose item="?" tags="light,useonce">cross it off</lose>
+		your Adventure Sheet as it can be used only once.
+	</if>
+	Then <goto section="317"/>.
+</section>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="322">
+	<p>
+		He collapses into the gutter, unconscious. After the unpleasant task of searching his body you find, on the <random dice="1">roll of a die</random>:
+	</p>
+	<outcomes>
+		<outcome range="1,2"><item name="lantern" tags="light"/></outcome>
+		<outcome range="3,4"><gain shards="5"/></outcome>
+		<outcome range="5,6"><item name="rope"/></outcome>
+	</outcomes>
+	<p>When you are finished, <goto section="182"/>.</p>
+</section>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="535">
+	<p>
+		The House of Priests is an impressive building, a roundhouse of multi-coloured bricks. The myriad colours give it a bizarre and garish look, calculated to unsettle the visitor. Inside, a hundred offices team with the administration of the polytheistic religion of Sokara and Golnir.
+	</p>
+	<p>
+		<if profession="Priest">
+			If you are a Priest, <goto section="9"/>.
+		</if>
+		If not, there is little for you here, <goto section="100">turn back to 100</goto>.
+	</p>
+</section>

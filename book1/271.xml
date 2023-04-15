@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="271" image="271.jpg">
+	<p>
+		You arrive at the Pass of Eagles, a thin chasm sliced right through the Spine of Harkun, as if Tyrnai himself had split the mountains with his sword.
+	</p>
+	<p>
+		A vast citadel has been built right across the southern end of the pass, bottling it up, so that none can travel into Sokara without passing through the castle. Its white walls and flagtopped towers shine brightly in the sunlight.
+	</p>
+	<choices>
+		<choice book="4" section="400">Enter the citadel</choice>
+		<choice section="3">Go to the western foothills</choice>
+		<choice section="244">The eastern foothills</choice>
+		<choice section="201">South on the road to Caran Baru</choice>
+		<choice section="518">Take the road to Fort Mereth</choice>
+	</choices>
+</section>

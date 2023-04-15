@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="534">
+	<p>
+		She takes you by the hand. You give an involuntary gasp; her touch is so cold it burns. Then the feeling passes. She leads you deep into the earth, to a feasting hall where you are welcomed as one of the honoured dead.
+		<if title="Chosen One of Nagil">
+			If you have the title Chosen One of Nagil, you are given a seat at the god&#8217;s right hand.
+		</if>
+		<else>
+			If not you are set among the shrouded knights along the tables.
+		</else>
+	</p>
+	<p>
+		This is the end. You have achieved a glorious fate for any worshipper of the Death God. Now it is time to go back and start afresh with a new character. Erase all ticks and codewords in your <i>Fabled Lands</i> books. You can start at <b>1</b> in any of the books in the series, using a character of the appropriate Rank given in the rules.
+	</p>
+</section>

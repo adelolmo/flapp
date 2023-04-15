@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="370">
+	The ship drifts along in a gentle wind. The slow creak of the
+	ship&#8217;s timbers and the fluttering of the sails makes a sound that
+	lulls you off to sleep at night.
+	<rest stamina="1">Recover 1 Stamina point</rest>
+	if injured, then <random type="travel"/>.
+	<outcomes>
+		<outcome range="2-5" section="204">Nightmares become real</outcome>
+		<outcome range="6-8" section="22">An uneventful journey</outcome>
+		<outcome range="9-12" section="478">Man overboard!</outcome>
+	</outcomes>
+</section>

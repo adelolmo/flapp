@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="36">
+	You rise rapidly from being an ordinary sailor to the rank of
+	trusty midshipman. Eventually, after many months, the captain
+	agrees to give you your freedom. &#8216;You deserve it,&#8217; he says.
+	&#8216;Where shall I put you ashore? How about Old Sokar?&#8217; You
+	notice he disdains to use its new name, Marlock City.
+	<choices>
+		<choice section="99">Disembark at Copper Island</choice>
+		<choice section="100">Disembark at Dweomer</choice>
+		<choice book="1" section="100">Disembark at Old Sokar</choice>
+	</choices>
+</section>

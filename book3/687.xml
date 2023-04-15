@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="687">
+	<p>
+		Mist swirls down the narrow alleys and loiters in darkened doorways. The streetlamps give off a haloed gleam because of it.
+	</p>
+	<p>
+		<if codeword="Anger">
+			If you have the codeword Anger, <goto section="657"/>.
+		</if>
+		Otherwise <goto section="675"/>.
+	</p>
+</section>

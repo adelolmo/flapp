@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="55">
+	<p>
+		Cross off the 10 Shards. The woman lays out some oxhide cards, painted with primitive-looking runes.
+	</p>
+	<p>
+		'Aha!' she cries, 'the Piper and the Snake.' She shoves her face close to yours and barks, 'Be prepared to be the Piper, if you travel there.'
+	</p>
+	<p>'And that's all, is it?' you ask.</p>
+	<p>She grunts, and stares out the window.</p>
+	<p>You leave the wood. <goto section="325"/>.</p>
+</section>

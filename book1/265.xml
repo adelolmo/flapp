@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="265">
+	<p>
+		<if title="Unspeakable Cultist">
+			If you have the title Unspeakable Cultist, <goto section="404"/>.
+		</if>
+		If not, read on.
+	</p>
+	<p>
+		You hear a muffled cry of distress from a dark alley.
+		<tick codeword="StillInYellowport" hidden="t"/>
+	</p>
+	<choices>
+		<choice section="361">Investigate</choice>
+		<choice section="10">Walk on</choice>
+	</choices>
+</section>

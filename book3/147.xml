@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="147" tag="temple">
+	<p>You swim out to the shrine of the sea gods. <random dice="1"/>.</p>
+	<outcomes>
+		<outcome range="1">
+			A crocodile snaps at you, <lose stamina="1d">lose 1-6 Stamina</lose>
+		</outcome>
+		<outcome range="2">
+			You lose your purse, <lose shards="*">cross off all your cash</lose>
+		</outcome>
+		<outcome range="3-6">You reach the shrine without incident</outcome>
+	</outcomes>
+	<p>
+		<if dead="f">
+			Assuming you survive, you touch the obelisk and receive a blessing of Safety from Storms, as long as you didn&#8217;t have one already. <tick blessing="storm">Note this in the Blessings box</tick> on your Adventure Sheet.
+		</if>
+	</p>
+	<p>
+		<if dead="f">
+			To swim back you must
+			<difficulty ability="scouting" level="11">
+				make another SCOUTING roll at Difficulty 11
+			</difficulty>.
+		</if>
+	</p>
+	<outcomes>
+		<success section="44"/>
+		<failure section="165"/>
+	</outcomes>
+</section>

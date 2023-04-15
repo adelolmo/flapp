@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="408">
+	<p><lose codeword="Ethereal">Lose the codeword Ethereal</lose>.</p>
+	<p>
+		You hand over the <b>abzu plant</b>.
+		<lose item="abzu plant">Cross it off</lose>
+		your Adventure Sheet.
+	</p>
+	<p>
+		The Blender of Spices is amazed. 'I really didn't think you could do it!' he exclaims.
+	</p>
+	<p>
+		He rewards you by allowing you to consult his texts on herbs and plants of the wild. <training ability="scouting">Roll two dice</training>. If the result is higher than your SCOUTING rating then you can add one to that rating. He also gives you <gain shards="500"/>.
+	</p>
+	<p>
+		Your exploit has enhanced your reputation within the court. Turn to <b>401</b> and
+		<tick name="UttakuStatus" count="2">
+			add 2 to your Status points
+		</tick> in the box provided, then make a choice
+		<goto section="401">from there</goto>.
+	</p>
+</section>

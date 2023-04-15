@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="555">
+	Several merchant ships from distant lands are riding at anchor in
+	the harbour. Passage to Dweomer on the Sorcerers&#8217; Isle will cost
+	35 Shards, to Metriciens will cost 35 Shards, to Aku will cost 40
+	Shards, and to Yarimura will cost 25 Shards.
+	<choices>
+		<choice shards="35" pay="f" book="3" section="242">Travel to Dweomer</choice>
+		<choice shards="35" book="3" section="260">Travel to Metriciens</choice>
+		<choice shards="40" book="5" section="502">Travel to Aku</choice>
+		<choice shards="25" section="749">Travel to Yarimura</choice>
+		<choice section="612">Stay in Chambara</choice>
+	</choices>
+</section>

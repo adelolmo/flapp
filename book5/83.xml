@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="83">
+	<p>
+		Remembering your promise to the shade, you leave the grassy mausoleum and begin your journey back to the Grumes. After the dangers you have faced, they hold few terrors for you.
+	</p>
+	<p>
+		It doesn't seem long until you stand once more before the shade. Unpacking the <b>gossamer net</b>, you cast it across the wraith and watch it dissolve. The shade fades away at the same time. <lose item="gossamer net">Cross the net off</lose> your Adventure Sheet.
+	</p>
+	<p>
+		'My thanks, stranger. You have taken great risks for a dead man.'
+	</p>
+	<p>
+		'Wait!' you cry out. 'How am I to avoid the curse of the Long Homes?'
+	</p>
+	<p>
+		'Your selflessness means that the curse could never be laid upon you. Go in peace.' The shade vanishes.
+	</p>
+	<p>
+		<lose codeword="Eerie">Lose the codeword Eerie</lose>. <lose codeword="Ectoplasm">Erase the codeword Ectoplasm</lose> if you have it, and <goto section="260"/>.
+	</p>
+</section>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="379">
+	<p>
+		The High King was driven out of this land long ago by the Uttakin. His castle stands empty now, choked with vines. If legends can be believed, the High King was not slain but retreated to a place in the far north, where he lies 'under a vault of water' with his knights, sleeping until the day comes for him to return and bring the golden age of prosperity back to his people.
+	</p>
+	<p>
+		Tales for children, you think sadly as you gaze across a countryside of weeds and blighted crops. The peasants of Old Harkuna eke out a miserable existence these days, taxed almost unto death as they are by the cruel Uttakin.
+	</p>
+	<p>You hear faint music coming from inside the castle.</p>
+	<p><goto section="644"/>.</p>
+</section>

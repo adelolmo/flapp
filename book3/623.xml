@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="623">
+	After a drunken argument in the mess, one of the sailors is found
+	with his brains battered out. There seems no doubt about the
+	man responsible - a bloody rag is found hidden under his bunk
+	and he is known for his explosive temper.
+	<choices>
+		<choice section="536">Order him thrown overboard</choice>
+		<choice section="554">Let the incident pass</choice>
+	</choices>
+</section>

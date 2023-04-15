@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="244">
+	<p>
+		The bazaar of Kunrir is a thriving market. The merchants here have a wide variety of goods for sale.
+	</p>
+	<market>
+		<header type="armour"/>
+		<armour name="leather" bonus="1" buy="50" sell="45"/>
+		<armour name="ring mail" bonus="2" buy="100" sell="90"/>
+		<armour name="chain mail" bonus="3" buy="200" sell="180"/>
+		<armour name="splint armour" bonus="4" buy="400" sell="360"/>
+		<armour name="plate armour" bonus="5" buy="800" sell="720"/>
+		<armour name="heavy plate" bonus="6" buy="1600" sell="1440"/>
+
+		<header type="weapon"/>
+		<weapon bonus="0" buy="50" sell="40"/>
+		<weapon bonus="1" buy="250" sell="200"/>
+		<weapon bonus="2" buy="500" sell="400"/>
+		<weapon bonus="3" buy="1000" sell="800"/>
+		<weapon bonus="4" buy="2000" sell="1600"/>
+		<weapon bonus="5" buy="4000" sell="3200"/>
+		<weapon bonus="6" buy="8000" sell="6400"/>
+
+		<header type="magic"/>
+		<tool name="amber wand" ability="magic" bonus="1" buy="500" sell="400"/>
+		<tool name="ebony wand" ability="magic" bonus="2" buy="1000" sell="800"/>
+		<tool name="cobalt wand" ability="magic" bonus="3" buy="2000" sell="1600"/>
+		<tool name="selenium wand" ability="magic" bonus="4" buy="4000" sell="3200"/>
+		<tool name="celestium wand" ability="magic" bonus="5" buy="8000" sell="6400"/>
+
+		<header type="other"/>
+		<tool name="flute" ability="charisma" bonus="1" buy="200" sell="180"/>
+		<tool name="silver flute" ability="charisma" bonus="2" buy="400" sell="360"/>
+		<tool name="centaur flute" ability="charisma" bonus="3" buy="800" sell="720"/>
+		<tool name="lockpicks" ability="thievery" bonus="1" buy="300" sell="270"/>
+		<tool name="magic lockpicks" ability="thievery" bonus="2" buy="600" sell="540"/>
+		<tool name="gloves of Sig" ability="thievery" bonus="3" buy="1200" sell="880"/>
+		<tool name="holy symbol" ability="sanctity" bonus="1" buy="200" sell="100"/>
+		<tool name="silver holy symbol" ability="sanctity" bonus="2" buy="400" sell="360"/>
+		<tool name="gold holy symbol" ability="sanctity" bonus="3" buy="800" sell="720"/>
+		<tool name="compass" ability="scouting" bonus="1" buy="500" sell="450"/>
+		<tool name="cross-staff" ability="scouting" bonus="2" buy="800" sell="720"/>
+		<tool name="sextant" ability="scouting" bonus="3" buy="1200" sell="1000"/>
+		<item name="rope" buy="50" sell="45"/>
+		<item name="lantern" tags="light" buy="100" sell="90"/>
+		<item name="climbing gear" buy="100" sell="90"/>
+		<item name="uncanny salts" buy="100" sell="90"/>
+		<item name="spotted scarf" buy="50" sell="35"/>
+		<item name="striped scarf" buy="50" sell="35"/>
+	</market>
+	<p>When you are finished, <goto section="100"/>.</p>
+</section>

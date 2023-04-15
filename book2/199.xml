@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="199">
+	You are travelling cross-country in eastern Golnir, in the rolling
+	hills that sweep down towards the broad river valley of the
+	Grimm. A horse trader tells you that the town of Goldfall is
+	close at hand. &#8216;See this scar on my forehead?&#8217; he says, pulling off
+	his straw hat. &#8216;A nugget fell from the sky and brained me, so it
+	did! But a villain made off with my nugget while I lay stretched
+	out senseless on the grass.&#8217;
+	<choices>
+		<choice section="81">Travel to Goldfall</choice>
+		<choice section="71">Travel to Wheatfields</choice>
+		<choice section="333">Go south</choice>
+		<choice section="176">Make for the River Grimm</choice>
+	</choices>
+</section>

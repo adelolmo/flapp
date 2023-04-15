@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="385">
+	<p>
+		Not even the greatest knight in the world could fight ten well-trained opponents at the same time. Your sword pierces the stomach of the first man, but you are too slow to parry the attack of the guard right behind him.
+		<lose stamina="2d">Lose 2-12 Stamina points</lose>
+		(the roll of two dice).
+	</p>
+	<p>
+		Your only chance is to feign death.
+		<difficulty ability="magic" level="15">
+			Make a MAGIC roll at a Difficulty of 15
+		</difficulty>
+		to temporarily stop your own heart. If you don&#8217;t manage to fool them, they will cut you to ribbons!
+	</p>
+	<outcomes>
+		<success section="404"/>
+		<failure section="140"/>
+	</outcomes>
+</section>

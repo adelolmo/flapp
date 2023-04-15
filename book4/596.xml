@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="596">
+	The guards turn you away. A continuous stream of carts, pack animals and the like, however, goes in and out of the citadel, carrying supplies. You could approach a trader and try to bribe him into letting you hide amid his wares.
+	<choices>
+		<choice section="611">Try bribery</choice>
+		<choice section="400">Leave</choice>
+	</choices>
+</section>

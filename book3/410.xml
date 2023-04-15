@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="410">
+	<p>
+		The captain rewards you with the contents of his hold:
+		<buy cargo="metals" quantity="2" shards="0">
+			2 Cargo Units of metals
+		</buy>.
+		Note these on your Ship&#8217;s Manifest, assuming you have the space to load them aboard. (You can jettison your current cargo to make room, if you wish.)
+	</p>
+	<p>&#8216;What will you do now?&#8217; you ask the captain.</p>
+	<p>
+		He gives a quick bray of exhausted laughter. &#8216;Get my ship into port, sell her, and use the money to buy a tavern. I&#8217;ll never put to sea again, that&#8217;s for sure.&#8217;
+	</p>
+	<p><goto section="137"/>.</p>
+</section>

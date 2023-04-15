@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="2">
+	Which of these codewords do you have?
+	<outcomes>
+		<outcome codeword="Defend" section="57"/>
+		<outcome codeword="Deliver" section="134"/>
+		<outcome codeword="Assist|Dread" section="242"/>
+		<outcome section="97">None of them</outcome>
+	</outcomes>
+</section>

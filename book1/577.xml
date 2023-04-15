@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="577">
+	You recognize the tracks as those of the legendary gorlock. You remember that it is said to have backward-pointing feet, so that the tracks it leaves will always show the opposite direction of travel! This means that the gorlock is currently inside the cave.
+	<choices>
+		<choice section="174">Challenge the beast to combat</choice>
+		<choice section="287">Wait for it to leave the cave</choice>
+	</choices>
+</section>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="394">
+	A tunnel winds down steeply from the mine entrance and then
+	forks in two. Rough steps have been hacked into the floor. The
+	rock is so hard that there is no need for timbers to shore up the
+	roof.
+	<choices>
+		<choice section="25">Go to the surface</choice>
+		<choice section="414">Take the left-hand tunnel</choice>
+		<choice section="434">Take the right-hand tunnel</choice>
+	</choices>
+</section>

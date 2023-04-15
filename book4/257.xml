@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="257">
+	<!-- last paragraph is my own invention, to handle outcomes of two difficulty rolls -->
+	<p>
+		The water is so cold that it makes you groan like a dying man. A moment later you feel hands of mud and weed clutching at your ankles from the riverbed, and then you truly know the meaning of fear.
+	</p>
+	<p>
+		To cross safely you must cope not only with the strong current but also with the supernatural tendrils that are trying to pull you under.
+		<difficulty ability="scouting" level="14" var="s">
+			Make a SCOUTING roll
+		</difficulty> and
+		<difficulty ability="magic" level="14" var="m">
+			a MAGIC roll
+		</difficulty>, both at a Difficulty of 14.
+	</p>
+	<p>
+		<if var="m" greaterthan="0">
+			<if var="s" greaterthan="0">
+				If both rolls were successful, <goto section="216"/>.
+			</if>
+		</if>
+		<elseif var="m" lessthan="1">
+			<if var="s" lessthan="1">
+				If both rolls failed, <goto section="374"/>.
+			</if>
+		</elseif>
+		<else>
+			If one roll was successful, <goto section="413"/>.
+		</else>
+	</p>
+</section>

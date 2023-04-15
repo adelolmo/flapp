@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="508">
+	<p>The abbot is amused by your little joke.</p>
+	<p>
+		&#8216;You mean, of course, that one&#8217;s training never ends,&#8217; he says, laughing. &#8216;Well, I am glad you found the time to visit us again but I am sure you have better things to do elsewhere.&#8217;
+	</p>
+	<p><goto section="211"/>.</p>
+</section>

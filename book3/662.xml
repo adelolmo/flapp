@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="662">
+	<p>
+		A ghost has gathered substance from the magical residue in the air here. It pounces to attack you with claws as sharp as the north wind during a thaw.
+	</p>
+	<fight name="Ghost" combat="8" defence="17" stamina="7"/>
+	<p>
+		<flee>
+			If you flee it will flay the flesh off your back, inflicting <lose stamina="1d">1-6 Stamina points</lose>.
+		</flee>
+	</p>
+	<choices>
+		<choice flee="t" section="407">Flee from the tower</choice>
+		<choice section="626">Fight on and win</choice>
+	</choices>
+</section>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="496">
+	<p>
+		The horse, a magnificent white stallion with a mane of silver threads, drops rapidly out of the sky to alight gently on the deck.
+	</p>
+	<p>
+		<if codeword="Dragon">
+			If you have the codeword Dragon, <goto section="462"/>.
+		</if>
+		<if codeword="Edifice">
+			If not but you have the codeword Edifice, <goto section="443"/>.
+		</if>
+		If you have neither codeword, <goto section="424"/>.
+	</p>
+</section>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="464">
+	There is a defiant squeal and a warthog comes squelching
+	through the rushes towards you. It is a big pig.
+	<fight name="Warthog" combat="5" defence="6" stamina="7"/>
+	If you kill it, <goto section="338"/>.
+</section>

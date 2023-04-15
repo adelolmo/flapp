@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="119">
+	To become an initiate of Nai costs 75 Shards. You may not already be an initiate of another god.
+	<if safeAddGod="Nai"><if shards="75">
+			<group>
+				<text>Write Nai in the God box</text>
+				<lose shards="75"/>
+				<tick god="Nai"/>
+			</group>
+			on your Adventure Sheet,
+	</if></if>
+	then <goto section="69"/>.
+</section>

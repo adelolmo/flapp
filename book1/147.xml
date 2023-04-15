@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="147">
+	<p>
+		An old troubadour tells an epic tale of adventure and romance involving three heroes, a princess and a dragon. Afterwards you find yourself talking to him at the bar. He tells you about the time he was captured by the Manbeasts of Nerech, and that by soothing their savage ferocity with music, he was able to escape.
+	</p>
+	<p>
+		<if profession="Troubadour">
+			If you are a Troubadour, <goto section="469"/>.
+		</if>
+		Otherwise <goto section="100"/>.
+	</p>
+</section>

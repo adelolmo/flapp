@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="147">
+	Pulling yourself away from the serenity of Clearwater Shrine,
+	you decide which way to go now.
+	<choices>
+		<choice section="195">Make for Shingen</choice>
+		<choice section="54">Take the road to Mukogawa</choice>
+		<choice section="444">Go north cross-country</choice>
+		<choice section="220">Go due south</choice>
+	</choices>
+</section>

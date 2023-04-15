@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="268" dock="Narai">
+	Dusk is falling as you come into the harbour and there is a nip of
+	frost in the air. Lanterns hanging along the raised verandas of the
+	city create splashes of glimmering amber light in the gloom.
+	Note that your ship is docked at Narai and then <goto section="155"/>.
+</section>

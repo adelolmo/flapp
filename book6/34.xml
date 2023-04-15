@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="34">
+	<if codeword="Frame">
+		If you have the codeword Frame, <goto section="57"/>.
+	</if>
+	If not, <goto section="76"/>.
+</section>

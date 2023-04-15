@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="155" dock="Isle of Druids">
+	<p>
+		One of the Trading Post sailors rows you out to your ship anchored in the bay. &#8216;Welcome aboard, Cap&#8217;n,&#8217; says the mate. The sky is clear and the smell of the sea fills your heart with wanderlust.
+	</p>
+	<choices>
+		<choice section="136" sail="t">Set sail into the Sea of Whispers</choice>
+		<choice section="195">Return to the Trading Post</choice>
+	</choices>
+</section>

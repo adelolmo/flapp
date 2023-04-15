@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="301">
+	A barque, heading for the Isle of Druids to buy furs, is prepared 	to take you. <lose shards="15">Cross off 15 Shards</lose>. The journey, across the Sea of Whispers, is uneventful, and you dock at the Trading Post on the island a week or so later. <goto section="195"/>.
+</section>

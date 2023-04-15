@@ -1,0 +1,16 @@
+<section name="Varkung of Metriciens" profession="Wayfarer">
+	<p>
+		Varkung has always been fascinated by the distant places of the world. As a child he would spend hours staring at his father's maps and day-dreaming of the people and creatures who lived across the sea. Now, as a young man, he has the chance to go exploring. His first wish is to visit Starspike Island and see if, as legends claim, it really does stretch up beyond the sky.
+	</p>
+	<p>
+		You can play as Varkung, or as a wayfarer with a different name (enter it in the 'Name' field). To begin your adventure, <goto section="1" force="f"/>.
+	</p>
+	<p>For another profession, choose from the following:</p>
+	<choices>
+		<choice section="Jaluda">Warrior</choice>
+		<choice section="Damontir">Mage</choice>
+		<choice section="Arcadia">Priest</choice>
+		<choice section="Silas">Troubadour</choice>
+		<choice section="Greymalkin">Rogue</choice>
+	</choices>
+</section>

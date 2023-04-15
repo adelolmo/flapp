@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="40">
+	<p>
+		You are beaten. You cannot be certain, but it seems like your opponent is smiling smugly from behind his mask. You are sentenced according to the ancient rite of Uttakin divination - throwing a pile of rune-marked bits of bone on the floor and reading the result. <random dice="1">Roll one die</random>.
+	</p>
+	<outcomes>
+		<outcome range="1" section="707"/>
+		<outcome range="2,3" section="340"/>
+		<outcome range="4,5" section="551"/>
+		<outcome range="6" section="485"/>
+	</outcomes>
+</section>

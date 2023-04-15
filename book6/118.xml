@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="118">
+	<p>
+		Oblivion engulfs your mind. You fall and lie in a dead faint for nine days and nights. You awaken to see the moon rising over the mountains. Finding a rock pool inside the cave, you study your reflection in amazement. Your skin is as hard and dark as lead and your eyes burn like silver coins.
+		<lose title="blue skin" hidden="t"/>
+	</p>
+	<p>
+		Some of the dragon&#8217;s essence has seeped into your own soul. Like a dragon, you have become tough, wily and unrelenting.
+		<group force="t">
+			<text>Increase your COMBAT and MAGIC scores</text>
+			<gain ability="combat" amount="2"/>
+			<gain ability="magic" amount="2"/>
+		</group>
+		each by 2 but
+		<lose ability="charisma" amount="2">reduce CHARISMA by 2</lose>.
+		You can also permanently increase your unwounded Stamina score by 1-6 points
+		(<gain ability="stamina" amount="1d">roll one die</gain>).
+	</p>
+	<p>
+		Your dragon nature, however, disqualifies you from the priesthood.
+		<set var="sdeduct" value="sanctity-1" modifier="natural"/>
+		<lose ability="sanctity" amount="sdeduct">Reduce your SANCTITY score to 1</lose>.
+		<group>
+			<text>Cross the Gods Box off</text>
+			<tick special="godless"/>
+			<lose title="Chosen One of Nagil"/>
+		</group>
+		your Adventure Sheet entirely - you can never be an initiate of any deity from now on.
+		<if profession="priest">
+			If you are a Priest you must
+			<tick profession="mage|rogue|troubadour|warrior|wayfarer">
+				choose a new profession
+			</tick>
+			(Mage, Rogue, Troubadour, Warrior or Wayfarer) and alter your Adventure Sheet accordingly.
+		</if>
+	</p>
+	<p>
+		Remember to cross the <lose item="tatsu pearl"/> off your list of possessions before <goto section="488">turning to 488</goto>.
+	</p>
+</section>

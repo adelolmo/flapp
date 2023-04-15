@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="602">
+	You are travelling the road between the Shadar Tor and Trefoille. You pass a convoy of masons, carpenters and builders heading for Trefoille with an escort of Sokaran soldiers.
+	<choices>
+		<choice section="250">Go to Trefoille</choice>
+		<choice section="35">Head for the Shadar Tor</choice>
+	</choices>
+</section>

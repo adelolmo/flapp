@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="227">
+	<p>
+		Closing your eyes, you lean back against the mast and enjoy the rise and plunge of the ship as she steers on through warm tropical seas.
+	</p>
+	<p>
+		<rest stamina="1">Recover 1 Stamina point</rest> if injured.
+		Then <random type="travel"/>.
+	</p>
+	<outcomes>
+		<outcome range="2-4" section="248">Storm</outcome>
+		<outcome range="5-7" section="245">Nothing of note</outcome>
+		<outcome range="8-9" section="515">A castaway</outcome>
+		<outcome range="10-12" section="176">Pirates</outcome>
+	</outcomes>
+</section>

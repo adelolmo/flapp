@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="384">
+	<p>
+		<lose shards="*">
+			Cross off all the money
+		</lose>
+		you are carrying. The brigands count it and give a sullen grunt. &#8216;Hardly worth collecting!&#8217; says one, spitting into the dust at his feet.
+	</p>
+	<p>&#8216;I dunno,&#8217; says the other. &#8216;After all, it&#8217;s free money, isn&#8217;t it?&#8217;</p>
+	<p>
+		They dive into the woods bordering the road, leaving you to trudge on ruefully towards your destination. <goto section="353"/>.
+	</p>
+</section>

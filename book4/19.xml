@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="19">
+	<p>
+		You are nothing if not brave. The warriors are only too happy to oblige by drawing short, curved swords and leaping on to you from all sides.
+	</p>
+	<p><difficulty ability="combat" level="20"/>.</p>
+	<outcomes>
+		<success section="577"/>
+		<failure section="379"/>
+	</outcomes>
+</section>

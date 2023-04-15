@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="333" image="333.jpg">
+	<p>
+		You take the ship north until you are passing the Peaks at the Edge of the World to the west - awesome mountains that rise majestically into the clouds. To the north, you find that the sea comes up against huge cliffs, towering into the heavens. A strong current threatens to pull your ship into a gigantic cave at the base of the cliffs. The sea churns violently at the cave mouth, throwing up great waves.
+	</p>
+	<p>
+		On either side of the cave mouth, two enormous statues stand waist-deep in the sea. They are stone warriors of cyclopean size, weather-beaten and pitted - they have been standing there for hundreds of years, perhaps even thousands. Their faces look out across the world, as if observing distant events far off to the south.
+	</p>
+	<p>&#8216;The Silent Sentinels,&#8217; whispers one of the crew in awed tones.</p>
+	<p>
+		&#8216;Aye,&#8217; says another, &#8216;the Guardians at the World&#8217;s Edge. Best to turn back now, captain.&#8217;
+	</p>
+	<p>
+		&#8216;Some say that&#8217;s the Mouth of Harkun, the elder god from whose bones the world was formed, and that it leads to the land below the world! Turn back, cap&#8217;n, please!&#8217; says your first mate.
+	</p>
+	<choices>
+		<choice section="201">Turn back</choice>
+		<choice section="255">Entreat the men to enter the cave</choice>
+	</choices>
+</section>

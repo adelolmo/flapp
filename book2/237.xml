@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="237">
+	You follow the course of the frothing Rainbow River as it
+	tumbles across flat glistening stones and boulder-strewn rapids.
+	<random type="travel"/>:
+	<outcomes>
+		<outcome range="2-6" section="498">Gypsy camp</outcome>
+		<outcome range="7-8" section="371">An uneventful journey</outcome>
+		<outcome range="9-12" section="523">Hunters in a canoe</outcome>
+	</outcomes>
+</section>

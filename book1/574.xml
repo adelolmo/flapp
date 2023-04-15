@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="574">
+	<p>
+		&#8216;Ah, the saviour of the citadel. What can I do for you?&#8217; asks the general.
+	</p>
+	<p>
+		He can arrange for you to be <rest>healed of all your wounds</rest>, <lose poison="*" disease="*">cured of poison and disease</lose> (but his court sorcerer cannot lift a curse).
+	</p>
+	<p>
+		<if not="t" weapon="*">
+			<if not="t" armour="*">
+				If you have no weapons or armour anywhere at all, he will give you an ordinary <weapon name="sword"/> and a suit of <armour name="chain mail" bonus="3"/>.
+		</if></if>
+		<if not="t" shards="0">
+			If you are completely out of money, with no Shards either banked or invested with the merchants&#8217; guild, or stored at a town house, he will give you <gain shards="200"/>.
+		</if>
+	</p>
+	<p>&#8216;Any time you are in real need, just come to me,&#8217; he adds.</p>
+	<p>
+		<if item="coded missive">
+			If you have a <b>coded missive</b>, <goto section="677"/>.
+		</if>
+		Otherwise, <goto section="100"/>.
+	</p>
+</section>

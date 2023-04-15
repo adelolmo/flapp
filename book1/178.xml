@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="178">
+	A pale woman in black leather brushes past you in the street, casting you an enigmatic look. <difficulty ability="thievery" level="10">Make a THIEVERY roll at a Difficulty of 10</difficulty>.
+	<outcomes>
+		<success section="635"/>
+		<failure section="198"/>
+	</outcomes>
+</section>

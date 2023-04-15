@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="619">
+	<p>
+		It is a high-prowed merchant ship from Akatsurai, distinguishable by its triangular sails and the golden sun symbol displayed on the aft deck.
+	</p>
+	<p>
+		The ship comes alongside and the captain invites you aboard. He chats to you for a while about trade between his country and Golnir.
+	</p>
+	<p>
+		<if profession="warrior">
+			If you are a Warrior, <goto section="519"/>.
+		</if>
+		<else>
+			Otherwise you can sail on, <goto section="228"/>.
+		</else>
+	</p>
+</section>

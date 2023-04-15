@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="364">
+	With the return of the High King, the castle has been restored to its former glory. Turrets of white marble adorned with gold and silver rise higher than the walls of the richest city. From those high battlements that seem as impregnable as mountains flutter seventy-seven richly coloured banners - the insignia of the High King's most trusted knights.
+	<choices>
+		<choice section="265">Enter the castle</choice>
+		<choice section="574">Continue on your way</choice>
+	</choices>
+</section>

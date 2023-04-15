@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="352">
+	Looking south, you can see the shoreline of Ankon-Konu as a
+	faint mauve line beneath a sky of cobalt blue.
+	<choices>
+		<choice book="8" section="100">Go south</choice>
+		<choice section="370">Go north</choice>
+		<choice section="117">Go east</choice>
+		<choice section="40">Go west</choice>
+	</choices>
+</section>

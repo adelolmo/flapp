@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="520" boxes="1">
+	<p>
+		<if ticks="1">
+			If there is a tick in the box, <goto section="440"/> immediately.
+		</if>
+		If not, <tick/>, and read on.
+		<tick codeword="5/697" hidden="t"/>
+	</p>
+	<p>
+		The spectre pauses. It swirls and pulses, as if undecided. Then you hear an ethereal voice echoing through the tunnel.
+	</p>
+	<p>
+		'At last, a true believer has come,' moans the ghost of Kizil Irmak. 'And you are worthy.'
+	</p>
+	<p>
+		Suddenly, the apparition disappears, leaving a sword on the ground that flickers with a luminescent pale energy. Note the <item name="Holy Avenger"/> on your Adventure Sheet. You are unable to use it yourself (it burns your hand) but you are able to carry it.
+	</p>
+	<p>You leave the tomb.</p>
+	<choices>
+		<choice section="121">Return to the village</choice>
+		<choice section="185">Leave the area</choice>
+	</choices>
+</section>

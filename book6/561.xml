@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="561">
+	<p>
+		The door swings open, releasing a gust of thick foul air. You are confronted by a face that almost fills the doorway. A lumpish skull covered with warty hide sits between shoulders as wide as a log. Muscles like huge sacks of flour strain in a torso weighed down with fat and hair. Then the giant opens his mouth to speak, and all of sudden you know where that smell is coming from.
+	</p>
+	<p>
+		<if item="seal of the Black Pagoda">
+			If you have the <b>seal of the Black Pagoda</b>,
+			<goto section="582"/>.
+		</if>
+		<if item="lady's court robe">
+			If not but you have a <b>lady&#8217;s court robe</b>,
+			<goto section="602"/>.
+		</if>
+		If you have neither, <goto section="623"/>.
+	</p>
+</section>

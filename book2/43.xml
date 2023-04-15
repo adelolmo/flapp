@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="43" tag="temple">
+	Tyrnai is the god of war. The idol in the shrine depicts him as a
+	grim-faced warrior, jaws rimmed with blood, striding forth to
+	do battle wielding an axe and a sword.
+	<choices>
+		<choice section="135">Become an initiate of Tyrnai</choice>
+		<choice section="158">Renounce his worship</choice>
+		<choice section="204">Arrange for resurrection</choice>
+		<choice section="181">Seek a blessing</choice>
+		<choice section="315">Leave</choice>
+	</choices>
+</section>

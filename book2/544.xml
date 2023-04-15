@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="544">
+	<p>
+		You try to convince the outlaws you are as ruthless and experienced as any of them. Unfortunately it comes out sounding like a hollow boast. Your miserable attempt at roguish nonchalance falls flat; your charm comes across like nervous prattling; the accounts of your crimes seem obviously to be lies.
+	</p>
+	<p>
+		One fellow with a scar running right across the bridge of his nose gives you a long hard stare and says: &#8216;What&#8217;s got you jittery, pal? Couldn&#8217;t be us, could it, mates? Sweet as lambs, we are!&#8217;
+	</p>
+	<p>He rocks with laughter. But his eyes aren&#8217;t laughing.</p>
+	<p>
+		Suddenly they grab you, strip you of everything you possess, and pelt you with clumps of turf until you are driven away.
+		<lose item="*" shards="*">
+			Cross all possessions and money off
+		</lose>
+		your Adventure Sheet, then <goto section="172"/>.
+	</p>
+</section>

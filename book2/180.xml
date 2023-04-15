@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="180">
+	<p>
+		&#8216;Surround yourself with the symbols of luck,&#8217; you overhear a priestess saying to a supplicant. &#8216;Then the threefold goddess shall smile on you.&#8217;
+	</p>
+	<p>
+		<if item="rabbit's foot charm">
+			If you have a <b>rabbit&#8217;s foot charm</b>, <goto section="226"/>.
+		</if>
+		If not, <goto section="203"/>.
+	</p>
+</section>

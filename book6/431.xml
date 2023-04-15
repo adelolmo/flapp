@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="431">
+	You enter a glade where an old tree has toppled. Beetles scurry
+	across it, burrowing into the dead wood, and a profusion of
+	brightly stained flowers have taken root in the bark. On all sides
+	of the clearing there are saplings stretching hopefully up towards
+	the bare patch of sky, engaged in a slow, silent and deadly
+	competition to be the fallen tree&#8217;s replacement.
+	<choices>
+		<choice section="583">Press on across the clearing</choice>
+		<choice section="351">Turn back and find another route</choice>
+	</choices>
+</section>

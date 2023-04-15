@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="347">
+	<p>
+		At the end of a long day you are happy to be offered a bed by an old couple who live down on the beach below the road.
+	</p>
+	<p>
+		They ply you with wine and food and insist on hearing you recount the stories of your many adventures.
+	</p>
+	<p>
+		<if profession="priest">
+			If you are a Priest, <goto section="388"/>.
+		</if>
+		If not, <goto section="409"/>.
+	</p>
+</section>

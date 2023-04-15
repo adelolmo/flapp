@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="473">
+	<p>
+		Many horse nomads ride up and surround you. Their inscrutable faces glare down at you without pity and they herd you with the points of their spears to their camp. Thousands of the nomads have gathered here for a meeting of all the tribes of the Horde of the Thousand Winds.
+	</p>
+	<p><goto section="272"/>.</p>
+</section>

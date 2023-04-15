@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="281">
+	The boat slowly makes its way up the Rese River. On either
+	bank lie scattered villages. Beyond, the fertile farmlands of
+	Golnir stretch off to the horizon. After a few days you reach the
+	village of Delpton, where you can disembark if you wish.
+	<choices>
+		<choice section="350">Continue upriver</choice>
+		<choice section="6">Disembark here</choice>
+	</choices>
+</section>

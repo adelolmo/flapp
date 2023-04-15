@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="400">
+	You are sailing off the west coast of Uttaku.
+	<choices>
+		<choice section="50">Put in at Kunrir</choice>
+		<choice section="200">Head round the coast to the south-east</choice>
+		<choice section="250">Sail north along the coast</choice>
+		<choice book="9" section="172">Steer west into the Cragdrift Sea</choice>
+		<choice book="9" section="100">Sail south to the Innis Shoals</choice>
+	</choices>
+</section>

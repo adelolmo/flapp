@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="192">
+	<p>
+		'Nice to see you again,' says Argon. He says he will arrange another resurrection clone for you, if you want, but this time it will cost you 150 Shards.
+	</p>
+	<p>
+		To arrange resurrection, pay the fee and write
+		<resurrection text="Sky Mountain" book="4" section="244" shards="150"/> in the Resurrection box on your Adventure Sheet. If you are later killed, turn to <b>244</b> in this book.
+	</p>
+	<p>
+		You can have only one resurrection arranged at any one time. If you arrange another resurrection later, the original one is cancelled (cross it off your Adventure Sheet). You do not get a refund.
+	</p>
+	<p>
+		When you are ready to leave, the Mannekyn People fly you to the base of Sky Mountain.
+	</p>
+	<p>'Come back soon!' says Argon. <goto section="668"/>.</p>
+</section>

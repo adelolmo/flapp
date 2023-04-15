@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="573">
+	<p>
+		You rap upon it and the stone slab slides upward, revealing a yawning, black hole. Two dark figures, blacker than night itself and wreathed in shadow, jump out. All you can make out are their red, glowing eyes, and huge silvery grins like crescent moons that split their shadowy faces. You realize they are trau, delvers in the dark, the faery goblin-folk of the underworld.
+	</p>
+	<p>&#8216;Ooh, a human, what fun!&#8217; says one in a deep voice.</p>
+	<p>
+		<if item="faery mead">
+			If you have some <b>faery mead</b>,
+			<goto section="245"/>.
+		</if>
+		If not, <goto section="481"/>.
+	</p>
+</section>

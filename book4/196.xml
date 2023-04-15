@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="196">
+	<p>
+		The <b>verdigris key</b> opens the locked trapdoor. You climb down some stairs into a square chamber in which there are several doors. They are doors of teleportation - step through and you will be taken to whatever place is displayed. Which door will you go through?
+	</p>
+	<choices>
+		<choice book="2" section="48">Metriciens</choice>
+		<choice section="85">The base of Sky Mountain</choice>
+		<choice book="3" section="100">Dweomer</choice>
+		<choice book="5" section="10">Aku</choice>
+		<choice book="6" section="79">Chambara</choice>
+		<choice book="1" section="400">Caran Baru in Sokara</choice>
+		<choice section="121">The Isle of Mystery</choice>
+	</choices>
+	<p>
+		If you don't want to go, or don't have the relevant books, <goto section="499"/> and choose again.
+	</p>
+</section>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="3">
+	The merchants&#8217; guild in Wishport is too small to trade on behalf
+	of its clients, but at least you can bank money here for safe
+	keeping.
+	<lose codeword="2.36.1" hidden="t"/>
+	<lose codeword="2.36.2" hidden="t"/>
+	<tick codeword="2.36.3" hidden="t"/>
+	<lose codeword="2.36.4" hidden="t"/>
+	<lose codeword="2.36.5" hidden="t"/>
+	<choices>
+		<choice section="36">Make deposit or withdrawal</choice>
+		<choice section="217">Return to the town centre</choice>
+	</choices>
+</section>

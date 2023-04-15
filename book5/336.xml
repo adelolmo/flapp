@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="336">
+	<!-- The gossamer net gets added in section 238 -->
+	You store the <b>gossamer net</b> safely. In the darkness of a passage to one side, you see a gleam of silver.
+	<choices>
+		<choice section="649">Investigate the passage</choice>
+		<choice section="83">Leave</choice>
+	</choices>
+</section>

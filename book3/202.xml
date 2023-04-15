@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="202">
+	<p>
+		The captain&#8217;s log contains some interesting accounts of his travels across the Great Steppes. You are particularly interested in a detailed description of a tomb he found. &#8216;It is only possible to gain entrance when the gods are not looking,&#8217; the captain has written in his log. &#8216;We were unable to penetrate to the heart of the tomb, but returned to the ship with much booty from the outer chambers.&#8217;
+	</p>
+	<p>
+		<tick codeword="Cheops">
+			Get the codeword Cheops
+		</tick>
+		and <goto section="221"/>.
+	</p>
+</section>

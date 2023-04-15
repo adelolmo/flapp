@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="307">
+	<p>
+		<!-- the trade for the mirror here is out of the blue -->
+		Instead of silver deposits, you stumble across a cave inhabited by a giant white tiger with an imperial glyph imprinted on its forehead. This is no ordinary beast.
+	</p>
+	<p>
+		<if item="mirror of the Sun Goddess">
+			If you have the <b>mirror of the Sun Goddess</b>,
+			<goto section="329"/>.
+		</if>
+		If not, <goto section="348"/>.
+	</p>
+</section>

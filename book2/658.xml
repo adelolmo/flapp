@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="658">
+	<p>
+		You are drinking at a tavern when you notice a familiar face peering at you from behind a curtain. However, when you go over and throw back the curtain there is no one to be seen.
+	</p>
+	<p>
+		Later you notice a chalky taste in your beer. Too late, you realize it is poisoned!
+		<if blessing="poison">
+			If you have a blessing of Immunity to Disease/Poison then you are all right (remember to <lose blessing="poison">cross off the blessing</lose> now it&#8217;s used up).
+		</if>
+		<else>
+			Without that blessing, the poison causes your skin to break out in grey blotches: <lose ability="charisma" amount="1d">lose 1-6 from your CHARISMA</lose> (down to a minimum score of 1).
+		</else>
+	</p>
+	<p>After altering your Adventure Sheet, <goto section="223"/>.</p>
+</section>

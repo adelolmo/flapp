@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="537">
+	Did you make the roll using SANCTITY?
+	<choices>
+		<choice section="431">Made the roll on SANCTITY</choice>
+		<choice section="557">Made the roll on another ability</choice>
+	</choices>
+</section>

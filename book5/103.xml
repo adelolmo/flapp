@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="103">
+	<p>
+		The Uttakin originally came from a desert land, and it shows in their insatiable taste for gushing fountains, songbirds, flower-fringed ponds and lush overhanging foliage. Every polished marble pavement is a lattice of sunlight and blossom-scented shadow, every wall a mural of ivy and bright flowers. The sky-line of towers and domes looks like a mural in delicate pastel colours against the deep cloudless blue.
+	</p>
+	<p><random type="travel">Roll two dice</random>.</p>
+	<outcomes>
+		<outcome range="2-5" section="216">A distraught princess</outcome>
+		<outcome range="6-7" section="13">A garden party</outcome>
+		<outcome range="8-12" section="289">A holy day in Aku</outcome>
+	</outcomes>
+</section>

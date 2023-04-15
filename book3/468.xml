@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="468">
+	<p>You reach the coastal waters of the Sleeping Isle.</p>
+	<p>
+		&#8216;We&#8217;re going to have to find anchorage here,&#8217; says the first mate when you ask for his report. &#8216;We&#8217;re in need of fresh supplies and the ship could do with light repairs.&#8217;
+	</p>
+	<p>
+		You drop anchor in a bay fringed by coconut palms and go ashore in the rowboat. While the men gather supplies, you have the opportunity to explore a little way inland if you wish.
+	</p>
+	<choices>
+		<choice section="265">Explore the island</choice>
+		<choice section="284">Help gather supplies</choice>
+	</choices>
+</section>

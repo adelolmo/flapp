@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="613">
+	<p>
+		You spin through a yawning blackness, speckled with stars, and then find yourself falling through the air. You hit the ground with a crash. <lose stamina="1d">Lose 1-6 Stamina points</lose> (the roll of one die).
+	</p>
+	<p>
+		If you still live, you get up and look around. It appears to be the western coast of the steppes. <goto section="669"/>.
+	</p>
+</section>

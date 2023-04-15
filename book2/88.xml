@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="88">
+	<p>
+		<if god="The Three Fortunes"><set var="cost" value="25"/></if>
+		<else><set var="cost" value="90"/></else>
+		If you are an initiate it costs only 25 Shards to purchase The Three Fortunes&#8217; blessing. A non-initiate must pay 90 Shards.
+	</p>
+	<p>
+		<if not="t" blessing="luck"><if shards="cost">
+				<group>
+					<text>Cross off the money and mark Luck in the Blessings box</text>
+					<lose shards="cost"/>
+					<tick blessing="luck"/>
+				</group>
+				on your Adventure Sheet.
+		</if></if>
+		The blessing works by allowing you to reroll any dice result once. (This does not have to be an ability roll. You could also use it to reroll an encounter result that you didn&#8217;t want.) When you use the blessing, cross it off your Adventure Sheet.
+	</p>
+	<p>
+		You can only have one Luck blessing at any one time. Once it is used up, you can return to any branch of the temple of The Three Fortunes to buy a new one.
+	</p>
+	<p>When you are finished here, <goto section="203"/>.</p>
+</section>

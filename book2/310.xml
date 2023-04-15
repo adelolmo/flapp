@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="310">
+	You are on the road leading from the Monastery of Molhern to
+	Wheatfields, the market capital of central Golnir.
+	<choices>
+		<choice section="94">Go south-east to the monastery</choice>
+		<choice section="333">Head north-west to Wheatfields</choice>
+		<choice section="195">Head south-west to the Whistling Heath</choice>
+		<choice section="123">Head north-east to the Rainbow River</choice>
+	</choices>
+</section>

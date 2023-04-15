@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="480" image="480.jpg">
+	<p>
+		A flotilla of mossy pontoons comes drifting across the water towards you. They look like floating gardens. As they get closer you can see people and animals moving between brightly coloured tents on each pontoon. They are the sea gypsies, who live on these large clumps of floating weeds.
+	</p>
+	<p>
+		As soon as they draw alongside, the gypsies clamber aboard without waiting for permission and start shoving a curious assortment of goods towards you.
+	</p>
+	<p>&#8216;Best prices on the high seas!&#8217; says one with a cavalier grin.</p>
+	<market>
+		<header header1="Item" header2="To buy" header3="To sell"/>
+		<item name="rope" buy="30" sell="20"/>
+		<item name="lantern" tags="light" buy="75" sell="60"/>
+		<item name="candle" tags="light,useonce" buy="10" sell="5"/>
+		<item name="water flask" buy="25" sell="20"/>
+		<item name="coral-red tresses" buy="1000" sell="500"/>
+		<weapon name="golden katana" buy="10000" sell="3000"/>
+		<item name="smoulder fish" buy="110" sell="90"/>
+		<tool name="cross-staff" ability="scouting" bonus="2" buy="700" sell="500"/>
+		<item name="violin" buy="90" sell="50"/>
+		<item name="parrot" buy="200" sell="90"/>
+		<item name="fishing hook" buy="5" sell="2"/>
+		<item name="boar's tusk" buy="150" sell="75"/>
+		<item name="green gem" buy="575" sell="100"/>
+	</market>
+	<p>
+		When you have finished your buying and selling, <goto section="50"/>.
+	</p>
+</section>

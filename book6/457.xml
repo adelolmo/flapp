@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="457">
+	<p>You go for a walk in the entrancing countryside of Shaku Isle.</p>
+	<p><random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-5" section="263">A plaintive cry</outcome>
+		<outcome range="6-8" section="44">Nothing disturbs your reverie</outcome>
+		<outcome range="9-12" section="279">A wizard&#8217;s mansion</outcome>
+	</outcomes>
+</section>

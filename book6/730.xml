@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="730">
+	<p>
+		Not only have you broken the man&#8217;s taboo, but you have become ritually polluted into the bargain.
+		<lose blessing="*">Lose any blessings</lose>
+		noted on your Adventure Sheet.
+	</p>
+	<p>
+		&#8216;Now I&#8217;ll have to go to the shrine and be purified,&#8217; he snaps at you. &#8216;Oh, why did you have to interfere?&#8217;
+	</p>
+	<p><goto section="79"/>.</p>
+</section>

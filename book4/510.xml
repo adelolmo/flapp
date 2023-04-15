@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="510">
+	<p>
+		It is not long before you get completely lost. You struggle on in a dream-like state, unsure where you are going, and where you&#8217;ve been.
+		<rankcheck dice="1" add="1"/>.
+	</p>
+	<p>
+		<success>
+			If the result is less than or equal to your Rank, <goto section="123"/>.
+		</success>
+		<failure>
+			If it is greater than your Rank, <goto section="254"/>.
+		</failure>
+	</p>
+</section>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="28">
+	Your experience with the harmonics of music has taught you much.
+	<gain ability="rank" amount="1">Gain 1 Rank</gain>.
+	<random dice="1" var="x">Roll one die</random> and
+	<gain ability="stamina" amount="x">add the result</gain>
+	to your total, unwounded Stamina score permanently. Don't forget that going up in Rank will also increase your Defence by one. When you are ready,
+	<goto section="499"/>.
+</section>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="90">
+	<p>
+		You step through the open archway of the house of Holyamu the Unbidden. Inside you find that the tower consists of one single room that goes up and up, without stairs, or levels at all. Around the walls, seemingly at random, and at different heights, furniture has been attached here and there - a bed, several desks, a dining table, chests of drawers and so on.
+	</p>
+	<p>
+		Holyamu himself sits on a flying throne, and he swoops down to greet you. He wears nothing but a loin-cloth. Holyamu has a huge beard that hangs down to his feet; his eyes are bright blue, and he looks completely insane.
+	</p>
+	<p>
+		'Hallo there,' he chirps, and then bursts into a fit of giggles. 'What can I do for you? I'm very good at lifting curses you know. And inflicting them too ... ha, ha, ha.'
+	</p>
+	<p><if codeword="Elk">If you have the codeword Elk, <goto section="687"/> immediately.</if> <if codeword="Ethereal">If not, but you have the codeword Ethereal, <goto section="254"/>.</if> If you have neither codeword you can:
+	</p>
+	<choices>
+		<choice section="19">Attack Holyamu</choice>
+		<choice section="152">Ask him to lift a curse</choice>
+		<choice section="54">Leave</choice>
+	</choices>
+</section>

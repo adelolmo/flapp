@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="442">
+	You have entered a cold, barren land of howling winds and pitiless rains. <random type="travel"/>.
+	<outcomes>
+		<outcome range="2-5" section="210">A gruesome punishment</outcome>
+		<outcome range="6-7" section="52">No event</outcome>
+		<outcome range="8-12" section="473">A gathering of the tribes</outcome>
+	</outcomes>
+</section>

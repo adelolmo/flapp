@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="762" boxes="1">
+	<if ticks="0">
+		If the box is empty,
+		<tick>put a tick in it</tick> and
+		<goto section="471"/>.
+	</if>
+	If it is ticked already, <goto section="496"/>.
+</section>

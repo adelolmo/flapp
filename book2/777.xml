@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="777" boxes="1">
+	<if ticks="0">
+		If the box above is empty, <tick>put a tick in it now</tick> and
+		<goto section="516"/>.
+	</if>
+	<elseif item="diplomatic letter">
+		If the box is ticked and you have a <b>diplomatic letter</b>,
+		<goto section="541"/>.
+	</elseif>
+	<else>
+		If the box is ticked and you do not have a <b>diplomatic letter</b>, <goto section="491"/>.
+	</else>
+</section>

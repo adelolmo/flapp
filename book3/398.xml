@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="398">
+	You are close-hauled and making slow progress against a
+	contrary wind when another vessel appears off the port bow.
+	She is bearing hard in, and the crew gasp in dismay as they sight
+	the fluttering red pennants of the Reavers.
+	<choices>
+		<choice section="418">Make a run for it</choice>
+		<choice section="456">Parley</choice>
+		<choice section="474">Fight it out</choice>
+	</choices>
+</section>

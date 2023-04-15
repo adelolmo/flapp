@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="398">
+	<p>
+		Steep hills whose flanks are thickly grown with hoary groves of pine trees comprise the sinister Kwaidan Forest.
+	</p>
+	<p><random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-7" section="529">An eerie silence prevails</outcome>
+		<outcome range="8-12" section="741">Footfalls in the gloom</outcome>
+	</outcomes>
+</section>

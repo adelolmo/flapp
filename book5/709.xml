@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="709">
+	<p>
+		Throughout the day you are approached by people seeking divinations, cures for boils and warts, love potions and such like.
+	</p>
+	<p><random dice="2"/>.</p>
+	<outcomes>
+		<outcome range="2-3">
+			You break the law and are hauled off to prison. <goto section="350"/></outcome>
+		<outcome range="4-7">Another wizard gets all the trade</outcome>
+		<outcome range="8">
+			You make a profit of <gain shards="50"/>
+		</outcome>
+		<outcome range="9-12">
+			<items group="5.709" limit="1"/>
+			Cure a priest of warts. He rewards you with a
+			<item name="scroll of Ebron" group="5.709"/> or
+			<item name="150 Shards" group="5.709"/>
+			(your choice).
+		</outcome>
+	</outcomes>
+	<p>
+		When you are finished, you return to the city centre. <goto section="444"/>.
+	</p>
+</section>

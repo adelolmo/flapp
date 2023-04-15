@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="624">
+	You steal into the keep after nightfall. To break into the treasury
+	chamber, you must
+	<difficulty ability="thievery" level="15">
+		make a THIEVERY roll at a Difficulty of 15
+	</difficulty>.
+	<outcomes>
+		<success section="502"/>
+		<failure section="527"/>
+	</outcomes>
+</section>

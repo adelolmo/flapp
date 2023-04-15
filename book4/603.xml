@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="603">
+	<p>
+		The redcaps lie dead at your feet. You find that one was carrying a small sack. Inside you find a <item name="Shadar scroll"/> and some <item name="faery mead"/>. The scroll is mundane, but may have some value to a collector of Shadar antiquities. Note them on your Adventure Sheet.
+	</p>
+	<p>The rest of the night passes peacefully. <goto section="144"/>.</p>
+</section>

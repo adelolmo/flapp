@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="669">
+	<p>
+		You station yourself outside the Sovereign&#8217;s apartments and wait.
+	</p>
+	<p>
+		About two hours after midnight, just as the moon has risen, a black cloud comes drifting from the woods west of the city and hovers over the roof of the palace. At the same time a baleful influence can be felt settling over everything like a chill wind from a graveyard. Peering into the depths of the cloud, you are sure you can make out a monstrous squirming shape.
+	</p>
+	<p>
+		<difficulty ability="magic" level="17">
+			Make a MAGIC roll at a Difficulty of 17
+		</difficulty>.
+	</p>
+	<outcomes>
+		<success section="403"/>
+		<failure section="473"/>
+	</outcomes>
+</section>

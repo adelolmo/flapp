@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="532" tag="temple">
+	<p>
+		<if title="Initiate of the Sage of Peace">
+			<tick codeword="6.532.1" hidden="t"/>
+		</if>
+		<else><lose codeword="6.532.1" hidden="t"/></else>
+		The Akatsurese draw a distinction between temples, which are dedicated to the mortal prophet they call the Sage of Peace, and shrines, where you can make offerings to their many deities. In Narai the only significant religious building is of the former type.
+	</p>
+	<p>
+		The monks can provide you with medicinal herbs if you are unwell, at a cost of
+		<rest stamina="2d" shards="5">5 Shards</rest>.
+		The treatment allows you to regain 2-12 lost Stamina points, up to the limit of your unwounded Stamina score.
+	</p>
+	<choices>
+		<choice section="725">Discuss initiation</choice>
+		<choice section="45" box="6.532.1">Get a blessing (if an initiate)</choice>
+		<choice section="155">Leave the temple</choice>
+	</choices>
+</section>

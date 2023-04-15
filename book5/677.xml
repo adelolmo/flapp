@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="677">
+	<p>
+		Cross off the 400 Shards from your Adventure Sheet.
+		If you aren't carrying the cash, you can draw the money from the bank, if you have enough there. (In this case, note this paragraph, <goto section="601" force="f"/>, draw out the money, and then turn back to <b>677</b> and read on).
+	</p>
+	<p>
+		<if shards="400">
+			If you have enough money, you are released immediately -
+			<group>
+				<text>turn to <b>444</b></text>
+				<lose shards="400"/>
+				<goto section="444" hidden="t"/>
+			</group>.
+		</if>
+		<else>
+			Otherwise, you must go to court - <goto section="314"/>.
+		</else>
+	</p>
+</section>

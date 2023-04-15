@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="599" image="599.jpg">
+	You see a group of youths persecuting an old man. The youths
+	all have short hair and wear red robes, making them look like
+	temple acolytes. To your surprise, none of the people walking
+	past is going to help the old man; they all look as if they&#8217;d rather
+	not get involved.
+	<choices>
+		<choice section="660">Help the old man</choice>
+		<choice section="41">Ask what&#8217;s going on</choice>
+		<choice section="79">Mind your own business</choice>
+	</choices>
+</section>

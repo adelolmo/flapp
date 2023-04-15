@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="710" dock="Dweomer">
+	<p>
+		The harbourmaster studies your documents, which confirm you as owner of a small barque called the
+		<buy ship="barque" name="Thaumaturge" initialCrew="average" shards="0" quantity="1"><i>Thaumaturge</i></buy>.
+		She has a carrying capacity of 1 Cargo Unit and her Crew Quality is average. Remember to change the entry in the Docked column each time you arrive at a new port; the <i>Thaumaturge</i> is currently docked at Dweomer, of course.
+	</p>
+	<p>
+		<lose item="ship's deeds">
+			Cross off the <b>ship&#8217;s deeds</b>
+		</lose> and <goto section="100"/>.
+	</p>
+</section>

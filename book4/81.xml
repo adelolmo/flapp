@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="81">
+	Your opponent is pronounced the winner. You are escorted from the arena.
+	<p><goto section="274"/>.</p>
+</section>

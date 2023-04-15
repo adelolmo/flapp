@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="553">
+	<p>
+		The song tells of ancient heroes of the clan. The youths&#8217; dance re-enacts those heroes&#8217; mightiest deeds. The effect is almost hypnotic, as young men daubed in ritual body-paint leap to and fro above the fire.
+	</p>
+	<p>
+		<if profession="Troubadour">
+			If you are a Troubadour,
+			<tick codeword="Drape">get the codeword Drape</tick>.
+		</if>
+		If you belong to any other profession the songs mean little to you. Now <goto section="394"/>.
+	</p>
+</section>

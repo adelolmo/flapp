@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="637" tag="temple">
+	<p>
+		Molhern is the god of knowledge. Here on the island, the mages worship an aspect of the god called Molhern Magister, whose domain is the magical arts.
+	</p>
+	<p>
+		Most of the mages of Sokara and Golnir reject the gods. Here, a peculiar sect of mages has embraced the worship of Molhern. The temple is a single spire reaching skyward, with a great eye painted on its topmost pinnacle. A sorcerer-priest welcomes you to the temple.
+	</p>
+	<choices>
+		<choice section="517">Become an initiate of Molhern</choice>
+		<choice section="621">Renounce his worship</choice>
+		<choice section="384">Seek a blessing</choice>
+		<choice section="274">Leave the temple</choice>
+	</choices>
+</section>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="313">
+	<p>
+		You dart towards him and before he can react you have him in an arm-lock with a knife at his throat.
+	</p>
+	<p>
+		'Drop your weapons, lads!' he squawks. After keeping your man until a good distance away, you club him over the head. You find <gain shards="15"/> and a set of <tool name="magic lockpicks" ability="thievery" bonus="2"/> on him. You leave him unconscious by the road.
+	</p>
+	<p><goto section="358"/>.</p>
+</section>

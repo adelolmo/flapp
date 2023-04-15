@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="244" boxes="1">
+	You are admitted to the palace without delay.
+	<if ticks="0">
+		If the box above is empty, <tick>put a tick in it</tick>
+		and <goto section="574"/>.
+	</if>
+	If it was already ticked, <goto section="595"/>.
+</section>

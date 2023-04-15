@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="486">
+	<p>
+		<if codeword="Dangle">
+			If you have the codeword Dangle, <goto section="409"/> immediately.
+		</if>
+		If not, read on.
+	</p>
+	<p>
+		The doors are opened by an old man with long white hair hanging to his shoulders. He steps aside and gestures for you to enter, looking at you with frightened eyes. You step into a hall of grey stone, with blood-red banners hung on the walls.
+	</p>
+	<p>
+		&#8216;Don&#8217;t mind old Kevar, my butler,&#8217; booms a voice from the back of the hall. &#8216;He&#8217;s a bit simple but it&#8217;s difficult to get good staff these days.&#8217;
+	</p>
+	<p>
+		With that the voice dissolves into laughter. A man steps from the shadows at the back of the hall. He is tall, built like a blacksmith, and completely bald. His eyes are a bleak, piercing green. He is dressed in ornate red and black lacquered armour, and holds a huge battle-axe.
+	</p>
+	<p>
+		&#8216;My name is Kaschuf, called the Deathless. I guess you to be another one of those fools come to rescue the Lady Nastasya.&#8217;
+	</p>
+	<p>
+		He falls into paroxysms of laughter once more. He wipes a tear from his eye and then straightens up. &#8216;Well, let&#8217;s get on with it. I&#8217;ve no time for you unless you&#8217;re here for a fight.&#8217;
+	</p>
+	<choices>
+		<choice section="87">Fight Kaschuf</choice>
+		<choice section="398">Leave the village</choice>
+	</choices>
+</section>

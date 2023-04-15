@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="377">
+	<p>
+		The road between Marlock City and Trefoille is well maintained with regular guard posts. The Sokarans are nothing if not efficient. <random type="travel" dice="1">Roll a die</random>.
+	</p>
+	<outcomes>
+		<outcome range="1,2">
+			Bad omen - <lose blessing="?">lose one Blessing</lose>
+		</outcome>
+		<outcome range="3,4">Uneventful journey</outcome>
+		<outcome range="5,6">
+			Find a <weapon name="sword"/> (ordinary weapon)
+		</outcome>
+	</outcomes>
+	<p>When you are ready, you can go:</p>
+	<choices>
+		<choice section="250">To Trefoille</choice>
+		<choice section="100">To Marlock City</choice>
+		<choice section="175">North into the Curstmoor</choice>
+	</choices>
+</section>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="253">
+	<p>
+		The captain dismisses you as worthless garbage. The pirates casually toss you over the side without a thought. They sail away, leaving you behind.
+	</p>
+	<p>
+		By chance, you manage to find a piece of driftwood to hold on to.
+		<rankcheck dice="1" add="1">
+			Roll a die and add one to the score
+		</rankcheck>.
+		<failure>If the result is higher than your Rank,
+			<goto section="459"/>.
+		</failure>
+		<success>
+			If it is less than or equal to your Rank,
+			<goto section="98"/>.
+		</success>
+	</p>
+</section>

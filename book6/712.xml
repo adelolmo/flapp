@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="712">
+	<p>
+		The giant may look clumsy, but he strikes with unstoppable strength and he knows how to break bones. Any Stamina points you lose in this fight are permanently lost!
+	</p>
+	<fight name="Big Boy" combat="15" defence="22" stamina="51" abilityDamaged="stamina"/>
+	<p>
+		Remember to keep track of each time he injures you and reduce your unwounded Stamina score by that amount if you survive the fight. Fortunately the giant is not fast on his feet, so you can flee at any time.
+	</p>
+	<choices>
+		<choice flee="t" section="642">Run off before he kills you</choice>
+		<choice section="458">Fight and (somehow) win</choice>
+	</choices>
+</section>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="75">
+	<p>
+		The bottle contains a <b>map of Bazalek</b>, which is a small isle in the waters near Disaster Bay. Make of it what you will. Note the
+		<item name="map of Bazalek">
+			<b>map of Bazalek</b><effect type="use" verb="Read">
+				<desc><i>Over the Blood-Dark Sea</i> <b>75</b></desc>
+				<image title="Bazalek Isle" book="3" file="Map of Bazalek Isle.JPG"/>
+			</effect>
+		</item>
+		on your Adventure Sheet and, because you may wish to refer back to <image title="Bazalek Isle" file="Map of Bazalek Isle.JPG">the illustration</image> later, make a note of this page number in brackets next to it.
+	</p>
+	<p><goto section="352"/>.</p>
+</section>

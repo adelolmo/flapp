@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="27">
+	<p>
+		The pirates kill all the crew, but spare the galley slaves - for now. Those not good enough are chucked overboard; some are taken on as shipmates on the pirate ship to replace their losses. You are hauled before the captain, a hugely fat barrel of a man with only one ear, for judgement.
+	</p>
+	<p>
+		<if codeword="Clutch">
+			If you have the codeword Clutch, <goto section="287"/> immediately.
+		</if>
+		Otherwise, <difficulty ability="charisma" level="12"/>.
+	</p>
+	<outcomes>
+		<success section="176"/>
+		<failure section="253"/>
+	</outcomes>
+</section>

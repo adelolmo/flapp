@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="233" dock="Wishport">
+	<p>
+		There are two advantages to owning a ship. First, it makes it much easier to travel around. Second, it allows you to get rich by trading goods in bulk. Goods are transported in Cargo Units. (A Cargo Unit weighs several tonnes - much more than one person could carry!) The more expensive your ship, the greater its carrying capacity. More expensive ships are also more seaworthy.
+	</p>
+	<p>Choose a ship from the types listed here.</p>
+	<market>
+		<header type="ship"/>
+		<trade ship="barque" initialCrew="average" buy="250"/>
+		<trade ship="brigantine" initialCrew="average" buy="450"/>
+		<trade ship="galleon" initialCrew="average" buy="900"/>
+	</market>
+	<p>
+		Record your ship in the box provided on the Ship&#8217;s Manifest. You get to choose the ship&#8217;s name. The crew quality is average unless you hire on better sailors. Each time you arrive at a new destination, change the entry in the Docked column to the ship&#8217;s current location. (So, if you aren&#8217;t going to sail straightaway, note that the ship is docked at Wishport.)
+	</p>
+	<choices>
+		<choice section="50">Hire on better crew</choice>
+		<choice section="142">Leave the city</choice>
+		<choice section="96">Visit the warehouses</choice>
+		<choice section="217">Return to the city centre</choice>
+	</choices>
+</section>

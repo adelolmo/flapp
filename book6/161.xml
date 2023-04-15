@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="161">
+	An overcast blurs the boundary between sea and sky. If not for
+	the dark line of cliffs to the south you could imagine yourself
+	suspended in a pale grey void. <random type="travel"/>.
+	<outcomes>
+		<outcome range="2" section="745">Carried by a strong current</outcome>
+		<outcome range="3-10" section="184">An uneventful day&#8217;s sailing</outcome>
+		<outcome range="11-12" section="145">Pirates</outcome>
+	</outcomes>
+</section>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="517" tag="temple">
+	<if item="ghoul's head">
+		If you have a <b>ghoul&#8217;s head</b>, <goto section="597"/>.
+	</if>
+	If not, a priest asks which service you require.
+	<choices>
+		<choice section="409">Become an initiate</choice>
+		<choice section="187">Renounce worship</choice>
+		<choice section="478">Make resurrection arrangements</choice>
+		<choice section="100">Leave the temple</choice>
+	</choices>
+</section>

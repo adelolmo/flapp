@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="64">
+	<p>
+		South lie the quiet misty waters of the Ugetsu Straits. North, the sea is the colour of shattered tombstones under a sky sketched in charcoal and indigo ink.
+	</p>
+	<p><random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-9" section="113">All is quiet</outcome>
+		<outcome range="10-12" section="145">Pirates</outcome>
+	</outcomes>
+</section>

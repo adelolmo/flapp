@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="605" boxes="1">
+	<p>
+		<if ticks="1">
+			If there is a tick in the box, <goto section="335"/> immediately.
+		</if>
+		If not, <tick/>, and read on.
+	</p>
+	<p>
+		The crew nervously turns the ship about. You head straight for the ghost ship. As you draw nearer, it seems to fade away, dissolving around you as you cut through its position. It was just an illusion, presumably set here to scare people away from the Isle of Mystery. Your men give sighs of relief. They eye you with new respect - your courage has inspired them.
+	</p>
+	<p>
+		<if crew="poor">
+			If the crew quality is currently poor, you can
+			<buy crew="average" shards="0">upgrade it to average</buy>;
+		</if>
+		<elseif crew="average">
+			an average quality crew can be
+			<buy crew="good" shards="0">upgraded to good</buy>;
+		</elseif>
+		<elseif crew="good">
+			and a good quality crew can be
+			<buy crew="excellent" shards="0">upgraded to excellent</buy>.
+		</elseif>
+		Note the change on your Ship&#8217;s Manifest, if applicable. If the crew is already of excellent quality, there is no further improvement.
+	</p>
+	<p>When you are ready, <goto section="296"/>.</p>
+</section>

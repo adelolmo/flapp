@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="269">
+	<p>
+		Most are reluctant to go, but you find a pair of doughty fellows from Haggart&#8217;s Corner who are too simple to understand fear. They follow you up into the rigging, from where you climb up the flying ship&#8217;s anchor chain.
+	</p>
+	<p>
+		The deck is empty except for swirls of pearly mist. Glancing down, you can just make out the shadow of you own vessel under the blanket of fog. One of the seamen with you coughs and says, &#8216;The air&#8217;s perilous thin, skipper. Best shake a leg.&#8217;
+	</p>
+	<p>
+		<if codeword="Calcium" not="t">
+			<lose stamina="1">Lose 1 Stamina point</lose> unless you have the codeword Calcium.
+		</if>
+	</p>
+	<choices>
+		<choice section="228">Go back down and be on your way</choice>
+		<choice section="288">Explore below decks</choice>
+	</choices>
+</section>

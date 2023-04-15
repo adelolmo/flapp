@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="481">
+	<p>
+		You give each man a biscuit from the cabin boy's locker and tell him to swallow it. One of the ordinary seamen, a hulking fellow called Timung, is unable to do so. Guilt has left his mouth too dry.
+	</p>
+	<p>
+		Later, a gold chain that belonged to the victim is found under Timung&#8217;s pillow, showing that his motive was simple theft. You have no compunction about casting the villain over board to try his luck in battle with the sharks.
+	</p>
+	<p>
+		<training ability="thievery" dice="2"/>,
+		and if you get higher than your current THIEVERY score, increase it by 1. Then <goto section="188"/>.
+	</p>
+</section>

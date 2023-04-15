@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="282">
+	<p>The shade's form glows more brightly. 'So be it, coward!'</p>
+	<p><difficulty ability="sanctity" level="15"/>.</p>
+	<p>
+		<success>
+			If you make the roll, the shade does not dare approach
+			you and you can depart in safety:
+			<goto section="260"/>.
+		</success>
+		<failure>
+			Otherwise, the shade drifts towards you and seizes your arm in a grip of ice. Your arm goes numb and you feel your very being begin to ebb. <lose ability="*" amount="1" fatal="t">Lose 1 point from each ability</lose>, permanently - if any falls to zero, then the spirit drain has proved fatal.
+		</failure>
+	</p>
+	<p>If you survive, <goto section="260"/>.</p>
+</section>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="205">
+	<set var="a" value="-armour"/>
+	The evil bald villagers pelt you with rocks, hoping to rob you.
+	<random dice="2" var="x">
+		<adjust amount="a"/>
+	</random> and subtract your armour&#8217;s Defence bonus, if any.
+	The result is <lose stamina="x">how many Stamina points you lose</lose>
+	for the stoning.
+	If you survive, you hurry away.
+	<choices>
+		<choice section="228">Take the path into the wood</choice>
+		<choice section="23">Leave this region</choice>
+	</choices>
+</section>

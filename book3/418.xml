@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="418">
+	<random dice="2">
+		<adjust ability="rank"/>
+		<adjust crew="average" amount="1"/>
+		<adjust crew="good" amount="2"/>
+		<adjust crew="excellent" amount="3"/>
+	</random>
+	and add your Rank. Add 1 to the total if you have an average crew, 2 if you have a good crew, or 3 if you have an excellent crew.
+	<outcomes>
+		<outcome range="1-6" section="474">The pirates overtake you</outcome>
+		<outcome range="7+" section="13">You outrun them</outcome>
+	</outcomes>
+</section>

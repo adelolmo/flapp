@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="108">
+	<p>
+		To find out how well your investments have done,
+		<random>
+			<adjust god="The Three Fortunes" amount="1"/>
+			<adjust codeword="Brush" amount="1"/>
+			<adjust codeword="Almanac" amount="2"/>
+			<adjust codeword="Catalyst" amount="3"/>
+		</random>.
+		Add 1 to the dice roll if you are an initiate of the Three Fortunes. Also add 1 if you have the codeword <i>Brush</i>, add 2 if you have the codeword <i>Almanac</i>, and add 3 if you have the codeword <i>Catalyst</i>.
+	</p>
+	<outcomes>
+		<outcome range="2-3">
+			<adjustmoney name="2.85" multiply="0">
+				Lose entire sum invested
+			</adjustmoney>
+		</outcome>
+		<outcome range="4-5">
+			<adjustmoney name="2.85" multiply="0.5">
+				Loss of 50%
+			</adjustmoney>
+		</outcome>
+		<outcome range="6-7">
+			<adjustmoney name="2.85" multiply="0.75">
+				Loss of 25%
+			</adjustmoney>
+		</outcome>
+		<outcome range="8-9">
+			<adjustmoney name="2.85" multiply="0.9">
+				Loss of 10%
+			</adjustmoney>
+		</outcome>
+		<outcome range="10-11">
+			Investment remains unchanged
+		</outcome>
+		<outcome range="12-13">
+			<adjustmoney name="2.85" multiply="1.25">
+				Profit of 25%
+			</adjustmoney>
+		</outcome>
+		<outcome range="14-15">
+			<adjustmoney name="2.85" multiply="1.75">
+				Profit of 75%
+			</adjustmoney>
+		</outcome>
+		<outcome range="16+">
+			<adjustmoney name="2.85" multiply="2.5">
+				Profit of 150%
+			</adjustmoney>
+		</outcome>
+	</outcomes>
+	<p>
+		Now <goto section="85"/>, where you can withdraw the sum written in the box there after adjusting it according to the result rolled.
+	</p>
+</section>

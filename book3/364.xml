@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="364">
+	<p>
+		You slam open the door and go marching straight up to Lauria&#8217;s table. Ignoring her companion, you launch straight into a rant which eloquently expresses your feelings towards her. You don&#8217;t trouble with niceties; your oaths and curses are such that even the shameless Lauria starts to blush.
+	</p>
+	<p>
+		Her elderly companion removes his monocle and peers at you in amazement.
+	</p>
+	<p>&#8216;Look, this just won&#8217;t do,&#8217; he says.</p>
+	<p>
+		You turn to give him a piece of your mind too, but you find yourself staring at a treetrunk covered in blue moss&#8212;
+	</p>
+	<p>
+		You look all around. What happened to the tavern? All of a sudden you&#8217;re in the middle of a dense forest!
+	</p>
+	<p><goto section="697"/>.</p>
+</section>

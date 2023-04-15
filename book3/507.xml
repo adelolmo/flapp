@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="507">
+	<p>
+		You descend into a small chamber where some boxes are stacked up. Four men who are playing cards by the light of an oil lamp turn to you with startled looks. Before you can say a word, they have drawn cudgels from inside their jerkins and are advancing to do business.
+	</p>
+	<p>
+		<difficulty ability="combat" level="13">
+			Make a COMBAT roll at a Difficulty of 13
+		</difficulty>.
+	</p>
+	<outcomes>
+		<success section="579"/>
+		<failure section="597"/>
+	</outcomes>
+</section>

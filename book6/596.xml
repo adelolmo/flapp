@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="596">
+	<p>
+		The horsemen chase you for miles across the nebulous landscape. To escape their stinging spears you are forced to abandon every possession and all the money you are carrying. At last you lose your tormentors in a bank of fog. Their excited cries and the fierce snorts of their steeds gradually recede into the distance. The aftermath of your ordeal leaves you miserable and trembling, glad to have got away with your life.
+	</p>
+	<p>
+		The fog lifts and you find you are wandering the city streets. A cock crows and people start to open up their shops. They are astonished to see an exhausted and haunted-eyed wanderer stumbling by.
+	</p>
+	<p>
+		<lose item="*" shards="*">
+			Cross off all your possessions and money
+		</lose>
+		before <goto section="79">turning to 79</goto>.
+	</p>
+</section>

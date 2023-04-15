@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="216">
+	<p>
+		You are on a road that stretches across the downs between Haggart&#8217;s Corner and the coast.
+	</p>
+	<p><random type="travel"/> for encounters:</p>
+	<outcomes>
+		<outcome range="2-6" section="622">Wandering priests</outcome>
+		<outcome range="7-8" section="127">Uneventful journey</outcome>
+		<outcome range="9-12" section="646">Knights of Nagil</outcome>
+	</outcomes>
+</section>

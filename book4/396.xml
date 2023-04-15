@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="396">
+	<p>
+		You wait until nightfall to make your move. First, you will have to sneak into the stockade and find Beladai&#8217;s tent.
+	</p>
+	<p><difficulty ability="thievery" level="14"/>.</p>
+	<outcomes>
+		<success section="483"/>
+		<failure section="638"/>
+	</outcomes>
+</section>

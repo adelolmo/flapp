@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="212">
+	<p>
+		<if codeword="Enigma">If you have the codeword Enigma, <goto section="18"/> immediately.</if> If not, read on.
+	</p>
+	<p>
+		You come across one of the country houses of a masked noble of Uttaku. You meet a noble called Hemmuwas Tamalkaya, an artificer of magic. He wears a mask shaped like a crescent moon, with a pointed forehead and pointed chin. He shows you his workshop. On a table lies a huge iron man, the golem he is working on.
+	</p>
+	<p>
+		'To complete my enchantment of the iron golem, I need some selenium ore. Perhaps you have some? I will pay you well for it,' says Hemmuwa Tamalkaya.
+	</p>
+	<p>
+		<if item="selenium ore">If you have some <b>selenium ore</b>, and want to give it to him, <goto section="132" force="f"/>.</if> If not, you leave. <goto section="443"/>.
+	</p>
+</section>

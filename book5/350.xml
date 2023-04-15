@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="350">
+	<p>
+		You are thrown into a dank and dirty cell, deep below the city. You can hear the sea crashing at the outside walls of the prison complex. You will be taken before the Arbiters of the Word of Ebron, the magistrates of Uttaku.
+	</p>
+	<p>
+		<if title="Masked Lord|Masked Lady|blue skin">If you have blue skin or the title Masked Lord or Masked Lady, <goto section="57"/>.</if> If not, <goto section="204"/>.
+	</p>
+</section>

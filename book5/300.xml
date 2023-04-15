@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="300">
+	<p>
+		The entrance to the palace is set into the bottom of one of the great buttresses upon which the Spider Palace rests, with stairs that lead up the side of it, all the way to the top. The stairs are lined with guards.
+	</p>
+	<p>
+		<if title="Masked Lord|Masked Lady">If you have the title Masked Lord or Masked Lady, <goto section="224"/>.</if> If not, <goto section="41"/>.
+	</p>
+</section>

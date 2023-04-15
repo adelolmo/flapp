@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="161">
+	The wolf crouches at the foot of the stairs and watches you with luminous green eyes.
+	<if item="green medallion">
+		If you have a <b>green medallion</b>,
+		<goto section="230"/>.
+	</if>
+	If not, <goto section="207"/>.
+</section>

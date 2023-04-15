@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="491">
+	<p>
+		You cross the bridge leading to Lord Yoritomo&#8217;s audience hall. Here he sits among his generals, absorbed day and night in planning the battle for dominance of these islands.
+	</p>
+	<p>
+		<if item="sealed letter">
+			If you have a <b>sealed letter</b>,
+			<goto section="51"/>.
+		</if>
+		If not, <goto section="71"/>.
+	</p>
+</section>

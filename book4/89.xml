@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="89" tag="temple">
+	<p>
+		The temple to Nisoderu, Goddess of the Rising Sun, is built around an open courtyard with a great shrine in the middle, covered in lit candles. Inside, a hundred nuns, dressed in flowering white robes, and wearing elaborate, wide-brimmed hats, sing a continuous chant in praise of her. The goddess is depicted everywhere as a beautiful woman with a face that shines like the sun. She represents not only the sun, but piety, faith and purity.
+	</p>
+	<p>
+		The nuns of Nisoderu are skilled in the ways of petitioning the goddess to bring the dead back to life.
+	</p>
+	<p>
+		If you are a Priest by profession, the high priestess will give you an audience.
+	</p>
+	<choices>
+		<choice profession="Priest" section="618">Speak to the high priestess (Priests only)</choice>
+		<choice section="125">Become an initiate of Nisoderu</choice>
+		<choice section="165">Renounce her worship</choice>
+		<choice section="223">Seek a blessing</choice>
+		<choice section="268">Arrange a resurrection deal</choice>
+		<choice section="58">Leave the temple</choice>
+	</choices>
+</section>

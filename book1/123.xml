@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="123">
+	<p>
+		This is the east bank of the River Grimm, near its source in the Spine of Harkun, far to the north.
+	</p>
+	<p>
+		You reach a ford where you can travel to the west bank for 1 Shard. You could try swimming across instead, but the current is strong: you need to succeed at a <if book="2"><difficulty ability="scouting" level="10" force="f">SCOUTING roll at a Difficulty of 10</difficulty></if> to do so.
+	</p>
+	<choices>
+		<failure book="2" section="76">Failed attempt to swim</failure>
+		<success book="2" section="53">Swim across</success>
+		<choice shards="1" book="2" section="53">Pay to cross</choice>
+		<choice section="276">East into the wilderness</choice>
+		<choice section="3">North to the mountains</choice>
+		<choice section="333">Follow the riverbank south</choice>
+	</choices>
+</section>

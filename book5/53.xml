@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="53">
+	<p>From the southern Grumes, you may strike out in all directions.</p>
+	<choices>
+		<choice section="444">South-east to Aku</choice>
+		<choice section="334">South-west</choice>
+		<choice section="100">West to Kunrir</choice>
+		<choice section="438">East across open country</choice>
+		<choice section="126">North-east to the Crags of the Long Homes</choice>
+		<choice section="714">North along the Grumes</choice>
+	</choices>
+</section>

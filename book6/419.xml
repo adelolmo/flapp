@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="419">
+	<p>
+		The boat takes you upriver as far as a little village, where you are made welcome by the locals who are curious for any news. You stay with them for a few days, regaling them with the tales of your travels.
+		<rest stamina="1">Recover 1 Stamina point</rest> if injured.
+	</p>
+	<p>
+		Soon it is time for the barge to make its return journey. &#8216;Will you come back with us?&#8217; asks the barge master. &#8216;Or do you intend to go looking for that shrine?&#8217;
+	</p>
+	<choices>
+		<choice section="79">Go back to Chambara</choice>
+		<choice section="517">Go further upriver</choice>
+		<choice section="672">Travel east</choice>
+		<choice section="337">Travel west</choice>
+	</choices>
+</section>

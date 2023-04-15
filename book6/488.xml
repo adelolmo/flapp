@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="488">
+	<p>
+		You enter a long hall whose walls sparkle and gleam. The dragon&#8217;s throne is a long stone bench against the far end of the chamber. Treasure lies in great heaps on the polished white tiles. You fill your haversack with between 1000 and 6000 Shards
+		(<random dice="1" var="x"/>
+		<set var="y" value="x*1000"/>
+		to determine the
+		<gain shards="y">amount</gain>).
+	</p>
+	<p>
+		<if codeword="Fresco">
+			If you have the codeword Fresco, <goto section="166"/>.
+		</if>
+		If not, <goto section="646"/>.
+	</p>
+</section>

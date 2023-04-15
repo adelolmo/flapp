@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="167">
+	<p>
+		The Uttakin soldiers include three of the Soulwatch, the secret police. They are remorseless in their pursuit of fugitives. You are wanted for renouncing the worship of Ebron, a foul crime in the eyes of the fanatic Uttakin.
+	</p>
+	<p>'Get the infidel heretic!' cries one of the Soulwatch.</p>
+	<p>You make yourself scarce.</p>
+	<p>
+		<rankcheck add="1">Roll one die and add 1</rankcheck>.
+		<failure>
+			If you score greater than your Rank, <goto section="454"/>.
+		</failure>
+		<success>Otherwise, <goto section="202"/>.</success>
+	</p>
+</section>

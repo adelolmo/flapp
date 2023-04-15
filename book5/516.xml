@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="516">
+	Actual physical combat is, of course, not allowed in the bathhouse, but barging and shouldering is common. You try to force your way through the ring of guards. <difficulty ability="combat" level="14" modifier="noweapon"/> (but you cannot add a bonus to your COMBAT rating for a weapon you might own).
+	<outcomes>
+		<success section="324"/>
+		<failure section="468"/>
+	</outcomes>
+</section>

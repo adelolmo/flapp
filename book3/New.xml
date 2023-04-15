@@ -1,0 +1,13 @@
+<section name="Over the Blood-Dark Sea" image="Dweomer.jpg">
+	<p>
+		To begin your adventure, you will need to choose a profession:
+	</p>
+	<choices>
+		<choice section="Jaluda">Warrior</choice>
+		<choice section="Damontir">Mage</choice>
+		<choice section="Arcadia">Priest</choice>
+		<choice section="Silas">Troubadour</choice>
+		<choice section="Greymalkin">Rogue</choice>
+		<choice section="Varkung">Wayfarer</choice>
+	</choices>
+</section>

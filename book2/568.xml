@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="568">
+	After several days you have the beginnings of a chart showing
+	the passes and trails through the mountains.
+	<tick codeword="Buzz">Get the codeword Buzz</tick> and
+	<goto section="518"/>.
+</section>

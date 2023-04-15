@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="22">
+	<p>
+		You are sage enough to recognise goblin magic when you see it; the image of the girl is a simple illusion often used by goblins and trolls to ensnare their prey.
+	</p>
+	<p>
+		You eyes search the darkness for a hidden assailant. Sure enough, worming its way up a narrow gully towards you is a snaggle-jawed troll. You put your shoulder to a nearby boulder and push, sending a small avalanche down the cleft at the aghast creature. It is dislodged and buried.
+	</p>
+	<p>
+		You hurry on before it gets free. <tick codeword="Earth">Tick the codeword Earth</tick> and <goto section="53"/>.
+	</p>
+</section>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="674">
+	<p>
+		You sneak through the shadows of the night, to make it to the courtyard at the gates. On either side of the massive steel doors, stairways spiral upward to the heavy stone towers that flank the gates. The winch-house is inside the tower on the right.
+	</p>
+	<p>
+		You crawl up the stairs, unseen, until you reach the winchhouse. Inside, there are huge cogs, ropes and levers for operating the doors. Two guards are on duty; you will have to get rid of them silently.
+	</p>
+	<p><difficulty ability="combat" level="15"/>.</p>
+	<outcomes>
+		<success section="119"/>
+		<failure section="530"/>
+	</outcomes>
+</section>

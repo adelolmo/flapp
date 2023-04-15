@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="660" image="660.jpg">
+	<p>
+		The camp is huge. Nomad warriors, winged Mannekyn People, soldiers of the king of Sokara and, at night only, many trau, rub shoulders here.
+	</p>
+	<p>
+		It is an easy matter to get into the camp - you are one among many attracted to the economic opportunity an army represents.
+	</p>
+	<p>
+		At the centre of the camp is a wooden stockade, where General Beladai and the other leaders of the army have their tents. This is well guarded.
+	</p>
+	<p>
+		There are plenty of armourers and weaponsmiths here, buying and selling for the army.
+	</p>
+	<market>
+		<header type="armour"/>
+		<armour name="leather" bonus="1" buy="50" sell="45"/>
+		<armour name="ring mail" bonus="2" buy="100" sell="90"/>
+		<armour name="chain mail" bonus="3" buy="200" sell="180"/>
+		<armour name="splint armour" bonus="4" buy="400" sell="360"/>
+		<armour name="plate armour" bonus="5" buy="800" sell="720"/>
+		<armour name="heavy plate" bonus="6" sell="1440"/>
+
+		<header type="weapon"/>
+		<weapon bonus="0" buy="50" sell="40"/>
+		<weapon bonus="1" buy="250" sell="200"/>
+		<weapon bonus="2" buy="500" sell="400"/>
+		<weapon bonus="3" sell="800"/>
+	</market>
+	<p>
+		After making any purchases or sales,
+		<if codeword="Dread">
+			if you have the codeword Dread, <goto section="544"/>.
+		</if>
+		<if codeword="Assault">
+			If not, but you have the codeword Assault, <goto section="588"/>.
+		</if>
+		Otherwise, there is nothing else to do but leave the camp. <goto section="145"/>.
+	</p>
+</section>

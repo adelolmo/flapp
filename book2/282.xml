@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="282" image="282.jpg">
+	High jagged peaks tumble up to the verge of heaven. Legend has
+	it that this mountain range is the exposed backbone of the
+	slaughtered god Harkun. As you clamber up a steep trail, you see
+	a waterfall gushing from high above. Something metallic glitters
+	in the rock face where the waterfall issues out.
+	<choices>
+		<choice section="508">Climb up for a closer look</choice>
+		<choice section="533">Ignore it</choice>
+	</choices>
+</section>

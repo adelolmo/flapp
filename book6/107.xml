@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="107">
+	Soldiers stand at the gate to the inner keep. They are wearing
+	the grey-and-mauve livery of the House of Wistaria and each
+	carries a spear whose blade shimmers like liquid fire in the
+	sunlight. Recognizing you as a person of distinction, they stand
+	aside to let you pass. <goto section="572"/>.
+</section>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="497">
+	<p>
+		<lose codeword="BladeSeven" hidden="true"/>
+		The flickering, flaming sword puts fire in your eyes and soul. While you carry it, add 2 to your CHARISMA. Note the
+		<weapon name="sword of fire">
+			<effect type="aura" ability="charisma" bonus="2"/>
+		</weapon>
+		on your Adventure Sheet.
+	</p>
+	<p>You swim back to shore. <goto section="268"/>.</p>
+</section>

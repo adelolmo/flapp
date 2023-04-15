@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="633">
+	<if codeword="Bastion|Brush">
+		If you have the codewords Bastion or Brush,
+		<group force="t">
+			<text>delete them and the codeword <i>Boysen</i></text>
+			<tick codeword="Bogus"/>
+			<lose codeword="Bogus"/>
+			<lose codeword="Bastion"/>
+			<lose codeword="Brush"/>
+			<lose codeword="Boysen"/>
+		</group>
+		and then <goto section="657"/>.
+	</if>
+	Otherwise <goto section="681"/>.
+</section>

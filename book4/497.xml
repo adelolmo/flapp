@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="497">
+	<p>
+		You wade up the beach, but not enough of your men have come with you. Panic has set in, and most of them are diving into the water with cries of &#8216;Every man for himself!&#8217;
+	</p>
+	<p>
+		Desperately, you try to take on the wreckers, but there are too many and it is not long before your men are cut down. You fall under a punishing blow to the back of the head, and everything goes black. <lose stamina="3">Lose 3 Stamina</lose>.
+	</p>
+	<p>If you still live, <goto section="582"/>.</p>
+</section>

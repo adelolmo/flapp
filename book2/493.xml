@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="493">
+	<p>
+		You will not find much of interest in the stores at Marmorek. &#8216;Pickaxes, candles, tents, buckets, sieves - all you need for mining and prospecting, friend!&#8217; declares the store-owner jovially.
+	</p>
+	<market>
+		<header type="armour"/>
+		<armour name="leather" bonus="1" buy="50" sell="45"/>
+		<armour name="ring mail" bonus="2" sell="90"/>
+
+		<header type="other"/>
+		<item name="pickaxe" buy="50" sell="40"/>
+		<tool name="compass" ability="scouting" bonus="1" buy="500" sell="450"/>
+		<item name="rope" buy="50" sell="45"/>
+		<item name="lantern" tags="light" buy="100" sell="90"/>
+		<item name="parchment" buy="2" sell="1"/>
+		<item name="candle" tags="light,useonce" buy="5" sell="4"/>
+		<item name="tent" buy="150" sell="135"/>
+	</market>
+	<p>
+		Items with no purchase price are not available locally. When you&#8217;re through here, <goto section="190"/>.
+	</p>
+</section>

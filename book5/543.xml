@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="543">
+	<p>
+		<lose codeword="Elegant">Lose the codeword Elegant</lose>
+		and cross off the <lose item="silver nightingale"/>.
+	</p>
+	<p>
+		You hand the bird over to the master. He is very pleased, and places it in a beautifully jewelled cage, where it begins to trill a sweet and melodic song.
+	</p>
+	<p>
+		'Well done, young adventurer!' he says. The master gives you <gain shards="300"/> as a reward.
+	</p>
+	<p>
+		Your travels with the nightingale have taught you much about music. <training ability="charisma"/>. If you score higher than your CHARISMA rating you may add one to that rating, permanently.
+	</p>
+	<p>
+		Your exploits have earned you a certain amount of fame in courtly circles.
+		<group>
+			Turn back to <b>401</b>
+			<tick name="UttakuStatus" count="1"/>
+			<goto section="401"/>
+		</group> and add 1 to your Status points in the box there.
+	</p>
+</section>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="592">
+	<p>
+		The eastern island, Toho, is a very different place from Yodoshi. In remote rural areas you see constant reminders of the threat of barbarian raids - in the pinched faces of the field workers, the stout palings defending each village, and in the occasional burntout husk of a harvest shrine.
+	</p>
+	<p><random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-6" section="269">A funeral</outcome>
+		<outcome range="7-9" section="611">All is quiet</outcome>
+		<outcome range="10-12" section="201">A storyteller</outcome>
+	</outcomes>
+</section>

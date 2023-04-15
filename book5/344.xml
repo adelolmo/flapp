@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="344">
+	You are spotted, and forced to run for your life. The dragon gives you a blast of its freezing breath on the way out, and you <lose stamina="3d">lose 3-18 Stamina points</lose> (the roll of three dice). If that is enough to kill you, <goto section="7" dead="t"/>. If you survive, you limp back to the archives to continue your work on the book. <goto section="301"/>.
+</section>

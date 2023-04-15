@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="690">
+	The sky is filled with grey scudding clouds, racing ahead of the
+	wind like ghostly galleons in full sail.
+	<choices>
+		<choice section="496">Go north</choice>
+		<choice section="521">Go south</choice>
+		<choice section="446">Go east</choice>
+		<choice section="546">Go west</choice>
+	</choices>
+</section>

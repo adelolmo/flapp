@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="479">
+	They seem quite alarmed to see you charge forward undaunted. As your first blow lands solidly and you hear a satisfying grunt of pain, you know for a fact that these are no ghosts that you are facing, but people of flesh and blood. Fight them one at a time:
+	<fight name="First Trickster" combat="2" defence="3" stamina="3"/>
+	<fight name="Second Trickster" combat="2" defence="3" stamina="2"/>
+	<fight name="Third Trickster" combat="2" defence="3" stamina="2"/>
+	If you win, <goto section="171"/>. If you lose, you are dead, unless you have a <resurrection>resurrection deal</resurrection>.
+</section>

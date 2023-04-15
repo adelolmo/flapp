@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="427">
+	<p>
+		Since the High King has returned, the land is flourishing. Farmers till the soil, and merchants peddle their wares from Thurlings to Spatterdash with gusto. Columns of knights and footsoldiers are rooting out the last of the mercenaries still in the pay of the Uttakin, though many of them have gone over to the High King.
+	</p>
+	<p>
+		<if codeword="Emerald">If you have the codeword Emerald, <goto section="563"/> immediately.</if> If not, <goto section="346"/>.
+	</p>
+</section>

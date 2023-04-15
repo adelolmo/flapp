@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="332">
+	<p>
+		The apparition wields a glowing white sword in its spectral hands. It seems to grow in size, threatening to envelop you completely.
+	</p>
+	<p>
+		<difficulty ability="sanctity" level="14">
+			<adjust item="amulet of Ebron" value="1"/>
+		</difficulty>
+		(if you have an <b>amulet of Ebron</b>, you can add
+		one to your roll).
+	</p>
+	<outcomes>
+		<success section="520"/>
+		<failure section="489"/>
+	</outcomes>
+</section>

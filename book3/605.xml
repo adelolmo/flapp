@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="605">
+	<p>
+		The Furies raise their brass-studded whips and give you a lashing just to instil moral rectitude. Then, as the sun emerges again, they fly off cackling with laughter. Where their feet touched the deck there are bloody prints that no amount of scrubbing will clean away.
+	</p>
+	<p>
+		<lose stamina="2d">Lose 2-12 Stamina points</lose>
+		for the whipping and, if you survive, <goto section="321"/>.
+	</p>
+</section>

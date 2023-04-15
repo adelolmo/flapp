@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="168">
+	<p>
+		As you stretch out your hand, you loose your footing, and plummet to the ground, right between the two golems! They turn their heads with a grating rumble, and open their mouths to speak. The sound that comes out is a bell-like gonging that alerts the temple. You pick yourself up and fall back on the last resort of a rogue - running for your life! Warrior priests swarm out of the temple in pursuit.
+	</p>
+	<p>
+		<rankcheck dice="1" add="-1">Roll one die</rankcheck>, and subtract one from the total.
+		<success>
+			If the result is less than or equal to your Rank, <goto section="395"/>
+		</success>, otherwise <goto section="551"/>.
+	</p>
+</section>

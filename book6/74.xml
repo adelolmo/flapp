@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="74">
+	<p>
+		Palm trees line the paths between the rice paddies. Off to the north, a vast mountain as insubstantial as a shadow at dawn lazily trails a plume of dark smoke across the blue sky. &#8216;That is Lord Thunder,&#8217; a peasant tells you. He is referring to the god of the volcano.
+	</p>
+	<p><random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-8" section="632">A quiet journey</outcome>
+		<outcome range="9-12" section="231">A near disaster</outcome>
+	</outcomes>
+</section>

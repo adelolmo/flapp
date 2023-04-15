@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="249">
+	<p>
+		The hull breaks into splinters and seawater gushes into the hold. Shuddering like a wounded beast, the ship begins to sink. The terrified cries of your crewmen are lost in the crash of the waves closing over your head.
+		<lose ship="t">Cross off your ship and crew</lose>;
+		they are lost. You can think of nothing now but saving yourself.
+	</p>
+	<p>
+		<rankcheck dice="2"/>.
+		<failure>
+			If the score is greater than your Rank, you are drowned - <goto section="123"/>.
+		</failure>
+		<success>
+			If the score is less than or equal to your Rank, you are swept miraculously towards a grim surflashed shore ringed with jagged reefs.
+			<lose stamina="2d">Lose 2-12 Stamina points</lose>
+			and (if you can survive that) <goto section="313"/>.
+		</success>
+	</p>
+</section>

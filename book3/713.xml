@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="713">
+	<p>
+		At last you manage to break free of the magic that has held you frozen. You cannot tell how much time has passed, but there is no sign of the Gorgons now.
+	</p>
+	<p><goto section="449"/>.</p>
+</section>

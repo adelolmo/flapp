@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="198">
+	<p>
+		Musing to yourself about the strange woman, you pause at the end of an alleyway to buy roast chestnuts as you watch her striding off into the evening smog enveloping the city.
+	</p>
+	<p>&#8216;That&#8217;ll be a Shard,&#8217; grunts the chestnut vendor.</p>
+	<p>
+		You reach for your money pouch. Then your hands fumble in panic. The pouch has gone! After a moment the truth dawns on you. You stare grimly in the direction that the black-garbed woman went, but there is no sign of her now.
+	</p>
+	<p>
+		&#8216;I&#8217;ll have them chestnuts back then!&#8217; growls the vendor when he sees you can&#8217;t pay.
+	</p>
+	<p>
+		<tick codeword="StillInYellowport" hidden="t"/>
+		<lose shards="*">Lose all the money you were carrying</lose>
+		and <goto section="10"/>.</p>
+</section>

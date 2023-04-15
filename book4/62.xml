@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="62">
+	<p>
+		The faery hound snaps at you with its vicious-looking teeth. You find it hard to make out where to strike the shadowy beast in this gloom.
+	</p>
+	<fight name="Faery Hound" combat="7" defence="10" stamina="12"/>
+	<p>
+		If you win, you can step through the basalt door it guards by <goto section="108">turning to 108</goto>. If you lose, <goto section="7" dead="t"/>.
+	</p>
+</section>

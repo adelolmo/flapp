@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="271">
+	There are too many to deal with, so you try to get through the territory of the creags as fast as you can, but you take a battering in the process. <lose stamina="3d">Lose 3-18 Stamina points</lose> (the roll of three dice). If that kills you, <goto section="7" dead="t"/>. If not, you leave the creags behind, and soon you come to the five-trunked popra tree. <goto section="392"/>.
+</section>

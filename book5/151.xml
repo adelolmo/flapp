@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="151">
+	<p>
+		You try a lilting, whistling tune, in an attempt to mimic the song of the nightingale, a near impossible task!
+	</p>
+	<p>
+		<difficulty ability="charisma" level="16">
+			<adjust profession="troubadour" value="4"/>
+		</difficulty>. You can add 4 to the die roll if you are a Troubadour.
+	</p>
+	<outcomes>
+		<success section="285"/>
+		<failure section="391"/>
+	</outcomes>
+</section>

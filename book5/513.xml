@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="513">
+	<p>
+		You are of too high a rank to be affected by this. The Soulwatch, black-robed, demon-masked secret police of the Church of Ebron, turn up to sort out the situation. The lady is led away, grieving.
+	</p>
+	<p>
+		'I am sorry for this trouble, Exalted One,' whispers one of the Soulwatch to you, 'but someone of your station really should not be selling services in the bazaar.'
+	</p>
+	<p>He takes his leave. <goto section="444"/>.</p>
+</section>

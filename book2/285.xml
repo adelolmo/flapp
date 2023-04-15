@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="285" dock="Metriciens">
+	You browse through the warehouses in Metriciens. To turn a
+	profit you must buy goods where they are cheap and sell them
+	where they are in demand. Prices are quoted for single Cargo
+	Units. Such large quantities can be transported only by ship.
+	<market>
+		<header type="cargo"/>
+		<trade cargo="furs" buy="210" sell="189"/>
+		<trade cargo="grain" buy="90" sell="81"/>
+		<trade cargo="metals" buy="850" sell="765"/>
+		<trade cargo="minerals" buy="650" sell="585"/>
+		<trade cargo="spices" buy="800" sell="720"/>
+		<trade cargo="textiles" buy="250" sell="225"/>
+		<trade cargo="timber" buy="260" sell="234"/>
+	</market>
+	When you have completed your business here, <goto section="33"/>.
+</section>

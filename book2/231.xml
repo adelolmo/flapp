@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="231">
+	<p>
+		The elves are watching you, as invisible as ghosts in the foliage. They cruelly amuse themselves by rearranging your nose so that it looks like a carrot pointing straight up into the air. You can only undo this spell by
+		<difficulty ability="magic" level="13">
+			making a MAGIC roll now at a Difficulty of 13
+		</difficulty>.
+		<failure>
+			If you fail the roll, you will be the butt of ridicule for everyone you meet and you must therefore
+			<lose ability="charisma" amount="1">
+				lose 1 from your CHARISMA score
+			</lose>.
+		</failure>
+	</p>
+	<p>Now <goto section="93"/>.</p>
+</section>

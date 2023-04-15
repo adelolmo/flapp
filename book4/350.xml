@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="350">
+	<p>
+		<if codeword="Deep|Dim">
+			If you have the codeword Deep or Dim, <goto section="289"/>.
+		</if>
+		If not, read on.
+	</p>
+	<p>
+		You come to a network of underground tunnels that run under the mountain.
+	</p>
+	<p>
+		<!-- Make sure any other light-sources are added here! -->
+		It is pitch dark, and you must have a source of light, such as a lantern or candle, to proceed.
+		<if not="t" item="?" tags="light">
+			If not, you will have to go back - turn to <goto book="1" section="3"/>.
+		</if>
+	</p>
+	<p>
+		If you have a source of light, you can explore the tunnels by <goto section="174">turning to 174</goto>.
+	</p>
+</section>

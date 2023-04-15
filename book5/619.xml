@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="619">
+	Your vessel is skirting the south coast of Uttaku. Close at hand is a fissure in the cliff face. Inside the fissure, at the bottom of a gorge with sheer crags on either side, lies Aku harbour.
+	<choices>
+		<choice section="178">Put in at Aku</choice>
+		<choice section="95">Sail east</choice>
+		<choice section="400">Sail west around the coast</choice>
+		<choice book="3" section="78">Head south, out to sea</choice>
+	</choices>
+</section>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="394">
+	<p>
+		When you and your crew join the fray, the battle is short-lived. The Sokarans are overpowered, and taken as slaves by the pirates.
+	</p>
+	<p>
+		The pirate captain, Verin Crookback, is a short, bull-chested man. He walks like a hunchback, because of a crippling wound he took to the shoulder blade, many years ago. He thanks you for your help and rewards you with a share of the booty of the Sokaran war ships - only <gain shards="50"/>. He also hands you a <item name="silver medallion"/>.
+	</p>
+	<p>
+		&#8216;If you ever go to the Kingdom o&#8217; the Reavers,&#8217; he says, &#8216;flash this about - one of the lads&#8217;ll recognize it. Villains, the lot of them, but they&#8217;ll honour one who carries the medallion. Someone will bring you to me - I&#8217;ll help you, if you need it.&#8217;
+	</p>
+	<p>
+		The pirates take their leave, and you sail on. <goto section="420"/>.
+	</p>
+</section>

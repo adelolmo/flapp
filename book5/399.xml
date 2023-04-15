@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="399">
+	<p>
+		The wizard pauses. 'You are right. Here is one hundred Shards for the ore,' he says, throwing you a <gain shards="100">bag of gold</gain>. 'Now I have kept my word, and I can get on with taking out your heart!'
+	</p>
+	<p>He starts a spell. <goto section="708"/>.</p>
+</section>

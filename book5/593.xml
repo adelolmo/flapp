@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="593">
+	<p>
+		The Soulwatch is very interested in what you have to say. When it examines the texts, if finds you are right. The administrator is arrested and tried for supreme heresy. He suffers the ultimate penalty - a horrible death.
+	</p>
+	<p>
+		You are well rewarded by the Soulwatch. You are set free and given a <item name="scroll of Ebron"/>, <gain shards="150"/>, and a <weapon name="blessed mace" bonus="3"/>. <goto section="444"/>.
+	</p>
+</section>

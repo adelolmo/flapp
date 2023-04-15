@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="578">
+	<p>
+		You realise you have made a mistake. The hut hurtles towards you with frightening speed, and an eerie howling fills the air - Gura Goru, spurring her hut onwards. There is nowhere to run to, and its thorned legs batter you to the ground.
+	</p>
+	<p>
+		<lose stamina="2d">Roll two dice</lose> and lose that many Stamina points.
+	</p>
+	<p>
+		If you are killed, <goto section="7" dead="t"/>.
+		If you still live, Gura Goru races off, laughing cruelly. <goto section="92"/>.
+	</p>
+</section>

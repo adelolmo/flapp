@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="363">
+	Noboro Monastery stands in a secluded valley. The buildings are
+	made of unpainted wood and the green tiles of the roofs blend
+	with the surrounding trees, making the monastery almost
+	invisible at a distance.
+	<choices>
+		<choice section="383">Stop at the monastery</choice>
+		<choice section="211">Continue on your way</choice>
+	</choices>
+</section>

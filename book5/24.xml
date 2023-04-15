@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="24">
+	<p>
+		<tick codeword="5.Tomb" hidden="t"/>
+		This barrow contains a circular chamber at its centre - all around the walls hang decaying corpses. The fresh ones are garrotted and dangle from a hangman's noose - the skeletons grin from gibbets. You feel your own throat tighten as a dark figure emerges from the gloom, thin and tall. His magic chokes you as he draws a long pale sword. You must fight.
+	</p>
+	<fight name="Hangman" combat="13" defence="15" stamina="25"/>
+	<p>
+		<fightround pre="t">
+			Before each combat round,
+			<difficulty ability="sanctity" level="17" var="hang"/>.
+			Whenever you fail,
+			<failure var="hang">
+				take the amount by which you failed the roll as
+				<lose stamina="-hang">Stamina damage</lose>.
+			</failure>
+		</fightround>
+	</p>
+	<p>
+		If you lose, <goto section="7" dead="t"/>.
+		If you win, <tick codeword="Ectoplasm"/>, and you leave this foul place - <goto section="471"/>.
+	</p>
+</section>

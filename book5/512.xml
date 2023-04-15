@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="512">
+	<p><tick codeword="Exorcise"/>.</p>
+	<p>
+		You manage to banish the ghoul by reciting the words of an ancient scripture of exorcism. It lets out an unholy screech as if the words alone are burning it like acid. Finally the net goes limp and the ghoul disappears in a cloud of putrid yellow mist.
+	</p>
+	<p>
+		<training ability="sanctity"/>. If you score higher than your SANCTITY rating, you can add one to that rating. The ice ghoul leaves a nugget of <item name="selenium ore"/> behind as it dissipates. Note it on your Adventure Sheet. When you are ready, <goto section="47"/>.
+	</p>
+</section>

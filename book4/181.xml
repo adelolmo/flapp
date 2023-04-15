@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="181" boxes="1">
+	<p>
+		<if ticks="1">
+			If there is a tick in the box,
+			<goto section="622"/> immediately.
+		</if>
+		If not, <tick/>, and read on.
+	</p>
+	<p>
+		You find a barque beached on the shore, its hull breached. Huddled around a meagre fire are several desperate-looking men, cold and half-starved, wrapped in thin blankets and sails from the ship. They are burning some of the ship's timbers. As you approach, they glance up but barely acknowledge your presence, so lost in despair are they.
+	</p>
+	<choices>
+		<choice section="669">Leave them in their misery</choice>
+		<choice section="380">Try to rouse them into action</choice>
+	</choices>
+</section>

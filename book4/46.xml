@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="46">
+	You are not sure if the beacon is in the right place or not.
+	<choices>
+		<choice section="79">Sail straight for the beacon</choice>
+		<choice section="208">Follow your own route</choice>
+	</choices>
+</section>

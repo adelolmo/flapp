@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="714">
+	<p>
+		You are washed up on a narrow stretch of beach at the back of a bay surrounded by high mist-shrouded peaks.
+	</p>
+	<p>
+		A bottle has been swept up on to the shingle beside you. Though your fingers are trembling with cold, you manage to unscrew it. Inside you find a <item name="ship's deeds"><b>ship&#8217;s deeds</b></item>, which you can add to your list of possessions.
+	</p>
+	<p>
+		After resting to recover your strength, you pick your way up a series of steep paths until you can get a clear view of the island. To the north lies an expanse of glittering blue forest, so there can be no question where you are - Braelak, the Sorcerers&#8217; Isle. Nearer at hand is a tower built of obsidian blocks.
+	</p>
+	<choices>
+		<choice section="697">Enter the forest</choice>
+		<choice section="426">Go to the tower</choice>
+	</choices>
+</section>

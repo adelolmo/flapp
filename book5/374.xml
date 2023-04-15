@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="374">
+	<p>
+		'Well,' she says in a conspiratorial whisper, 'there's an old Uttakin treasure chest buried beneath that tree over there!' She points to the gnarled stump of a dead tree nearby. When you look back she suddenly changes shape with a puff of smoke. She turns into a small, brightly coloured butterfly, and flutters away on the breeze. You catch a tiny titter of laughter wafting towards you on the wind.
+	</p>
+	<p>
+		Note you have a
+		<curse name="Curse of Donkey's Ears">
+			<effect ability="charisma" bonus="-2"/>
+		</curse>, CHARISMA -2.
+		Reduce your CHARISMA by two until you can find a way to lift the curse.
+	</p>
+	<choices>
+		<choice section="553">Investigate the dead tree</choice>
+		<choice section="393">Leave the area</choice>
+	</choices>
+</section>

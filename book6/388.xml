@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="388">
+	<p>
+		<set var="i" value="0"/>
+		The old couple tell you the tragic story of how their daughter drowned this very afternoon. It seems that a ghoul roams the district and unless a priest can be found to administer the last rites it will come in the night to devour the body.
+	</p>
+	<p>You offer to perform the rites yourself.</p>
+	<p>
+		<if god="Tyrnai"><set var="i" value="1"/></if>
+		<if god="Nagil"><set var="i" value="1"/></if>
+		<if title="Initiate of the Sage of Peace"><set var="i" value="1"/></if>
+		<if god="Chthonios"><set var="i" value="1"/></if>
+		<if god="Nergal"><set var="i" value="1"/></if>
+		<if god="Gashimra"><set var="i" value="1"/></if>
+		<if var="i" equals="1">
+			<difficulty ability="sanctity" level="12">
+				Make a SANCTITY roll at a Difficulty of 12
+			</difficulty>
+			if you are an initiate of Tyrnai, Nagil, the Sage of Peace, Chthonios, Nergal or Gashimra;
+		</if>
+		<else>
+			otherwise the
+			<difficulty ability="sanctity" level="18">
+				SANCTITY roll
+			</difficulty>
+			is at a Difficulty of 18.
+		</else>
+	</p>
+	<outcomes>
+		<success section="620"/>
+		<failure section="478"/>
+	</outcomes>
+</section>

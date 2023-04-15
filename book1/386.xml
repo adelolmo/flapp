@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="386">
+	<p>
+		There is no sign of Lauria, but you do find an open trunk and a window with a knotted rope dangling from it. So, she found the treasure and then made her escape, leaving you behind to face the music. You allow yourself a tight-lipped smile as you hear her voice echoing leadenly from far off in the fog: &#8216;There&#8217;s a thief at Master Talanexor&#8217;s house! Quick!&#8217;
+	</p>
+	<p>
+		<tick codeword="StillInYellowport" hidden="t"/>
+		You&#8217;ll settle the score with Lauria at a future date. For now, you just have time to escape before a patrol arrives. <tick codeword="Ashen">Gain the codeword Ashen</tick> and <goto section="10"/>.
+	</p>
+</section>

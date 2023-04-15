@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="329">
+	<p>
+		The tiger leads you to the back of its cave where there is a pile of gold and jewels. It allows you to stuff several handfuls of this treasure into your haversack in exchange for the mirror. Cross the
+		<lose item="mirror of the Sun Goddess"/>
+		off your Adventure Sheet and get
+		<gain shards="8000"/> in its place.
+	</p>
+	<p>
+		The tiger watches to see that you leave its mountain forthwith. <goto section="275"/>.
+	</p>
+</section>

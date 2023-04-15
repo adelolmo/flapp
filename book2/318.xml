@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="318">
+	<p>
+		The high priestess sweeps forward and divests you of the three talismans. &#8216;What a thoughtful gift!&#8217; she trills. &#8216;The goddesses will be so pleased.&#8217;
+	</p>
+	<p>
+		Cross the
+		<lose item="four-leaf clover"/>,
+		<lose item="silver horseshoe"/> and
+		<lose item="rabbit's foot charm"><b>rabbit&#8217;s foot charm</b></lose> off your Adventure Sheet. Later, you are strolling across the village green when a huge gold nugget whistles down out of the sky and thuds into the grass right in front of you.
+	</p>
+	<p>
+		&#8216;That&#8217;s handy, Harry,&#8217; remarks a nearby alewife to her husband.
+	</p>
+	<p>
+		You sell the nugget for <gain shards="999"/>.
+		After recording the money on your Adventure Sheet,
+		<goto section="81"/>.
+	</p>
+</section>

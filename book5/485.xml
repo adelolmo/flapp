@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="485">
+	<p>
+		A masked priest of the Chosen of Ebron informs you of the result of the rite.
+	</p>
+	<p>
+		'Ebron has honoured you! He has decided your time on this earth is over. You are to come into his holy presence sooner than you had perhaps anticipated.'
+	</p>
+	<p>
+		You are hauled off to the Red Garden for execution.
+		<goto section="170"/>.
+	</p>
+</section>

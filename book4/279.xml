@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="279">
+	<p>
+		<if codeword="Drop">
+			If you have the codeword Drop, <goto section="311"/> immediately.
+		</if>
+		If not, read on.
+	</p>
+	<p>
+		No one in the Severed Hand is prepared to talk to you. In fact, they take offence at your attentions, and you realize you had better leave before things turn ugly. <goto section="182"/>.
+	</p>
+</section>

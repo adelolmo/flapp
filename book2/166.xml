@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="166">
+	<p>
+		An old straight road, once used by the legions of Uttaku when they marched north to wreak devastation, stretches between Castle Ravayne and Wheatfields. Now the Uttakin are long gone. Grass stalks protrude through the old cobbles and birds chirp in the trees on either side of the road.
+	</p>
+	<p><random type="travel"/> for encounters:</p>
+	<outcomes>
+		<outcome range="2-8" section="447">A storyteller</outcome>
+		<outcome range="9-12" section="374">An uneventful journey</outcome>
+	</outcomes>
+</section>

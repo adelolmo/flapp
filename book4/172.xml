@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="172">
+	<p>
+		The inside of the pyramid is cool and dark.
+		<if codeword="Dwarf">
+			If you have the codeword Dwarf,
+			<goto section="646"/>.
+		</if>. If not, read on.
+	</p>
+	<p>
+		You have come to a long hall, painted with murals depicting the life and times of Xinoc, a priest-king of the old Shadar empire. At the far end is another archway. Shadar runes are carved around it, full of dire warnings and curses for those who dare walk through it.
+	</p>
+	<p>You can leave the pyramid by <goto section="472" force="f">turning to 472</goto>.</p>
+	<p>
+		If you want to go through the archway ahead,
+		<difficulty ability="magic" level="14"/>.
+	</p>
+	<outcomes>
+		<success section="479"/>
+		<failure section="505"/>
+	</outcomes>
+</section>

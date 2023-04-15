@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="144">
+	<p>
+		To the west, the Great Steppes stretch from horizon to horizon, tough plains grass marching as if forever across the flatlands. To the east, the Gemstone Hills mark the end of the steppes. You are not far enough north for the cold to be a serious problem, but you still need to hunt for food.
+	</p>
+	<p>
+		<difficulty ability="scouting" level="12"/>.
+		<success>
+			If you succeed, you find a wild hare to eat.
+		</success>
+		<failure>
+			If you fail, you go hungry and must
+			<lose stamina="1">lose 1 Stamina point</lose>.
+		</failure>
+	</p>
+	<choices>
+		<choice section="442">North</choice>
+		<choice section="145">South</choice>
+		<choice section="44">West, deeper into the steppes</choice>
+		<choice section="426">East to the Gemstone Hills</choice>
+	</choices>
+</section>

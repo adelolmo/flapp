@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="308">
+	<tick codeword="StillInYellowport" hidden="t"/>
+	The ratmen beat you into unconsciousness, and then toss you down an underground sewer outlet. You are washed up on the beaches outside Yellowport, where you come to. <lose staminato="1">You have 1 Stamina point left</lose>, and the ratmen have taken all the items and money that you were carrying. <lose item="*" shards="*">Cross them off</lose> your Adventure Sheet. Groggily, you make your way back into the city. <goto section="10"/>.
+</section>

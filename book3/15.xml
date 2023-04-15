@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="15">
+	<p>&#8216;What&#8217;s your game?&#8217; says the priestess with a handsome smile.</p>
+	<p>&#8216;Pardon me?&#8217;</p>
+	<p>
+		&#8216;Your game.&#8217; She fans the cards. &#8216;Maingauche, Black Death, Stake the Vampire ... How about Cudgel?&#8217;
+	</p>
+	<p>
+		The two of you play several fiercely contested rounds of the game Cudgel, said to be popular among pit fighters in Trefoille.
+	</p>
+	<p><random/>.</p>
+	<outcomes>
+		<outcome range="2-5" section="52">
+			<random dice="2" var="x">
+				Lose 2-12 Shards
+			</random>
+			<lose codeword="3.52.Loss" hidden="t"/>
+			<tick name="3.52.Loss" amount="x" hidden="t"/>
+		</outcome>
+		<outcome range="6-7" section="52">
+			<random dice="1" var="x">
+				Lose 1-6 Shards
+			</random>
+			<lose codeword="3.52.Loss" hidden="t"/>
+			<tick name="3.52.Loss" amount="x" hidden="t"/>
+		</outcome>
+		<outcome range="8-9" section="72">
+			<random dice="1" var="x">
+				Win 1-6 Shards
+			</random>
+			<lose codeword="3.72.Gain" hidden="t"/>
+			<tick name="3.72.Gain" amount="x" hidden="t"/>
+		</outcome>
+		<outcome range="10-12" section="72">
+			<random dice="2" var="x">
+				Win 2-12 Shards
+			</random>
+			<lose codeword="3.72.Gain" hidden="t"/>
+			<tick name="3.72.Gain" amount="x" hidden="t"/>
+		</outcome>
+	</outcomes>
+</section>

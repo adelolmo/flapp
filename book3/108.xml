@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="108">
+	<p>
+		You tie bundles of saplings together using rope made of plaited palm leaves Hollow gourds help to provide buoyancy. Commending your soul to the gods, you push the little raft out from shore and climb aboard. It is not so much like sailing as swimming with the aid of a float.
+	</p>
+	<p>
+		<random type="travel">
+			<adjust god="Molhern" amount="2"/>
+		</random>. Add 2 to the roll if you are an initiate of Molhern, god of craftsmen.
+	</p>
+	<outcomes>
+		<outcome range="2-5" section="123">The raft sinks</outcome>
+		<outcome range="6-8" section="158">Picked up at sea</outcome>
+		<outcome range="9+" section="180">You reach land</outcome>
+	</outcomes>
+</section>

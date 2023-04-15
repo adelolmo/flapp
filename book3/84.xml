@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="84" boxes="1">
+	<p><lose codeword="Cosy">Lose the codeword Cosy</lose>.</p>
+	<p>
+		<if ticks="0">
+			If the box above is empty, <tick>tick it</tick> and
+			<goto section="104"/>.
+		</if>
+		If it was already ticked, <goto section="433"/>.
+	</p>
+</section>

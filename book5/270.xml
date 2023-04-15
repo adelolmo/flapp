@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="406">
+	<p>
+		You remember a story you heard in Akatsurai about a magical toad creature that lived in a swamp and used illusions to trick people. It was defeated by a sage who knew that the toad-demon had to be standing just to the left of the illusion. He cut there with his sword instead of hitting the illusion itself, and the toad-thing became visible.
+	</p>
+	<p>
+		You try the same tactic and, sure enough, your blow strikes home. The illusion of the old woman disappears, and you are face to face with a hideous, man-sized toad demon. You must fight it.
+	</p>
+	<fight name="Toad-demon" combat="7" defence="9" stamina="15"/>
+	If you win, <goto section="490"/>.
+	If you lose, <goto section="7" dead="t"/>.
+</section>

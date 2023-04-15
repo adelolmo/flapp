@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="281">
+	<p>
+		You are slogging across the frozen wastes of the steppes. To the west, you can just make out a river, glinting on the horizon, and northwards, a pyramid juts up, breaking the flat skyline. The shades of twilight are closing in, at the end of the day.
+	</p>
+	<p><random dice="2" type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-5" section="202">Wild horses</outcome>
+		<outcome range="6-7" section="666">No event</outcome>
+		<outcome range="8-12" section="583">Running footsteps</outcome>
+	</outcomes>
+</section>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="766">
+	<p>
+		You hear a tale of a merchant who resolved to do business with the trau, the eldritch race that dwells in caverns below the world. Unfortunately the merchant did not foresee that the trau have no use for human coinage. They bundled him up and took him off to their subterranean lairs.
+	</p>
+	<p>
+		&#8216;What did they do with him?&#8217; you ask the man who is telling the story.
+	</p>
+	<p>
+		He&#8217;s not sure. &#8216;Boiled him down to make oil for their lamps, I expect.&#8217;
+	</p>
+	<p><goto section="48"/>.</p>
+</section>

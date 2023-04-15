@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="568">
+	<p>
+		Talanexor recoils in alarm. He had expected his reputation as a swift dispenser of fiery death to leave you cowed. He flicks his fingers and a globe of cold blue flames erupts from the ground at his feet.
+	</p>
+	<p>You turn aside, dazzled, and when you look again he has gone.</p>
+	<p>
+		<tick codeword="Cheese">Get the codeword Cheese</tick> and
+		<goto section="675"/>.
+	</p>
+</section>

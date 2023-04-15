@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="604">
+	<p>You profess your desire to take on the challenge.</p>
+	<p>
+		The adventurers all wish you luck, and the priest of Elnir gives you a blessing. Write <tick blessing="charisma"/> in the Blessings box on your Adventure Sheet. The blessing allows you to try again when you fail a CHARISMA roll. It is good for only one reroll. When you use the blessing, cross it off your Adventure Sheet. You can have only one CHARISMA blessing at any one time, so if you already have one you don't get another.
+	</p>
+	<p>You leave the hall, with Misgee as your guide. <goto section="36"/>.</p>
+</section>

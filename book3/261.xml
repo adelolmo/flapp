@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="261">
+	The cook relents and lets you sit in a corner of the kitchen. The
+	other scholars are impressed that you managed to charm even
+	the bad-tempered cook, and your reputation soars.
+	<training ability="charisma" dice="1"/>.
+	If the number rolled is higher than your CHARISMA score,
+	increase it by 1. Now <goto section="607"/>.
+</section>

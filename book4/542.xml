@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="542">
+	<p>
+		The Nomad&#8217;s Rest costs you 1 Shard a day. <rest stamina="1" shards="1">Each day you spend here</rest>, you can recover 1 Stamina point if injured, up to the limit of your normal unwounded Stamina score.
+	</p>
+	<p>
+		You hear a fireside tale about a tomb-robber who tried his luck at looting the City of Ruins, an ancient Shadar capital. He carried a flag or banner of the Shadar, and this was some protection - but not enough, for he was driven quite mad by the gibbering ghosts that are said to inhabit the ruin.
+	</p>
+	<p>When you are ready, <goto section="10"/>.</p>
+</section>

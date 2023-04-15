@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="318">
+	<p>
+		On a small island like this there is not much on sale, but at least the villagers fall over themselves to offer you a bargain.
+	</p>
+	<p>
+		<!-- add node to market that will mark 3.318.sold if an
+		     item with tag 318.free is sold -->
+		&#8216;Nothing is too good for our saviour!&#8217; declares one old lady with grateful tears in her eyes.
+	</p>
+	<market>
+		<header type="armour"/>
+		<armour name="leather" bonus="1" buytags="318.free" buy="0" sell="40"/>
+		<armour name="ring mail" bonus="2" buy="80" sell="80"/>
+		<armour name="chain mail" bonus="3" buy="150" sell="150"/>
+		<armour name="splint armour" bonus="4" sell="300"/>
+		<armour name="plate armour" bonus="5" sell="700"/>
+		<armour name="heavy plate" bonus="6" sell="1000"/>
+
+		<header type="weapon"/>
+		<weapon bonus="0" buytags="318.free" buy="0" sell="40"/>
+		<weapon bonus="1" buy="180" sell="180"/>
+		<weapon bonus="2" sell="280"/>
+		<weapon bonus="3" sell="400"/>
+
+		<header type="other"/>
+		<item name="candle" buytags="318.free,light,useonce" buy="0" sell="1"/>
+		<item name="rope" buytags="318.free" buy="0" sell="30"/>
+		<item name="lantern" tags="light" buy="75" sell="75"/>
+		<sold item="?" tags="318.free">
+			<tick codeword="3.318.sold"/>
+		</sold>
+	</market>
+	<p>When you have finished your business here, <goto section="20"/>.</p>
+</section>

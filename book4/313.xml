@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="313">
+	The golem grudgingly allows you to pass. Inside the fortress you find a <weapon name="sword" bonus="5"/>. Add this to your list of possessions and then hasten back to the ship by <goto section="191">turning to 191</goto>.
+</section>

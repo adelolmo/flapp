@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="185">
+	<p>
+		From here on the climbing gets much harder. Ice-laden wind from the peaks makes your fingers numb, and though you cling to the mountainside it returns a rough embrace.
+	</p>
+	<p>
+		<difficulty ability="scouting" level="14">
+			<adjust item="climbing gear" amount="1"/>
+		</difficulty>;
+		you can add 1 to the dice roll if you have <b>climbing gear</b>.
+	</p>
+	<outcomes>
+		<success section="233"/>
+		<failure section="210"/>
+	</outcomes>
+</section>

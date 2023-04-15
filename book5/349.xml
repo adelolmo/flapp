@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="349">
+	<p>
+		'Welcome, mighty adventurer,' says an old, black-toothed peasant. 'Ye goin' to try your hand against Grindel the Ripper?'
+	</p>
+	<p>
+		You ask if anyone has seen Grindel, and how many people he has carried away.
+	</p>
+	<p>
+		'Oh, he be huge, and covered in scales, strong as strong can be, toothed and fearsome, like a two-legged dragon!' says one.
+	</p>
+	<p>'Aye, and he carried off ... who was it now?' says another.</p>
+	<p>
+		'Well, there was, hmm, can't remember any locals been taken recently. Mind you, there was Faldered the Fearsome, that mercenary. We found his head on the road. And Obraid the Capable, a mage from Dweomer - we found his body-parts scattered all over the stableyard! "Obraid the Incapable" we put on his tombstone!'
+	</p>
+	<p>They laugh uproariously.</p>
+	<choices>
+		<choice section="604">Accept the mission</choice>
+		<choice section="690">Talk to the adventurers</choice>
+		<choice section="11">Leave the Hall of Heroes</choice>
+	</choices>
+</section>

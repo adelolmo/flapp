@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="278">
+	<p>
+		You are crossing an open expanse of flinty ground. A few herds of sheep roam the low hills. <random type="travel" dice="1"/>.
+	</p>
+	<outcomes>
+		<outcome range="1,2">You get lost. <goto section="82"/>.</outcome>
+		<outcome range="3,4">Nothing happens</outcome>
+		<outcome range="5,6">A shepherd gives you a <item name="wolf pelt"/></outcome>
+	</outcomes>
+	<p>When you are ready, you can go:</p>
+	<choices>
+		<choice section="427">To Venefax</choice>
+		<choice section="310">West to the Stinking River</choice>
+		<choice section="135">North to the lake</choice>
+		<choice section="87">East</choice>
+	</choices>
+</section>

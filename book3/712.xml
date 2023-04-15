@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="712" dock="Smogmaw">
+	<p>
+		There are only a few ships for sale and there is not much to choose between them. Choose from the types listed here.
+	</p>
+	<market>
+		<header type="ship"/>
+		<trade ship="barque" initialCrew="poor" buy="240"/>
+		<trade ship="brigantine" initialCrew="poor" buy="500"/>
+	</market>
+	<p>
+		You get to give your ship a name. Record this and other details on your Ship&#8217;s Manifest. The Crew Quality is poor.
+	</p>
+	<p>
+		Each time you arrive at a destination, change the entry in the Docked column on the Ship&#8217;s Manifest to the ship&#8217;s new location. Currently your ship is docked at Smogmaw, of course.
+	</p>
+	<p>Now <goto section="71"/>.</p>
+</section>

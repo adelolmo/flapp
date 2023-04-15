@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="51">
+	<p>
+		You are rejected by the monks. &#8216;We cannot allow you to stay here,&#8217; they say. &#8216;Your presence would disturb the atmosphere of serene contemplation.&#8217;
+	</p>
+	<p>It seems you must be on your way. <goto section="74"/>.</p>
+</section>

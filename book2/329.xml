@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="329">
+	<p>
+		The road snakes on between the verdant farmland. To either side you see peasants working in the fields. The barns and thatched-roofed cottages present an idyll of peace and contentment.
+	</p>
+	<p><random type="travel"/> for encounters:</p>
+	<outcomes>
+		<outcome range="2-7" section="653">Seven fools</outcome>
+		<outcome range="8-9" section="265">An uneventful journey</outcome>
+		<outcome range="10-12" section="669">A mad thatcher</outcome>
+	</outcomes>
+</section>

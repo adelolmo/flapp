@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="667">
+	<p>
+		Luroc is not happy with your decision. &#8216;You lily-livered coward -I don&#8217;t need the likes of you anyway!&#8217; he hisses before turning tail and disappearing into the shadows of the night.
+	</p>
+	<p>You return to the city. <goto section="10"/>.</p>
+</section>

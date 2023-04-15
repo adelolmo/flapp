@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="585">
+	<p>
+		You trail Fourze to the old farm. He goes inside, and you creep to see what he is doing.
+	</p>
+	<p>
+		Two rough-looking thugs are helping Fourze get into what is obviously a monster suit! It&#8217;s a bit like a giant hairy toad, made of the hide of some animal stretched over a wooden framework. So much for the dreaded Gob-gobbler!
+	</p>
+	<p>
+		You wait by the door. As the thugs emerge, you club one to the ground, but you will have to fight the other one.
+	</p>
+	<fight name="Bandit" combat="4" defence="6" stamina="6"/>
+	<p>
+		If you win, <goto section="236"/>.
+		If you lose, you are dead unless you have a <resurrection>resurrection deal</resurrection>.
+	</p>
+</section>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="52">
+	You are travelling across the fields and farmlands east of the Rese
+	River. <random type="travel"/> for encounters:
+	<outcomes>
+		<outcome range="2-6" section="212">An uneventful journey</outcome>
+		<outcome range="7-12" section="398">A pedlar</outcome>
+	</outcomes>
+</section>

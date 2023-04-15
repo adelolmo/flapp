@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="553">
+	You are one of the Shogun&#8217;s trusted lieutenants and can roam
+	the inner precincts unchallenged. Ranks of guards bow deeply as
+	you pass between them along the quiet corridors. A servant
+	waits in front of the door to your private apartments.
+	<choices>
+		<choice section="464">Enter your apartments</choice>
+		<choice section="491">Request an audience with the Shogun</choice>
+		<choice section="32">Go to see his spymaster</choice>
+		<choice section="178">Leave the manor</choice>
+	</choices>
+</section>

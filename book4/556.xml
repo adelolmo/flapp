@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="556">
+	<p>
+		You slip and fall, plunging with a short cry towards the hard icy ground below. It would mean certain doom if not for the fact that your fall is broken by a deep snowdrift. As it is you
+		<lose stamina="3d">
+			lose 3-18 Stamina points
+			<adjust god="The Three Fortunes" amount="-1"/>
+		</lose> (the roll of three dice); you can subtract 1 from this if you are an initiate of the Three Fortunes.
+	</p>
+	<p>
+		If still alive, you pick yourself up and decide what to do next.
+	</p>
+	<choices>
+		<choice section="221">Climb the cliffs</choice>
+		<choice section="15">Leave</choice>
+	</choices>
+</section>

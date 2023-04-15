@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="115">
+	The knights recognize the katana as having belonged to a clan
+	cousin of theirs. &#8216;He was murdered in Golnir,&#8217; says one of the
+	knights darkly. They both turn to face you, hands hovering over
+	their sword-hilts. If you want to defuse the situation you will
+	need to
+	<difficulty ability="charisma" level="14" force="f">
+		make a CHARISMA roll at a Difficulty of 14
+	</difficulty>.
+	<outcomes>
+		<success section="163"/>
+		<choice section="186">Failed (or not attempted) roll</choice>
+	</outcomes>
+</section>

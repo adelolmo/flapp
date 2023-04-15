@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="69">
+	Nai is the awesome god of earthquakes, which are a constant
+	danger in this part of the world. His statue shows him as an
+	armoured warrior with a terrible rictus of glee on his scarlet face.
+	<choices>
+		<choice section="119">Become an initiate</choice>
+		<choice section="143">Renounce the worship of Nai</choice>
+		<choice section="94">Acquire a blessing</choice>
+		<choice section="323">Leave the shrine</choice>
+	</choices>
+</section>

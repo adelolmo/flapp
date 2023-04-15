@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="307">
+	<p>
+		The ship weighs anchor and steers majestically out of Ringhorn harbour. &#8216;This&#8217;ll be a trouble-free haul,&#8217; thinks the captain. &#8216;I can smell it on the wind.&#8217;
+	</p>
+	<p>
+		He is obviously a seasoned mariner. Fifteen days later you are putting into dock at Yellowport. On the way there has been no sign of pirate vessels and just a steady strong breeze to carry you on your way. If only every sea voyage could be so uneventful!
+	</p>
+	<p>
+		<goto book="1" section="140">Turn to 140</goto>
+		in <i>The War-Torn Kingdom</i>.
+	</p>
+</section>

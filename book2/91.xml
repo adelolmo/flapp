@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="91">
+	<p>
+		Cracks in the weathered masonry make it an easy climb. Soon you are within reach of the jewelled eye. It should be an easy matter to prise the emerald loose.
+	</p>
+	<p>
+		<difficulty ability="magic" level="12">
+			Attempt a MAGIC roll at a Difficulty of 12
+		</difficulty>.
+	</p>
+	<outcomes>
+		<success section="114"/>
+		<failure section="137"/>
+	</outcomes>
+</section>

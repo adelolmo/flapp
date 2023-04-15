@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="101">
+	<p>
+		You yell the name of their god again and again. The cultists clap their hands over their ears, hopping about in horror.
+	</p>
+	<p>
+		&#8216;Aargh!&#8217; howls the leader. &#8216;Stop your blaspheming, you heathen devil!&#8217;
+	</p>
+	<p>
+		In their confusion, you make it to your equipment. Now you can fight your way out. <difficulty ability="combat" level="13"/>.
+		<failure>If you fail, <goto section="204"/>.</failure>
+		<success>
+			If you succeed, you manage to fight your way to freedom with the <lose stamina="4">loss of 4 Stamina points</lose> and head back to town, <tick codeword="StillInYellowport" hidden="t"/><goto section="10"/>.
+		</success>
+	</p>
+</section>

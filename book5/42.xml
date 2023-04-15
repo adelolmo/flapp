@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="42">
+	<p>
+		You put the word about on the streets and taverns of the slums that you seek an audience with the Slumlord. A sinewy thug approaches you in a backstreet. He wears a wooden mask, carved in gross imitation of the lords of Uttaku. The mask indicates his status within the Brotherhood of the Night, the guild of rogues of Uttaku. You are blindfolded and taken to see the Slumlord at a secret location. He wears a blank, black mask of ebony, in imitation of the Faceless King.
+	</p>
+	<p>
+		<if title="Nightstalker">If you have the title Nightstalker, <goto section="153"/>.</if> If not, <goto section="519"/>.
+	</p>
+</section>

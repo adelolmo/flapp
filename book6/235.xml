@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="235">
+	<p>
+		The tengu king demonstrates some esoteric finger exercises that can be used to augment your magical strength.
+		<training ability="magic" dice="2">Roll two dice</training>,
+		and if you get higher than your MAGIC score then increase it by 1.
+	</p>
+	<p><goto section="259"/>.</p>
+</section>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="619" boxes="1">
+	<p>
+		<if ticks="1">
+			If there is a tick in the box, <goto section="339"/> immediately.
+		</if>
+		If not, <tick/>, and read on.
+	</p>
+	<p>
+		You come across a blazing house in the poorer area of town. A crowd has gathered, watching the flames impassively.
+	</p>
+	<p>
+		A young girl runs up to you, in tears. &#8216;My mother is inside! Please, please help her!&#8217; she begs.
+	</p>
+	<p>
+		The fire is raging hard, and you are not sure whether anyone could be left alive inside.
+	</p>
+	<choices>
+		<choice section="262">Attempt a rescue</choice>
+		<choice section="100">Walk on</choice>
+	</choices>
+</section>

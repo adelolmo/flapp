@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="546">
+	<p>
+		You manage to live quite well off the land, even catching a rabbit which makes quite a fine stew with some mushrooms and berries. <rest stamina="2">Recover 2 Stamina points</rest> if injured.
+	</p>
+	<p>
+		<if codeword="Colour">
+			If you have the codeword Colour, <goto section="438"/>.
+		</if>
+		If not then you could either try to make yourself a boat (<goto section="637" force="f"/>) or search for a settlement on the island (<goto section="655"/>).
+	</p>
+</section>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="247">
+	<p>
+		The sound was the click of a secret door sliding open in the wall of the caverns. With a swift motion, you step up beside it, back to the wall. A figure emerges but you are able to ambush the ambusher - a deft blow to the back of the head sends the dark figure crashing to the ground.
+	</p>
+	<p>
+		Another steps forth, however, shouting in a guttural voice. You realize that the figures are ratmen - manlike creatures that stand on two legs, but which have the tail and hairy features of a gigantic rat.
+	</p>
+	<p>
+		You must fight the ratman.
+		<if item="rat poison">
+			If you have some <b>rat poison</b>, you can apply it to the blade of your weapon and add 3 to your dice rolls, for this fight only. If you use the <b>rat poison</b>,
+			<group>
+				<text>cross it off</text>
+				<lose item="rat poison"/>
+				<tick special="attack" bonus="3"/>
+			</group>
+			your Adventure Sheet.
+		</if>
+	</p>
+	<fight name="Ratman" combat="3" defence="6" stamina="6"/>
+	<p>
+		If you win, <goto section="423"/>. If you lose, <goto section="308" dead="t"/>.
+	</p>
+</section>

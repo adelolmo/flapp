@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="370">
+	The Master of the Documents of Fable welcomes you to the archives. By writing a stirring tale of your life for the master you have earned the right to browse through the library whenever you like.
+	<choices>
+		<choice section="30">Consult the archives</choice>
+		<choice section="401">Return to the audience chamber</choice>
+	</choices>
+</section>

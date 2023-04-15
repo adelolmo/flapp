@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="94">
+	<p>
+		As soon as you step into the hole, you feel strangely light-headed, as if you were in a dream. Nothing seems quite real. It is lit by a dull, reddish glow, although where the light is coming from you cannot tell. It is as if the very air were aglow. It smells damp, musty and spicy, all at once.
+	</p>
+	<p>
+		You proceed down a tunnel that slopes steeply downward into the bowels of the earth. It soon branches into a veritable maze of tunnels.
+	</p>
+	<p><difficulty ability="scouting" level="14"/>.</p>
+	<outcomes>
+		<success section="360"/>
+		<failure section="510"/>
+	</outcomes>
+</section>

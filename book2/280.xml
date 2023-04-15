@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="280">
+	You reach the road that connects Wheatfields with the port of
+	Metriciens.
+	<choices>
+		<choice section="170">Follow the road</choice>
+		<choice section="195">Go east over open country</choice>
+		<choice section="98">Go west over open country</choice>
+	</choices>
+</section>

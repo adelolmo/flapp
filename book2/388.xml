@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="388">
+	You continue on your way after promising you will inform the
+	damsel&#8217;s champion of her whereabouts.
+	<tick codeword="Bridoon">Get the codeword Bridoon</tick> and
+	<goto section="200"/>.
+</section>

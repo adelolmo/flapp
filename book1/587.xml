@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="587">
+	<p>
+		While taking a stroll through the busy harbour area, you overhear a conversation between two merchants and learn the most profitable trading routes between Sokara and Golnir. <tick codeword="Almanac">Record the codeword Almanac</tick>.
+	</p>
+	<p>
+		<tick codeword="StillInYellowport" hidden="t"/>
+		<goto section="10"/> and choose again.
+	</p>
+</section>

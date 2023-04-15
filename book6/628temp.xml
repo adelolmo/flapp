@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="628">
+	<p>
+		<if codeword="Cenotaph">
+			If you have the codeword Cenotaph,
+			<goto section="151"/> now.
+		</if>
+		Otherwise read on.
+	</p>
+	<p>
+		The only place you can find to stay is a tiny rat-infested garret above a noisy tavern. At night the room fills with smoke from the taproom below, and the roof lets in the rain, the innkeeper wants
+		<lose shards="1" price="x">1 Shard a day</lose>
+		for this hovel. Each day you spend here,
+		<random dice="1" flag="x" var="y">roll a die</random>.
+		<if var="y" lessthan="6">
+			On a score of 1-5 you can
+			<rest stamina="1">regain 1 Stamina point</rest> if injured,
+			<lose flag="x" hidden="t"/>
+		</if>
+		<else>
+			but on a roll of 6 you get dysentery and
+			<lose stamina="1">lose 1 Stamina</lose>.
+			<lose flag="x" hidden="t"/>
+		</else>
+		When you are ready to leave, settle your bill and then <goto section="8"/>.
+	</p>
+</section>

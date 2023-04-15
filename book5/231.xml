@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="231">
+	The seneschal has no further use for your services, although he does offer to teach you the ins and outs of court etiquette for 350 Shards.
+	<if shards="350">
+		If you pay the money, you can
+		<group>
+			<text>roll one die</text>
+			<lose shards="350"/>
+			<training dice="1" ability="charisma"/>
+		</group>,
+		and if the result is higher than your CHARISMA rating, you can add one to that rating.
+	</if>
+	When you are finished, you return to the audience chamber. <goto section="401"/>.
+</section>

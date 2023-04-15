@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="49">
+	<p>
+		As soon as you step between the idols, their heads whip forward and bite at you with sharp, flinty teeth.
+	</p>
+	<p><difficulty ability="combat" level="14"/>.</p>
+	<outcomes>
+		<success section="617"/>
+		<failure section="675"/>
+	</outcomes>
+</section>

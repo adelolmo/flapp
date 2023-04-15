@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="610" boxes="1">
+	<p>
+		<if ticks="1">
+			If there is a tick in the box, you find nothing of interest at the market - <goto section="400">turn back to 400</goto> immediately.
+		</if>
+		Otherwise, <tick>put a tick in the box</tick> and read on.
+	</p>
+	<p>
+		At nightfall, the market is kept open for a special sale. A cage with a steel floor is wheeled out. Inside is a dark, manlike shape. It seems to radiate shadows, for you can barely make it out.
+	</p>
+	<p>
+		The slaver says, &#8216;A trau, ladies and gentlemen. Excellent miners, though they have to be chained with cold iron at all times.&#8217;
+	</p>
+	<p>
+		The price is 100 Shards.
+		<if shards="100">
+			To buy the trau,
+			<group>
+				<text>cross off the money and turn to <b>545</b></text>
+				<lose shards="100"/>
+				<goto section="545"/>
+			</group>.
+		</if>
+		Otherwise, you leave the market, <goto section="400"/>.
+	</p>
+</section>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="619">
+	<p>
+		If you did not have one already, you get a blessing of
+		<gain blessing="storm"/>.
+		Note it on your Adventure Sheet. This will stand you in good stead when you are travelling at sea. It works exactly like a blessing from the western gods Alvir and Valmir, although this monk&#8217;s blessing is spiritual rather than divine.
+	</p>
+	<p>
+		By now it is the early hours of the morning. Seeing you are tired, the monk bids you goodnight. <goto section="610"/>.
+	</p>
+</section>

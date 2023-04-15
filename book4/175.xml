@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="175">
+	<p>
+		Sky Mountain rears up before you. Tiny black specks glide around the peak - it is said the tiny, winged Mannekyn People make their home there. You climb up the rocky flanks of the mountain.
+	</p>
+	<p>
+		<difficulty ability="scouting" level="13">
+			<adjust item="rope" value="1"/>
+			<adjust item="climbing gear" value="1"/>
+		</difficulty>.
+		Add one to the roll if you have some <b>rope</b>, and add 2 if you have <b>climbing gear</b>.
+	</p>
+	<outcomes>
+		<success section="682"/>
+		<failure section="34"/>
+	</outcomes>
+</section>

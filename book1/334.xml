@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="334">
+	<p>
+		To renounce the worship of Lacuna, you must pay 40 Shards in compensation to the shrine.
+	</p>
+	<p>
+		&#8216;If you forsake the love of the goddess, you will never survive the rigours of the wilderness,&#8217; warns the priestess.
+	</p>
+	<p>
+		<if god="Lacuna"><if shards="40">
+				If you still want to renounce the worship of Lacuna,
+				<group>
+					<text>cross off the 40 Shards and delete Lacuna</text>
+					<lose shards="40"/>
+					<lose god="Lacuna"/>
+				</group>
+				from the God box on your Adventure Sheet.
+		</if></if>
+	</p>
+	<p>When you are finished, <goto section="195"/>.</p>
+</section>

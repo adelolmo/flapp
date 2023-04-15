@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="4">
+	The priests of Alvir and Valmir are overjoyed that you have returned the <lose item="golden net"/>. The high priest rewards you with <gain shards="100"/> and a magic weapon, a rune-engraved trident. Note the weapon, a <weapon name="trident" bonus="1"/>, on your Adventure Sheet, and <goto section="220"/>.
+</section>

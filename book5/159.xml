@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="159">
+	<p>
+		You are high in the mountains of the Spine of Harkun. To the north, impassable peaks block your passage to the steppes.
+	</p>
+	<choices>
+		<choice book="2" section="518">Head east through the mountains</choice>
+		<choice section="35">Head west through the mountains</choice>
+		<choice section="17">Go south into Old Harkuna</choice>
+		<choice section="328">South-west into Old Harkuna</choice>
+	</choices>
+</section>

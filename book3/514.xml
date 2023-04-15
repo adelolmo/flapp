@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="514">
+	<p>
+		Lauria wakes up and launches herself across the darkened bedroom with a blood-curdling yell. In the faint stray beam of a street lamp you see a glint of metal in her hand.
+	</p>
+	<p>
+		<difficulty ability="combat" level="13">
+			Make a COMBAT roll at a Difficulty of 13
+		</difficulty>.
+	</p>
+	<outcomes>
+		<success section="532"/>
+		<failure section="550"/>
+	</outcomes>
+</section>

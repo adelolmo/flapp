@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="234">
+	<p>
+		<if title="Enlightened One">
+			If you have the title Enlightened One,
+			<goto section="508">turn now to 508</goto>.
+		</if>
+		If not, read on.
+	</p>
+	<p>
+		The abbot explains that this is not a decision to be taken lightly. &#8216;Achieving enlightenment requires strenuous effort,&#8217; he says. &#8216;Are you prepared to withdraw from the world for months or even years? And have you the strength to prevail against the demons that will beset you?&#8217;
+	</p>
+	<p>&#8216;Demons?&#8217;</p>
+	<p>He nods. &#8216;The demons of your own unconscious mind.&#8217;</p>
+	<choices>
+		<choice section="258">Begin your training</choice>
+		<choice section="211">Leave the monastery</choice>
+	</choices>
+</section>

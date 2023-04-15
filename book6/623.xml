@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="623">
+	<p>
+		The giant slams the door shut on your leg, causing you the loss of
+		<lose stamina="1d">1-6 Stamina points</lose>
+		and trapping you while he slams punishing punches into your gut. He knows how to maim, and any Stamina points you lose in this fight are permanently lost!
+	</p>
+	<fight name="Giant" combat="15" defence="22" stamina="51" abilityDamaged="stamina"/>
+	<p>
+		Remember to keep track of each time he injures you and reduce your unwounded Stamina score by that amount if you survive the fight. If, somehow, you defeat him, <goto section="458"/>.
+		<!-- does this mean that if character is killed, then
+		     resurrected, Stamina loss is not permanent? -->
+	</p>
+</section>

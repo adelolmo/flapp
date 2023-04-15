@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="704" boxes="1">
+	<p>
+		<if ticks="1">
+			If there is a tick in the box, <goto section="147"/> immediately.
+		</if>
+		If not, <tick/>, and read on.
+	</p>
+	<p>
+		You remember an old Shadar codex you discovered in the Icicle Woods. It told of the Cave of Bells, and the ancient rituals of the Shadar priest-kings. They always rang a bell called The Whisperer first, so you go over to it, and rattle its clapper.
+	</p>
+	<p>
+		There is no sound at first, but then the other bells begin pealing, weaving a harmonious tapestry of sound.
+	</p>
+	<p>
+		A wooden panel slides open at the other end of the cathedral. You walk through into a large, granite chamber where you find
+		<gain shards="2000"/>,
+		some <armour name="plate armour" bonus="5"/>,
+		an <weapon name="enchanted sword" bonus="4"/>,
+		a <tool name="gold holy symbol" ability="sanctity" bonus="3"/>
+		and the <item name="sceptre of kings"/>.
+		The sceptre is made of a hard, bluish metal, its tip fashioned into the head of a hawk.
+	</p>
+	<choices>
+		<choice section="298">Visit the Crypt of Kings</choice>
+		<choice section="266">Leave the City of Ruins</choice>
+	</choices>
+</section>

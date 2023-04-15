@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="626">
+	There is a ghostly howl that makes your hair stand on end.
+	Unable to remain another moment in this uncanny place, you
+	hurry back downstairs into the open air. <goto section="407"/>.
+</section>

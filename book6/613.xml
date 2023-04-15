@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="613">
+	You walk briskly up the street leading to the stockade.
+	<if codeword="Frame">
+		If you have the codeword Frame, <goto section="537"/>.
+	</if>
+	If not, <goto section="107"/>.
+</section>

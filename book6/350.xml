@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="350">
+	<p>
+		You drift down the coast at a leisurely rate. The breeze is barely enough to rattle the canvas.
+	</p>
+	<p><random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-5" section="14">A small bay</outcome>
+		<outcome range="6-12" section="524">Nothing of note</outcome>
+	</outcomes>
+</section>

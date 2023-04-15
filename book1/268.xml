@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="268">
+	<p>
+		The goblin-folk swarm over you. You try to put up a fight, but there are too many of them. Everything goes black...
+	</p>
+	<p>
+		You wake up, spluttering, face down on a beach! A wave has just soaked you.
+	</p>
+	<p>
+		&#8216;Going for a swim, are we?&#8217; asks an old woman who is gathering shells on the beach. You learn from her that a month has passed since your adventure in the faery mound, and you can remember none of it.
+	</p>
+	<p>
+		If you were wounded, you are now <rest>back to full Stamina</rest>. However, you realize you have lost all the money and items you were carrying. <lose shards="*" item="*">Cross them off</lose> your Adventure Sheet. Instead, you have a <item name="wolf pelt"/> that you are wearing, some <item name="rat poison"/> and a <item name="silver nugget"/>. The old lady tells you that you are on the delta of the River Grimm. <goto section="579"/>.
+	</p>
+</section>

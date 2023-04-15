@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="123" boxes="1">
+	<p>
+		The palace is a complex of buildings set in ornamental gardens inside a low white wall. This is the home of the Sovereign, Takakura, who is supposedly a direct descendant of the Spirit of the Sun.
+	</p>
+	<p>
+		<if ticks="0">
+			If the box above is empty,
+			<tick>put a tick in it</tick>
+			and <goto section="172"/>.
+		</if>
+		If it already has a tick, <goto section="317"/>.
+	</p>
+</section>

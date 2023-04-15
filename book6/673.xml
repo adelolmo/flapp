@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="673">
+	The Western Coastal Road runs all the way from Hidari to the
+	Imperial capital, Chambara. It passes along cliff tops and down
+	through fishing villages where you are offered cups of bitter
+	green tea.
+	<choices>
+		<choice section="733">Follow the road north</choice>
+		<choice section="323">Go south to Hidari</choice>
+		<choice section="653">Strike out towards the mountains</choice>
+	</choices>
+</section>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="367">
+	<p>
+		You have attempted to steal the chain mail before. This time, security has been doubled with warrior priests of Tyrnai in abundance. Inside the temple, there are two more of the bullheaded iron golem guards, and you realize there is no way you can succeed.
+	</p>
+	<p>You head back to the city centre. <goto section="400"/>.</p>
+</section>

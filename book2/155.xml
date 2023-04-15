@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="155">
+	<p>
+		To renounce the worship of Alvir and Valmir, you must pay 30 Shards in compensation to the priesthood. A merchant standing beside you catches your arm and shakes his head. &#8216;If you want my advice, you&#8217;ll stay an initiate. I left the temple, and the following week half my fleet was wrecked in a storm off Knucklebones Point!&#8217;
+	</p>
+	<p>
+		Do you want to reconsider?
+		<if god="Alvir and Valmir">
+			If you are determined to renounce your faith,
+			<lose shards="30" price="x">pay the 30 Shards</lose>
+			and
+			<lose god="Alvir and Valmir" flag="x">delete Alvir and Valmir</lose>
+			from the God box on your Adventure Sheet.
+		</if>
+		When you have finished here, <goto section="148"/>.
+	</p>
+</section>

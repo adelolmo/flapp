@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="278">
+	The island is soon left far astern.
+	<choices>
+		<choice book="6" section="202">Go north</choice>
+		<choice section="60">Go south</choice>
+		<choice book="6" section="102">Go east</choice>
+		<choice section="136">Go west</choice>
+	</choices>
+</section>

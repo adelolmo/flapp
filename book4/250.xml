@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="250">
+	<p>
+		You are restored to life at the temple of Nisoderu, Goddess of the Rising Sun, in Yarimura. Your Stamina is back to its normal score. The possessions and cash you were carrying at the time of your death are lost. <lose item="*" shards="*">Cross them off</lose> your Adventure Sheet. Also remember to delete the entry in the Resurrection box now it has been used.
+	</p>
+	<p>
+		The high priestess, sweating from the heat of a thousand candles that have been laid out around you in a specific ritual pattern, says, &#8216;Nisoderu has seen fit to shine her light into the Land of the Dead, so that we could find your soul, and bring it back.&#8217;
+	</p>
+	<p>When you are ready, <goto section="89"/>.</p>
+</section>

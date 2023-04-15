@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="662">
+	&#8216;There&#8217;s no anchorage to be found here,&#8217; reckons the mate,
+	pointing to the reef-bound shore. &#8216;We&#8217;d be best off making for
+	Mukogawa.&#8217;
+	<choices>
+		<choice section="745">Set a course north</choice>
+		<choice book="11" section="77">Steer due east</choice>
+		<choice section="649">Follow the coast south</choice>
+	</choices>
+</section>

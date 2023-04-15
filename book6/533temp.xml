@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="533">
+	<p>
+		<if title="Senior Court Rank|Junior Court Rank">
+			<set var="t" value="2"/>
+		</if>
+		<else><set var="t" value="0"/></else>
+		The swordsmith is an ancient fellow as thin as a mantis. To convince him that you are worthy to buy one of his swords, you need to offer a goodwill payment of
+		<lose shards="40" price="x">40 Shards</lose>
+		and then
+		<if profession="warrior">
+			<difficulty ability="charisma" level="20" flag="x">
+				make a CHARISMA roll at a Difficulty of 20<adjust amount="t"/>
+				<adjust codeword="Fuchsia" amount="3"/>
+			</difficulty>
+		</if>
+		if you&#8217;re a Warrior, or
+		<if not="t" profession="warrior">
+			<difficulty ability="charisma" level="22" flag="x">
+				Difficulty 22<adjust amount="t"/>
+				<adjust codeword="Fuchsia" amount="3"/>
+			</difficulty>
+		</if>
+		if you belong to another profession. If you have the title of Junior Court Rank or Senior Court Rank you can add 2 to the dice roll. If you have the codeword Fuchsia you can add 3.
+	</p>
+	<p>
+		Assuming the swordsmith thinks you measure up, he will charge the following for a sword depending on the quality you require:
+	</p>
+	<market sell="f">
+		<weapon name="sword" bonus="2" buy="350">COMBAT bonus +2</weapon>
+		<weapon name="sword" bonus="3" buy="750">COMBAT bonus +3</weapon>
+		<weapon name="sword" bonus="4" buy="900">COMBAT bonus +4</weapon>
+		<weapon name="sword" bonus="5" buy="1400">COMBAT bonus +5</weapon>
+		<weapon name="sword" bonus="6" buy="2800">COMBAT bonus +6</weapon>
+	</market>
+	<p>
+		If you purchase a sword, remember to cross off the money before
+		<goto section="572">turning to 572</goto>.
+	</p>
+</section>

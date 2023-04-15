@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="540">
+	Your ship, crew and cargo are lost to the deep, dark sea. <lose ship="t">Cross them off</lose> your Adventure Sheet. Your only thought now is to save yourself. <rankcheck dice="2">Roll two dice</rankcheck>.
+	<failure>
+		If the score is greater than your Rank, you are drowned (<goto section="7"/>).
+	</failure>
+	<success>
+		If the score is less than or equal to your Rank, you manage to find some driftwood, and make it back to shore.
+	</success>
+	Lose Stamina points equal to the score of <lose stamina="1d">one die roll</lose> and, if you can survive that, <goto section="585"/>.
+</section>

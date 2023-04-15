@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="299">
+	<p>
+		Fort Mereth, named after an ancient hero, is the northernmost of the forts that guard Sokara from the ravening manbeasts of Nerech. A fortified wall stretches right across the peninsula. <random type="travel" dice="1">Roll a die</random>.
+	</p>
+	<outcomes>
+		<outcome range="1,2">
+			Get in a fight with a drunken soldier.
+			<fight name="Soldier" combat="4" defence="6" stamina="7"/>
+			If you win, you can take his <weapon name="axe"/>.
+		</outcome>
+		<outcome range="3,4">Nothing happens</outcome>
+		<outcome range="5,6">
+			Opportunity to buy a <buy tool="mandolin" ability="charisma" bonus="1" shards="100" quantity="1"/> for 100 Shards
+		</outcome>
+	</outcomes>
+	<p>When you are ready, you can travel:</p>
+	<choices>
+		<choice book="4" section="20">East into Nerech</choice>
+		<choice section="472">South east to Fort Estgard</choice>
+		<choice section="548">South into the farmlands</choice>
+		<choice section="458">West on the road to Caran Baru</choice>
+		<choice section="518">West on the road to the citadel</choice>
+	</choices>
+</section>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="578">
+	<p><tick codeword="&#201;lan"/>.</p>
+	<p>
+		You sneak into the rooms of a noble lord. Inside, you find
+		<gain shards="200"/>, a
+		<tool name="silver holy symbol" ability="sanctity" bonus="2" group="5.578"/>,
+		a <weapon name="fine sabre" bonus="2" group="5.578"/>,
+		and an <item name="Uttakin telescope" group="5.578"/>.
+	</p>
+	<p>
+		You make your escape the way you came, and glide down to the slums. You are welcomed by the Brotherhood of the Night as a hero after such a daring exploit. You will have to donate <lose shards="100"/> and <lose item="?" group="5.578">one of the items</lose> you found to the brotherhood as its 'cut' for setting up the mission. Note which items you want to keep on your Adventure Sheet.
+	</p>
+	<p>
+		When you leave, one of the rogues who went on the mission says, 'Come back any time - especially if you're looking to make a purchase. We have a large stock of items that have, er ... fallen off the back of a cart, if you get my drift.'
+	</p>
+	<p><goto section="444"/>.</p>
+</section>

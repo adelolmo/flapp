@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="488">
+	<p>
+		The weight of the air above becomes almost palpable as you descend deep into the ground. A trickle of sweat runs down your spine. Each breath you take tastes hot and stale.
+	</p>
+	<p>
+		Turning a bend in the passage, you see a sight to harrow your soul. Wreathed in silver light, a group of frightful-visaged spectres are turning slowly in the air, dancing a slow minuet to the mournful tune of an invisible harpsichord.
+	</p>
+	<choices>
+		<choice item="spectral veil" section="525">Use a <b>spectral veil</b> (if you have one)</choice>
+		<choice section="543">Banish them with holy words</choice>
+		<choice section="561">Leave before they see you</choice>
+	</choices>
+</section>

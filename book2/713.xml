@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="713">
+	You can get lodging here for 1 Shard a day.
+	<rest stamina="1" shards="1">
+		Each day you spend here
+	</rest>
+	allows you to recover 1 Stamina point per day if injured.
+	(Remember that your Stamina cannot go higher than its normal
+	unwounded score.) When you are ready to leave, <goto section="191"/>.
+</section>

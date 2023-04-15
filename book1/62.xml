@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="62">
+	The Sokarans surrender. Their captain has been killed in the battle, and his marines have had the fight knocked out of them. The war galley isn&#8217;t carrying any cargo, but you find an <item name="officer's pass"/> on the body of the captain, and a chest in his cabin, which contains 150 Shards. You have to hand out 50 Shards to your crew, but you can add <gain shards="100"/> to your Adventure Sheet. You leave the galley to limp back to Yellowport while you sail on. <goto section="439"/>.
+</section>

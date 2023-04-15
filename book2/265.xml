@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="265">
+	You are on the road between Haggart&#8217;s Corner and the
+	Monastery of Molhern.
+	<choices>
+		<choice section="150">Follow the road to Haggart&#8217;s Corner</choice>
+		<choice section="94">Follow the road to the monastery</choice>
+		<choice section="196">Venture south off the road</choice>
+		<choice section="54">Strike out cross-country to the west</choice>
+	</choices>
+</section>

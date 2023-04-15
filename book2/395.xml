@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="395">
+	You find a tiny golden pebble worth <tick shards="2"/>. Although you
+	return to town with a hangdog look, another prospector sees
+	your find and is amazed. &#8216;It took me three weeks before I got
+	my first sniff of gold!&#8217; he says. &#8216;You&#8217;re a lucky devil, and no
+	mistake.&#8217;
+	<choices>
+		<choice section="470">Try again tomorrow</choice>
+		<choice section="104">Leave Goldfall</choice>
+	</choices>
+</section>

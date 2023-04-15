@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="187">
+	<p>
+		The rope goes taut in your hands, jerking you to a halt with stunning force. For a moment you black out. <lose stamina="1d">Lose 1-6 Stamina points</lose> (the roll of one die).
+	</p>
+	<p>
+		If still alive, you come round to find yourself being hauled up towards a tunnel in the cliff face. A hairy demon greets you with a laugh that sends a gust of reeking breath into your face.
+	</p>
+	<p>'Nice of you to drop in,' it says.</p>
+	<p>
+		You steady yourself against the tunnel wall, uncomfortably aware of the sheer drop just a single step behind you.
+	</p>
+	<p>'Thanks. Who are you? And where is this?'</p>
+	<p>
+		The demon stamps his huge red foot in quite immoderate mirth. 'As for my name, it's Kumba Karna, and I daresay that means little to you. But where you've landed - this'll shock - is the Underworld, the Land of Roots, the Place of Direful Dreams. In short, little mortal, you're in hell.'
+	</p>
+	<p><goto book="12" section="99">Turn to 99</goto> in <i>Into the Underworld</i>.</p>
+	<p>
+		<if not="t" book="12">
+			If you don't have <i>Into the Underworld</i>, then the demon says, 'And you don't belong here - yet!' He teleports you back to Yarimura. <goto section="10"/>.
+		</if>
+	</p>
+</section>

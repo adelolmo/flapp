@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="390">
+	<p>
+		You emerge from the maze into a passage that leads to a small funnel-shaped chamber. Peering out from behind a cleft in the rock, you see five grotesque warriors guarding a book that rests between them on a jewelled lectern. They are staring fiercely in all directions, alert and ready to deal with any interloper.
+	</p>
+	<p>
+		You know without being told that your task is to steal the book from their midst.
+	</p>
+	<p>
+		<difficulty ability="thievery" level="14">
+			Make a THIEVERY roll at a Difficulty of 14
+		</difficulty>.
+	</p>
+	<outcomes>
+		<success section="411"/>
+		<failure section="371"/>
+	</outcomes>
+</section>

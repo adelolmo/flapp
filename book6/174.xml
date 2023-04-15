@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="174" boxes="1">
+	<p>
+		The wind races across rolling grassy hillsides, swiftly driving the shadows of clouds ahead of it, and for a time you feel as if you are the last person alive in the world.
+	</p>
+	<p>
+		<if ticks="0">
+			If the box is empty, <tick>put a tick in it</tick>
+			and <goto section="570"/>.
+		</if>
+		If it was already ticked, <goto section="192"/>.
+	</p>
+</section>

@@ -1,0 +1,25 @@
+<adventurers>
+  <abilities>
+    <header>Charisma Combat Magic Sanctity Scouting Thievery</header>
+    <profession name="Priest">6 4 5 8 6 2</profession>
+    <profession name="Mage">4 4 8 1 7 5</profession>
+    <profession name="Rogue">7 6 6 2 4 8</profession>
+    <profession name="Troubadour">8 5 5 5 4 6</profession>
+    <profession name="Warrior">5 8 3 6 5 3</profession>
+    <profession name="Wayfarer">4 7 4 4 8 6</profession>
+  </abilities>
+  <stamina amount="27"/>
+  <rank amount="6"/>
+  <gold amount="0"/>
+  <items>
+	  <item name="platinum earring"/>
+  </items>
+  <starting>
+	  <adventurer name="Kintu Ironhands" profession="Warrior" gender="M"/>
+	  <adventurer name="Panjang of the Emerald Isle" profession="Mage" gender="M"/>
+	  <adventurer name="Abraxas the Seeker" profession="Priest" gender="M"/>
+	  <adventurer name="Elektra Nemora" profession="Troubadour" gender="F"/>
+	  <adventurer name="Shikibu" profession="Rogue" gender="F"/>
+	  <adventurer name="Ithacus" profession="Wayfarer" gender="M"/>
+  </starting>
+</adventurers>

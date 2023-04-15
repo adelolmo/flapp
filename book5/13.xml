@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="13">
+	<p>
+		You stop beside a gate and peek into the garden beyond. There, on a wide emerald lawn in front of a veranda of red-veined purple marble, lords and ladies lounge on gilded divans. Each noble wears a mask that exactly delineates his or her ancestry and status. When the wearer wishes to sip a little wine or pick at a sweetmeat, the mask is tilted back surreptitiously. Slaves run to and fro bringing food and wine on golden trays, their tunics patterned green so as to blend into the foliage and so cause no distraction to their masters. Eunuchs in white gowns wait out of sight behind a trellis of ivy and sing a wordless but beautiful tune that is all but lost in the chatter of voices.
+	</p>
+	<p>
+		You are among the wealthy aristocracy of Aku, for whom privilege is as natural a thing as the clean sea air they breathe.
+	</p>
+	<p>
+		<if codeword="Erebus">If you have the codeword Erebus, <goto section="308"/>.</if>  Otherwise, <goto section="444"/>.
+	</p>
+</section>

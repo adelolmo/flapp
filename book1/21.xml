@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="21">
+	<p>
+		<tick codeword="StillInYellowport" hidden="t"/>
+		While making your way through the back streets of the poor quarter you are set upon a knife-wielding thug, who is intent of relieving you of your purse.
+	</p>
+	<p>
+		If you don&#8217;t want to fight him, you can try a
+		<difficulty ability="charisma" level="8" force="f">
+			CHARISMA roll at a Difficulty of 8
+		</difficulty>
+		to try to talk your way out of this unpleasant situation.
+		<success>
+			If you succeed, the thug leaves, confused by your rhetoric (<goto section="10"/> and choose again.)
+		</success>
+		Otherwise, you must fight him.
+	</p>
+	<fight name="Thug" combat="4" defence="7" stamina="6"/>
+	<p>
+		<if dead="f">
+			If you defeat him, you find <gain shards="15"/> on his body.
+		</if>
+		<else>
+			If you are defeated, you are stunned into unconsciousness. You come round with <lose staminato="1">1 Stamina point</lose>, and he has robbed you of <lose shards="50"/> (or of all your money if you have less than 50 Shards).
+		</else>
+		<goto section="10"/>.
+	</p>
+</section>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="84" dock="Marlock City">
+	Your ship awaits you in the harbour. The crew are in good spirits, as ever when a new voyage is about to begin.
+	<choices>
+		<choice section="142">Go ashore</choice>
+		<choice section="222" sail="t">Set sail</choice>
+	</choices>
+</section>

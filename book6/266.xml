@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="266">
+	You are on the headland near to the city of Chompo. This
+	region is known as Kito Province.
+	<choices>
+		<choice section="194">Join the road north of Chompo</choice>
+		<choice section="73">Join the road to the south</choice>
+		<choice section="59">Go into the city</choice>
+	</choices>
+</section>

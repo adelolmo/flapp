@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="453">
+	Disregarding the angry grumbling of the villagers, you draw
+	water from the well and give it to the old woman. Gain 1 point
+	of SANCTITY if you can roll higher than your current SANCTITY
+	score on
+	<training ability="sanctity" dice="2">two dice</training>.
+	Unfortunately you also get the plague and
+	<if blessing="disease" not="t">
+		must
+		<lose ability="charisma" amount="1">
+			reduce your CHARISMA by 1
+		</lose>
+	</if> - 
+	<else>
+		unless you have a blessing of
+		<lose blessing="disease">
+			Immunity to Disease/Poison
+		</lose>.
+	</else>
+	Make any necessary changes on your Adventure Sheet and <goto section="355"/>.
+</section>

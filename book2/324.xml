@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="324" tag="temple">
+	The temple of Elnir is a majestic palace of black marble inlaid
+	with veins of gold. Elnir is the foremost god of the pantheon,
+	the patron of warlords and kings. His realm is said to lie between
+	the mountains and the sky, and whenever there is a storm the
+	simple folk say, &#8216;Something has angered Elnir.&#8217;
+	<choices>
+		<choice section="63">Become an initiate of Elnir</choice>
+		<choice section="86">Renounce his worship</choice>
+		<choice section="109">Seek a blessing</choice>
+		<choice section="2">Leave</choice>
+	</choices>
+</section>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="385">
+	<p>
+		They mutter unhappily, but one of them gives you an old map that shows the location of an ancient faerie treasure chest, buried under a hill to the north of the Singing Forest.
+	</p>
+	<p><tick codeword="Emerald">Gain the codeword Emerald</tick>.</p>
+	<p>Hurriedly, they back away and leave. <goto section="206"/>.</p>
+</section>

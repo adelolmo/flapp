@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="351">
+	<p>
+		You are traversing the Spine of Harkun mountain range. Distantly against the sky you can see the massive bulk of Sky Mountain. The forked snow-clad peak resembles a crone&#8217;s broken tooth. According to legend, the moon once caught on the peak and the Mannekyn People had to fly up to break it loose. No human has ever scaled Sky Mountain, as far as you know.
+	</p>
+	<p><random type="travel"/> for events along the way:</p>
+	<outcomes>
+		<outcome range="2-6" section="664">A hydra</outcome>
+		<outcome range="7-8" section="640">Nothing of note</outcome>
+		<outcome range="9-12" section="688">Mannekyn People</outcome>
+	</outcomes>
+</section>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="212">
+	<p>
+		The ship cracks open and seawater rushes into the broken shell of the hull. The screams of your crewmen are drowned out by the surge of the waves.
+		<lose ship="t">Cross off your ship and crew</lose>;
+		they are lost. You can think of nothing now but saving yourself.
+	</p>
+	<p>
+		<rankcheck dice="2"/>.
+		<failure>
+			If the score is greater than your Rank, you are drowned - <goto section="123"/>.
+		</failure>
+		<success>
+			If the score is less than or equal to your Rank, you are swept mysteriously to a beach of white sand fringed with feathery palms.
+			<lose stamina="2d">Lose 2-12 Stamina points</lose>
+			and (if you can survive that)
+			<if book="7">
+				<goto book="7" section="559">turn to 559</goto>
+				in <i>The Serpent King&#8217;s Domain</i>.
+			</if>
+			<else>
+				<i>[Lacking this book, you are swept elsewhere; <goto section="505"/>.]</i>
+			</else>
+		</success>
+	</p>
+</section>

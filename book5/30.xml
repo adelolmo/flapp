@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="30">
+	<p>
+		The archives are a mine of information. Choose a book to consult.
+	</p>
+	<choices>
+		<choice section="472">The Book of Kizil Irmak the War Prophet</choice>
+		<choice section="717">How to Enter the Underworld Volume I</choice>
+		<choice section="562">The Black Pagoda of Akatsurai</choice>
+		<choice section="597">The Golden Men of Ankon-Konu</choice>
+		<choice section="401">Leave</choice>
+	</choices>
+</section>

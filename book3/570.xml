@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="570">
+	<p>
+		You cannot make any headway. Your ship is trapped in the Sea of Reeds; each day your supplies of food and water get lower and lower.
+	</p>
+	<p><random type="travel" dice="1"/>.</p>
+	<outcomes>
+		<outcome range="1-2" section="123">You die of thirst</outcome>
+		<outcome range="3-4" section="552">Help arrives</outcome>
+		<outcome range="5-6" section="205">The current carries you clear</outcome>
+	</outcomes>
+</section>

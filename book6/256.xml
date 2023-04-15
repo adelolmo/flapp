@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="256" image="256.jpg">
+	<p>
+		<if codeword="Foment">
+			If you have the codeword Foment, <goto section="274"/>.
+		</if>
+		Otherwise read on.
+	</p>
+	<p>
+		You spend an evening at the theatre watching the usual entertainment: roistering heroes foiling the schemes of skulking wizards, sly silver-tongued witches and bumbling animal spirits. The Akatsurese audiences lap up this kind of thing. Afterwards you take a stroll by the canals and watch the moonlight dance on the water. <goto section="226"/>.
+	</p>
+</section>

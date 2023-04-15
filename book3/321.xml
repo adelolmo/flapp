@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="321">
+	Your ordeal is over. You resolve to leave these bane-drenched
+	waters with all speed.
+	<choices>
+		<choice section="119">Go north</choice>
+		<choice section="302">Go south</choice>
+		<choice section="156">Go east</choice>
+		<choice section="4">Go west</choice>
+	</choices>
+</section>

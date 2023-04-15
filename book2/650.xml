@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="650">
+	<p>
+		You raise your arms, make a sacred gesture of your faith, and declare in a firm voice: &#8216;Avaunt thee, crypt-spawned fiend!&#8217;
+	</p>
+	<p><difficulty ability="sanctity" level="16"/>.</p>
+	<outcomes>
+		<success section="674"/>
+		<failure section="626"/>
+	</outcomes>
+</section>

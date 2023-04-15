@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="603">
+	<p>
+		You feel as if you are wandering in an endless labyrinth of mossclad rocks and ancient trees.
+	</p>
+	<p><random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-7" section="529">A woodland path</outcome>
+		<outcome range="8-9" section="624">A great black bear</outcome>
+		<outcome range="10-12" section="189">An eerie grotto</outcome>
+	</outcomes>
+</section>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="363">
+	<p>
+		<if god="Lacuna"><set var="cost" value="10"/></if>
+		<else><set var="cost" value="25"/></else>
+		If you are an initiate it costs only 10 Shards to purchase Lacuna&#8217;s blessing. A non-initiate must pay 25 Shards.
+	</p>
+	<p>
+		<if shards="cost"><if not="t" blessing="scouting">
+				<lose shards="cost" price="x">Cross off the money</lose> and mark
+				<tick blessing="scouting" flag="x"/>
+				in the Blessings box on your Adventure Sheet. The blessing works by allowing you to try again when you make a failed SCOUTING roll. It is good for only one reroll. When you use the blessing, cross it off your Adventure Sheet. You can have only one SCOUTING blessing at a time. Once it is used up, you can return to any branch of the temple of Lacuna to buy a new one.
+		</if></if>
+	</p>
+	<p>When you are finished here, <goto section="294"/>.</p>
+</section>

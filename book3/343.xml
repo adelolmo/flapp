@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="343">
+	<p>
+		A clap of her hands brings two more slave boys scurrying over with a card table. A second divan is placed for you to recline. Goblets of chilled fruit juice are set beside you.
+	</p>
+	<p>
+		If you have a <b>deck of marked cards</b> you have the option to use them in the game. Otherwise you will have to play with the priestess&#8217;s deck.
+	</p>
+	<choices>
+		<choice item="deck of marked cards" section="15">
+			Use <b>deck of marked cards</b>
+		</choice>
+		<choice section="34">Agree to play with her deck</choice>
+	</choices>
+</section>

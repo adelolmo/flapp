@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="95">
+	<p>
+		The girl stamps her foot petulantly and disappears in a thick blast of roiling black smoke.
+	</p>
+	<p>
+		Note the <item name="heart-shaped locket"/> on your list of possessions and remember to record the 450 Shards if you didn&#8217;t already. Also <gain codeword="Citrus">note the codeword Citrus</gain>.
+	</p>
+	<p>
+		You open the locket and immediately there is an unearthly howl and something indistinct flies up past you into the sky. A musty scent hangs in the air. Inside the locket is a picture of a bald man with piercing green eyes.
+	</p>
+	<p>
+		<if codeword="Dangle">
+			If you have the codeword Dangle, <goto section="115"/>.
+		</if>
+		If not, it is now time to leave the island; <goto section="171"/>.
+	</p>
+</section>

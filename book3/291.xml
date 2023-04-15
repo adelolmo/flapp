@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="291">
+	<p>
+		She climbs up the lifeline like a fat black spider. A claw of a hand reaches up, grey and liver-spotted.
+	</p>
+	<p>&#8216;Help an old lady, then, my dears,&#8217; she wheezes.</p>
+	<p>
+		&#8216;Help her be damned!&#8217; snarls the mate, brandishing his flensing knife. &#8216;Let me cut her loose. Drowning&#8217;s a fair fate for such as her.&#8217;
+	</p>
+	<choices>
+		<choice section="70">Agree to the mate&#8217;s suggestion</choice>
+		<choice section="89">Pull her up on deck</choice>
+	</choices>
+</section>

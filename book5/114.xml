@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="114">
+	<p>
+		Cross off the 250 Shards. The priestess steps over to you and fixes you with a mad, staring glare. You sink into a trance during which you experience a vision.
+	</p>
+	<p>
+		Note down this paragraph number. Now you can turn to any paragraph at random in any book in the <i>Fabled Lands</i> series that you like, and
+		<sectionview random="6" title="Trance">
+			read any sequence of up to six paragraphs
+		</sectionview>, thus finding out what lies in store for you. What you find may not make any sense to you - well, such is the nature of oracles.
+	</p>
+	<p>
+		When you are finished, turn back to this paragraph, where you will come out of your trance.
+	</p>
+	<p>
+		The priestess bids you farewell with a cryptic, 'Until we meet again.'
+	</p>
+	<p>You leave. <goto section="101"/>.</p>
+</section>

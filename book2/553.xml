@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="553">
+	The waves close over your head and your only thought now is
+	to save yourself.
+	<rankcheck dice="2"/>.
+	<failure>
+		If the score is greater than your Rank, you are drowned - <goto section="560"/>.
+	</failure>
+	<success>
+		If the score is less than or equal to your Rank, you are swept miraculously towards the shore.
+		<lose stamina="1d">Lose 1-6 Stamina points</lose> and,
+		if you survive, <goto section="559"/>.
+	</success>
+</section>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="19">
+	<p>
+		Holyamu's eyes widen with surprise. He flies upward on his throne, and waves his hand through the air. You are teleported far away. The last thing you hear is Holyamu's crazed laughter.
+	</p>
+	<p><random dice="1" var="x">Roll one die</random> to see where you end up.</p>
+	<outcomes>
+		<outcome var="x" range="1" section="444">Aku</outcome>
+		<outcome var="x" range="2" book="6" section="79">Chambara</outcome>
+		<outcome var="x" range="3" book="8" section="20">Pethumar</outcome>
+		<outcome var="x" range="4" book="4" section="10">Yarimura</outcome>
+		<outcome var="x" range="5" book="2" section="2">Ringhorn</outcome>
+		<outcome var="x" range="6" book="3" section="571">Dweomer</outcome>
+	</outcomes>
+	<p>If you haven't got the book listed (or it isn't out yet) <reroll/>.</p>
+</section>

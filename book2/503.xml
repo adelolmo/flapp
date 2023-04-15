@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="503">
+	<p>
+		The slaver&#8217;s vessel crunches into the side of your ship. As the attackers swarm abroad, the sailors prepare to defend themselves with whatever comes to hand.
+	</p>
+	<p><random dice="2"/>:</p>
+	<outcomes>
+		<outcome range="2-4" section="560">Calamity; you are killed</outcome>
+		<outcome range="5-9" section="528">
+			Crushing defeat;
+			<lose stamina="2d">lose 2-12 Stamina</lose>
+		</outcome>
+		<outcome range="10-12" book="5" section="444">
+			The slavers retreat
+		</outcome>
+	</outcomes>
+</section>

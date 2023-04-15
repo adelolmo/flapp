@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="105">
+	<p>
+		<if shards="1"><set var="x" value="1"/></if>
+		<else><set var="x" value="2"/></else>
+		<lose item="*" shards="*" cache="2.105" hidden="t"/>
+		As you turn into the small square beside the Founder&#8217;s Fountain, a man wrapped in a grey cloak brushes swiftly past you. An instant later you realize he has
+		<if var="x" equals="1">
+			<transfer shards="*" to="2.105">stolen any money</transfer>
+		</if>
+		you had on you.
+		<if var="x" equals="2">
+			(If you had no money, he stole one possession instead - you <transfer item="?" limit="1" to="2.105">choose which</transfer>.)
+		</if>
+	</p>
+	<p>
+		You whirl. There is no sign of the scoundrel.
+		<difficulty ability="scouting" level="10" force="f"/>
+		if you want to try to track him.
+	</p>
+	<outcomes>
+		<success section="128"/>
+		<choice section="151">Failed (or did not attempt) SCOUTING roll</choice>
+	</outcomes>
+</section>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="503">
+	<difficulty ability="combat" level="14"/>.
+	<outcomes>
+		<success section="313"/>
+		<failure section="162"/>
+	</outcomes>
+</section>

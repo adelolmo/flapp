@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="442">
+	You set out to explore the city of Yellowport at night, unwholesome though it is with its reeking air and dusty ochre streets.
+	<choices>
+		<choice section="21">Head for the rough part of the town</choice>
+		<choice section="178">Go to the wealthy area</choice>
+		<choice section="265">Explore the merchants&#8217; storehouses</choice>
+	</choices>
+</section>

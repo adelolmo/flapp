@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="229">
+	<if codeword="2.289.r">
+		<lose codeword="2.289.r" hidden="t"/>
+		<set var="ransom" value="150"/>
+	</if>
+	<elseif codeword="2.530.r" hidden="t">
+		<lose codeword="2.530.r" hidden="t"/>
+		<set var="ransom" value="300"/>
+	</elseif>
+	<elseif codeword="2.564.r" hidden="t">
+		<lose codeword="2.564.r" hidden="t"/>
+		<set var="ransom" value="100"/>
+	</elseif>
+	<elseif codeword="3.157.r">
+		<lose codeword="3.157.r" hidden="t"/>
+		<set var="ransom" value="300"/>
+	</elseif>
+	<elseif codeword="3.218.r">
+		<lose codeword="3.218.r" hidden="t"/>
+		<set var="ransom" value="150"/>
+	</elseif>
+	Your captors take you to Metriciens, where the payment of the ransom is arranged through the auspices of the merchants&#8217; guild. Turn to <b>36</b> and deduct the ransom demand from your account at the guild.
+	<i>[Your ransom is either
+		<if var="ransom" equals="100">100</if>,
+		<if var="ransom" equals="150">150</if> or
+		<if var="ransom" equals="300">300</if> Shards --Ed]
+	</i>
+	<moneycache name="MerchantBank" text="Money banked"/>
+	<choices>
+		<choice section="252">Not enough banked to cover the ransom</choice>
+		<choice section="48" shards="ransom">Ransom paid in full</choice>
+	</choices>
+</section>

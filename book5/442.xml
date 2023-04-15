@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="442">
+	<p>
+		After many days searching in the northern mountains you find an egg of the glissith. With its magical properties you are able to return the princess to her rightful form. Her father, a king of an island in the Cragdrift Sea, sends you a gem worth <gain shards="250"/>. Note the 250 Shards on your Adventure Sheet.
+	</p>
+	<p>About two weeks have passed. <goto section="384"/>.</p>
+</section>

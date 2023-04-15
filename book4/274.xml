@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="274">
+	The City of Mystery is home to a community of mages. The City itself consists of a few houses and shops built around a temple to Molhern, and a huge colosseum, called the Starstone Arena.
+	<choices>
+		<choice section="53">Visit the arena</choice>
+		<choice section="111">Visit the market</choice>
+		<choice section="637">Go to the temple of Molhern</choice>
+		<choice section="455">Go to the White Warlock Tavern</choice>
+		<choice section="403">Visit the chief mage</choice>
+		<choice section="90">Leave the City of Mystery</choice>
+	</choices>
+</section>

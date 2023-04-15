@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="575" image="575.jpg">
+	<p>
+		At last you reach the end of the stairs. You have come to the flat top of one of the highest peaks of all. Northward is only blackness, the yawning, star-filled emptiness of the gulf between the worlds, spoken of only in myth and legend.
+	</p>
+	<p>
+		Standing before you is something else from legend. It is a dragon of enormous size, with three heads. From its three mouths smoke and flames belch forth into the sky - it was the dragon&#8217;s triple breath that made you think this peak was a volcano. On the other side of the dragon, you see an archway that frames stairs that descend into the blackness beyond.
+	</p>
+	<p>
+		One of the dragon&#8217;s heads turns its lambent amber eyes upon you. Its voice is like an earthquake.
+	</p>
+	<p>
+		&#8216;I am the Celestial Dragon of the North, Son of Great Tambu. None but the blessed may descend the Stairway of the Land Below the World.&#8217;
+	</p>
+	<p>
+		<if title="Blessed of Tambu">
+			If you have the title Blessed of Tambu, <goto section="547"/>.
+		</if>
+		If not, you can leave, <goto section="684" force="f"/>,
+		or attack the dragon, <goto section="503"/>.
+	</p>
+</section>
+

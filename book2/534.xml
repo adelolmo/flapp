@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="534">
+	<p>
+		You are forced to put out to sea to escape being dashed on the rocks. When the storm has passed, you take stock of the damage.
+	</p>
+	<p>
+		Quite a lot of things have been swept overboard. Your vessel has
+		<lose cargo="?">lost one Cargo Unit</lose>,
+		if you were carrying cargo. (If you had several cargo units, you choose which was lost.)
+	</p>
+	<p>
+		&#8216;I don&#8217;t know where we are, skipper,&#8217; says the mate. &#8216;Way off course, that&#8217;s for sure.&#8217;
+	</p>
+	<p>
+		You look around. There is no sight of land.
+		<if book="3">
+			Turn to
+			<goto book="3" section="301"/>.
+		</if>
+	</p>
+	<p>
+		<i>[If you don't have book 3, <random dice="2"/> instead --Ed]</i>
+	</p>
+	<outcomes>
+		<outcome range="2,7" section="335"/>
+		<outcome range="3,6" section="358"/>
+		<outcome range="4,8" section="221"/>
+		<outcome range="5,9" section="198"/>
+		<outcome range="10-12" section="14"/>
+	</outcomes>
+</section>

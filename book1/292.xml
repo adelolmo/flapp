@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="292">
+	The local market is very small - only two commodities are available for trade.
+	<market>
+		<header header1="Item" header2="To buy" header3="To sell"/>
+		<item name="smoulder fish" buy="60" sell="55"/>
+		<item name="silver nugget" buy="165" sell="150"/>
+	</market>
+	<p>When you are finished, <goto section="135">turn back to 135</goto>.</p>
+</section>

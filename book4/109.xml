@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="109">
+	<p>
+		You try some streetwise patter, but you succeed only in offending them.
+	</p>
+	<p>
+		'If it's trouble you want, then that's what you'll get!' yells the man. He tips up the table, and draws a long, barbed knife. The woman backs away. You must fight.
+	</p>
+	<fight name="Nomad" combat="7" defence="6" stamina="11"/>
+	<choices>
+		<choice section="197">If you win</choice>
+		<choice section="169" dead="t">If you lose</choice>
+	</choices>
+</section>

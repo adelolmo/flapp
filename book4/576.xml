@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="576">
+	<p>
+		After a time of aimless drifting, you come out on to the open sea. One day, you spot a bottle bobbing in the waves. You pluck it from the waters, and pop the cork.
+	</p>
+	<p>
+		To your amazement, a great stream of scarlet smoke roars out of the bottle. The smoke condenses into a huge, fat-bellied genie, wearing a loincloth, and a bejewelled turban. His skin is bright red.
+	</p>
+	<p>
+		The genie speaks in a rumbling baritone, &#8216;Ah, free at last! Thank you, small one, for freeing me. Now, as is customary in these affairs, I will grant you a wish as a reward. What do you desire?&#8217;
+	</p>
+	<choices>
+		<choice section="190">Ask to be teleported to Yarimura</choice>
+		<choice section="370">Ask for a king&#8217;s ransom in gold Shards</choice>
+		<choice section="529">Ask for knowledge of a skill of your choice</choice>
+	</choices>
+</section>

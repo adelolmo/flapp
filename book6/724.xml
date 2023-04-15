@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="724" dock="Mukogawa">
+	The only sailors available for hire are the ones that are too old or
+	too young to be worth pressing into service in the Moonrise
+	navy. It will cost you
+	<buy crew="average" shards="40"/>
+	to upgrade a poor crew to
+	average quality, which is the best you will get hereabouts. Once
+	you&#8217;ve amended the Ship&#8217;s Manifest (and crossed off the money)
+	<goto section="281"/>.
+</section>

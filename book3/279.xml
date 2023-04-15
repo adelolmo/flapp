@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="279">
+	The cook issues a stream of insults that threatens to turn the air
+	blue. You retreat cowed and shaken.
+	<lose ability="charisma" amount="1">Lose 1 point of CHARISMA</lose>
+	and
+	<tick codeword="Cacogast">acquire the codeword Cacogast</tick>,
+	then <goto section="607"/>.
+</section>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="321">
+	<if title="Masked Lord|Masked Lady">If you have the title Masked Lord or Masked Lady, <goto section="255"/> immediately.</if> If not, <goto section="16"/>.
+</section>

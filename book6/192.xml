@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="192">
+	<p>
+		You are suddenly beset on all sides by huge spidery things that dart up out of hidden burrows. Fight them all at once: each time that you strike at one of them, they all get to strike back at you.
+	</p>
+	<fight name="First Spider" combat="8" defence="12" stamina="17" group="s"/>
+	<fight name="Second Spider" combat="8" defence="12" stamina="13" group="s"/>
+	<fight name="Third Spider" combat="12" defence="12" stamina="12" group="s"/>
+	<p>You cannot escape from them. If you win, <goto section="280"/>.</p>
+</section>

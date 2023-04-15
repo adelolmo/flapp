@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="25" dock="Hagashin" image="25.jpg">
+	<p>
+		Once you have your own ship you can go anywhere on the high seas, exploring or trading. The shipbuilders of Hagashin are renowned throughout the Orient and you can get a good vessel at a fair price.
+	</p>
+	<p>Three types are available:</p>
+	<market>
+		<header type="ship"/>
+		<trade ship="barque" initialCrew="average" buy="200"/>
+		<trade ship="brigantine" initialCrew="average" buy="400"/>
+		<trade ship="galleon" initialCrew="average" buy="700"/>
+	</market>
+	<p>
+		If you already own a ship docked at Hagashin you can sell it for 20% less than these prices. If you do buy a ship, record its details on the Ship&#8217;s Manifest. The crew quality is average.
+	</p>
+	<p>When your business is complete, <goto section="302"/>.</p>
+</section>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="334">
+	<p>
+		A fox has its foot caught in a snare. Finally you cannot stand its cries of pain any longer. When you go to set it free, you find an item lying under the bushes nearby.
+	</p>
+	<p><random dice="1"/>.</p>
+	<outcomes>
+		<outcome range="1"><item name="paper sword"/></outcome>
+		<outcome range="2"><item name="silver chopsticks"/></outcome>
+		<outcome range="3"><item name="lantern" tags="light"/></outcome>
+		<outcome range="4"><item name="rope"/></outcome>
+		<outcome range="5"><item name="peacock feather"/></outcome>
+		<outcome range="6"><item name="crimson arrow"/></outcome>
+	</outcomes>
+	<p>
+		The fox limps off. Take the item if you want it and then <goto section="44"/>.
+	</p>
+</section>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="72">
+	<p>
+		Cross off the 75 Shards. You hand the Soulwatch the cash. Their black masks, shaped like the Usskhem, the avenging demons of Ebron, nod imperceptibly. One of them hands you a <item name="striped scarf"/>.
+	</p>
+	<p>
+		'See that you do not blaspheme again, or you will join the heretics in hell,' whispers one of the black-garbed fanatics. They glide away.
+	</p>
+	<p><goto section="100"/>.</p>
+</section>

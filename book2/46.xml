@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="46">
+	<p>
+		&#8216;When I was alive, I kept my treasure safe in a tower built of adamantine stone,&#8217; the corpse tells you. &#8216;The tower had an impregnable door that could only be unlocked by a key made of star metal. But my death-sleep has been troubled by disquieting dreams. What if a living man should find the key and plunder my hoard?&#8217;
+	</p>
+	<p>
+		&#8216;And what is it you want of me?&#8217; you find yourself asking, your voice sounding hollow in the stillness of the crypt.
+	</p>
+	<p>
+		The corpse points past you, out to the south. &#8216;Go and find the key of stars. Bring it back to me. Then I shall permit you to take a reward.&#8217; As you leave, you hear its parting words: &#8216;But take care not to return empty-handed, for then my vengeance would be swift and terrible.&#8217;
+	</p>
+	<p><goto section="22"/>.</p>
+</section>

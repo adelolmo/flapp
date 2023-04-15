@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="293">
+	<p>
+		It will cost you 30 Shards to buy a blessing.
+		<if shards="30">
+			<group>
+				<text>Cross off this sum and write Luck</text>
+				<lose shards="30"/>
+				<tick blessing="luck"/>
+			</group>
+			in the Blessings box on your Adventure Sheet.
+		</if>
+		The blessing allows you to reroll any one dice result. This needn&#8217;t necessarily be an ability roll; you could use it to reroll an encounter result that you don&#8217;t want.
+	</p>
+	<p>
+		You can have only one Luck blessing at a time, and it will work only once. When you use it, cross it off your Adventure Sheet. Now <goto section="44"/>.
+	</p>
+</section>

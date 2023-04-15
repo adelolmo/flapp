@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="267">
+	<p>
+		You help yourself to the pirates&#8217; treasure, which amounts to
+		<gain shards="400"/>. Their ship&#8217;s hold contains
+		<buy cargo="spices" quantity="1" shards="0">1 Cargo Unit of spices</buy>,
+		which you can add to your own cargo if your ship has room for it. Your mate is for taking the
+		<item name="pirate captain's head">
+			<b>pirate captain&#8217;s head</b>
+		</item>
+		as a gory trophy of your victory. Add it to your list of possessions if you agree.
+	</p>
+	<p>
+		<set var="r" value="rank" modifier="natural"/>
+		You also get a chance to increase in Rank after your stirring leadership in battle.
+		<random var="roll"/>,
+		<if var="roll" greaterthan="r">
+			and if the result is greater than your current Rank then you <gain ability="rank" amount="1">gain a Rank</gain>. You also <gain ability="stamina" amount="1d">gain 1-6 Stamina points permanently</gain>: increase your normal (unwounded) Stamina score by the roll of one die. Remember that going up a Rank increases your Defence.
+		</if>
+	</p>
+	<p>
+		Once you have made the necessary adjustments to your Adventure Sheet, <goto section="101"/>.
+	</p>
+</section>

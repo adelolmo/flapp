@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="605">
+	<p>
+		You strip off your armour and plunge into the maelstrom of opaque water.
+	</p>
+	<p><difficulty ability="scouting" level="18"/>.</p>
+	<outcomes>
+		<success section="628"/>
+		<failure section="7"/>
+	</outcomes>
+</section>

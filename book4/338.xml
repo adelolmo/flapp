@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="338">
+	<p>
+		Hordeth&#8217;s last blow sends you reeling back, and in the press of combat, you and he are separated. You collapse, but one of your men binds your wounds in the nick of time - you come round with <lose staminato="1">one Stamina point</lose>. It is clear to both sides, however, that you lost the duel with Hordeth, and this will effect the morale of your crew.
+	</p>
+	<p>
+		The main battle is still unfinished.
+		<if profession="warrior">
+			<random dice="3">
+				<adjust ability="rank"/>
+				<adjust crew="poor" value="-2"/>
+				<adjust crew="good" value="2"/>
+				<adjust crew="excellent" value="3"/>
+			</random>
+			if you are a Warrior
+		</if>,
+		<else>
+			of
+			<random dice="2">
+				<adjust ability="rank"/>
+				<adjust crew="poor" value="-2"/>
+				<adjust crew="good" value="2"/>
+				<adjust crew="excellent" value="3"/>
+			</random>
+			if you belong to any other profession.
+		</else>
+		Add your Rank to this roll. Then, if your crew if poor quality, subtract 2 from the total. If the crew is good quality, add 2. If the crew is excellent quality, add 3.
+	</p>
+	<outcomes>
+		<outcome range="0-15" section="282">You are defeated</outcome>
+		<outcome range="16-18" section="240">They are beaten off</outcome>
+		<outcome range="19+" section="149">Outright victory</outcome>
+	</outcomes>
+</section>

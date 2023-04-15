@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="200" image="Forest of the Forsaken.JPG">
+	<p>
+		You have acquired an old map of the Forest of the Forsaken in Golnir (in <i>Cities of Gold and Glory</i>),
+		<image file="Forest of the Forsaken.JPG" title="Treasure Map" book="1">showing a safe path</image> that leads to the Tower of Despair. It seems to conflict with the location of the Tower on your own map. Which is correct?
+	</p>
+	<p>
+		You can turn to <b>200</b> in <i>The War-Torn Kingdom</i> whenever you wish, providing you own the map, but remember, always note the paragraph you were at before turning here.
+	</p>
+	<p>
+		<return force="f">Return to the paragraph you came from</return> (if you have only just bought the map, you were in Yellowport market, so <return>return to <b>30</b></return>).
+	</p>
+</section>

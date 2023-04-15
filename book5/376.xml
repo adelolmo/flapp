@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="376">
+	<p>
+		<if item="courtier's mask" title="blue skin">
+			If you have a <b>courtier's mask</b> or blue skin,
+			<goto section="148"/> immediately.
+		</if>
+		If not, read on.
+	</p>
+	<p>
+		The high priest of Ebron tells you that you must perform a task of initiation to join the church. He requests that you bring him a piece of the holy texts, a <b>scroll of Ebron</b>.
+		<if item="scroll of Ebron">
+			If you have such a scroll,
+			<lose item="scroll of Ebron">cross it off</lose> and
+			<group>
+				<text>write Ebron in the God box</text>
+				<tick god="Ebron"/>
+				<lose title="Chosen One of Nagil"/>
+			</group>
+			of your Adventure Sheet - you are now a fully fledged initiate of the church and can <goto section="509"/>.
+		</if>
+	</p>
+	<p>
+		If you haven't got a <b>scroll of Ebron</b>, you'll have to go away and get one to join the church.
+	</p>
+	<p>You can leave by <goto section="444">turning to 444</goto>.</p>
+</section>

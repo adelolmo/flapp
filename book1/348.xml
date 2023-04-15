@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="348">
+	<p>
+		You remember what the fishermen say - the root of a certain seaweed, when crushed, gives off a cloud of toxic fluid. This sap is harmless to humans but is known to paralyse marine creatures for a short while. Fortunately, the seaweed grows in abundance here. You swim down with a handful of the roots, squeezing its sap into the waters. The hideous creatures shoot towards you, but are paralysed the instant they enter the cloud of reddish fluid that billows around you.
+	</p>
+	<p>
+		You take the <item name="golden net"/> (note it on your Adventure Sheet) and swim back to the Shadar Tor as fast as you can.
+	</p>
+	<choices>
+		<choice section="602">Take the road to Trefoille</choice>
+		<choice section="166">Take the road to Marlock City</choice>
+	</choices>
+</section>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="628" image="628.jpg">
+	<p>
+		You struggle through the sleet and rain, pursuing the voice. Suddenly, something explodes at your feet, showering you with hot particles of molten ore. <lose stamina="1">Lose 1 Stamina point</lose>.
+	</p>
+	<p>
+		You look up to see a man-shaped creature of greenish, flickering light, flying through the air on a storm cloud. Its eyes are burning orbs of blue fire, and it is hurling lumps of molten metal at you. It laughs wildly, a sound like pealing thunder.
+	</p>
+	<p><difficulty ability="sanctity" level="14"/>.</p>
+	<outcomes>
+		<success section="700"/>
+		<failure section="536"/>
+	</outcomes>
+</section>

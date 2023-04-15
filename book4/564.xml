@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="564">
+	<p>
+		You are forcing your way through jungle vines, and strange, luxuriant foliage. Steam rises from the moist earth, and brightly coloured birds sing in the trees. The ground begins to rise; you have started to climb the mountain in the middle of the isle.
+	</p>
+	<p>
+		&#8216;Turn back! Turn back!&#8217; squawks a large red and gold parrot, before it takes to the air and flies away.
+	</p>
+	<choices>
+		<choice section="407">Turn back</choice>
+		<choice section="122">Press on up the mountain</choice>
+	</choices>
+</section>

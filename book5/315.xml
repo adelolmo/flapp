@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="315">
+	<p>You train with your household knights in the courtyard.</p>
+	<p>
+		<training ability="combat">Roll two dice</training>.
+		If the roll exceeds your current COMBAT score, increase it by 1.
+		<if var="exp" lessthan="0">
+			If the roll is less than your current COMBAT, however, then you take a
+			<lose ability="stamina" amount="2">crippling injury</lose>
+			that permanently reduces your Stamina by 2 points.</if>
+	</p>
+	<p>When you have finished here, <goto section="245"/>.</p>
+</section>

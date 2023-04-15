@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="433">
+	You rush in, taking the ruffians by surprise. A couple of good buffets around the head, and they run off. The scholar lies groaning on the ground.
+	<choices>
+		<choice section="172">Help him up</choice>
+		<choice section="379">Rob him</choice>
+	</choices>
+</section>

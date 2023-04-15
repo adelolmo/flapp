@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="236">
+	<if item="striped scarf">If you have a <b>striped scarf</b>, <goto section="664"/>.</if> If you have only a <b>spotted scarf</b>, <goto section="194"/>.
+</section>

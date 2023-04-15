@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="671">
+	You are on the road that follows the coastline between Narai
+	and Chompo. Forested hills loom large as thunderclouds against
+	the southern sky.
+	<choices>
+		<choice section="398">Go south</choice>
+		<choice section="703">Go east</choice>
+		<choice section="155">Go west</choice>
+	</choices>
+</section>

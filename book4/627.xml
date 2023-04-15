@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="627">
+	<p>
+		As you draw nearer to the hill, dozens more rise up from behind the crest of a low mound. At the sight of you they give a roar of blood-lust and charge! There are so many of them, that you have no choice but to flee for your life.
+	</p>
+	<p>
+		<rankcheck dice="1" add="1"/>.
+		<success>
+			If the result is less than or equal to your Rank, <goto section="460"/>.
+		</success>
+		<failure>If it is higher, <goto section="180"/>.</failure>
+	</p>
+</section>

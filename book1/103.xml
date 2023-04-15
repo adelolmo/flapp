@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="103">
+	You set sail for Copper Island. The uneventful journey takes only a few days. The captain cannot believe how smooth the voyage has been. You disembark at the harbour of Copper Island.
+	<goto book="3" section="99">Turn to paragraph 99 in <i>Over the Blood-Dark Sea</i></goto>.
+</section>
+

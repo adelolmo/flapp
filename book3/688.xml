@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="688">
+	<p>
+		The fisherman take you to the village alehouse, where drink and good company soon loosen their wary tongues.
+	</p>
+	<p>
+		&#8216;We are a privileged community,&#8217; boasts one old man, &#8216;for we are situated close to the Reavers&#8217; citadel and are often called on to provide food and drink for their table.&#8217;
+	</p>
+	<p>
+		Before long you have a good idea how to find the Reavers&#8217; secret bay. Bidding the villagers goodnight, you return to your ship.
+	</p>
+	<p>
+		<tick codeword="Chance">Get the codeword Chance</tick>
+		and <goto section="545"/>.
+	</p>
+</section>

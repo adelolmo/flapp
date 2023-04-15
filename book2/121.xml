@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="121">
+	The strong current of the Rese River carries you swiftly south.
+	Soon you see the battlements of Castle Ravayne in the distance.
+	You can disembark at this point or journey on the coast.
+	<choices>
+		<choice section="25">Visit Castle Ravayne</choice>
+		<choice section="2">Continue downriver to Ringhorn</choice>
+	</choices>
+</section>

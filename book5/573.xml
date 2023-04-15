@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="573" tag="temple">
+	<p>
+		The Three Fortunes are the goddesses of fate who weave the tapestry of all men's lives. A placard outside the temple declares: 'O Lucky Spatterdash, blessed by the Three Fortunes with freedom!'
+	</p>
+	<p>
+		Inside, a vast wall-painting shows a three-faced deity with six limbs hurling down nuggets of gold at a host of masked demons, who run in terror at her wrath. The high priestess welcomes you as the instrument of the goddesses' revenge against the hated Uttakin.
+	</p>
+	<choices>
+		<choice section="508">Become an initiate of the Three Fortunes</choice>
+		<choice section="647">Renounce initiateship</choice>
+		<choice section="703">Seek a blessing</choice>
+		<choice section="428">Leave the temple</choice>
+	</choices>
+</section>

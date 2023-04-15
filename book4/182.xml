@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="182">
+	Thieves' Kitchen is the most undesirable area of town. The scum of the plains have made this their home, along with dishonoured samurai and exiles from Sokara, Golnir and Uttaku. It is a ramshackle collection of huts, taverns and houses that are more like stockades than homes. The streets are dark and dingy; beggars and cutpurses infest every doorway and alley. Even the city patrol does not come here. It is said the local thieves' guild, called the Brotherhood of the Night, pays off the lord of the city with a fat fee to leave its members alone.
+	<choices>
+		<choice section="574">Visit a tavern</choice>
+		<choice section="633">Explore the streets</choice>
+		<choice section="10">Leave Thieves' Kitchen</choice>
+	</choices>
+</section>

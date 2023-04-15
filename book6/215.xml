@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="215">
+	<p>
+		Sanobu&#8217;s shrine is built on a wide shelf of rock overlooking the waterfall. There is no effigy of the god, just a dim chamber at the back of the shrine where you can view the exposed mark in the rock which is supposedly Sanobu&#8217;s footprint.
+	</p>
+	<p>
+		<if shards="35"><if blessing="storm" not="t">
+				To obtain a blessing you must
+				<group>
+					<text>pay 35 Shards and make a CHARISMA roll at a Difficulty of 15</text>
+					<lose shards="35"/>
+					<difficulty ability="charisma" level="15">
+						<adjust god="Sanobu" amount="3"/>
+					</difficulty>
+				</group>
+				(Difficulty 12 if you are an initiate of Sanobu).
+				<success>
+					On a successful roll you get a blessing of
+					<tick blessing="storm">Safety from Storms</tick>
+					which you can write in the Blessings box on your Adventure Sheet.
+				</success>
+				This blessing may help you at sea, but it works only once and is then used up. You can have only one Safety from Storms blessing at a time.
+		</if></if>
+	</p>
+	<p>
+		<if shards="50"><if safeAddGod="Sanobu">
+				To become an initiate you must
+				<group>
+					<text>pay a donation of 50 Shards</text>
+					<lose shards="50"/>
+					<tick god="Sanobu"/>
+				</group>,
+				and you can then write Sanobu in the God box on your Adventure Sheet. You must not already be an initiate of another god.
+		</if></if>
+		<if god="Sanobu"><if shards="30">
+				(If you were already an initiate of Sanobu and want to renounce that status now, you must
+				<group>
+					<text>pay 30 Shards</text>
+					<lose shards="30"/>
+					<lose god="Sanobu"/>
+				</group>
+				by way of compensation.)
+		</if></if>
+	</p>
+	<p>When you have finished your devotions, <goto section="270"/>.</p>
+</section>

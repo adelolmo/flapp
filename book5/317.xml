@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="317">
+	The Ruby River is aptly named. Its waters are tinged with crimson. Some say it is the rusty minerals of the Grumes, others that it is the blood of the elder gods (though this is a heresy in Uttaku!). There is a bridge across the river here.
+	<choices>
+		<choice section="465">Follow the river north</choice>
+		<choice section="711">Head east into Old Harkuna</choice>
+		<choice section="213">Go south to the Hall of Heroes</choice>
+		<choice section="126">Head west to the Crags of the Long Homes</choice>
+		<choice section="438">Head south-west into Uttaku</choice>
+	</choices>
+</section>

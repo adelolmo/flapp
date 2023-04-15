@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="83">
+	<p><tick codeword="Fracas">Get the codeword Fracas</tick>.</p>
+	<p>
+		Armed now with Tadachika&#8217;s
+		<weapon name="sword" bonus="3"/>,
+		which you can add to your list of possessions, you confront the Lord Chancellor&#8217;s elite guards. You cannot possibly kill them all. Your only hope is to fight your way out of the villa and escape.
+	</p>
+	<p>
+		The two nearest guards see what you are planning and slash at you with their curved swords.
+		<difficulty ability="combat" level="14">
+			Make a COMBAT roll at a Difficulty of 14
+		</difficulty>
+		to avoid being cut down where you stand.
+		<failure>
+			If you fail the COMBAT roll, you are dead - <goto section="140"/>.
+		</failure>
+		<success>
+			Even if you succeed in the COMBAT roll, you still take a nasty gash and must <lose stamina="1d">lose 1-6 Stamina</lose>.
+		</success>
+	</p>
+	<p>If you survive, you can make a break for it: <goto section="696"/>.</p>
+</section>

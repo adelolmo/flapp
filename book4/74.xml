@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="74">
+	<p>
+		The man is hauled aboard. You find a waterproof pouch on his belt. Inside is one half of what is clearly a treasure map. The directions, however, have been written in some code you cannot understand.
+	</p>
+	<p>
+		When the ship-wrecked mariner has been revived, you have him brought to your cabin and he tells you his story. His name is Etla, once first mate to a blackhearted pirate captain called Nyelm Starhand. Nyelm betrayed his crew, taking the map that showed the location of the pirate's treasure, but Etla managed to steal half the map and escape, throwing himself on the mercy of the sea. He believes that Nyelm is in Yarimura.
+	</p>
+	<p>
+		Etla gives you his half, and says that he'll meet you in Yarimura, when you're ready. He points out that you still need him - only Etla and Nyelm know the code to translate what the map says.
+	</p>
+	<p>
+		<tick codeword="Dirk">Record the codeword Dirk</tick>. Afterwards, Etla hitches a lift on a passing merchant ship.
+	</p>
+	<p>'See you in Yarimura!' he says with a toothless grin.</p>
+	<p>You sail on. <goto section="236"/>.</p>
+</section>

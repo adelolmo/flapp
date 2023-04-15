@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="396">
+	<p>
+		You are shown into a spartan apartment. You are fed, and allowed into a fenced-off area of the gardens but you are unable to speak with anyone higher than the rank of servant.
+	</p>
+	<p>
+		One of the servants, a slave who was once a farmer in Old Harkuna, tells you that some people have to wait for weeks, paying rent all the time. He tells you that one way to speed the process up is to challenge the vizier to a game of bokh. According to ancient tradition, anyone can choose to take trial by bokh as a method of speeding up the legal process. Mind you, losing can be unpleasant.
+	</p>
+	<p>
+		After a week the vizier returns.
+		<if item="courtier's mask">
+			If you have a <b>courtier's mask</b>, <goto section="523"/>.
+		</if>
+		<if title="blue skin">
+			If not, but you have blue skin, <goto section="156"/>.
+		</if>
+		If you have neither, <goto section="382"/>.
+	</p>
+</section>

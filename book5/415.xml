@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="415" image="415.jpg">
+	<p>
+		Even in the mountains, a thunderstorm is no problem for an accomplished outdoorsman. You swiftly find shelter under an overhang, and professionally set about drying your clothes, shielding a tiny fire from the gale, and ensuring that your sanctuary is well-drained. Come the morning and the passing of the storm you are dry and well-rested.
+	</p>
+	<p>
+		<rest stamina="2">
+			Recover up to 2 lost Stamina points
+		</rest>
+		and <goto section="307"/>.
+	</p>
+</section>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="90">
+	&#8216;I hope you&#8217;re well-versed in outdoor survival,&#8217; mutters an old
+	man, displaying the stump of the leg that he lost to a crocodile.
+	<choices>
+		<choice book="7" section="450">Follow the coast east</choice>
+		<choice book="7" section="350">Follow the coast west</choice>
+		<choice book="7" section="550">South-west into the jungle</choice>
+		<choice book="7" section="175">South-east into the jungle</choice>
+		<choice book="7" section="275">Follow the riverbank</choice>
+		<choice section="44">Remain in Smogmaw</choice>
+	</choices>
+</section>

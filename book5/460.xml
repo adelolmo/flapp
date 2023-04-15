@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="460">
+	The pirates are beaten, and the survivors surrender. You force them to take you to their treasure hoard, buried on a sandbank in the estuary of the Ruby River. <random dice="1"/> to see what you get.
+	<outcomes>
+		<outcome range="1-2">
+			<gain shards="500"/> and a <item name="bag of pearls"/>
+		</outcome>
+		<outcome range="3-4"><gain shards="750"/></outcome>
+		<outcome range="5">
+			<gain shards="500"/> and <item name="selenium ore"/>
+		</outcome>
+		<outcome range="6">
+			<gain shards="1000"/> and a <tool name="silver flute" ability="charisma" bonus="2"/>
+		</outcome>
+	</outcomes>
+	When you are ready, <goto section="95"/>.
+</section>

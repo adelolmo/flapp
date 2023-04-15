@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="181">
+	<p><if codeword="Diamond">If you have the codeword Diamond, <goto section="525"/>.</if> If not, read on.</p>
+	<p>
+		Thurlings is a pitiful looking village. Primitive hovels have been dug out of the side of banks of earth, and the people eke out a miserable existence, taxed into poverty by the harsh rulers of this land, the lords of Uttaku. As you approach, the villagers retreat into their earthen mounds, bolting their doors in fear. Most visitors to their village are marauding Uttakin mercenaries or tax-collectors.
+	</p>
+	<p>There is nothing to do here, so you leave. <goto section="189"/>.</p>
+</section>

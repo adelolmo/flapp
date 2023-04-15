@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="741" image="741.jpg">
+	<p>
+		Darkness has begun to trickle between the boughs when you hear thudding footfalls.
+	</p>
+	<p>
+		A group of vampires in long black satin robes come crashing through the banks of ferns to seize you, bloodshot eyes gleaming from faces the colour of old ivory. Rigor mortis has made their legs so stiff that they have to move by hopping, but all the same they swiftly have you surrounded.
+	</p>
+	<p>
+		<tick codeword="6.741.1" hidden="t"/>
+		To break free requires
+		<group>
+			<text>a COMBAT or SANCTITY roll</text>
+			<lose codeword="6.741.1"/>
+			<difficulty ability="combat|sanctity" level="16"/>
+		</group>
+		(your choice) at a Difficulty of 16, or you can choose to stand your ground and fight.
+	</p>
+	<outcomes>
+		<success section="529">Successful roll</success>
+		<failure section="459">Failed roll</failure>
+		<choice box="6.741.1" section="46">Stand and fight</choice>
+	</outcomes>
+</section>

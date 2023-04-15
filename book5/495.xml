@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="495">
+	<p>
+		You cut several of them down in the first few seconds of the fight, and the rest flee in terror.
+	</p>
+	<p>
+		You loot the bodies and find <gain shards="125"/>, a <weapon name="katana" bonus="1"/>, a suit of <armour name="ring mail" bonus="2"/>, and a <tool name="compass" ability="scouting" bonus="1"/>.
+	</p>
+	<p><goto section="168"/>.</p>
+</section>

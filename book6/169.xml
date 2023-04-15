@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="169">
+	You enter a warren of enchanted tunnels that link places all
+	across the world. From here you can travel to distant places,
+	emerging by magic through a vent in empty space.
+	<choices>
+		<choice book="5" section="444">To Aku</choice>
+		<choice book="3" section="571">To Dweomer</choice>
+		<choice book="4" section="118">To the Great Steppes</choice>
+		<choice book="1" section="10">To Yellowport</choice>
+		<choice book="12" section="689">To Erebus</choice>
+		<choice section="226">To Hagashin</choice>
+	</choices>
+</section>

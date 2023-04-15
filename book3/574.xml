@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="574">
+	<p>
+		The dead man&#8217;s ghost can be seen pacing the deck at night. The crew go about wide-eyed with fright.
+	</p>
+	<p>
+		If you cannot exorcize the ghost there will be no option but to abandon ship. For an exorcism to succeed you mus
+		<difficulty ability="sanctity" level="15">
+			make a SANCTITY roll at a Difficulty of 15
+		</difficulty>.
+	</p>
+	<outcomes>
+		<success section="41"/>
+		<failure section="628"/>
+	</outcomes>
+</section>

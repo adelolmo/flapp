@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="176">
+	They seem impressed by your demeanour and you are signed on to the crew. After a time serving in the crew of the pirate who calls himself Scourge - the crew call him Barrelbelly - you distinguish yourself in a couple of sea battles. The captain offers to release you from service and put you ashore at a port. You leave with <gain shards="320"/>, a suit of <armour name="leather armour" bonus="1"/>, a <weapon name="scimitar"/>, some <item name="rope"/>, and a <tool name="flute" ability="charisma" bonus="1"/>. Note them on your Adventure Sheet and choose where you will be put ashore.
+	<choices>
+		<choice section="10">Yarimura</choice>
+		<choice book="1" section="10">Yellowport</choice>
+		<choice book="3" section="100">Dweomer</choice>
+		<choice book="2" section="48">Metriciens</choice>
+		<choice book="6" section="79">Chambara</choice>
+	</choices>
+</section>

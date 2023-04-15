@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="560">
+	<p>
+		The Hall of Heroes is open for business once more. The new patron is none other than Grindel the Ripper. He stands behind the bar, serving beer and meals (vegetarian only) and has become quite an attraction. Patrons come from miles around to be served by the friendly and amiable lizard man.
+	</p>
+	<p>
+		Grindel welcomes you as an old friend. You can stay here free for as long as you like and <rest>heal all lost Stamina points</rest>.
+	</p>
+	<p>
+		Grindel will also allow you to store items in his cellar. You can leave possessions and money here to save having to carry them around. Transfer anything you wish to leave from your Adventure Sheet to the box.
+	</p>
+	<p>When you are ready to leave, <goto section="11"/>.</p>
+	<itemcache name="5560" text="Items in cellar"/>
+</section>

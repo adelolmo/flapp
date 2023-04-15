@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="596" boxes="1">
+	<p>
+		<if ticks="1">If there is a tick in the box, <goto section="709"/> immediately.</if> If not, <tick>put a tick there now</tick>, and read on.
+	</p>
+	<p>
+		You announce to the teeming crowds that Aku is blessed to have the presence of such a great mage as yourself.
+	</p>
+	<p>
+		'I, the greatest mage that ever lived, am at your service, mighty Aku!' you cry.
+	</p>
+	<p>
+		Shortly, a noble lady wearing the mask of the Caste of Blessed Attendants comes to you. She brings a bier, carried by six golden-skinned slaves, on which rests a young man, quite dead. She explains that it is her son, and she demands that you, as a great wizard, should bring him back to life. You take a look at the body.
+	</p>
+	<p><difficulty ability="magic" level="15"/>.</p>
+	<outcomes>
+		<success section="548"/>
+		<failure section="659"/>
+	</outcomes>
+</section>

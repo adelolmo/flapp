@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="509">
+	<p>
+		You spot a pressure pad at the base of the idol just in time - who knows what unpleasant trap that would have set off! Quickly, you remove the chain mail and sling it over your shoulder. Note the
+		<group>
+			<text><b>gold chain mail of Tyrnai</b></text>
+			<tick codeword="StolenTyrnaiMail"/>
+			<item name="gold chain mail of Tyrnai" hidden="t"/>
+		</group>
+		on your Adventure Sheet - as it is gold, it is useless as actual armour.
+	</p>
+	<p>
+		The eyes of the jaguar headed idol seem to turn to look at you. <difficulty ability="sanctity" level="10"/>.
+	</p>
+	<outcomes>
+		<success section="625"/>
+		<failure section="279"/>
+	</outcomes>
+</section>

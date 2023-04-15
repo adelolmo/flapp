@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="127">
+	You are on the road between Metriciens and Haggart&#8217;s Corner.
+	<choices>
+		<choice section="48">Follow the road to Metriciens</choice>
+		<choice section="150">Follow the road to Haggart&#8217;s Corner</choice>
+		<choice section="101">Head cross-country towards Wishport</choice>
+		<choice section="54">Head cross-country towards the heath</choice>
+	</choices>
+</section>

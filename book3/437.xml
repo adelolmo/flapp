@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="437">
+	<!-- Book has choices in the form
+	     Both rolls successful	The hellions retreat; turn to 322
+	     Can't do this at the moment -->
+
+	<lose codeword="3.437.1" hidden="t"/>
+	<lose codeword="3.437.2" hidden="t"/>
+	<lose codeword="3.437.3" hidden="t"/>
+	A pack of hellions erupt out of the sea by night and pelt your
+	vessel with burning pitch. To repulse them you must use a
+	combination of sorcery and holy force.
+	<difficulty ability="magic" level="17" var="m">Make MAGIC</difficulty>
+	and
+	<difficulty ability="sanctity" level="17" var="s">SANCTITY</difficulty>
+	rolls, both at Difficulty 17.
+	<i>[Without book 10, the last outcome won't be triggered --Ed]</i>
+	<success var="m">
+		<lose codeword="3.437.1" hidden="t"/>
+		<lose codeword="3.437.2" hidden="t"/>
+		<lose codeword="3.437.3" hidden="t"/>
+		<success var="s"><tick codeword="3.437.1" hidden="t"/></success>
+		<failure var="s"><tick codeword="3.437.2" hidden="t"/></failure>
+	</success>
+	<failure var="m">
+		<lose codeword="3.437.1" hidden="t"/>
+		<lose codeword="3.437.2" hidden="t"/>
+		<lose codeword="3.437.3" hidden="t"/>
+		<success var="s"><tick codeword="3.437.2" hidden="t"/></success>
+		<failure var="s">
+			<if book="12">
+				<tick codeword="3.437.3" hidden="t"/>
+			</if>
+			<else><tick codeword="3.437.2" hidden="t"/></else>
+		</failure>
+	</failure>
+
+	<choices>
+		<choice box="3.437.1" section="322">
+			Both rolls successful: The hellions retreat
+		</choice>
+		<choice box="3.437.2" section="249">
+			One roll successful: The ship's aflame
+		</choice>
+		<choice box="3.437.3" book="12" section="66">
+			Both rolls failed: Carried off to hell
+		</choice>
+	</choices>
+</section>

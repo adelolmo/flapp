@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="25">
+	<p>
+		A man swoops down out of the skies on a flying throne. He wears thick woollen robes. His eyes are a piercing blue and he has a preposterously long white beard. He looks quite mad. 'It's an unwanted visit from Holyamu the Unbidden!' he cries.
+	</p>
+	<p>
+		<if codeword="Elk">If you have the codeword Elk, <goto section="587"/>.</if> If not, <goto section="681"/>.
+	</p>
+</section>

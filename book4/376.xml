@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="376" boxes="1">
+	<p>
+		<if ticks="1">
+			If there is a tick in the box, <goto section="418"/> immediately.
+		</if>
+		If not, <tick/>, and read on.
+	</p>
+	<p>
+		You are walking down an alley when a dark figure steps out in front of you.
+	</p>
+	<p><difficulty ability="scouting" level="13"/>.</p>
+	<outcomes>
+		<success section="348"/>
+		<failure section="293"/>
+	</outcomes>
+</section>

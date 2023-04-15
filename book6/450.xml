@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="450">
+	<p>
+		Not far off the starboard bow, hidden rocks break the waves into surging white froth. On the port side lies open ocean.
+	</p>
+	<p><random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-9" section="543">A safe voyage</outcome>
+		<outcome range="10-12" section="145">Attacked at sea</outcome>
+	</outcomes>
+</section>

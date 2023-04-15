@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="313">
+	Each time you slice through one of the hydra&#8217;s necks, it grows
+	another head. You soon see that the only way to defeat it is to
+	strike at the point where all necks join the body.
+	<fightdamage type="add"><tick codeword="HydraDamage" hidden="t"/></fightdamage>
+	<fight name="Hydra" combat="6" defence="11" stamina="9"/>
+	If you kill it, <goto section="361"/>.
+</section>

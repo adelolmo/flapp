@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="63" boxes="1">
+	<p>
+		<if ticks="1">
+			If there is a tick in the box, <goto section="279"/> immediately.
+		</if>
+		If not, <tick>put a tick there now</tick>, and read on.
+	</p>
+	<p>
+		At a table in a shadowed corner, two people are talking. One is a short, disreputable-looking fellow, a nomad of the plains judging by his looks. The other is a large, fat, red-faced woman. You walk over, and introduce yourself. They react with astonishment at your temerity, and the man reaches for the long dagger at his belt.
+	</p>
+	<p>
+		<difficulty ability="charisma" level="14">
+			<adjust profession="Rogue" value="1"/>
+			<adjust title="Nightstalker" value="1"/>
+		</difficulty>. Add one to the roll if you are a Rogue by profession, and add an additional one if you have the title Nightstalker.
+	</p>
+	<outcomes>
+		<success section="146"/>
+		<failure section="109"/>
+	</outcomes>
+</section>

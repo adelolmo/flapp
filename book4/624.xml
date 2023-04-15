@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="624" tag="temple">
+	<p>
+		You have come to the platform above a celestial harbour, the entrance to the underworld. A silver barge is moored here.
+	</p>
+	<p>
+		If you want to board the silver barge, it will take you to the celestial harbour below. Turn to <goto book="12" section="199"/>.
+	</p>
+	<p>
+		Your only other way of getting out of here is a means of teleportation. Otherwise, you will die - <goto section="7"/>.
+	</p>
+</section>

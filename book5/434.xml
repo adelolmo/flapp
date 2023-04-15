@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="434">
+	After you have kissed her, she giggles happily. You notice her ears shrinking into dainty little pointed elfin ears. You also notice that your head feels heavier. Reaching up, your hands encounter two large donkey's ears on either side of your head. Lorna points at you, one hand over her mouth, giggling.
+	<choices>
+		<choice section="464">Attack her</choice>
+		<choice section="591">Demand she restore your ears to normal</choice>
+		<choice section="374">Demand she tell you the secret she spoke of</choice>
+	</choices>
+</section>

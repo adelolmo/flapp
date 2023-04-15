@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="190">
+	<p>'But of course, my little friend,' says the genie.</p>
+	<p>He waves his hand, and you are instantly teleported to Yarimura.</p>
+	<p><goto section="10"/>.</p>
+</section>

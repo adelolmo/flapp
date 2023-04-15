@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="290">
+	The hydra spits acid at your back.
+	<if armour="?" using="t">
+		<tick special="armourlock" hidden="t"/>
+		If you are wearing any 	armour, you have to strip it off and discard it before the acid eats through to your skin.
+		<lose armour="?" using="t">Cross the armour off</lose>
+		your Adventure Sheet.
+	</if>
+	<else>
+		(If you didn&#8217;t have any armour, you
+		<lose stamina="3d">lose 3-18 Stamina points</lose>
+		instead.)
+	</else>
+	If you are still alive, <goto section="640"/>.
+</section>

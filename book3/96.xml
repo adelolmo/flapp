@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="96">
+	The charts show that you are east of the Innis Shoals, roughly
+	halfway between Uttaku and the great southern continent of
+	Ankon-Konu. <random type="travel"/>.
+	<outcomes>
+		<outcome range="2-5" section="33">Sickness among the crew</outcome>
+		<outcome range="6-9" section="116">An uneventful voyage</outcome>
+		<outcome range="10-12" section="68">A man walking on the water</outcome>
+	</outcomes>
+</section>

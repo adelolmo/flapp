@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="469">
+	<p>
+		He tells you of his life-long quest to find the &#8216;Greatest Story Ever Told&#8217;. It is said that the god, Sig, in his aspect as the Divine Bard, passed this knowledge to a mystic called Damor the Hermit. He lives alone in a lost cave, awaiting the day when he can pass on the story to the one who finds him.
+	</p>
+	<p>
+		&#8216;I am too old now to pursue the quest - so I pass it on to you. I believe he can be found in the foothills of the Spine of Harkun, the mountains to the north. If you find Damor you will become a great Troubadour!&#8217;
+	</p>
+	<p>
+		<tick codeword="Anthem">
+			Acquire the codeword Anthem
+		</tick>. <goto section="100"/>.
+	</p>
+</section>

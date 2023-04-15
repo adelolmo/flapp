@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="557">
+	<if book="12">
+		If you have <i>Into the Underworld</i>, <goto section="484"/>
+	</if>.
+	<if book="6">
+		If not, but you have <i>Lords of the Rising Sun</i>, <goto section="297"/>
+	</if>.
+	<if book="3">
+		If you have neither, but you do have <i>Over the Blood-Dark Sea</i>, <goto section="316"/>
+	</if>.
+	<if book="1">
+		If you have none of the above, but you do have <i>The War-Torn Kingdom</i>, <goto section="261"/>
+	</if>.
+	If you have none of the books listed, <goto section="439"/>.
+	(Note: all the paragraphs listed here are in this book.)
+</section>

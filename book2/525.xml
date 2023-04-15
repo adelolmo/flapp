@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="525">
+	<p>
+		Five elderly priests in long robes are walking down the lane just ahead. Catching up, you ask them where they are bound.
+	</p>
+	<p>
+		&#8216;We travel all over Golnir,&#8217; says the oldest, &#8216;teaching people about the gods.&#8217;
+	</p>
+	<p>&#8216;You must have met some strange sorts in your time.&#8217;</p>
+	<p>
+		He nods. &#8216;Indeed. The most intractable were the bald folk of the Forsaken Forest. They attack and murder anyone who has a head of hair, scalping them to make wigs.&#8217;
+	</p>
+	<p>
+		&#8216;And do not forget the citizens of Dweomer,&#8217; chimes in the youngest priest, a fellow of about sixty. &#8216;They admire godlessness as if it were a virtue.&#8217;
+	</p>
+	<p><goto section="58"/>.</p>
+</section>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="487">
+	<p>
+		Knocking at a narrow green door, you are admitted to a muddy courtyard where a beautiful lady sits with a flute in her lap. She calls you up on to the veranda beside her and listens without surprise as you tell your tale.
+	</p>
+	<p>
+		&#8216;I knew my lord would find me!&#8217; she says. &#8216;But you must explain to him that I cannot return to court. I say this for his own good. The Lord Chancellor bears a grudge against me, and it is dangerous to antagonize him.&#8217;
+	</p>
+	<p>
+		You listen with a frown, suspecting that it would not go well for you if you returned to the palace empty-handed. You must try your best to convince her to come with you.
+	</p>
+	<p><difficulty ability="charisma" level="14"/>.</p>
+	<outcomes>
+		<success section="12"/>
+		<failure section="38"/>
+	</outcomes>
+</section>

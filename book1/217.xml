@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="217">
+	<p>
+		You come across a forest glade. Birds twitter in the trees, and woodland animals frolic playfully about. In the middle of the glade stands a mighty willow, ancient beyond reckoning. The trunk is hollow, and a wooden door has been set in the entrance. You step into the glade.
+	</p>
+	<p><difficulty ability="sanctity" level="9"/>.</p>
+	<outcomes>
+		<success section="356"/>
+		<failure section="646"/>
+	</outcomes>
+</section>

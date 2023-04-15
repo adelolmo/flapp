@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="474">
+	The Coldbleak Mountains look as inhospitable and forbidding as their name implies, their frozen flanks climbing high into the icy clouds.
+	<choices>
+		<choice section="5">Climb into the mountains</choice>
+		<choice section="400">Enter Caran Baru</choice>
+		<choice section="347">Go west to the road</choice>
+		<choice section="548">Head into the farmlands</choice>
+		<choice section="135">Go south to the Lake of the Sea Dragon</choice>
+	</choices>
+</section>

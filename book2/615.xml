@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="615">
+	<p>
+		Vanna commands the most skilled instructors in her service to teach you whatever you wish. Select one of your abilities (COMBAT, MAGIC, etc) and
+		<training ability="?" dice="1"/>.
+		If the number rolled is higher than your score in the ability, add 1 to it.
+	</p>
+	<p><goto section="342"/>.</p>
+</section>

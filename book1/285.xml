@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="285">
+	<p>
+		You remember a bard in a tavern told you about Damor the Hermit, and that he knew the secret of the Greatest Story Ever Told so you ask him about it.
+	</p>
+	<p>
+		&#8216;Ahh,&#8217; says Damor. &#8216;I have waited for one such as you.&#8217; He tells you the secret of the Greatest Story. &#8216;Well, my young adventurer, destiny beckons, for it is fated that your life will be the Greatest Story Ever Told.&#8217;
+	</p>
+	<p>
+		As you consider this, you feel a sense of momentary enlightenment. <gain ability="rank" amount="1">Gain one Rank</gain> and <gain ability="stamina" amount="1d">roll one die</gain>. The result is the number of Stamina points you gain permanently. Also, don&#8217;t forget to increase your Defence by 1 as a result of your gain in Rank.
+	</p>
+	<p>
+		&#8216;Right, that&#8217;s that,&#8217; says Damor. &#8216;Now, go away and don&#8217;t come back!&#8217;
+	</p>
+	<p>
+		For a few hours, he lifts the curse that soured your water so you can make it down again safely. <goto section="244"/>.
+	</p>
+</section>

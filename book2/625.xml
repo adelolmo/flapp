@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="625" image="625.jpg">
+	<p>
+		Chard charges 2 Shards a day for board and lodging.
+		<rest stamina="1" shards="2">
+			Each day you spend here
+		</rest>,
+		you can recover 1 Stamina point if injured, up to the limit of your normal unwounded Stamina score.
+	</p>
+	<p>When you are ready to leave, <goto section="189"/>.</p>
+</section>

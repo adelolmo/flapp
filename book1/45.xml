@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="45" image="45.jpg">
+	<p>
+		The little girl runs off before you can talk to her. You thread your way through the pitted tombstones and brooding crypts of the cemetery, under a pale moon that bathes the graveyard in a sickly, pallid light.
+	</p>
+	<p>
+		Suddenly, a foul stench fills your nostrils, and a figure rises up out of the shadows! Yellow eyes glow with feral blood-lust, and the creature sinks its black teeth into your arm before you can react. <lose stamina="4">Lose 4 Stamina</lose>.
+	</p>
+	<p>
+		If you still live, you have been infected. Note that you have a Disease
+		(<disease name="Ghoulbite">
+			<effect ability="sanctity" bonus="-1"/>
+			<effect ability="combat" bonus="-1"/>
+			<effect ability="charisma" bonus="-1"/>
+		</disease>). Until you find a cure, you must subtract one from your SANCTITY, COMBAT, and CHARISMA abilities (no ability can drop below one). The ghoul, a rotting, walking corpse, lunges for you again.
+	</p>
+	<choices>
+		<choice section="617">Fight it</choice>
+		<choice section="144">Invoke the power of the gods</choice>
+		<choice item="salt and iron filings" section="303">Use <b>salt and iron filings</b>, if you have any</choice>
+	</choices>
+</section>

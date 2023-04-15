@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="390">
+	<p>
+		You manage to grab a nice, fat velvet purse. Suddenly the purse yells, 'Help, help! Someone's stolen me!'
+	</p>
+	<p>
+		Unfortunately for you, you've lifted an enchanted purse. Within seconds a patrol of the Soulwatch is upon you. You try to lose yourself in the crowd, but one of the Soulwatch begins to keen in a weird high-pitched tone, and several more patrols begin to converge on you. One of them manages to touch you with a purple-gemmed baton and it discharges a bolt of violet energy into your body, throwing you backwards to the ground. You are seized and dragged off to the dungeons.
+	</p>
+	<p><goto section="350"/>.</p>
+</section>

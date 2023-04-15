@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="379">
+	The scholar is in no condition to resist now that your work has been done for you by the ruffians. You take his purse. Inside you find <gain shards="100"/>. Happy with a good bit of banditry, you decide to call it a night. <goto section="100"/>.
+</section>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="541">
+	<p>
+		Burdened by the heavy chest full of coins, the three figures have left deep footprints in the grass.
+	</p>
+	<p>
+		<difficulty ability="scouting" level="10">
+			Make a SCOUTING roll at a Difficulty of 10
+		</difficulty>.
+	</p>
+	<outcomes>
+		<success section="326"/>
+		<failure section="245"/>
+	</outcomes>
+</section>

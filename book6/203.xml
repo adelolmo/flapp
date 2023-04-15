@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="203">
+	Three great roads converge on Mukogawa, but the two leading
+	west are seldom travelled these days because of the hostility that
+	exists between the lords of the Moonrise Clan and the official
+	government of Lord Kiyomori. The third road goes north to
+	Chompo, where the Wistaria Clan rules in ancient splendour.
+	<choices>
+		<choice section="495">Take the road to Chompo</choice>
+		<choice section="552">Go west to Chambara</choice>
+		<choice section="54">Go south-west towards Shingen</choice>
+		<choice section="438">Go south along the coast</choice>
+	</choices>
+</section>

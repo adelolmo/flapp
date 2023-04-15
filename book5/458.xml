@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="458">
+	Will you leave your armour on the lakeside before swimming out?
+	<choices>
+		<choice section="667">Keep your armour on</choice>
+		<choice section="580">Shed your armour</choice>
+	</choices>
+</section>

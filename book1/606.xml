@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="606">
+	<p>
+		You thread your way carefully through the maze of magical symbols, until you reach the sarcophagus safely. Inside you find the mouldering bones of a long dead wizard, in whose skeletal hands you find the Book of Excellence.
+	</p>
+	<p>
+		As you scan the pages, you learn all sorts of new tricks - <gain ability="?" amount="1">add one to the ability of your choice</gain> (such as SCOUTING or COMBAT) permanently. Once you have read it, the book disappears with a flash.
+	</p>
+	<p>
+		You thread your way out of the Tomb of the Wizard King, back into the Forest of Larun. <goto section="47"/>.
+	</p>
+</section>

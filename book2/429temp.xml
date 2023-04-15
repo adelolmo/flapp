@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="429">
+	Your attempt to conjure an illusory dragon just produces a soft
+	bang and a bad smell. Cackling with glee at your ineptitude, the
+	witches cast an extraordinary hex on you. You now find that
+	you are compelled to travel to the Haunted Hills without delay.
+	You cannot stop at any towns or inns on the way. Once you
+	reach the Haunted Hills, the compulsion will leave you and you
+	can act normally.
+	<i>[I can't enforce this. Be as honest as you like --Ed]</i>
+	Now <goto section="268"/>.
+</section>

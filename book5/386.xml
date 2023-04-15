@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="386">
+	<p>
+		Targdaz can attempt to increase the COMBAT bonus of any
+		<tick weapon="?" addtag="Tz">one weapon</tick> that you possess. (However, note that no weapon can have a bonus higher than six).
+		<set var="bonus" weapon="?" tags="Tz" value="weapon"/>
+		<if var="bonus" lessthan="6">
+			To succeed in doing so, you must roll greater than the weapon's current COMBAT bonus on
+			<random dice="2" var="x">
+				two dice
+			</random>.
+			<if var="x" greaterthan="bonus">
+				<tick weapon="?" tags="Tz" addbonus="1" hidden="t"/>
+			</if>
+			<else>
+				If you fail, however, <random>roll the dice again</random>.
+			</else>
+		</if>
+
+		<!-- get money back if bonus is 6+ -->
+		<if var="bonus" greaterthan="5"><tick shards="150" hidden="t"/></if>
+	</p>
+	<outcomes>
+		<outcome range="2-6">
+			The weapon is
+			<lose weapon="?" tags="Tz">destroyed</lose>
+		</outcome>
+		<outcome range="7-12">
+			The weapon
+			<tick weapon="?" tags="Tz" addbonus="-1">loses one COMBAT bonus</tick>
+		</outcome>
+	</outcomes>
+	<p>
+		<tick weapon="?" tags="Tz" removetag="Tz" hidden="t"/>
+		When you have finished here, <goto section="245"/>.
+	</p>
+</section>

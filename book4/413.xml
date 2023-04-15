@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="413">
+	You break free of the tendrils and, with a last effort, manage to swim back to the bank. Your men haul you to safety and the first mate gives you mouth-to-mouth resuscitation. Unfortunately his dentures come loose and you nearly choke on them. <lose stamina="1d">Lose 1-6 Stamina points</lose> (the roll of one die).
+	<choices>
+		<choice section="257">Make another attempt to swim across</choice>
+		<choice section="328">Walk along to the bridge</choice>
+		<choice section="191">Return to the ship</choice>
+	</choices>
+</section>

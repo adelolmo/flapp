@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="66">
+	<p>
+		The vampires hiss, snap and claw as you dodge between them. Their clumsy reflexes give you an idea. Swiftly tearing the <b>parchment</b> into strips (<lose item="parchment">cross it off</lose> your Adventure Sheet), you scribble mystic symbols and try to paste each strip on to a vampire&#8217;s forehead. If your MAGIC works, the symbols will freeze the vampires&#8217; deathly spirit-essence, rendering the immobile.
+	</p>
+	<p>
+		<difficulty ability="magic" level="14">
+			Make a MAGIC roll at a Difficulty of 14
+		</difficulty>
+		to see if you write the symbols correctly.
+	</p>
+	<outcomes>
+		<success section="91"/>
+		<failure section="116"/>
+	</outcomes>
+</section>

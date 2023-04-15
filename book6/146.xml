@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="146">
+	You are on a road that looks as if few people use it. Clumps of
+	limp, grey grass protrude from mist-covered marshland on either
+	side. The few trees look like broken bits of stone.
+	<choices>
+		<choice book="12" section="633">Go to the end of the road</choice>
+		<choice section="98">Go back to the lands of men</choice>
+	</choices>
+</section>

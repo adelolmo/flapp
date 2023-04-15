@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="696">
+	<p>
+		As you run away down the path to the town, Lord Kiyomori himself comes out on to the porch and calls for his bow. The arrow strikes you just as you reach the coastal path - a magnificent shot over a distance of a hundred and fifty paces.
+	</p>
+	<p>
+		Admiration gives way to pain as you tear the
+		<item name="crimson arrow"/> 
+		out of your thigh and hobble on.
+		<set var="d" value="-armour"/>
+		<lose stamina="3d">
+			Lose 3-18 Stamina points<adjust amount="d"/>
+		</lose>
+		(the roll of three dice), from which you can deduct your armour&#8217;s Defence bonus.
+		<if dead="f">
+			If you survive that,
+			<gain codeword="Fracas">acquire the codeword Fracas</gain> if you didn&#8217;t have it already.
+		</if>
+		Then <goto section="362"/>.
+	</p>
+</section>

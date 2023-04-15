@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="320">
+	<p>
+		<tick codeword="6.320" hidden="t"/>
+		The abbot explains the sage&#8217;s teaching. &#8216;To achieve enlightenment you must free yourself from desire,&#8217; he says.
+	</p>
+	<p>&#8216;Surely a person without desire is merely apathetic?&#8217;</p>
+	<p>
+		He shakes his head. &#8216;The force of your spirit is like a wild horse that pulls you headlong. You must tame this horse so that you can ride it. The essence of the sage&#8217;s teaching is to make you a whole person.&#8217;
+	</p>
+	<p>
+		<group>
+			<text>Make a SANCTITY roll at a Difficulty of 15</text>
+			<lose codeword="6.320"/>
+			<difficulty ability="sanctity" level="15"/>
+		</group>.
+	</p>
+	<outcomes>
+		<success section="339"/>
+		<failure section="360"/>
+		<choice box="6.320" section="79">Do not make the attempt</choice>
+	</outcomes>
+</section>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="577">
+	You turn and scramble back down the cliff path. Kiyomori&#8217;s
+	guards don&#8217;t bother to give chase. Fortunately, because you had
+	the setting sun at your back, you doubt if any of them got a
+	good look at your face. Even so, the wisest course seems to be to
+	leave town at once. You decide not to travel by road in case
+	Kiyomori sends out patrols.
+	<choices>
+		<choice section="704">Go north-east</choice>
+		<choice section="653">Go south-east</choice>
+		<choice section="359">Go upriver</choice>
+	</choices>
+</section>

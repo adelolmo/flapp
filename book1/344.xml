@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="344">
+	<p>
+		You must <difficulty ability="combat|magic" level="14">make either a COMBAT or a MAGIC roll at Difficulty 14</difficulty> to slay him.
+		<failure>
+			If you fail the roll, <goto section="161"/> immediately.
+		</failure>
+		If you are successful, read on.
+	</p>
+	<p>
+		You cut him down, or enchant him so that he obeys your every command and falls on his own sword. <tick codeword="Assassin">Note the codeword Assassin</tick>.
+	</p>
+	<p>Hurriedly, you flee the palace. <goto section="216"/>.</p>
+</section>

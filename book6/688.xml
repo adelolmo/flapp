@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="688">
+	The tomb chamber is no longer occupied, but there are still
+	plenty of those odd oblong coins strewn around.
+	<choices>
+		<choice section="625">Pick up some silver</choice>
+		<choice section="583">Get out of here</choice>
+	</choices>
+</section>

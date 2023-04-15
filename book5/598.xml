@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="598" image="598.jpg">
+	<p>
+		The Hall of Heroes is a cosy tavern, a welcome break from the rigours of travel. At one table sits a group of local farmers, at another a motley group of adventurer types - a mage, a priest and a couple of hard-bitten veteran warriors.
+	</p>
+	<p>
+		The tavern-keeper, a fat, barrel-chested, red-faced man called Bylewyn Buskle, hails you from the bar.
+	</p>
+	<p>
+		'Welcome, stranger,' he bellows, looking you up and down with greedy-looking eyes.
+	</p>
+	<p>
+		You can stay here as long as you like.
+		<rest shards="1" stamina="1">
+			The tavern costs you 1 Shard a day
+		</rest>.
+		Each day you spend here, you can recover 1 Stamina point if injured, up to the limit of your normal unwounded Stamina score.
+	</p>
+	<choices>
+		<choice section="11">Leave the Hall of Heroes</choice>
+		<choice section="546">Talk to Bylewyn Buskle</choice>
+	</choices>
+</section>

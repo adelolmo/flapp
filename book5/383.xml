@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="383">
+	<p>
+		The heat is searing. <lose stamina="1d">Lose 1-6 points of Stamina</lose>. Inside the crater you see something moving! Suddenly, out of the steam and smoke, a flickering creature of living lightning throws itself at you. It is a storm demon, one of the riders of thunderclouds that delight in causing havoc among mortals - it has come to earth, flying on a meteor of selenium ore. Its flashing, coruscating body is hard to strike.
+	</p>
+	<fight name="Storm Demon" combat="8" defence="11" stamina="15"/>
+	<p>
+		<fightround pre="f">
+			Each round of combat, you must
+			<difficulty ability="magic" level="12"/>
+			to resist the lightning that leaps around its body.
+			<failure>
+				If you fail the roll, you
+				<lose stamina="1d">lose 1-6 points of Stamina</lose>.
+			</failure>
+		</fightround>
+	</p>
+	<p>
+		If you win, <goto section="407"/>.
+		If you lose, <goto section="7" dead="t"/>.
+	</p>
+</section>

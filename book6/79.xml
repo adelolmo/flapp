@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="79" image="79.jpg">
+	<p>
+		Chambara, a city built on a grid pattern at the mouth of the Moku River, is the imperial capital of Akatsurai. It is here that the Sovereign has his palace, at the north end of Chrysanthemum Avenue.
+	</p>
+	<p>
+		<if codeword="6.79.1" not="t">
+			You can buy a town house here for 350 Shards. If you do, <lose shards="350" price="x">cross off the money</lose> and <tick codeword="6.79.1" flag="x">put a tick in the box</tick> beside the town house option below.
+		</if>
+	</p>
+	<choices>
+		<choice section="301">Visit a temple</choice>
+		<choice section="246">Visit a shrine</choice>
+		<choice section="578">Explore the city</choice>
+		<choice section="123">Go to the palace</choice>
+		<choice section="39">Go to the chancellor&#8217;s mansion</choice>
+		<choice section="284" box="6.79.1">Go to your town house {box} (if box ticked)</choice>
+		<choice section="34">Enquire after trade goods</choice>
+		<choice section="223">Do some shopping</choice>
+		<choice section="469">Find a swordsmith</choice>
+		<choice section="612">Go to the harbour</choice>
+		<choice section="299">Leave the city</choice>
+	</choices>
+</section>

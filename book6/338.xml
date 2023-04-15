@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="338">
+	The undulating foothills of the Kenen Mountains, with their
+	many secluded valleys and dense pine groves, gradually give way
+	to rolling moorland.
+	<choices>
+		<choice section="592">Head for Kaiju</choice>
+		<choice section="674">Go south</choice>
+		<choice section="633">Go north</choice>
+		<choice section="446">Go east to the sea</choice>
+	</choices>
+</section>

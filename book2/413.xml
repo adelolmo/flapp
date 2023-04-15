@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="413">
+	<p>
+		You break down the door of the tower and confront the evil knight who has imprisoned the damsel.
+	</p>
+	<fight name="Evil Knight" combat="4" defence="5" stamina="4"/>
+	<p>
+		<if dead="f">
+			If you defeat him, you can set her free:
+			<tick codeword="Brisket">get the codeword Brisket</tick>
+			and <goto section="200"/>.
+		</if>
+	</p>
+</section>

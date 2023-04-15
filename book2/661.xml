@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="661">
+	<p>
+		Your chamber contains a plush four-poster bed where you can rest after your travels. The best food and drink is brought to you. If you are wounded, <rest>restore your Stamina</rest> to its normal unwounded score.
+	</p>
+	<p>
+		In one corner of the room is a locker where you can leave money or possessions for safe-keeping. To do this, just cross the item off your Adventure Sheet and write it in the Locker Box here. Similarly, you can take any money or possessions you left here earlier.
+	</p>
+	<itemcache name="2.661" text="Locker Box"/>
+	<p>When you are ready to leave your chamber, <goto section="342"/>.</p>
+</section>

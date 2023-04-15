@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="93">
+	You are beginning to think you may be lost.
+	<difficulty ability="scouting" level="10">
+		Make a SCOUTING roll at a Difficulty of 10
+	</difficulty>.
+	<outcomes>
+		<success section="116"/>
+		<failure section="139"/>
+	</outcomes>
+</section>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="562">
+	<p>The rise of the land is your only clue about which way to go.</p>
+	<p>
+		<difficulty ability="scouting" level="13">
+			Make a SCOUTING roll at a Difficulty of 13
+		</difficulty>.
+	</p>
+	<outcomes>
+		<success section="583"/>
+		<failure section="398"/>
+	</outcomes>
+</section>

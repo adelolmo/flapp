@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="612">
+	You see the mermaids leaping between the crests of the waves.
+	The bubbling music of their laughter is a poignant and
+	captivating sound. &#8216;Better leave them be, captain,&#8217; warns the
+	mate. &#8216;If they take umbrage they can lay a curse on the ship.&#8217;
+	<choices>
+		<choice section="636">Speak to the mermaids</choice>
+		<choice section="335">Sail on</choice>
+	</choices>
+</section>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="263">
+	<p>
+		You are passing through a wooded glade when you here a horrendous trumpeting noise. Suddenly, a massive bear-like form about the size of a large bull appears in front of you. It looks rather like a huge hairy toad, with a gaping, toothy mouth.
+	</p>
+	<p>
+		The creature breathes a billowing cloud of noxious, sulphurous gas at you. You feel your head swim as you start to fall asleep.
+	</p>
+	<p>
+		<rankcheck dice="1" add="-1">Roll one die, and subtract one from the total</rankcheck>.
+		<failure>
+			If the total is greater than your Rank, <goto section="491"/>.
+		</failure>
+		<success>Otherwise, <goto section="72"/>.</success>
+	</p>
+</section>

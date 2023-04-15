@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="195" boxes="1" tag="temple" image="195.jpg">
+	<p>
+		<if ticks="1">If there is a tick in the box, <goto section="624"/> immediately.
+		</if>
+		If not, <tick/>, and read on.
+	</p>
+	<p>
+		You are on a kind of quayside, which sticks out from the sheer rock behind you. You gaze out on the yawning gulf of black night, hung with stars like jewels on black velvet. A silver barge, floating on air, is moored to the quay, as if awaiting a passenger.
+	</p>
+	<p>
+		Looking down, you see what can only be described as a celestial harbour. Ships with silver sails are docked there. You can also make out a huge doorway, set into the sheer rock face down below - an entrance into the underworld below Harkuna.
+	</p>
+	<p>
+		You have succeeded in reaching the gates of the underworld. <gain ability="scouting" amount="1">Add 1 to your SCOUTING ability</gain>, permanently.
+		<if profession="wayfarer">
+			If you are a Wayfarer, you also
+			<gain ability="rank" amount="1">gain a Rank</gain>.
+			<random dice="1" var="x"/>, and <gain ability="stamina" amount="x">increase your unwounded Stamina total by the result</gain>, permanently.
+		</if>
+	</p>
+	<p>
+		You also find a niche in the rock wall. It is a shrine to the death god, Nagil. Inside is a gold rod with a large diamond fixed on the end. It is a <b>sacred rod of teleportation</b>. It has three charges. Note the
+		<item name="sacred rod of teleportation">
+			<effect type="use" uses="3">
+				<desc>x{uses} charges, <i>The Plains of Howling Darkness</i> <b>685</b> (temples only)</desc>
+				<goto section="685" book="4" hidden="t"/>
+			</effect>
+		</item> on your Adventure Sheet. It can be used only when you are inside a temple - any temple - because it uses divine energy as a power source. When you want to use it, turn to paragraph <b>685</b> in this book.
+	</p>
+	<p>
+		If you want to board the silver barge, it will take you to the celestial harbour below. Turn to <goto section="199" book="12" force="f"/>.
+	</p>
+	<p>
+		If you haven't got <i>Into the Underworld</i>, or you don't want to go there, your only means of getting out of here is the rod (or something like it). It will work here, as the shrine counts as a temple to Nagil.
+	</p>
+</section>

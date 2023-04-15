@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="17" dock="Smogmaw">
+	<p>
+		A few days out from Smogmaw the <i>Tidy Sum</i> is overhauled by your own ship. It is with enormous relief that you see the faces of your loyal lads at the rail.
+	</p>
+	<p>
+		&#8216;Ahoy, you have our skipper!&#8217; calls your first mate to the Sokaran captain. &#8216;Heave to, if you please.&#8217;
+	</p>
+	<p>
+		The Sokarans don&#8217;t want a fight. You are paid <gain shards="150"/> in compensation and returned to your ship. &#8216;A tidy sum,&#8217; you remark with a smile to the captain as you leave his vessel.
+	</p>
+	<p>
+		Note that you are no longer docked at Smogmaw, then <goto sail="t" section="282"/>.
+	</p>
+</section>

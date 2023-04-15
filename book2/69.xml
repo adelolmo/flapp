@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="69">
+	You step into a dark tower. As your eyes adjust to the gloom,
+	you see a spiral staircase winding up and up. At the base of the
+	staircase waits a huge slavering wolf. It would attack you at once
+	if it were not fixed to the wall by an iron chain.
+	<choices>
+		<choice section="22">Leave the tower</choice>
+		<choice section="161">Approach the wolf</choice>
+	</choices>
+</section>

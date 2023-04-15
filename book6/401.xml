@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="401">
+	<p>&#8216;Who was it?&#8217; one of the pallbearers asks.</p>
+	<p>
+		&#8216;Just a vagabond,&#8217; replies another. &#8216;They found the body in this very barn. Died of exposure. Apparently old Kitsuno owns the land hereabouts, so he got lumbered with the funeral costs.&#8217;
+	</p>
+	<p>&#8216;Poor chap. Still, he can afford it.&#8217;</p>
+	<p>
+		The lid of the coffin is open. You sneak a peek and then wish you hadn&#8217;t. It is not a pleasant experience to see your own dead body.
+	</p>
+	<choices>
+		<choice section="303">Speak to the mourners</choice>
+		<choice section="521">Go back to sleep</choice>
+	</choices>
+</section>

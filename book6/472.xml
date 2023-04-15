@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="472">
+	The Black Pagoda is a seven-storeyed tower set above sheer cliffs
+	where the sea crashes furiously against the rocks, sending up
+	high spouts of white foam. The stone from which the pagoda is
+	built was reputedly quarried from the doorway of hell itself. Its
+	colour is so deep a black that the pagoda looks like a hole in
+	space.
+	<choices>
+		<choice section="507">Knock at the door</choice>
+		<choice section="567">Sneak inside</choice>
+		<choice section="501">Turn away</choice>
+	</choices>
+</section>

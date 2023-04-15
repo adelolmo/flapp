@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="511">
+	<p>
+		Your arcane knowledge tells you much about the undead. Ghouls are known to eat the flesh of the dead as well as the living. They like to make their homes in crypts and graveyards and they never venture out during the day, as sunlight burns their pallid undead flesh. Also, they cannot abide a powder of <b>salt and iron filings</b> mixed together.
+	</p>
+	<p>
+		You can purchase these ingredients for 15 Shards at many a market stall. If you make the purchase, note you have <buy item="salt and iron filings" shards="15" quantity="1"/> on your Adventure Sheet.
+	</p>
+	<p>
+		When you are ready, you set off to search the cemeteries of Marlock City. <difficulty ability="scouting" level="9"/>.
+	</p>
+	<outcomes>
+		<success section="419"/>
+		<failure section="360"/>
+	</outcomes>
+</section>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="207">
+	<p>
+		Unseen hands try to remove the sceptre from your belt but you drive them off with a protective spell. Leaning down over the stream, you catch a glimpse of the god&#8217;s face shimmering there in the dark depths. He draws away, frightened by your power, and you are left with only your own reflection.
+	</p>
+	<p>
+		At last you understand the powers of the
+		<tool name="royal sceptre" ability="*" bonus="5" replace="royal sceptre"><b>royal sceptre</b></tool>. It can be used as a weapon with a COMBAT bonus of +5 and also gives +5 to your other abilities (CHARISMA, MAGIC, SANCTITY, SCOUTING and THIEVERY) - but remember that ability bonuses from two different items cannot be added together.
+	</p>
+	<p>
+		Note the sceptre&#8217;s powers on your Adventure Sheet and then <goto section="111"/>.
+	</p>
+</section>

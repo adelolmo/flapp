@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="515">
+	You are seen by one of the nomad warriors, who grabs you and hauls you to your feet. They stare at you - about a dozen of them, as hard-eyed a bunch of men as you&#8217;ve ever had to face.
+	<choices>
+		<choice section="664">Run for your life</choice>
+		<choice section="56">Wait to see what they do</choice>
+	</choices>
+</section>

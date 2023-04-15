@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="102">
+	<p>
+		With each step your eyelids are getting heavier. You yawn and stretch, feeling utterly weary. Those stone couches look so comfortable.
+	</p>
+	<p>
+		<if codeword="Chill">
+			<set var="awake" value="1"/>
+		</if>
+		To stay awake you must either have the codeword <i>Chill</i> or succeed in
+		<if codeword="Chill" not="t">
+			<difficulty ability="magic" level="18" var="awake">
+				a MAGIC roll of Difficulty 18
+			</difficulty>
+		</if>, otherwise you will have to take a nap.
+	</p>
+	<outcomes>
+		<success var="awake" section="27">Stay awake</success>
+		<failure var="awake" section="582">Fall asleep</failure>
+	</outcomes>
+</section>

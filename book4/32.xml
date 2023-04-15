@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="32">
+	Nerech is a barren peninsula of wind-blasted rolling heathland. The sky is a dismal grey; a lone crow circles overhead, cawing mournfully. Wild cliffs overlook the sea. Inland, you see a tall hill in the distance.
+	<choices>
+		<choice section="5">Head for the hill</choice>
+		<choice section="688">Climb down to the shoreline</choice>
+		<choice book="1" section="299">Go west to Fort Mereth</choice>
+		<choice book="1" section="472">Go west to Fort Estgard</choice>
+		<choice book="1" section="259">Go west to Fort Brilon</choice>
+	</choices>
+</section>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="526">
+	<p>
+		The
+		<tick blessing="scouting">
+			blessing of Lacuna
+		</tick>
+		allows you to reroll any failed SCOUTING attempt once. When you want to use the blessing, cross it off your Adventure Sheet and make a second try at the roll.
+	</p>
+	<p>
+		You can only have one blessing for each ability at any one time. Once your SCOUTING blessing is used up, you can return to the Abbey for a new one.
+	</p>
+	<p>Now <goto section="576"/>.</p>
+</section>

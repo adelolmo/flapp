@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="574">
+	<p>
+		Masayori, Secretary of the Council of the Left, comes out to greet you as you cross the lawn.
+	</p>
+	<p>&#8216;Ah, you are here at last,&#8217; he says.</p>
+	<p>&#8216;Was I expected?&#8217; you retort in surprise.</p>
+	<p>
+		Masayori puts a flute into your hands. &#8216;This is the famous flute Twilight Mourner. It is a priceless heirloom handed down by the Sovereign&#8217;s ancestors. The Sovereign is waiting at this very moment for you to play to him.&#8217;
+	</p>
+	<p>
+		You are hurried through to the inner apartments, where Takakura sits impatiently on a raised dais surrounded by courtiers.
+	</p>
+	<p>
+		&#8216;Ah!&#8217; he says brightly as he sees you enter. &#8216;Masayori has spoken of your great talent which, if not for him, would have remained forever hidden by modesty. Come, give us a tune.&#8217;
+	</p>
+	<p>Everyone is waiting. What will you do?</p>
+	<choices>
+		<choice section="156">Play as the Sovereign requests</choice>
+		<choice section="179">Tell him that you cannot</choice>
+	</choices>
+</section>

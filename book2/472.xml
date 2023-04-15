@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="472">
+	<p>
+		He tells a story a kindly old wizard who found a little dwarf asleep under a bush. He took the dwarf as his apprentice, but after only a month he woke up to find that the dwarf had stolen a suit of magic armour. This armour was empty but could still move and fight, because it contained an elfin ghost.
+	</p>
+	<p>
+		&#8216;As long as the visor was never opened, the ghost could not escape, and it had to do whatever the dwarf wanted...&#8217; the storyteller says to the children.
+	</p>
+	<p>
+		The day is wearing on, and it is time you were on your way.
+		<tick codeword="Beltane">Get the codeword Beltane</tick> and
+		<goto section="374"/>.
+	</p>
+</section>

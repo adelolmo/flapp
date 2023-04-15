@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="618">
+	You hide behind a stack of crates on the dock and wait for night
+	to give you the cover you&#8217;ll need.
+	<difficulty ability="thievery" level="12">
+		Make a THIEVERY roll at a Difficulty of 12
+	</difficulty>.
+	<outcomes>
+		<success section="730"/>
+		<failure section="439"/>
+	</outcomes>
+</section>

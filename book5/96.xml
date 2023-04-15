@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="96">
+	<p><tick codeword="Evade"/>.</p>
+	<p>
+		You find some jewellery worth <gain shards="650"/>. Then you jump down the garbage chute, landing unhurt on a large pile of rotting food. You find yourself in the slums of Aku. <goto section="330"/>.
+	</p>
+</section>

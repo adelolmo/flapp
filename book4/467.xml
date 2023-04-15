@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="467" boxes="3" image="467.jpg">
+	<p>
+		At the centre of the island stands a fortress with featureless grey walls and a single gate. The drawbridge is down and the portcullis raised, but on the other side stands a massive golem with thews of adamantine rock.
+	</p>
+	<p>&#8216;You must give the password,&#8217; booms the golem.</p>
+	<p>
+		The boxes above are used to record how many times you have got this far. <tick>Tick one now</tick>.
+	</p>
+	<p>
+		<if ticks="1">
+			If this is your first visit, <goto section="516"/>.
+		</if>
+		<elseif ticks="2">
+			If your second, <goto section="397"/>.
+		</elseif>
+		<else>
+			If your third (or more), <goto section="284"/>.
+		</else>
+	</p>
+</section>

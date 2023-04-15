@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="51">
+	<p>
+		The cabin boy has been found lying in the bilge of the ship with his head bashed in. A belaying pin was found nearby. Possible suspects for the crime include the second mate, who regularly lost money to the lad at dice, and the sailmaster, who was known to dislike him.
+	</p>
+	<p>How will you deal with the incident?</p>
+	<choices>
+		<choice section="536">Accuse the second mate</choice>
+		<choice section="707">Accuse the sailmaster</choice>
+		<choice section="499">Try looking for clues</choice>
+		<choice section="554">Do nothing</choice>
+	</choices>
+</section>

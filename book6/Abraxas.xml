@@ -1,0 +1,16 @@
+<section name="Abraxas the Seeker" profession="Priest">
+	<p>
+		Although Abraxas has a strong spiritual sense, he questions whether the gods should be regarded as morally superior to mankind merely because they created the universe. His quest is for a religion that transcends man and the gods and instead aims for a single all-embracing truth. He believes he will find this in Akatsurai.
+	</p>
+	<p>
+		You can play as Abraxas, or as a priest with a different name (enter it in the 'Name' field). To begin your adventure, <goto section="1" force="f"/>.
+	</p>
+	<p>For another profession, choose from the following:</p>
+	<choices>
+		<choice section="Kintu">Warrior</choice>
+		<choice section="Panjang">Mage</choice>
+		<choice section="Elektra">Troubadour</choice>
+		<choice section="Shikibu">Rogue</choice>
+		<choice section="Ithacus">Wayfarer</choice>
+	</choices>
+</section>

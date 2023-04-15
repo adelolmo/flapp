@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="452">
+	<p>
+		The Trading Post has a small market place in the village square, where half a dozen stalls sell a few goods. Items with no purchase price are not available locally.
+	</p>
+	<market>
+		<header type="armour"/>
+		<armour name="leather" bonus="1" buy="50" sell="45"/>
+		<armour name="ring mail" bonus="2" sell="90"/>
+		<armour name="chain mail" bonus="3" sell="180"/>
+
+		<header type="weapon"/>
+		<weapon bonus="0" buy="50" sell="45"/>
+		<weapon bonus="1" sell="200"/>
+
+		<header type="magic"/>
+		<tool name="amber wand" ability="magic" bonus="1" sell="400"/>
+
+		<header type="other"/>
+		<tool name="mandolin" ability="charisma" bonus="1" buy="300" sell="270"/>
+		<tool name="lockpicks" ability="thievery" bonus="1" sell="270"/>
+		<tool name="holy symbol" ability="sanctity" bonus="1" sell="100"/>
+		<tool name="compass" ability="scouting" bonus="1" buy="500" sell="450"/>
+		<item name="rope" buy="50" sell="45"/>
+		<item name="lantern" tags="light" buy="100" sell="90"/>
+		<item name="climbing gear" sell="90"/>
+		<item name="bag of pearls" sell="100"/>
+		<item name="rat poison" sell="50"/>
+		<item name="pickaxe" sell="90"/>
+		<item name="silver nugget" sell="150"/>
+	</market>
+	<p>When you are finished, <goto section="195"/>.</p>
+</section>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="389">
+	<p>
+		You emerge on a street of black concrete. You realise you have lost your way through time almost immediately. What you can only describe as a flying chariot hurtles across the sky with a roar. Huge buildings of glass and stone surround you, and the black street is thronged with people dressed in weird clothes. A woman with a yellow band around her hat is yelling at you but you can't understand a word. Suddenly, a huge red metal box on wheels comes hurtling towards you with incredible speed! Desperately, you leap back into the silver pool. You will have to try again, though it seems to be getting easier to control your passage through time.
+	</p>
+	<p><difficulty ability="magic" level="13"/>.</p>
+	<outcomes>
+		<success section="279"/>
+		<failure section="456"/>
+	</outcomes>
+</section>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="33">
+	You are in a rugged land of sharp dry grass and stunted trees
+	where the only signs of life are foxfires in the night and the
+	cawing of tengu&#8217;s cousins somewhere off in the cold white haze
+	of day.
+	<choices>
+		<choice section="319">Go up into the mountains</choice>
+		<choice section="706">Follow the coast south</choice>
+		<choice section="633">Go west</choice>
+	</choices>
+</section>

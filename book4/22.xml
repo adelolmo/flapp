@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="22">
+	<p>
+		Cross off the 10 Shards. One of the men leads you through the mine. The walls are like frosted glass, and the ice radiates a bluish glow that fills the mine with an eerie wintry beauty. Miners work with axes and saws, cutting blocks of blue ice from the walls.
+	</p>
+	<p>
+		You come to a large chamber, where several tunnels meet. One tunnel looks black and abandoned. Not even the chill radiance of the ice lights its dark passages.
+	</p>
+	<p>'What's down there,' you ask.</p>
+	<p>
+		'Down there? Why, that's the old mine. It's abandoned now,' says the miner.
+	</p>
+	<p>'Why hasn't it been flooded?'</p>
+	<p>
+		'We tried, but the water wouldn't freeze. It is an evil place - haunted, that's for sure.'
+	</p>
+	<p>'A ghost?'</p>
+	<p>The miner just looks at you and says nothing.</p>
+	<choices>
+		<choice section="320">Leave the tunnels</choice>
+		<choice section="663">Go down the dark tunnel</choice>
+	</choices>
+</section>

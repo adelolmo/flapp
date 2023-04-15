@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="20" dock="Gai River">
+	You are at the mouth of the Gai River.
+	If your ship is docked here, <goto section="429" sail="t"/>.
+	If not, decide whether to go east (<goto section="568" force="f"/>) or west (<goto section="356"/>).
+</section>

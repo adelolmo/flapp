@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="438">
+	He is so grateful that, after selling his goods at the market, he
+	offers to put you up at his home for a few days. If you are
+	injured, you can
+	<group>
+		<text>recover 2-12 Stamina points</text>
+		<random dice="2" var="x"/>
+		<rest stamina="x"/>
+	</group>.
+	(Roll two dice to see how many. Your Stamina cannot go above its
+	normal unwounded score.) Now <goto section="31"/>.
+</section>

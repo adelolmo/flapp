@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="584">
+	You have come upon the Ruby Citadel. It is a bizarrely structured tower, seemingly carved from a single ruby of gargantuan size. Legend has it that it fell from the skies in the time of the Elder Gods. Some say it was a palace of a minor godling, cast down during the War of the Gods, when Harkun himself was slain, and fell from the heavens. Harkun&#8217;s body created the world, and his blood the rivers. The citadel glows redly, casting a rosy hue over the snow. It is a beautiful sight.
+	<choices>
+		<choice section="159">Enter the Ruby Citadel</choice>
+		<choice section="535">Leave</choice>
+	</choices>
+</section>

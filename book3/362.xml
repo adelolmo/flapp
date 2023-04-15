@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="362">
+	The moon is a dim patch behind the clouds, as if seen through
+	smoked glass. Sentries patrol the fortress walls. You will need to
+	<difficulty ability="thievery" level="13">
+		make a THIEVERY roll at a difficulty of 13
+	</difficulty> to sneak into the pirate base undetected.
+	<outcomes>
+		<success section="690"/>
+		<failure section="114"/>
+	</outcomes>
+</section>

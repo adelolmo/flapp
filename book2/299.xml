@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="299">
+	The belfry contains nothing of interest. You decide to leave
+	before the bats awaken and find you here. Hurrying back down
+	the stairs, you return the way you came. <goto section="22"/>.
+</section>

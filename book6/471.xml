@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="471">
+	You are sailing past steep cliffs like the flanks of a titan&#8217;s fortress.
+	Swirls of darkness seem to emanate from a point somewhere
+	along the coast. Your charts show you are not far from the Black
+	Pagoda.
+	<choices>
+		<choice section="410">Put in at the mouth of the Gai River</choice>
+		<choice section="300">Follow the coastline east</choice>
+		<choice section="100">Steer north</choice>
+		<choice section="202">Make for the open sea</choice>
+	</choices>
+</section>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="653">
+	You encounter seven fools who are engaged in a preposterous
+	venture. <random dice="1"/>:
+	<outcomes>
+		<outcome range="1" section="677"/>
+		<outcome range="2" section="701"/>
+		<outcome range="3" section="725"/>
+		<outcome range="4" section="749"/>
+		<outcome range="5" section="773"/>
+		<outcome range="6" section="383"/>
+	</outcomes>
+</section>

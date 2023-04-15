@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="78">
+	<p>
+		The undead warriors fall to your martial skill.
+		<if codeword="UndeadDamage">
+			<lose codeword="UndeadDamage" hidden="t"/>
+			If you were wounded in the fight, you have been infected with a horrible disease, the Blight of Nagil, which causes boils and gangrene. Note you have the
+			<curse name="Blight of Nagil">
+				<effect ability="charisma" bonus="-1"/>
+				<effect ability="combat" bonus="-1"/>
+			</curse>,
+			and reduce your CHARISMA and COMBAT by one until you can find a cure.
+		</if>
+	</p>
+	<p>You step into the main hall. <goto section="372"/>.</p>
+</section>

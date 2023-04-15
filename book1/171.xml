@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="171">
+	<p>
+		You have soon laid the figures out like three logs on the village green. They are badly hurt, but still alive. Now that you can get a better look at them, you see that they are dusted all over with flour, giving them a spectral appearance.
+	</p>
+	<p>
+		You summon the other villagers. At first they are loath to venture out and inspect the three strangers, but the fact that you survived convinces them there are no ghosts to worry about.
+	</p>
+	<p>
+		&#8216;Why, it&#8217;s Old Megan!&#8217; cries a man as he claps eyes on one of the three. &#8216;And here&#8217;s Bradok the miller, and Lame Pootmar! Why are they all covered in flour? Where&#8217;re the ghosts?&#8217;
+	</p>
+	<p>
+		You shake your head and sigh at the stupidity of the yokels. &#8216;There weren&#8217;t any ghosts,&#8217; you explain. &#8216;It was these three all along.&#8217;
+	</p>
+	<p><goto section="671"/>.</p>
+</section>

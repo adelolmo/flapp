@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="218">
+	<p>
+		A sign hanging outside the inn proclaims: Civilization stops here! &#8216;Surely you risk offending travellers coming from the other direction,&#8217; you say to the innkeeper, a friendly man named Troilus.
+	</p>
+	<p>
+		With a beaming smile, he leads you to the other side of the sign. The same words are written there. &#8216;I flatter everyone, offend no one. It is a good philosophy of life.&#8217;
+	</p>
+	<p>
+		Troilus charges 1 Shard a day for board and lodging. <rest shards="1" stamina="1">Each day you spend here</rest>, you can recover 1 Stamina point if injured, up to the limit of your normal unwounded Stamina score. When you are ready to leave, <goto section="241"/>.
+	</p>
+</section>

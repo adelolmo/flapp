@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="287">
+	<p>
+		Hardly able to contain your mirth at the thought of the great Reavers being robbed themselves, you help yourself to a few fistfuls of treasure (worth <gain shards="500"/> in all) before sneaking back out of their stronghold.
+	</p>
+	<p>
+		<if codeword="Crocus">
+			If you have the codeword Crocus, <goto section="549"/>.
+		</if>
+		Otherwise <goto section="436"/>.
+	</p>
+</section>

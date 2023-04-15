@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="160">
+	<p>
+		The world flickers deathly white as though a god had opened his eyes, followed at once by a boom of thunder that shakes right through your body.
+	</p>
+	<p>
+		<if blessing="storm" item="catastrophe certificate">
+			If you have a blessing of Safety from Storms or a <b>catastrophe certificate</b>, cross it off and <goto section="551"/>.
+			(In the event that you have both, you decide which to cross off.)
+		</if>
+		If not, <goto section="183"/>.
+	</p>
+</section>

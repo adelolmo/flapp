@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="622">
+	<p>
+		You bump into somebody in the mist - a tall gentleman in a velvet cape. &#8216;Excuse me.&#8217; You go to move past him; you don&#8217;t want Lauria to get away.
+	</p>
+	<p>
+		He plants a thin hand on your chest. &#8216;A moment of your time. I think we are old acquaintances?&#8217;
+	</p>
+	<p>You shake your head. &#8216;I don&#8217;t believe so.&#8217;</p>
+	<p>
+		&#8216;No? In that case,&#8217; he asks with a twitch of his thin lips, &#8216;why did you make yourself at home in my house?&#8217;
+	</p>
+	<p>You give him a closer look. &#8216;Who?&#8217;</p>
+	<p>
+		&#8216;I am Talanexor the Fireweaver, you scoundrel. And your name, I believe, is Lauria.&#8217;
+	</p>
+	<p>
+		You start to protest. &#8216;I&#8217;m not Lauria! She&#8217;s just gone that way. If we hurry we can catch her.&#8217;
+	</p>
+	<p>
+		He gives a hollow laugh. &#8216;You must think me a fool. Prepare to take your punishment.&#8217;
+	</p>
+	<choices>
+		<choice section="568">Fight him</choice>
+		<choice section="586">Challenge him to a duel</choice>
+		<choice section="604">Run off</choice>
+	</choices>
+</section>

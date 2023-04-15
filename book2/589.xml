@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="589">
+	<p>
+		<lose codeword="2.567.2a" hidden="t"/>
+		<tick codeword="2.567.2b" hidden="t"/>
+		&#8216;You have done well,&#8217; says Estragon as he inspects the
+		<b>coral-red tresses</b>.
+	</p>
+	<p>
+		In return for your service, he teaches you some spells from his grimoire. <training ability="magic"/>, and if the total is higher than your MAGIC score then you gain 1 point of MAGIC.
+	</p>
+	<p>
+		Remember to
+		<lose item="coral-red tresses">
+			cross the <b>coral-red tresses</b> off
+		</lose>
+		your Adventure Sheet, then <goto section="342"/>.
+	</p>
+</section>

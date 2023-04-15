@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="589">
+	<p>
+		After searching up and down the narrow grey streets, you find a small shop with green bottle-glass windows. A peeling gilt sign above the narrow door proudly proclaims: &#8216;Vortense Pogue, purveyor of magical materials.&#8217;
+	</p>
+	<p>
+		Pogue turns out to be a thin man bound inside a tight velvet coat. He helpfully shows you his stock which, as he admits himself, is small but intriguing. (He is not interested in anything you might have to sell.)
+	</p>
+	<market sell="f">
+		<header header1="Item" header2="To buy"/>
+		<tool name="amber wand" ability="magic" bonus="1" buy="500"/>
+		<tool name="ebony wand" ability="magic" bonus="2" buy="1000"/>
+		<tool name="cobalt wand" ability="magic" bonus="3" buy="2000"/>
+		<weapon name="golden katana" bonus="0" buy="9000"/>
+		<armour name="wizard's cape" bonus="1" buy="150"/>
+		<item name="parrot fungus" buy="250"/>
+		<item name="black cat" buy="20"/>
+		<item name="parchment" buy="1"/>
+		<item name="candle" tags="light,useonce" buy="2"/>
+	</market>
+	<choices>
+		<choice section="643">Steal an item</choice>
+		<choice section="571">Finish your business and go</choice>
+	</choices>
+</section>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="701">
+	You lift your arm to finish the creature, when it throws some coins, and a jug on to the ground. You hesitate for a moment, just enough time for it to turn and flee, diving into the river with a splash. You find <gain shards="50"/> and a jug of <item name="faery mead"/> on the riverbank. <goto section="676"/>.
+</section>

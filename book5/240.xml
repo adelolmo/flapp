@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="240">
+	<p>You spot a circle of ancient standing stones atop a rocky hill.</p>
+	<choices>
+		<choice section="695">Investigate the standing stones</choice>
+		<choice section="210">Leave this area</choice>
+	</choices>
+</section>

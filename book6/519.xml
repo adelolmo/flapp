@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="519">
+	<p>Chomei will forge a sword for you for the following prices:</p>
+	<market sell="f">
+		<weapon name="sword" bonus="1" buy="250">COMBAT bonus +1</weapon>
+		<weapon name="sword" bonus="2" buy="450">COMBAT bonus +2</weapon>
+		<weapon name="sword" bonus="3" buy="900">COMBAT bonus +3</weapon>
+		<weapon name="sword" bonus="4" buy="1200">COMBAT bonus +4</weapon>
+		<weapon name="sword" bonus="5" buy="1600">COMBAT bonus +5</weapon>
+	</market>
+	<p>
+		He is not interested in buying anything from you. If you buy a sword, remember to cross off the money before <goto section="79">turning to 79</goto>.
+	</p>
+</section>

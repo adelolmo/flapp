@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="714">
+	You perform a rite of purification that restores the official&#8217;s
+	sacrosanct status. He is so impressed that he tells all his friends,
+	who come to you requesting blessings and sacred talismans. You
+	are showered with presents to the value of <gain shards="100"/>.
+	Add this
+	sum to the money on your Adventure Sheet, then <goto section="79"/>.
+</section>

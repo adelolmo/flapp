@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="713">
+	<p>
+		You catch sight of movement out of the corner of your eye - a pale-blue creature hurtling towards you from close range - the troll you outwitted earlier! Even as you wonder at its tenacity and vengefulness, your reflexes are saving your life. You rull backwards and kick up, propelling the leaping creature over you and head first into some jagged stones. Clutching at a gash across its forehead, the troll edges towards you with a large, cruelly pointed flint in its free hand - but you've had the better of this evil creature's tricks twice already, and you don't intend to give it a third chance.
+	</p>
+	<fight name="Troll" combat="5" defence="10" stamina="8"/>
+	<p>
+		If you win, <goto section="307"/>.
+		Otherwise, <goto section="7" dead="t"/>.
+	</p>
+</section>

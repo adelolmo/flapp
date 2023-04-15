@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="57">
+	The merchant asks if you would like to buy specific cargo for
+	your ship, or do you want to make a general investment?
+	<choices>
+		<choice section="127">Buy cargo</choice>
+		<choice section="152">Make an investment</choice>
+	</choices>
+</section>

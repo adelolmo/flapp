@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="451">
+	<p>
+		You ask the innkeeper about Yanryt the Son. He looks at you oddly, clearly unsettled by your question.
+	</p>
+	<p>
+		&#8216;Some say he is the son of a mortal woman, and the god Tyrnai. But he has not been here for some time&#8230;&#8217; Suddenly he stops, and stares in amazement at the corner of the tavern.
+	</p>
+	<p>
+		You turn to look, and there, hunched over a stoop of ale, is Yanryt the Son. He greets you.
+	</p>
+	<p>
+		<if item="black dragon shield">
+			If you have a <b>black dragon shield</b>, <goto section="575"/>.
+		</if>
+		If not, <goto section="329"/>.
+	</p>
+</section>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="611">
+	<p>
+		You approach a fat fellow on a cart laden with barrels, at the far end of the queue waiting to enter the citadel. He wants 75 Shards to hide you in a barrel. If you haven&#8217;t the cash, or don&#8217;t want to pay that much, you&#8217;d better leave - <goto section="400" force="f"/>.
+	</p>
+	<p>
+		<if shards="75">
+			If you have, the merchant becomes very agitated when he realizes you will actually go through with it. He eyes the guards nervously. You will have to convince him.
+		</if>
+	</p>
+	<p>
+		<if shards="75">
+			<difficulty ability="charisma" level="14"/>.
+		</if>
+	</p>
+	<outcomes>
+		<success section="36"/>
+		<failure section="112"/>
+	</outcomes>
+</section>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="409">
+	You must fight.
+	<fight name="Grindel the Ripper" combat="12" defence="12" stamina="18"/>
+	If you win, <goto section="277"/>.
+	If you lose, <goto section="7" dead="t"/>.
+</section>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="178" image="178.jpg">
+	Mukogawa is a city of strong gleaming ramparts built on cliffs
+	overlooking the sea. White banners flutter and snap in the
+	breeze and soldiers in white surcoats patrol the streets. This is the
+	stronghold of the Moonrise Clan, whose ancestral shrine is just
+	across the straits on Udai Island.
+	<choices>
+		<choice section="203">Leave the city on foot</choice>
+		<choice section="726">Visit the Moonrise Clan manor</choice>
+		<choice section="281">Go to the harbour</choice>
+		<choice section="49">Visit the shrine of Juntoku</choice>
+		<choice section="717">Get lodging at an inn</choice>
+		<choice section="744">Go to the armoury</choice>
+	</choices>
+</section>

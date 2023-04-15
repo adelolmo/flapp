@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="568" tag="temple">
+	<p>
+		The temple of Elnir is a single spire reaching skywards. Eagles roost in its lofty belfry - they are sacred to the priests of the Skylord. Elnir is the Divine Ruler of the Heavens, patron of statesmen and kings, and his sons are the stormlords.
+	</p>
+	<p>
+		&#8216;Thunder is the sound of the Sons of Elnir smiting the cloud demons,&#8217; says a passing peasant.
+	</p>
+	<choices>
+		<choice section="440">Become an initiate</choice>
+		<choice section="241">Renounce worship</choice>
+		<choice section="73">Seek a blessing</choice>
+		<choice section="100">Leave the temple</choice>
+	</choices>
+</section>

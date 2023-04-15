@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="684">
+	<p>
+		The sailors clap their hands and roar with approval as the comely mermaid strikes elegant poses in the water. She does not realize they are just trying to lull her natural wariness until you and the mate can cast a net.
+	</p>
+	<p>
+		<set var="r" value="rank"/>
+		Suddenly you act. Wide-eyed, she watches the net hurtle above her through the air. Her mouth distorts into a comical expression of surprise as she tries to veer away. To catch her you must
+		<random dice="1" var="roll"/> and score less than or equal to your Rank - if you roll higher than your Rank, the net missed her.
+		<set var="result" value="(rank+1)-roll"/>
+		<!-- 'success' is if > 0 -->
+	</p>
+	<outcomes>
+		<success var="result" section="732">Catch her in the net</success>
+		<failure var="result" section="756">She gets away</failure>
+	</outcomes>
+</section>

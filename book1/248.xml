@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="248">
+	<p>
+		<if item="willow staff">
+			If you have a <b>willow staff</b>, <goto section="319"/> immediately.
+		</if>
+		If not, read on.
+	</p>
+	<p>
+		The Oak Druid, who asked for you to take the oak staff to the Willow Druid, has nothing more to say to you.
+	</p>
+	<p>You return to the Trading Post. <goto section="195"/>.</p>
+</section>

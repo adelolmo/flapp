@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="349">
+	<p>
+		Half the young men of Vervayens are eager to ship with you, so you have no trouble getting a good stock of volunteers. If your crew quality is poor,
+		<buy crew="average" shards="0">upgrade it to average</buy>. You cannot get better crew than this on such a small island.
+	</p>
+	<p>&#8216;What now, skipper?&#8217; asks your new cabin boy.</p>
+	<choices>
+		<choice section="318">Visit the market</choice>
+		<choice section="390">Consult the wise woman</choice>
+		<choice section="335">Go to your house</choice>
+		<choice section="298">Put to sea</choice>
+	</choices>
+</section>

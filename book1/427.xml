@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="427" image="427.jpg">
+	<p>
+		<if codeword="Attar">
+			If you have the codeword Attar, <goto section="578" force="f"/> immediately.
+		</if>
+		If not, read on.
+	</p>
+	<p>
+		Venefax is a strange-looking village. It looks like a single gigantic building. All the houses are joined together to form a jumbled mass, and none of the houses have doors - the only way in is through holes in the rooftop. Ladders lead up to the roof, which in effect forms a network of streets that the inhabitants travel across to get to certain buildings.
+	</p>
+	<p>
+		&#8216;We had to build it that way, for defence,&#8217; says a passing farmer. &#8216;You see, the scorpion men from the south cannot climb, so they can&#8217;t get inside the town!&#8217;
+	</p>
+	<choices>
+		<choice section="152">Visit the market</choice>
+		<choice section="497">Visit the Scorpion&#8217;s Sting Tavern</choice>
+		<choice section="338">Visit the village healer</choice>
+		<choice section="63">Chat to villagers on the rooftop</choice>
+		<choice section="492">Go south into Scorpion Bight</choice>
+		<choice section="87">Take the road north to Blessed Springs</choice>
+		<choice section="621">South west on the road to Yellowport</choice>
+		<choice section="278">North into open countryside</choice>
+	</choices>
+</section>

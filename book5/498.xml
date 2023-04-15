@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="498" boxes="1">
+	<p>
+		<if ticks="1">If there is a tick in the box,
+			<goto section="231"/> immediately.</if>
+		If not, <tick>put a tick there now</tick>, and read on.
+	</p>
+	<p><tick codeword="Envoy">Gain the codeword Envoy</tick>.</p>
+	<p>
+		It transpires that he is seeking the steps to an ancient dance that goes back to the early days of the Uttakin empire. It has great ceremonial and religious significance to the Uttakin, but the way it is performed has long since been lost.
+	</p>
+	<p>
+		'Bring me knowledge of the spectral minuet and I will reward you,' says the seneschal.
+	</p>
+	<p>
+		<if codeword="Cruel|Hill">If you have the codeword Cruel or Hill, <goto section="347"/> immediately.</if> If not, you return to the audience chamber. <goto section="401"/>.
+	</p>
+</section>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="610">
+	<p>
+		Along with some of your officers, you manage to lower the cutter and row off. The Kraken sinks down into the depths carrying the shattered remnants of your ship with it.
+	</p>
+	<p>
+		It is with bitter heart that you abandon the men crying for help in the water, but there is not enough room in the cutter for all of them. (Remember to <lose ship="t">cross off the details</lose> on your Ship&#8217;s Manifest.)
+	</p>
+	<p>
+		After several days you drift in to the shelter of a quiet bay. Your officers rest in the shade of a row of coconut palms, but to your dismay it is impossible to wake them later. Only then do you realize you must have landed on the fateful Sleeping Isle.
+	</p>
+	<p>
+		The cutter is too much for you to handle alone. You break it up for firewood and to build yourself a shelter. You may be on this island for some time.
+	</p>
+	<p><goto section="177"/>.</p>
+</section>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="448">
+	<p>
+		The friar tells you that he recently passed through Goldfall. &#8216;People there imagine they will get rich by searching for gold that falls from the sky. But even if gold did fall from the sky each night, and there was enough for everyone in the world to collect a handful each morning, would that make you rich?&#8217;
+	</p>
+	<p>He goes on his way. <goto section="235"/>.</p>
+</section>

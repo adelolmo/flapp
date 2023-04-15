@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="4" tag="temple">
+	<p>
+		The temple of Alvir and Valmir is a white marble building with a wide portico which gives a panoramic view of the harbour. The air in the nave is cool and fresh after the blazing sunshine outside.
+	</p>
+	<p>
+		Alvir and Valmir, the twin gods, are responsible for storms at sea. Sailors believe they take the souls of the drowned down to their halls beneath the vasty deep.
+	</p>
+	<choices>
+		<choice section="156">Become an initiate</choice>
+		<choice section="179">Renounce worship of the twin gods</choice>
+		<choice section="202">Seek a blessing</choice>
+		<choice section="217">Leave the temple</choice>
+	</choices>
+</section>

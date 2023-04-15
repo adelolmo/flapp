@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="537">
+	The high priestess, enveloped in ceremonial silks, welcomes you warmly, as the one who retrieved their holy relic. You can stay at the temple if you wish, and rest, <rest>restoring any lost Stamina points</rest>. She can also <lose disease="*">cure poison and diseases</lose>, such as the Blight of Nagil. When you are ready to leave, <goto section="58"/>.
+</section>

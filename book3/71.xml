@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="71" dock="Smogmaw">
+	<p>
+		If your own ship is docked here, you can set sail - either on to the open ocean or up the wide Nozama river.
+	</p>
+	<p>Otherwise you will have to buy a ship or pay for passage.</p>
+	<choices>
+		<choice section="320" sail="t">Put to sea</choice>
+		<choice book="7" section="375" sail="t">Sail upriver</choice>
+		<choice section="44">Remain in Smogmaw</choice>
+		<choice section="110">Don&#8217;t have a ship here</choice>
+	</choices>
+</section>

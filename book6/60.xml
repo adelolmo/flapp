@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="60">
+	<if codeword="Fleet">
+		<goto section="109"/> if you have the codeword Fleet,
+	</if>
+	otherwise <goto section="132"/>.
+</section>

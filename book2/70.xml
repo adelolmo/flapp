@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="70">
+	A wereboar in ornate armour comes thundering out of the
+	undergrowth with a raised spear.
+	<fight name="Wereboar" combat="6" defence="11" stamina="8"/>
+	There is no chance of retreat or surrender in this battle. If you
+	win, <goto section="323"/>.
+</section>

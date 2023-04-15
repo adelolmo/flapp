@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="209" image="209.jpg">
+	<p>
+		At the back of a cliff-lined bay on Udai Island stands a shrine dedicated to the worship of the Moonrise Clan&#8217;s ancestral spirits.
+	</p>
+	<p>
+		Priests in white robes come down to the beach to meet you. They are armed with moon spades - poles with a shovel-shaped blade on one end, a scythe on the other. Their vows are supposed to prohibit them from shedding blood, but they will fight to defend the shrine.
+	</p>
+	<choices>
+		<choice section="291">Attack the priests</choice>
+		<choice section="496">Make an offering to the spirits</choice>
+		<choice section="745">Embark and set sail</choice>
+	</choices>
+</section>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="218">
+	<p>
+		The militia take you alive. You <lose shards="*" item="*">lose all your money and possessions</lose>. Cross them off your Adventure Sheet. Then you are thrown into the dungeons of Yellowport.
+	</p>
+	<p><goto section="454"/>.</p>
+</section>

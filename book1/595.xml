@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="595">
+	You will have to sneak in around the hall to get behind the king. There are plenty of shadows to hide in but it will not be easy. <difficulty ability="thievery" level="11"/>.
+	<outcomes>
+		<success section="608"/>
+		<failure section="475"/>
+	</outcomes>
+</section>

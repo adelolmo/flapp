@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="327">
+	<p>
+		You are travelling on an old stone road. Carved limestone monoliths occur at intervals of seven leagues, each with an inscription marking the distance to the High King&#8217;s Seat.
+	</p>
+	<p><random type="travel"/> for encounters:</p>
+	<outcomes>
+		<outcome range="2-7" section="740">Pilgrims</outcome>
+		<outcome range="8-9" section="355">An uneventful journey</outcome>
+		<outcome range="10-12" section="764">A plague-ridden hag</outcome>
+	</outcomes>
+</section>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="126">
+	Your ship goes down and is lost with all hands.
+	<lose ship="t">Cross its details off</lose> the Ship&#8217;s Manifest.
+	You are cast into the sea clinging to a
+	broken timber and it takes all your strength just to keep your
+	head above water.
+	<difficulty ability="scouting" level="14">
+		Make a SCOUTING roll at a Difficulty of 14
+	</difficulty>.
+	<outcomes>
+		<success section="241"/>
+		<failure section="140"/>
+	</outcomes>
+</section>

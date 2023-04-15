@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="264">
+	<p>
+		You enter a region of high mountains whose peaks loom up like images glimpsed in a nightmare. The sky above is a swirl of white mist which occasionally parts to give glimpses of crystalline, star-dusted darkness. Food is hard to come by in this arctic wilderness, and there is no wood to make a fire.
+	</p>
+	<p><difficulty ability="scouting" level="16"/>.</p>
+	<outcomes>
+		<success section="636"/>
+		<failure section="317"/>
+	</outcomes>
+</section>

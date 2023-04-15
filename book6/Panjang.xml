@@ -1,0 +1,16 @@
+<section name="Panjang of the Emerald Isle" profession="Mage">
+	<p>
+		A quietly competent young man, Panjang has dedicated himself to mastery of the mystic arts through a regimen of fasting, meditation and breathing exercises. He is intrigued by the mysteries of the Black Pagoda in Oni Province, but knows he must train hard before he will be ready to undertake the adventure.
+	</p>
+	<p>
+		You can play as Panjang, or as a mage with a different name (enter it in the 'Name' field). To begin your adventure, <goto section="1" force="f"/>.
+	</p>
+	<p>For another profession, choose from the following:</p>
+	<choices>
+		<choice section="Kintu">Warrior</choice>
+		<choice section="Abraxas">Priest</choice>
+		<choice section="Elektra">Troubadour</choice>
+		<choice section="Shikibu">Rogue</choice>
+		<choice section="Ithacus">Wayfarer</choice>
+	</choices>
+</section>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="475">
+	You are off the coast of Old Harkuna with the Sorcerers&#8217; Isle
+	not many leagues to the south-east.
+	<choices>
+		<choice book="5" section="60">Steer north</choice>
+		<choice section="208">Steer south</choice>
+		<choice section="200">Steer east</choice>
+		<choice section="21">Steer west</choice>
+		<choice book="5" section="26">Make for Ringhorn</choice>
+		<choice section="9">Head for Dweomer</choice>
+	</choices>
+</section>

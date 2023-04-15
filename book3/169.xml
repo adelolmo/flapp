@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="169">
+	You put in at the island where you are regarded as a great hero.
+	Seeing your return, fishermen turn their boats back to the quay
+	and call their wives and children to prepare a feast in your
+	honour.
+	<choices>
+		<choice section="318">Go to the market</choice>
+		<choice section="390">Talk to the wise woman</choice>
+		<choice section="335">Rest at home</choice>
+		<choice section="349">Upgrade your crew</choice>
+		<choice section="298">Set sail</choice>
+	</choices>
+</section>

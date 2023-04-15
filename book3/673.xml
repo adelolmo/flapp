@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="673">
+	<p>
+		The boat is so waterlogged that you have to abandon it and swim to the quayside. An old man carrying a lobster pot helps you up and you ask him where you are.
+	</p>
+	<p>
+		He points along an avenue lined with strange black statues. At the far end is a city of many high turrets, the stone gleaming like gold under an indigo sky.
+	</p>
+	<p>&#8216;This is Braelak Isle. Yon city is Dweomer.&#8217;</p>
+	<p><goto section="100"/>.</p>
+</section>

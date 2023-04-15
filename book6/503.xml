@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="503">
+	<p><lose codeword="Fusty">Lose the codeword Fusty</lose>.</p>
+	<p>
+		Something falls out of the sky with a plop. It didn&#8217;t look big enough to be the monk, but you cannot see any sign of him now. When you go to investigate, you find an old badger lying dead among the pine needles.
+	</p>
+	<choices>
+		<choice section="344">Cook and eat the badger</choice>
+		<choice section="610">Go to bed</choice>
+	</choices>
+</section>

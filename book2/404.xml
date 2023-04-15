@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="404">
+	You take three
+	<weapon name="sword" bonus="0" quantity="3">
+		<b>swords</b>
+	</weapon>,
+	a <item name="candle" tags="light,useonce"/> and
+	<gain shards="75"/> from the bodies before continuing on your way.
+	<goto section="55"/>.
+</section>

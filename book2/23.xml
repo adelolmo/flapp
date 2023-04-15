@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="23">
+	You are not sorry to be leaving the Forest of the Forsaken
+	behind you. It is the most dangerous region of Golnir.
+	<choices>
+		<choice section="30">Head west</choice>
+		<choice section="99">Head east</choice>
+		<choice section="53">Head north</choice>
+		<choice section="122">Head south</choice>
+	</choices>
+</section>

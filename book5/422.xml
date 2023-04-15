@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="422">
+	<p>
+		An elfin-featured lady is sunning herself on top of one of the long mounds which you know contain the bones of the dead. She looks up brightly as you approach.
+	</p>
+	<p>
+		'Greetings, my green-gilled gallant. The shrill shades of Shadar shamble still underfoot. Are you holy enough to haul the hoards from these halls, hero? You choose a chill charnelhouse to challenge your chances.'
+	</p>
+	<p>'Enough, lady. Have you anything of use to tell me?'</p>
+	<p>
+		The woman fixes you with green eyes. 'These homes are sacred, and not for the greedy or the guilty. You must indeed be sure of your right arm and your righteous cause to dare enter here.'
+	</p>
+	<p>
+		With that, she bids you farewell and disappears. A green butterfly flutters away from where she was sitting.
+	</p>
+	<p><goto section="126"/>.</p>
+</section>

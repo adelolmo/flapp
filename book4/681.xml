@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="681">
+	<p>
+		You scour the land for miles around, but you are unable to find a single trace of a tree. The crewmen lose confidence in you and return to the wreck where they tear off more of the hull for firewood.
+	</p>
+	<p>
+		&#8216;Just leave us alone,&#8217; says the mate, &#8216;We don&#8217;t need no false messiahs here, raising our hopes.&#8217;
+	</p>
+	<p>&#8216;Yeah!&#8217; yells another. &#8216;Go and jump in a river!&#8217;</p>
+	<p>Shrugging your shoulders, you leave.</p>
+	<p><goto section="669"/>.</p>
+</section>

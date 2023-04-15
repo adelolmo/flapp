@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="196">
+	Bees hum in the blossom-laden branches overhanging the road.
+	Some way ahead, a pedlar&#8217;s cart creaks lopsidedly along,
+	followed by a gaggle of laughing children. From this idyllic
+	scene you would never guess that Akatsurai is a country poised
+	on the brink of civil war.
+	<choices>
+		<choice section="79">Go up the coast to Chambara</choice>
+		<choice section="362">Go south to Shingen</choice>
+		<choice section="704">Go east over open country</choice>
+	</choices>
+</section>

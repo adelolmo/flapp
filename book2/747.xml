@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="747">
+	Your footsteps echo hollowly on the polished panels of the
+	floor. The cowled figure peers down at you and says: &#8216;Blood and
+	breath, sweat and sinew. Here is one from the land of mortals,
+	who still bears the special stench of life. You did not come here
+	by the usual route, mortal.&#8217;
+	<choices>
+		<choice god="Tyrnai" section="784">If you are an initiate of Tyrnai</choice>
+		<choice god="Nagil" section="405">If an initiate of Nagil</choice>
+		<choice section="723">Otherwise</choice>
+	</choices>
+</section>

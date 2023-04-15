@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="560" image="560.jpg">
+	<p>
+		An object resembling a giant paper lantern comes drifting over the fields. Intermittently it gives off a gleam of fiery yellow light. As it descends you can make out a man in wizard&#8217;s robes standing in a basket slung underneath the lantern, conjuring gouts of flame that he sends shooting up inside it.
+	</p>
+	<p>The strange craft bumps to a landing on a nearby hillock.</p>
+	<p>
+		&#8216;Hallo,&#8217; calls the occupant of the basket. &#8216;Want a lift anywhere?&#8217;
+	</p>
+	<choices>
+		<choice section="581">Get into the basket</choice>
+		<choice section="266">Thank him but say no</choice>
+	</choices>
+</section>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="519">
+	<p>
+		<if codeword="&#201;lan">
+			If you have the codeword &#201;lan,
+			<goto section="420"/>.
+		</if>
+	</p>
+	<p>
+		<difficulty ability="charisma" level="13">
+			<adjust profession="rogue" value="1"/>
+		</difficulty>.
+		You can add one to your roll if you are a Rogue.
+	</p>
+	<outcomes>
+		<success section="492"/>
+		<failure section="718"/>
+	</outcomes>
+</section>

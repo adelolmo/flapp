@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="309">
+	<p>
+		As you move closer to the sarcophagus, your foot crosses the edge of the pentacle by a few millimetres - it is enough. The lid of the sarcophagus explodes into the air with a deafening crash, and a pillar of black smoke erupts from the stone coffin! The smoke hurtles towards you, like a miniature tornado.
+	</p>
+	<p>
+		You must fight the tomb guardian.
+		<if weapon="?" bonus="1+">
+			If you have a weapon with a +1 COMBAT bonus or greater, <goto section="43"/>.
+		</if>
+		Otherwise, <goto section="260"/>.
+	</p>
+</section>

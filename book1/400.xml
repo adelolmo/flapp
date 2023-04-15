@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="400" image="400.jpg">
+	<p>
+		Caran Baru is a medium-sized town, that acts as a way-station between the citadel to the north, and the rich towns of the south. It is a garrison town; many supplies, arms, and soldiers move through Caran Baru on the north-south trail. Shops, temples, traders, and the like have sprung up here to serve the needs of the military. There is also a sizeable mining community, for the mines of Sokara lie in the Bronze Hills, just outside town, and a slave market where poor unfortunates, sold into slavery, are bought for work in the mines.
+	</p>
+	<p>
+		<if not="t" codeword="1.400.1">
+			You can buy a town house in Caran Baru for 200 Shards. Owning a town house gives you a place to rest, and to store equipment. If you
+			<lose shards="200" price="x">buy one</lose>,
+			<tick codeword="1.400.1" flag="x">tick the box</tick>
+			by the town house option.
+		</if>
+	</p>
+	<p>
+		<if codeword="Barnacle">
+			If you have the codeword Barnacle, <goto force="f" section="418"/> immediately.
+		</if>
+		Otherwise, pick from the following options.
+	</p>
+	<choices>
+		<choice section="215">Visit the marketplace</choice>
+		<choice section="112">Visit the merchants&#8217; guild</choice>
+		<choice section="473">Visit the slave market</choice>
+		<choice section="282">Visit the temple of Tyrnai</choice>
+		<choice section="615">Visit the temple of Lacuna</choice>
+		<choice section="86">Visit the temple of the Three Fortunes</choice>
+		<choice section="177" box="1.400.1">Visit your town house {box} (if box ticked)</choice>
+		<choice section="184">Visit the Blue Griffon Tavern</choice>
+		<choice section="201">Follow the road north to the citadel</choice>
+		<choice section="110">Go west into the Bronze Hills</choice>
+		<choice section="60">Travel north east into the country</choice>
+		<choice section="458">Take the east road to Fort Mereth</choice>
+		<choice section="474">Head south east into the mountains</choice>
+		<choice section="347">Take the south road</choice>
+	</choices>
+</section>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="478" image="478.jpg">
+	<p>
+		<if item="salt and iron filings">
+			If you have <b>salt and iron filings</b>,
+			<goto section="705"/>.
+		</if>
+		If not, read on.
+	</p>
+	<p>
+		The ghoul arrives at midnight but is undeterred by the benediction you spoke over the girl&#8217;s body. It climbs in through an open window and lopes on long thin legs over to the trestle where the body lies. You are watching from behind a door, and when you see the ghoul begin its grisly meal you know it is time to decide: will you step out and confront it, or slip away into the night?
+	</p>
+	<choices>
+		<choice section="527">Fight the ghoul</choice>
+		<choice section="53">Leave while it&#8217;s eating</choice>
+	</choices>
+</section>

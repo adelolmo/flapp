@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="246">
+	<p>
+		The days are fair and sunny, the nights star-brimmed. Your ship skips like a cloud across waves the colour of ink.
+	</p>
+	<p>
+		<rest stamina="1">Recover 1 Stamina point</rest> if injured, then <random type="travel"/>.
+	</p>
+	<outcomes>
+		<outcome range="2-5" section="665">A vision in moonlight</outcome>
+		<outcome range="6-8" section="264">A quiet day&#8217;s sailing</outcome>
+		<outcome range="9-12" section="569">Traders from Mithdrak</outcome>
+	</outcomes>
+</section>

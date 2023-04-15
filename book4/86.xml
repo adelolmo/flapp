@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="86">
+	You are right in their path but the horses surge around you, and then they come to a halt, stamping and snorting, their breath like clouds in the cold air. The black stallion trots up to you and regards you with eyes filled with an unnatural intelligence. You realise it is the Steed of Tambu, the Great Spirit of the Steppes. The steed can be ridden only by the worthy; it has deemed you of sufficient piety to receive that honour.
+	<choices>
+		<choice section="239">Mount the Steed of Tambu</choice>
+		<choice section="666">Leave the herd of horses</choice>
+	</choices>
+</section>

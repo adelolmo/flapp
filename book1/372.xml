@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="372">
+	<lose codeword="StillInYellowport" hidden="t"/>
+	<lose shards="10">
+		Cross off the 10 Shards
+	</lose>. A sleek yacht takes you on a trouble-free
+	journey to Yellowport. <goto section="10"/>.
+</section>

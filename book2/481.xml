@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="481">
+	<p>
+		You have a fine supper of roast turnips, leeks and venison pie washed down with some cups of faery mead. &#8216;The elves provide me with this mead,&#8217; says Knocklar blearily, stabbing at the fire with a poker.
+	</p>
+	<p>&#8216;That&#8217;s uncommonly generous of them,&#8217; you remark.</p>
+	<p>
+		Knocklar gives a gleeful titter. &#8216;Generous my foot! If they don&#8217;t provide it, I threaten them that I&#8217;ll walk in among their revels at night and disrupt all the fun. They can&#8217;t stand the odour of sanctity you see.&#8217;
+	</p>
+	<p>
+		You get a sound sleep and can
+		<rest stamina="1d">recover 1-6 Stamina points</rest>
+		(the score of one die) if wounded. Then next morning you hear Knocklar already up chopping wood. <goto section="381"/>.
+	</p>
+</section>

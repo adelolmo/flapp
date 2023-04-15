@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="741" image="741.jpg">
+	Your short-cut across a seemingly empty field proves to be
+	unwise. You are suddenly charged by a ferocious bull which is
+	intent on decorating its horns with your lower intestine.
+	<choices>
+		<choice section="199">Run for it</choice>
+		<choice section="649">Stand and fight</choice>
+	</choices>
+</section>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="397">
+	<p>
+		You receive the blessing of Molhern. This allows you a second attempt to any one failed MAGIC roll. After the second roll (whether it is successful or not) the blessing is used up. Write:
+		<tick blessing="magic">MAGIC reroll</tick> (one use) under the blessings on your Adventure Sheet.
+	</p>
+	<p>
+		You cannot obtain a second blessing from Molhern until this one is used up.
+	</p>
+	<p>Now <goto section="28"/>.</p>
+</section>

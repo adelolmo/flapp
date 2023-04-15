@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="551">
+	You cannot escape - there are too many of them and all of them are seasoned warriors of Tyrnai. You are overpowered and given a savage beating - you are <lose staminato="1">reduced to only 1 Stamina point</lose>. They take all your money and possessions. <lose item="*" shards="*">Cross them off</lose> your Adventure Sheet. The priests do not have you sacrificed to Tyrnai - instead you are sold into slavery and set to work in the tin mines outside the city. <goto section="118"/>.
+</section>

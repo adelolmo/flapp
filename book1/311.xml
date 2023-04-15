@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="311">
+	<p>
+		<if crew="good"><set var="x" value="1"/></if>
+		<if crew="excellent"><set var="x" value="1"/></if>
+		He narrows his eyes angrily at your refusal.
+		<if ship="galleon"><if var="x" equals="1">
+				If your ship is a galleon and you have a good or excellent crew, <goto section="335"/> immediately.
+		</if></if>
+		If not, read on.
+	</p>
+	<p>
+		&#8216;In that case, I have no choice but to seize your ship!&#8217; More of his men swarm on to your ship, and a battle ensues.
+	</p>
+	<p>
+		<if profession="warrior">
+			<random dice="3">
+				<adjust ability="rank"/>
+				<adjust crew="poor" amount="-2"/>
+				<adjust crew="good" amount="2"/>
+				<adjust crew="excellent" amount="3"/>
+			</random> if you are a Warrior,
+		</if>
+		<else>
+			or
+			<random>
+				two dice<adjust ability="rank"/>
+				<adjust crew="poor" amount="-2"/>
+				<adjust crew="good" amount="2"/>
+				<adjust crew="excellent" amount="3"/>
+			</random>
+			if you belong to any other profession.
+		</else>
+		Add your Rank to this roll. If the crew is poor quality, subtract 2 from the total. If the crew is good, add 2; if it is excellent, add 3.
+	</p>
+	<outcomes>
+		<outcome range="0-4" section="680">Calamity. You are killed</outcome>
+		<outcome range="5-9" section="153">Crushing defeat. <lose stamina="1d">Lose 1-6 Stamina</lose></outcome>
+		<outcome range="10-13" section="242">A draw</outcome>
+		<outcome range="14+" section="62">Outright victory</outcome>
+	</outcomes>
+</section>

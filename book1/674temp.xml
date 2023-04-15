@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="674">
+	<p>
+		You realise from your magical studies that there is a safe path through the pentacle. If you step off the correct symbols, drawn on the ground, there is no telling what sorcerous trap you will set off.
+	</p>
+	<p>
+		If you decide the whole thing is too dangerous, and leave, <goto section="47" force="f"/>.
+	</p>
+	<p>
+		If you want to try the path to the sarcophagus,
+		<difficulty ability="thievery" level="9"/>.
+	</p>
+	<outcomes>
+		<success section="606"/>
+		<failure section="661"/>
+	</outcomes>
+</section>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="61">
+	You call on the gods to bear witness to this travesty of natural
+	law: that a ghost should arise at once from the corpse of its
+	former self and commence to wreak summary justice. The
+	normal protocol allows for hauntings, nightmares and curses, but
+	not this kind of brashness. Your prayer is that the gods will
+	intervene to set matters aright.
+	<difficulty ability="sanctity" level="13">
+		Make a SANCTITY roll at a Difficulty of 13
+	</difficulty>.
+	<outcomes>
+		<success section="110"/>
+		<failure section="133"/>
+	</outcomes>
+</section>

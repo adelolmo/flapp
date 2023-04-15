@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="565">
+	<p>
+		To get in to see the patriarch you must have the codeword <i>Fuchsia</i>.
+		<if codeword="Fuchsia" not="t">
+			If you don&#8217;t,
+			<goto section="572">turn back to 572</goto>
+			and choose again.
+			<lose codeword="6.565.1" hidden="t"/>
+		</if>
+		<if codeword="Fuchsia">
+			If you do have <i>Fuchsia</i>, read on.
+			<tick codeword="6.565.1" hidden="t"/>
+		</if>
+	</p>
+	<p>
+		Hidehira is always happy to welcome an ally of his clan. &#8216;My house is your house,&#8217; he says. &#8216;Stay as long as you like.&#8217;
+	</p>
+	<choices>
+		<choice box="6.565.1" section="512">Rest and recuperate</choice>
+		<choice box="6.565.1" section="648">Pray in the family shrine</choice>
+		<choice box="6.565.1" section="572">Leave</choice>
+	</choices>
+</section>

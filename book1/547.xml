@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="547" image="547.jpg">
+	<p>
+		Your instinct was correct. The sea bed suddenly drops away, to reveal the ruins of the Sunken City of Ziusudra. Crumbling towers climb out of the hazy green depths, and shoals of flashing silverfish dart through the abandoned windows and doors of coral-encrusted buildings.
+	</p>
+	<p>
+		The creature you are following arrows down towards a large dome-like structure covered in waving tendrils of seaweed. It disappears through a hole in the roof of the dome.
+	</p>
+	<p>
+		Carefully, you swim down to the hole and look through, into the palace of the repulsive ones.
+	</p>
+	<p><goto section="41"/>.</p>
+</section>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="751">
+	<p>
+		You climb up to the first balcony and slip in through a narrow window. The interior of the tower is an architect&#8217;s nightmare of long shadows, twisting stairs and crazy angles. In the top-most chamber you see a tiny hunchbacked man with a thin dark face and long nose dozing in a chair.
+	</p>
+	<p>
+		There is nothing here any more to interest you. <goto section="501"/>.
+	</p>
+</section>

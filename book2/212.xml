@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="212">
+	You are in the Rese Valley. Off to the east stretch the corn-rich
+	lands of the Endless Plains. Northwards, the countryside gives
+	way to rugged foothills where human settlement is sparse.
+	<choices>
+		<choice section="167">Go north towards Marmorek</choice>
+		<choice section="328">Go east across the Endless Plains</choice>
+		<choice section="6">Go south to Delpton</choice>
+	</choices>
+</section>

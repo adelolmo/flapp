@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="159" image="159.jpg">
+	<p>
+		The island is a tropical paradise. You decide to treat your crew to a week of rest and relaxation.
+	</p>
+	<p>
+		To see how it affects them,
+		<random dice="2">
+			<adjust ability="rank"/>
+		</random> and add your Rank.
+	</p>
+	<outcomes>
+		<outcome range="3-6">
+			The crew maroons you.
+			<group force="t">
+				<text>Turn to <b>177</b></text>
+				<lose ship="t"/>
+				<goto section="177"/>
+			</group>
+		</outcome>
+		<outcome range="7-9">
+			Indiscipline:
+			<lose crew="1">reduce Crew Quality by one step</lose>
+		</outcome>
+		<outcome range="10-11">
+			Invigoration:
+			<lose crew="-1">upgrade Crew Quality by one step</lose>
+		</outcome>
+		<outcome range="12+">
+			Inspiration:
+			<lose crew="-2">upgrade Crew Quality two steps</lose>
+		</outcome>
+	</outcomes>
+	<p>
+		The four categories of Crew Quality are poor, average, good and excellent. Crew Quality cannot go below poor or above excellent.
+	</p>
+	<p>
+		When ready to set sail again (assuming you aren&#8217;t marooned!) <goto section="41"/>.
+	</p>
+</section>

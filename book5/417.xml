@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="417">
+	<p>
+		You tell the high priest of your intention to renounce Ebron as your god. He sits in stunned silence for a moment.
+	</p>
+	<p>
+		'Are you mad?' he whispers. 'You will be committing a supreme heresy!'
+	</p>
+	<p>
+		<if god="Ebron">
+			If you still want to renounce Ebron,
+			<group>
+				<text>delete Ebron from your God box</text>
+				<lose god="Ebron"/>
+				<tick codeword="Erebus"/>
+			</group>
+			and tick the codeword <i>Erebus</i>.
+		</if>
+	</p>
+	<p><goto section="444"/>.</p>
+</section>

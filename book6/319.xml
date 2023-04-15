@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="319">
+	The rugged precipices of the Kenen range are enough to deter
+	all but the most experienced mountaineers. Your gaze rises up,
+	past huddled pines and cliffs of bare grey rock, towards the icecovered
+	peaks.
+	<choices>
+		<choice section="148">Press on into the mountains</choice>
+		<choice section="338">Turn back while you still can</choice>
+	</choices>
+</section>

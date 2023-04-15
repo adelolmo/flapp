@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="202">
+	<p>
+		Flying fish patterned like jewel-coloured dragonflies go skimming across the azure water.
+	</p>
+	<p>
+		&#8216;Many are the marvels of the sea,&#8217; says the bosun with a sigh. &#8216;If I live to be a hundred I could never hope to see a tenth part of them.&#8217;
+	</p>
+	<p>
+		<rest stamina="1">Recover 1 Stamina point</rest> if injured,
+		then <random type="travel"/>.
+	</p>
+	<outcomes>
+		<outcome range="2-4" section="145">Attacked at sea</outcome>
+		<outcome range="5-10" section="170">All&#8217;s quiet</outcome>
+		<outcome range="11-12" section="309">Blown off-course</outcome>
+	</outcomes>
+</section>

@@ -1,0 +1,16 @@
+<section name="Nakir Death-Angel" profession="Warrior">
+	<p>
+		Many a man who has mistaken your good looks and manners for foppishness has ended his life in a spreading pool of blood. Yet still you wish to perfect your skills so that no one can stand against you. You have heard that a general in the Court of Hidden Faces needs the services of a good warrior.
+	</p>
+	<p>
+		You can play as Nakir, or as a warrior with a different name (enter it in the 'Name' field). To begin your adventure, <goto section="1" force="f"/>.
+	</p>
+	<p>For another profession, choose from the following:</p>
+	<choices>
+		<choice section="Jadhak">Mage</choice>
+		<choice section="Anathema">Priest</choice>
+		<choice section="Domisellus">Troubadour</choice>
+		<choice section="Melmoth">Wayfarer</choice>
+		<choice section="Shen">Rogue</choice>
+	</choices>
+</section>

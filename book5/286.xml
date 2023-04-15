@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="286">
+	<p>
+		Black clouds race in from the west and strike the peaks of the Grumes with tremendous fury. A storm in the mountains is one of nature's most breathtaking spectacles, but you would rather view it from cover. The rain is already falling so hard that it stings your skin; if you are not struck by lightning you will surely be carried away in a mudslide.
+	</p>
+	<p><difficulty ability="scouting" level="10"/>.</p>
+	<outcomes>
+		<success section="415"/>
+		<failure section="445"/>
+	</outcomes>
+</section>

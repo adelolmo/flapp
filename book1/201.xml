@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="201">
+	The road between the Citadel and Caran Baru is chock-a-block with troops and carts. It looks like there is a war in the north.
+	<choices>
+		<choice section="271">Head for the citadel</choice>
+		<choice section="400">Go south to Caran Baru</choice>
+		<choice section="276">Head west</choice>
+		<choice section="60">Head east</choice>
+	</choices>
+</section>

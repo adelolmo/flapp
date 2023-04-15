@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="333">
+	<if title="Unspeakable Cultist">
+		If you have the title Unspeakable Cultist, <goto section="346"/>.
+	</if>
+	If not, <goto section="18"/>.
+</section>

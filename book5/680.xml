@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="680">
+	<p>
+		Targdaz tells you that he could make a ring of ultimate power if you can find and bring him a hyperium wand. Unfortunately, the only one he knows of lies in the lost tomb of Dawatsu Morituri, somewhere in Akatsurai.
+	</p>
+	<p>
+		Targdaz says, 'Seek out a ship of fleshless men in the seas west of the Island of Fire, in the Violet Ocean. They'll know where he lies.'
+	</p>
+	<p>
+		<if tool="hyperium wand" ability="magic" bonus="6">
+			If you have a <b>hyperium wand (MAGIC +6)</b>,
+			<goto section="564"/>.
+		</if>
+		If not, <goto section="245"/>.
+	</p>
+</section>

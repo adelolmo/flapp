@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="97">
+	<p>
+		The stowaway is a beautiful girl with blue eyes and long golden hair. She tells you her name is Athanasia and she is the daughter of a prince. &#8216;I ran away to sea rather than be married off to my cousin Zolteg, who in many ways resembles a wart-hog,&#8217; she explains.
+	</p>
+	<p>
+		In return for letting her join your crew, she teaches you some lovely songs. <training ability="charisma"/> and if you score higher than your current CHARISMA, increase it by 1.
+	</p>
+	<p><goto section="78"/>.</p>
+</section>

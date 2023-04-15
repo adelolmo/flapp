@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="225">
+	<p>
+		You ask the guards at the gate to let you through into Nerech. As the gates swing open, a priest of Nagil, the God of Death, steps forwards and reads the last rites over you.
+	</p>
+	<p>'I'm not dead yet!' you shout, shoving the priest hard in the chest.</p>
+	<p>
+		'As good as,' he mutters, in between the chant of the Rites of Nagil.
+	</p>
+	<choices>
+		<choice book="1" section="472">Turn back</choice>
+		<choice section="32">Venture forth</choice>
+	</choices>
+</section>

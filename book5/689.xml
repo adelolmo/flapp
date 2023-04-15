@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="689">
+	<p>
+		Looking down, you see a cloud of blood-red silt kicked up from the bottom of the pool, and a writhing shape within it. A dragon-shaped head and snake-like body shoot up from the water like a fountain.
+	</p>
+	<p>
+		<set var="armpenalty" value="-armour"/>
+		The creature, a water drake, opens its mouth and a high pressure jet of water stuns you.
+		<difficulty ability="scouting" level="10" var="pre">
+			<adjust value="armpenalty"/>
+		</difficulty> (remember to subtract any armour you are wearing from the roll).
+		<failure var="pre">
+			If you fail, you pass out and are drowned by the monster - <goto section="7"/>.
+		</failure>
+		If you succeed, you must fight the water drake in its own environment.
+	</p>
+	<fight name="Water Drake" combat="9" defence="12" stamina="40" modifiers="noarmour"/>
+	<p>
+		Your own Defence score is COMBAT plus Rank only - armour will not help you against the attempts of the drake to pull you under.
+	</p>
+	<p>
+		<fightround pre="f">
+			Each round, you must
+			<difficulty ability="scouting" level="9" var="round">
+				<adjust value="armpenalty"/>
+			</difficulty> (subtract armour) to stay afloat.
+			<failure var="round">
+				If you fail at any time, one of the creature's slippery coils has
+				<goto section="7">dragged you under</goto>
+				for the last time.
+			</failure>
+		</fightround>
+	</p>
+	<p>
+		If you lose, <goto section="7" dead="t"/>. If you succeed, <tick codeword="Ember"/> and <goto section="436"/>.
+	</p>
+</section>

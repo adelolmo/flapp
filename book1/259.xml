@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="259">
+	<p>
+		Fort Brilon, named after a Sokaran King of the first dynasty, is the southernmost castle on the fortified wall that keeps out the rabid, savage manbeasts. What the soldiers fear most is what they call 'Death Duty' - going out on patrols beyond the wall, into Nerech itself. <random type="travel" dice="1"/>.
+	</p>
+	<outcomes>
+		<outcome range="1,2">
+			Thief <lose item="?">steals one item from you</lose> (your choice)
+		</outcome>
+		<outcome range="3,4">Nothing happens</outcome>
+		<outcome range="5,6">Find a <item name="manbeast's helmet"/></outcome>
+	</outcomes>
+	<p>When you are ready, you can head:</p>
+	<choices>
+		<choice book="4" section="365">East into Nerech</choice>
+		<choice section="472">North west to Fort Estgard</choice>
+		<choice section="548">West into the farmlands</choice>
+		<choice section="466">South to Blessed Springs</choice>
+	</choices>
+</section>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="342" dock="Hidari">
+	The imposing cliffs that enclose Hidari give a clue to the
+	immensity of the great Urushi Mountains that lie inland.
+	<choices>
+		<choice section="673">Take the road to Shingen</choice>
+		<choice section="74">Travel up the east coast</choice>
+		<choice section="359">Go up into the mountains</choice>
+		<choice section="450" sail="t">Set sail (if ship docked here)</choice>
+	</choices>
+</section>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="557">
+	<p>
+		The skeletons retreat in disorder to their seaweed-festooned hulk and hoist a ragged web of canvas. Your men watch in silence as they sail away.
+	</p>
+	<p>
+		You notice that your hands are trembling now that shock has had time to set in. You steady them on the rail and bark orders for the crew to stop gawping and get back to work. They speedily comply, only too happy to forget their encounter with the skeletal pirates.
+	</p>
+	<p><goto section="321"/>.</p>
+</section>

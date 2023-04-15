@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="739">
+	You can <rest stamina="2d">recover 2-12 lost Stamina points</rest>
+	(the roll of two dice)
+	if injured. Remember that you cannot have more Stamina points
+	than your normal unwounded score. Now it is time for you to
+	travel on once more. <goto section="74"/>.
+</section>

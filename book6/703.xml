@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="703">
+	You arrive at a roadside inn overlooking a reef-lined bay.
+	<choices>
+		<choice section="295">Stop at the inn</choice>
+		<choice section="30">Go east</choice>
+		<choice section="2">Go west</choice>
+	</choices>
+</section>

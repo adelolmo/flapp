@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="104">
+	<p>
+		You are taken to the household of the Autumn Moon family, who arrange all the commercial interests of the powerful Wistaria Clan.
+	</p>
+	<p>
+		&#8216;We will be happy to do much business with you,&#8217; says Koishi, the head of the household, proffering a cup of rice wine. &#8216;May the gods see that our association brings mutual prosperity.&#8217;
+	</p>
+	<p>
+		<tick codeword="Frame">Get the codeword Frame</tick>
+		and then <goto section="57"/>.
+	</p>
+</section>

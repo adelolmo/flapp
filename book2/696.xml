@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="696">
+	<p>
+		You enter the cave and edge forward through the gloom. After a while you hear a thundering noise. It is coming from further down the tunnel.
+	</p>
+	<p>
+		Suddenly a torrent of water comes rushing forward to engulf you. <lose stamina="2d">Lose 2-12 Stamina points</lose> (the roll of two dice) and, if you survive, <goto section="689"/>.
+	</p>
+</section>

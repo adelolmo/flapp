@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="650">
+	<p>
+		<lose item="moonstone of teleportation">
+			Cross the <b>moonstone</b> off
+		</lose>
+		your Adventure Sheet. There is a flash, and suddenly you find yourself in a warm, comfortable room, beside Elissia the Traveller, the sorceress you rescued from her burning house.
+	</p>
+	<p>
+		Elissia will <rest>heal you</rest> of all lost Stamina points, if you are wounded, and cure you of any <lose disease="*">diseases</lose> or <lose poison="*">poisons</lose> you may be suffering from.
+	</p>
+	<p>
+		&#8216;My debt to you is now paid,&#8217; she says. With that, she passes her hands through the air, and disappears in a cloud of smoke!
+	</p>
+	<p>
+		You find yourself in an inn at Marlock City. You venture out into town, slightly dazed. <goto section="100"/>.
+	</p>
+</section>

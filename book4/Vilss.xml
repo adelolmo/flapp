@@ -1,0 +1,16 @@
+<section name="Vilss Snake-Fingers" profession="Rogue">
+	<p>
+		Vilss is an unscrupulous pick-pocked from Yarimura. The years of daily struggle with the forces of the law, and with those of his own kind, have left Vilss Jaded and tired. He is looking to make one big sting so he can get enough money together to explore the world - and rob it. But first he intends to join the local thieves' guild to protect his stake.
+	</p>
+	<p>
+		You can play as Vilss, or as a rogue with a different name (enter it in the 'Name' field). To begin your adventure, <goto section="1" force="f"/>.
+	</p>
+	<p>For another profession, choose from the following:</p>
+	<choices>
+		<choice section="Kitunai">Priest</choice>
+		<choice section="Ilak">Warrior</choice>
+		<choice section="Arabel">Mage</choice>
+		<choice section="Charyss">Troubadour</choice>
+		<choice section="Dilmun">Wayfarer</choice>
+	</choices>
+</section>

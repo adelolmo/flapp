@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="298">
+	<p>
+		The <b>amulet of protection</b> dissolves in a flash of smoke - <lose item="amulet of protection">cross it off</lose> your Adventure Sheet.
+	</p>
+	<p>
+		It does protect you, however, and you are obscured by the smoke long enough to get into hiding. The amulet leaves a residue of yellow powder, which the dragon thinks is all that is left of you. He scoops it up and puts it into a bottle, beside the others on his rocky shelf.
+	</p>
+	<p><goto section="16"/>.</p>
+</section>

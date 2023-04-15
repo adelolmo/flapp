@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="655" boxes="1">
+	<p>
+		<if ticks="1">
+			If there is a tick in the box, <goto section="574"/> immediately.
+		</if>
+		If not, <tick/>, and read on.
+	</p>
+	<p>
+		The general greets you with a smile and embraces you, saying, &#8216;You have served me beyond my expectations, my friend!&#8217;
+	</p>
+	<p>
+		A servant drags over a heavy chest, and Grieve Marlock flips open the lid with his sword. Inside is <gain shards="1000"/>! &#8216;Yours&#8217;, he says with a grin. Note the money on your Adventure Sheet.
+	</p>
+	<p>
+		He also gives you a title - in this case, whatever the title is of your next Rank. <gain ability="rank" amount="1">Gain 1 Rank</gain>, and <random dice="1" var="x">roll a die</random>. The result is <gain ability="stamina" amount="x">the number of Stamina points you gain permanently</gain>. Also, don&#8217;t forget to increase your Defence by 1 as a result of your gain in Rank.
+	</p>
+	<p>
+		As you leave, he says, &#8216; Don&#8217;t hesitate to ask, if you need anything.&#8217;
+	</p>
+	<p>
+		<if item="coded missive">
+			If you have a <b>coded missive</b>, <goto section="677"/>.
+		</if>
+		If not, <goto section="100"/>.
+	</p>
+</section>

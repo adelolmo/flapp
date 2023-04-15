@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="70">
+	<if codeword="Frog">
+		If you have the codeword Frog, <goto section="120"/>.
+	</if>
+	If not, <goto section="95"/>.
+</section>

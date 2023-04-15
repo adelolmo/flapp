@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="36">
+	<p>
+		<!-- removed link to 229 (paying ransom) -->
+		You can bank money with the merchants&#8217; guild by writing the sum you wish to leave with the guild in the box here. (Remember to cross it off your Adventure Sheet.) If you have banked any money with the guild in another book in the <i>Fabled Lands</i> series, add it now to this box and erase it from the other book.
+	</p>
+	<moneycache name="MerchantBank" text="Money banked" withdrawCharge="0.1"/>
+	<p>
+		To withdraw money from your account, simply transfer it from the box to your Adventure Sheet. The guild charges 10% on any withdrawals. (So if you withdrew 50 Shards, for example, they would deduct 5 Shards as their cut. Round fractions in the guild&#8217;s favour.)
+	</p>
+	<p>When you are ready to leave:</p>
+	<choices>
+		<choice box="2.36.1" section="2">In Ringhorn</choice>
+		<choice box="2.36.2" section="48">In Metriciens</choice>
+		<choice box="2.36.3" section="217">In Wishport</choice>
+		<choice box="2.36.4" section="71">In Wheatfields</choice>
+		<choice box="2.36.5" section="191">In Conflass</choice>
+	</choices>
+</section>

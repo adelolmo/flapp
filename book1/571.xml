@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="571">
+	The merchants&#8217; guild of Marlock City is a large, many-storeyed building of marble. Inside, many clerks and scribes are at work. Here you can bank your money for safekeeping, or invest it in guild enterprises in the hope of making a profit. A sign on the guildmaster&#8217;s door reads &#8216;Help wanted.&#8217;
+	<lose codeword="1.605.1" hidden="t"/>
+	<tick codeword="1.605.2" hidden="t"/>
+	<lose codeword="1.605.3" hidden="t"/>
+	<choices>
+		<choice section="290">Visit the guildmaster</choice>
+		<choice section="104">Make an investment</choice>
+		<choice section="88">Check on investments</choice>
+		<choice section="605">Deposit or withdraw money</choice>
+		<choice section="100">Return to the town centre</choice>
+	</choices>
+</section>

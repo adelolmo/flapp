@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="710">
+	<p>
+		You are wandering in a murky place. Slowly you make you way up a steep path. The ground mist swirls away behind you and the world grows brighter.
+	</p>
+	<p>
+		You have
+		<lose item="*" shards="*">lost all your possessions and money</lose>,
+		but you are alive at least. A peasant passes you on the road and gives you an odd look. &#8216;Don&#8217;t you know that this road leads to the underworld?&#8217; he says. &#8216;It is not safe to linger here at night.&#8217;
+	</p>
+	<p>Dawn ensanguines the sky. &#8216;Now it&#8217;s day,&#8217; you reply.</p>
+	<p>
+		Erase the entry in the Resurrection box on your Adventure Sheet and then <goto section="146"/>.
+	</p>
+</section>

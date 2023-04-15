@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="345">
+	<p>
+		<set var="r" value="rank" modifier="natural"/>
+		You hurry back down the stairs. Your courage deserves a greater reward than mere treasure. <random var="roll"/>,
+		<if var="roll" greaterthan="r">
+			and if the result is greater than your current Rank then you
+			<tick ability="rank" amount="1">gain a Rank</tick>.
+			You also
+			<gain ability="stamina" amount="1d">
+				gain 1-6 Stamina points <i>permanently</i>
+			</gain>
+			- that is, increase your normal (unwounded) Stamina score by the roll of one die. Remember that going up a Rank increases your Defence.
+		</if>
+	</p>
+	<p>
+		Once you have made any necessary adjustments to your Adventure Sheet, <goto section="22"/>.
+	</p>
+</section>

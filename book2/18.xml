@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="18">
+	<p>
+		You tell the high priest that you wish to renounce the worship of Nagil. He shows you your reflection in a mirror, then shatters it against the altar. When you ask if you must pay compensation to the temple, he shakes his head. &#8216;It is you who loses, not we.&#8217;
+	</p>
+	<p>
+		Do you want to reconsider?
+		<if god="Nagil">
+			If you are determined to renounce your faith,
+			<group>
+				<text>delete Nagil from the God box</text>
+				<lose god="Nagil"/>
+				<lose title="Chosen One of Nagil"/>
+			</group>
+			on your Adventure Sheet. You must lose any outstanding resurrection arrangements. Also lose the title Chosen One of Nagil if you have it.
+		</if>
+		When you have finished here, <goto section="257"/>.
+	</p>
+</section>

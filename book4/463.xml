@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="463">
+	<p>
+		You ask about the spectre that visited you one night in your cabin, aboard ship on the Violet Ocean, and of its request that you go to the fane. At the mention of the name Tayang Khan, the shaman makes a sign of warding.
+	</p>
+	<p>
+		&#8216;Do not mention that name here!&#8217; he shrills, spraying spittle in your face.
+	</p>
+	<p>He indicates that the audience is over. <goto section="33"/>.</p>
+</section>

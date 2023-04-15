@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="160" boxes="1">
+	<if ticks="0">
+		If the box above is empty,
+		<tick>put a tick in it now</tick> and <goto section="183"/>.
+	</if>
+	<elseif item="key of stars">
+		If the box is ticked and you have a
+		<b>key of stars</b>, <goto section="206"/>.
+	</elseif>
+	<else>
+		If the box is ticked and you are not carrying the <b>key of stars</b>, <goto section="275"/>.
+	</else>
+</section>

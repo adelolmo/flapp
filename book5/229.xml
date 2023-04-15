@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="229">
+	<p>
+		You are spotted by an Expunger, one of the fanatic guards of Uttaku. The alarm is raised, you are soon surrounded and seized.
+	</p>
+	<p><difficulty ability="charisma" level="13"/>.</p>
+	<p>
+		<success>If the roll is successful, you are sold into slavery, <goto section="321"/></success>. <failure>If you fail, you are hauled off to the Red Garden for execution, <goto section="170"/></failure>.
+	</p>
+</section>

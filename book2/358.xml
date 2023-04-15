@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="358">
+	You are off the southern seaboard close to the wealthy
+	mercantile city of Metriciens.
+	<choices>
+		<choice section="106">Go west</choice>
+		<choice book="3" section="301">Go south</choice>
+		<choice section="175">Go east</choice>
+		<choice section="33">Dock at Metriciens</choice>
+	</choices>
+</section>

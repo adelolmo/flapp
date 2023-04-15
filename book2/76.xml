@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="76">
+	<lose stamina="2d">Lose 2-12 Stamina</lose> (roll two dice) as you are swept under. If you survive, <goto section="689"/>.
+</section>

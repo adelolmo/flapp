@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="551">
+	<p>
+		You are invited to sit at the table and share the food and drink of the dead. It has no taste - or, if any taste at all, it is just the taste of the air in long-sealed tombs. None the less it gives you sustenance. If you are injured, <rest>restore your Stamina to its normal unwounded score</rest>.
+	</p>
+	<p>
+		A handsome cadaver beside you leans over to touch your arm. &#8216;It is time you were leaving,&#8217; he says in a whisper like dry leaves. &#8216;If you linger too long among us you will join our company for ever.&#8217;
+	</p>
+	<p>
+		You rise and bow to them, giving just a quick respectful glance to the Olympian figure on the throne at the end of the hall. &#8216;My divine lord, ladies, gentlemen... I thank you for your hospitality.&#8217;
+	</p>
+	<p>
+		&#8216;Return to the living world now,&#8217; resounds the voice of Nagil. &#8216;If you come back to this hall it must be to stay.&#8217;
+	</p>
+	<p>
+		You bow and hurry back to the surface. The bronze doors close behind you without a sound. <goto section="15"/>.
+	</p>
+</section>

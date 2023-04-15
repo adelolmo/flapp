@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="417">
+	You arrive at a wayside inn. A woman with a tiny baby slung on
+	her back hurries out into the road to offer you a welcoming cup
+	of green tea as thick as soup.
+	<choices>
+		<choice section="437">Stop at the inn</choice>
+		<choice section="73">Follow the road north</choice>
+		<choice section="495">Follow the road south</choice>
+		<choice section="515">Strike out due west</choice>
+	</choices>
+</section>

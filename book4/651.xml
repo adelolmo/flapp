@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="651">
+	<p>
+		You have tackled difficult climbs before. Now you know the meaning of impossibility. The rock here is as smooth as polished steel.
+	</p>
+	<p>
+		<difficulty ability="scouting" level="21">
+			<adjust item="rope|climbing gear" amount="1"/>
+		</difficulty>;
+		you can add 1 to the roll if you possess either a <b>rope</b> or <b>climbing gear</b>.
+	</p>
+	<outcomes>
+		<success section="70"/>
+		<failure section="399"/>
+	</outcomes>
+</section>

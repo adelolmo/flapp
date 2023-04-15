@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="156">
+	<p>
+		Your voice echoes hauntingly in the tunnel, adding to the effect of your song. The faery hound sinks back to the ground, and soon its contented whimpers have turned to the regular breath of sleep. You step over it and through the basalt door.
+	</p>
+	<p><goto section="108"/>.</p>
+</section>

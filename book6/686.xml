@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="686">
+	<p>
+		You pour away the wine when the giant isn&#8217;t looking. There is a sizzling sound as it burns the varnish off the floorboards. &#8216;Here, don&#8217;t you like my wine?&#8217; says the giant, rearing upright with an angry look.
+	</p>
+	<p>
+		<if item="faery mead">
+			If you have a bottle of <b>faery mead</b>, <goto section="740"/>.
+		</if>
+		If not, <goto section="712"/>.
+	</p>
+</section>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="372">
+	<p>
+		You have stepped into the lair of a necromancer. Bodies lie on slabs awaiting reanimation, and potions bubble and boil in alembics and cauldrons. A man, dressed in black robes and holding a staff, turns to face you. His pallid face is cruel and pinched, with the look of madness in his eyes.
+	</p>
+	<p>
+		Behind him, at the far end, a block of ruby rock encloses another, trapped within it like a fly in amber. He wears baroque clothes of almost preposterous ornateness, and every inch of his skin that you can see is covered in tattoos of equal complexity. He is frozen in time and space, but appears to be alive.
+	</p>
+	<p>
+		The man in black speaks, &#8216;What is this? An intruder! Begone, you absurd buffoon!&#8217;
+	</p>
+	<p>He levels his staff at you.</p>
+	<p><difficulty ability="magic" level="13"/>.</p>
+	<outcomes>
+		<success section="482"/>
+		<failure section="550"/>
+	</outcomes>
+</section>

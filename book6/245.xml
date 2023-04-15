@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="245">
+	<p>
+		You are travelling in the foothills of the Yasai Mountains. Pockets of mist lie deep in the valleys, making the crags seem to be icebergs adrift in an arctic sea.
+	</p>
+	<p>
+		<difficulty ability="scouting" level="13">
+			Make a SCOUTING roll at a Difficulty of 13<adjust item="climbing gear" amount="1"/>
+		</difficulty>;
+		you can add 1 to the dice roll if you have <b>climbing gear</b>.
+	</p>
+	<outcomes>
+		<success section="626"/>
+		<failure section="283"/>
+	</outcomes>
+</section>

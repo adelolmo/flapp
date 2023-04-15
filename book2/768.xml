@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="768">
+	Inside you find a sword and a shield. A voice at your shoulder
+	makes you jump in alarm, but it is only one of the spirits that has
+	followed you down the tunnel. &#8216;You must choose one of these
+	items,&#8217; it says.
+	<choices>
+		<choice section="452">Take the sword</choice>
+		<choice section="477">Take the shield</choice>
+	</choices>
+</section>

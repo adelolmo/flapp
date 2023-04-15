@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="222" image="222.jpg">
+	<p>
+		<if title="Hatamoto">
+			If you have the title Hatamoto, <goto section="276"/> immediately.
+		</if> If not, read on.
+	</p>
+	<p>
+		You are set to work rowing on a Yarimuran warship. The next few months are hard indeed, though you do get a chance to heal a little (<rest stamina="6">restore up to 6 points of Stamina</rest>). The life span of a Yarimuran galley slave is not long. Constant whippings, poor food, and an existence chained to a rower's bench weaken you considerably. <lose ability="rank" amount="1">Lose one Rank</lose>. <random dice="1" var="x"/> and <lose ability="stamina" amount="x">subtract the score from your unwounded Stamina total</lose>, permanently.
+	</p>
+	<p>
+		After many battles at sea, your ship is captured by pirates from the Unnumbered Isles in the Violet Ocean. <goto section="27"/>.
+	</p>
+</section>

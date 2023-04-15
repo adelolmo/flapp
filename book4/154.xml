@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="154">
+	<p>
+		Three figures erupt out of the water around you. They are fishmen, with frog-like heads and big, bulbous staring eyes on either side of their heads. Their bodies are covered in scales, and their arms and legs end in heavily webbed fingers and toes. A large dorsal fin runs the length of their backs. They brandish long spears and daggers made of serrated coral. The three fishmen take a step forward, blinking at you oddly.
+	</p>
+	<p><difficulty ability="scouting" level="9"/>.</p>
+	<outcomes>
+		<success section="363"/>
+		<failure section="258"/>
+	</outcomes>
+</section>

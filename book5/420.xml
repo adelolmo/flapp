@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="420">
+	The brotherhood has no more missions for you, but you are taken to its secret market. The brotherhood will not buy anything from you - it only sells.
+	<market sell="f">
+		<header header1="Items for sale" header2="To Buy"/>
+		<item name="climbing gear" buy="100"/>
+		<item name="witch's hand" buy="500"/>
+		<item name="parrot fungus" buy="150"/>
+		<item name="selenium ore" buy="700"/>
+		<item name="faery mead" buy="200"/>
+		<item name="scroll of Ebron" buy="500"/>
+		<item name="amulet of Ebron" buy="150"/>
+		<item name="uncanny salts" buy="100"/>
+		<item name="verdigris key" buy="1000"/>
+		<item name="green carpet" buy="100"/>
+		<item name="courtier's mask" buy="500"/>
+		<item name="uttakin telescope" buy="700"/>
+	</market>
+	When you are ready, you return to the city above. <goto section="444"/>.
+</section>
+

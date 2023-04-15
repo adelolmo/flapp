@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="658">
+	<p>
+		You are standing at the bottom of the Devil&#8217;s Peak. It is a massive tower of black rock, like a stone tree-trunk, bare and branchless, climbing up into the sky. You cannot see the top, for it is shrouded in grey clouds. Thunder and lightning play about the clouded summit.
+	</p>
+	<p>
+		The sides of the peak are almost sheer, but there are many hand and footholds. It can be climbed, but only if you have some <b>climbing gear</b>.
+		<if item="climbing gear">
+			If you have and you want to make the ascent, <goto section="340" force="f"/>.
+		</if>
+		Otherwise, <goto section="560"/>.
+	</p>
+</section>

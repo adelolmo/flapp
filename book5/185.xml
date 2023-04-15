@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="185">
+	<p>From Spatterdash, you can:</p>
+	<choices>
+		<choice section="478">Head south</choice>
+		<choice section="333">Head east to the River Rese</choice>
+		<choice section="328">Go west</choice>
+		<choice section="653">Head south-west to the High King's Seat</choice>
+	</choices>
+</section>

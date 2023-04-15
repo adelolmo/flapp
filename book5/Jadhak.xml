@@ -1,0 +1,16 @@
+<section name="Lord Jadhak" profession="Mage">
+	<p>
+		Your home is in another time and place, and you only came to the <i>Fabled Lands</i> accidentally when, during an interdimensional excursion, the nexus pathways closed, leaving you stranded on this disgustingly primitive world.  You have heard that the mages of Aku may have the knowledge to return you home.
+	</p>
+	<p>
+		You can play as Lord Jadhak, or as a mage with a different name (enter it in the 'Name' field). To begin your adventure, <goto section="1" force="f"/>.
+	</p>
+	<p>For another profession, choose from the following:</p>
+	<choices>
+		<choice section="Nakir">Warrior</choice>
+		<choice section="Anathema">Priest</choice>
+		<choice section="Domisellus">Troubadour</choice>
+		<choice section="Melmoth">Wayfarer</choice>
+		<choice section="Shen">Rogue</choice>
+	</choices>
+</section>

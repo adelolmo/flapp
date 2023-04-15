@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="339">
+	<p>
+		The despondent men ignore your feeble attempts to raise their flagging spirits.
+	</p>
+	<p>&#8216;Just go away,&#8217; one of them mutters.</p>
+	<p>You shrug your shoulders and leave. <goto section="669"/>.</p>
+</section>

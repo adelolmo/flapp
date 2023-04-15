@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="294">
+	<p>
+		Yoritomo clasps you by the hand - a signal honour from a lord of such exalted rank. In front of his surviving guards he gives you the title Hatamoto.
+		<tick title="Hatamoto">Note this</tick> on your Adventure Sheet.
+		It means that you have the right to wear the Moonrise Clan&#8217;s livery and to act as the Shogun&#8217;s emissary.
+	</p>
+	<p>
+		&#8216;Come to visit me soon in Mukogawa,&#8217; says Yoritomo as he sets off.
+	</p>
+	<p><goto section="280"/>.</p>
+</section>

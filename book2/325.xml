@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="325" dock="Wishport">
+	The harbour of Wishport. Here you can buy a ship, or put to
+	sea if you already have a ship docked at this location. It is also
+	possible to visit the warehouses lining the waterfront, where
+	goods from afar are bought and sold in quantity.
+	<choices>
+		<choice section="233">Buy a ship</choice>
+		<choice section="256">Sell a ship</choice>
+		<choice section="279" sail="t">Go aboard your ship</choice>
+		<choice section="50">Hire crew for your ship</choice>
+		<choice section="73">Pay for passage on a ship</choice>
+		<choice section="96">Visit the warehouses</choice>
+		<choice section="217">Go to the city centre</choice>
+	</choices>
+</section>

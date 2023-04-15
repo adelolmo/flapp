@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="21">
+	<p>
+		You find Estragon in his laboratory deep under the bedrock on which the castle rests. Crude stone steps wind down into a glimmering darkness filled with strange lights and fumes.
+	</p>
+	<p>
+		Estragon strides forward holding an alembic which he is heating with incendiary spells. The glow of the chemicals throws his seamed old face into sharp relief against the backdrop of darkness.
+	</p>
+	<choices>
+		<choice section="542">Offer to run an errand for him</choice>
+		<choice section="567">You&#8217;ve completed an earlier errand</choice>
+	</choices>
+</section>

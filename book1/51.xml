@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="51">
+	The war galley puts alongside, and grappling hooks fly through the air, fastening your ships together. The captain leaps across and his men swarm on to your ship. A battle ensues.
+	<if profession="Warrior">
+		<random dice="3">
+			<adjust ability="rank"/>
+			<adjust crew="poor" amount="-2"/>
+			<adjust crew="good" amount="2"/>
+			<adjust crew="excellent" amount="3"/>
+		</random> if you are a Warrior
+	</if>
+	<else>
+		, or
+		<random dice="2">
+			two dice<adjust ability="rank"/>
+			<adjust crew="poor" amount="-2"/>
+			<adjust crew="good" amount="2"/>
+			<adjust crew="excellent" amount="3"/>
+		</random>
+		if you belong to any other profession.
+	</else>
+	Add your Rank to this roll. Then, if your crew is poor quality, subtract 2 from the total. If the crew quality is good, add 2. If the crew quality is excellent, add 3.
+	<outcomes>
+		<outcome range="0-4" section="680">Calamity; you are killed</outcome>
+		<outcome range="5-9" section="153">Crushing defeat; <lose stamina="1d">lose 1-6 Stamina</lose></outcome>
+		<outcome range="10-13" section="242">A draw</outcome>
+		<outcome range="14+" section="62">Outright victory</outcome>
+	</outcomes>
+</section>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="582">
+	<tick codeword="2.582.1" hidden="t"/>
+	This will not be an easy fight, but at least the brigands have the
+	decency to line up and fight you one at a time. Indeed, they
+	seem almost amused by the &#8216;sport&#8217;.
+	<fight name="First Brigand" combat="4" defence="6" stamina="4"/>
+	<fight name="Second Brigand" combat="4" defence="6" stamina="3"/>
+	<fight name="Third Brigand" combat="4" defence="6" stamina="4"/>
+	<fight name="Fourth Brigand" combat="4" defence="6" stamina="3"/>
+	<fight name="Fifth Brigand" combat="4" defence="7" stamina="5"/>
+	<p>
+		<lose codeword="2.582.1" hidden="t"/>
+		<flee>
+			It&#8217;s too late to think of running away, but you could try begging for mercy if things go against you.
+		</flee>
+	</p>
+	<choices>
+		<choice section="654">Defeat them all</choice>
+		<choice section="678" box="2.582.1">Surrender</choice>
+	</choices>
+</section>

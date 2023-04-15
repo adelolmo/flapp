@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="380">
+	<p>
+		<if title="Initiate of the Sage of Peace">
+			The Sage of Peace can be called on to help his followers at any time. Write <gain blessing="luck"/> in the Blessings box on your Adventure Sheet. The blessing can be used once to allow you to reroll any dice result. After using the blessing, remember to cross it off your Adventure Sheet.
+		</if>
+	</p>
+	<p>
+		You can have only one Luck blessing at a time. Once it is used, you have only to return here to get a new one.
+	</p>
+	<p><goto section="79"/>.</p>
+</section>

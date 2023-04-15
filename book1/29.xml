@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="29">
+	<p>
+		<lose codeword="StillInYellowport" hidden="t"/>
+		Your ship is sailing in the coastal waters beside Yellowport. There are a number of other ships, mostly merchantmen, but there are also a few warships of the Sokaran Imperial Navy.
+	</p>
+	<p>
+		'At least we won&#8217;t be plagued by pirates with the navy around,&#8217; says the first mate.
+	</p>
+	<p><random type="travel"/>:</p>
+	<outcomes>
+		<outcome range="2-4" section="613">Storm</outcome>
+		<outcome range="5-9" section="439">An uneventful voyage</outcome>
+		<outcome range="10-12" section="165">Sokaran war galley</outcome>
+	</outcomes>
+</section>

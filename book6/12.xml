@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="12">
+	You manage to persuade Kokoro to return with you despite her
+	misgivings. Takakura is overjoyed. He presents you with a
+	<weapon name="sword" bonus="1"/>
+	and you are given the title
+	<gain title="Junior Court Rank"/>,
+	entitling you to enter the palace precincts whenever you
+	like. After noting that on your Adventure Sheet, <goto section="79"/>.
+</section>

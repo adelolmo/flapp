@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="466" boxes="1">
+	<p>
+		The skeletons have sailed from the Night Country to pay homage to you. Your men are astonished to see them kneel down in your cabin and bow their bald white heads, as docile as page-boys.
+	</p>
+	<p>
+		<if ticks="0">
+			If the box above is empty,
+			<tick>put a tick in it</tick> and
+			<goto section="502"/>.
+		</if>
+		If the box was ticked already, <goto section="521"/>.
+	</p>
+</section>

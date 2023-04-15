@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="160">
+	<p>
+		<lose codeword="YarimuraProtection" hidden="t"/>
+		A hulking brute of a man is lurking outside your house. He explains in no uncertain terms that the Brotherhood of the Night has sent him to collect protection money and that if you don't pay up, he cannot be responsible for what happens. He asks you for 8 Shards.
+	</p>
+	<p>
+		Decide now whether you want to pay.
+		<if shards="8"><if not="t" title="Nightstalker">
+				If so, don't forget to
+				<group>
+					<text>cross off the 8 Shards</text>
+					<lose shards="8"/>
+					<gain codeword="YarimuraProtection"/>
+				</group>.
+		</if></if>
+		If you have the title Nightstalker, however, you don't have to pay anything.
+	</p>
+	<p><goto section="509"/>.</p>
+</section>

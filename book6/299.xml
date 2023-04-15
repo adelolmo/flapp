@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="299">
+	Many routes converge at Chambara. If you do not wish to travel
+	by road, you could strike out over open country or take passage
+	on a barge going upriver. Alternatively, you could put to sea.
+	<choices>
+		<choice section="612">Go to the harbour</choice>
+		<choice section="221">Take the road to Sakkaku</choice>
+		<choice section="631">Take the road to Mukogawa</choice>
+		<choice section="173">Take the road to Shingen</choice>
+		<choice section="593">Go upriver</choice>
+		<choice section="337">Head north-west</choice>
+		<choice section="672">Head north-east</choice>
+	</choices>
+</section>

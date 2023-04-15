@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="544">
+	You have a mission from Orin Telana, commander of the citadel, to assassinate General BeIadai. If you want to make the attempt tonight, <goto section="396" force="f"/>. If not, you leave the camp - <goto section="145"/>.
+</section>

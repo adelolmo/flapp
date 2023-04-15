@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="531">
+	A merchant is prepared to take you to Yellowport but you need <i>The War-Torn Kingdom</i> to travel there.
+	<if book="1"><if shards="65">
+			If you have it, <lose shards="65">cross off the 65 Shards</lose> and turn to <goto book="1" section="10"/>.
+	</if></if>
+	If not, <goto section="141">turn back to 141</goto>.
+</section>

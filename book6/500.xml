@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="500">
+	You are on the road that runs from Sakkaku to Chambara. In
+	places it is covered with gravel or even paved, but more often it
+	is no more than a bare track running through tall grass. The pine
+	trees to the north look as blurred and colourless as if they had
+	been drawn in watered ink.
+	<choices>
+		<choice section="522">Go west to Sakkaku</choice>
+		<choice section="378">Go north off the road</choice>
+		<choice section="221">Head for Chambara</choice>
+	</choices>
+</section>

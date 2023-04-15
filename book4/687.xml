@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="687">
+	Since the High King&#8217;s awakening, the Rimewater has thawed almost completely, and the land around it is green and verdant. The ice has retreated, and spring has come after an absence of 500 years. Geese and ducks swim on the water. They will have to change the name of the lake! The wooden buildings of the mine complex are still there, though.
+	<choices>
+		<choice section="440">Visit the ice mine</choice>
+		<choice section="91">Go north to the river plain</choice>
+		<choice book="5" section="35">Head into the mountains</choice>
+	</choices>
+</section>

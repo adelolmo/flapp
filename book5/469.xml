@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="469">
+	<p>
+		The mine appears to be deserted. Mining carts are parked in a siding, tools neatly stacked nearby.
+	</p>
+	<p>'Spying, are you?' screeches a high-pitched voice from behind you.</p>
+	<p>
+		You look round to see an ugly gnome perched on a pile of rubble. He cannot be more than two feet tall.
+	</p>
+	<p><difficulty ability="charisma" level="9"/>.</p>
+	<outcomes>
+		<success section="452"/>
+		<failure section="275"/>
+	</outcomes>
+</section>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="469">
+	<p>
+		Chomei of the Green Lodge family is widely acknowledged as the greatest swordsmith in Akatsurai. You also discover that he is a little eccentric. He makes you wait on the veranda of his house for three hours because he refuses to talk to anyone before taking his midday meal.
+	</p>
+	<p>
+		<if codeword="Frame">
+			If you have the codeword Frame, <goto section="498"/>.
+		</if>
+		If not, <goto section="519"/>.
+	</p>
+</section>

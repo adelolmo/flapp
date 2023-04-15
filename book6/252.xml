@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="252">
+	<p>
+		Record the
+		<item name="lacquer box">
+			<b>lacquer box</b>
+			<effect type="use" verb="Look into">
+				<desc><i>Lords of the Rising Sun</i> <b>272</b></desc>
+				<goto book="6" section="272"/>
+			</effect>
+		</item>
+		on your list of possessions, and next to it write &#8216;<i>Lords of the Rising Sun</i> <b>272</b>&#8217;. If you look into the box at any time, turn to <b>272</b> in this book to find what is inside. (You will have to remember the number of the entry you are reading at the time because <b>272</b> will not guide you back there.)
+	</p>
+	<p><goto section="376"/>.</p>
+</section>

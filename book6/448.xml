@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="448">
+	<p>
+		The <b>cursed sword</b> is securely stuck to your hand. You must fight with it in every battle until you manage to remove the curse. The curse will vanish automatically the next time you enter a temple. (Shrines and monasteries don&#8217;t count; it must be a building specifically described as a temple.)
+		<i>[The option to lift this curse will be available as an extra choice, listed as:</i>
+			<extrachoice key="6.448" book="6" section="448a" tag="temple">Remove the curse</extrachoice>
+			<i>--Ed]</i>
+	</p>
+	<p>
+		There is one bit of good news: when the curse is lifted, the weapon will become a <b>sword (COMBAT +2)</b>. Now <goto section="58"/>.
+	</p>
+</section>

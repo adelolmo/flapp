@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="575">
+	<p>
+		This is no time to mince words. You utter one of the true names of the Creator - a name of such sacred force that it remorselessly divides death from life and allows no middle ground.
+	</p>
+	<p>
+		To see if you get it right,
+		<difficulty ability="sanctity" level="19">
+			make a SANCTITY roll at a Difficulty of 19
+		</difficulty>.
+	</p>
+	<outcomes>
+		<success section="593"/>
+		<failure section="484"/>
+	</outcomes>
+</section>

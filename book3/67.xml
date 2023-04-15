@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="67">
+	<p>
+		Spluttering, you strike out at the creature but it drifts off into the bowels of the ship. Your two crewmen are so spooked by now that they refuse to stay, and you realize it would be unwise to linger on your own. Feeling as if hundreds of eyes are watching you through hidden peepholes, you hurry back to the deck.
+	</p>
+	<p>
+		<if codeword="Calcium" not="t">
+			<lose stamina="4">Lose 4 Stamina points</lose>
+		</if>
+		unless you have the codeword <i>Calcium</i> and (if still alive)
+		<goto section="308"/>.
+	</p>
+</section>

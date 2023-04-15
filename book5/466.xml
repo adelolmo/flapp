@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="466">
+	<p>
+		<lose codeword="BladeSeven" hidden="true"/>
+		The glittering ice blade is a symbol of purity. While it is in your possession, raise your SANCTITY by 2. Note the
+		<weapon name="sword of ice">
+			<effect type="aura" ability="sanctity" bonus="2"/>
+		</weapon>
+		on your Adventure Sheet.
+	</p>
+	<p>You swim back to shore. <goto section="268"/>.</p>
+</section>

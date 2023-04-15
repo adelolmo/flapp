@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="634">
+	<p>
+		The climb is slightly easier than the last time, and you heave yourself over the lip of the top of Devil&#8217;s Peak. A gryphon - a creature that is half lion, half eagle, and at least the same size as you - has made its nest here. It immediately swoops in to the attack, intent on protecting its nest. You must fight.
+	</p>
+	<fight name="Gryphon" combat="4" defence="5" stamina="7"/>
+	<p>
+		If you lose, you are birdfeed for gryphon chicks - your adventures are over.
+	</p>
+	<p>
+		<if dead="f">
+			If you win, you find a <item name="bag of pearls"/> and <gain shards="10"/> in the nest. There is nothing else up here, so you slog all the way down again. <goto section="658"/>.
+		</if>
+	</p>
+</section>

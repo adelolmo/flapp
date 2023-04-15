@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="131">
+	You are clubbed into unconsciousness. You come round on the road outside Yarimura. You have lost <lose shards="*">all the money</lose> you were carrying, and up to six items (your choice) have been stolen. <lose item="?" multiple="6">Cross them off</lose> your Adventure Sheet. <goto section="280"/>.
+</section>

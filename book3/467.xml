@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="467">
+	You kneel at the end of the headland and concentrate on your
+	prayers. Towards dusk, with the sun a pulsing globe of orange
+	fire on the horizon, you hear a footstep on the rocks behind
+	you.
+	<difficulty ability="sanctity" level="12">
+		Make a SANCTITY roll at a Difficulty of 12
+	</difficulty>.
+	<outcomes>
+		<success section="485"/>
+		<failure section="121"/>
+	</outcomes>
+</section>

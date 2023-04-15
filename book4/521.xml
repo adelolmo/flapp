@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="521">
+	<p>
+		You lose your footing, and fall into the marsh. The thick, viscous mud starts to drag you under. Coughing and spluttering, you reach for the branch of a blackened, gnarled tree.
+	</p>
+	<p>
+		<rankcheck dice="1" add="2">Roll one die and add 2</rankcheck>.
+		<success>
+			If you score less than or equal to your Rank <goto section="597"/>.
+		</success>
+		<failure>
+			If you score greater than your Rank, <goto section="7"/>.
+		</failure>
+	</p>
+</section>

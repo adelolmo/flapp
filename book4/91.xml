@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="91">
+	<p>
+		<if codeword="Diamond">
+			If you have the codeword Diamond, <goto section="346"/>.
+		</if>
+		Otherwise, read on.
+	</p>
+	<p>
+		You arrive at the river plain, where three rivers wend their sluggish, half-frozen course to the Rimewater. A freezing fog spills off the river, filling this whole area with an impenetrable grey haze.
+	</p>
+	<p>Finding your way through this mist will not be easy.</p>
+	<p><difficulty ability="scouting" level="14"/>.</p>
+	<outcomes>
+		<success section="599"/>
+		<failure section="697"/>
+	</outcomes>
+</section>

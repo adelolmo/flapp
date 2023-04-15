@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="334">
+	<p>
+		The Motherlode Inn offers a pallet and one square meal for 2 Shards a day. <rest stamina="1" shards="2">Each day you spend here</rest> you can recover 1 Stamina point if injured.
+	</p>
+	<p>When you are ready to leave, <goto section="99"/>.</p>
+</section>

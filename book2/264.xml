@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="264">
+	The boat takes you upriver as far as Castle Ravayne, a journey of
+	several days. You can disembark here or stay on board and travel
+	further upriver.
+	<choices>
+		<choice section="25">Visit Castle Ravayne</choice>
+		<choice section="281">Journey upriver</choice>
+		<choice book="5" section="222">Disembark and go west</choice>
+	</choices>
+</section>

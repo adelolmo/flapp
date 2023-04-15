@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="160">
+	<p><tick codeword="Callid">Get the codeword Callid</tick>.</p>
+	<p>All you can do is trust to luck. <random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-6" section="123">Overcome by thirst</outcome>
+		<outcome range="7-12" section="30">An island lies ahead</outcome>
+	</outcomes>
+</section>

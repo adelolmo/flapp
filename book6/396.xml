@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="396">
+	You are on the great highway running down the east coast of
+	Akatsurai.
+	<choices>
+		<choice section="59">Head north to Chompo</choice>
+		<choice section="282">Leave the road and go west</choice>
+		<choice section="417">Travel south to Mukogawa</choice>
+	</choices>
+</section>

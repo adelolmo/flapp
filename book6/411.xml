@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="411">
+	<p>
+		You distract the warriors with a pebble and, while they are searching in the tunnel, you slip out into the shadows and across the chamber to snatch the book.
+	</p>
+	<p>
+		Another passage lies ahead. You follow it to a grotto where a shaft of light pierces the gloom from a hole in the ceiling.
+	</p>
+	<p>
+		The light glitters on the surface of an underground lake, throwing shifting patterns of blue-green light across the walls. A masked figure steps out of the shadows. He attacks without waiting to see why you have come.
+	</p>
+	<fight name="The Enemy" combat="12" defence="22" stamina="35"/>
+	<choices>
+		<choice flee="t" section="371">Turn and run</choice>
+		<choice section="430">Fight and win</choice>
+		<choice dead="t" section="479">Fight and lose</choice>
+	</choices>
+</section>

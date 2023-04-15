@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="72">
+	<p>
+		You steer a course between Dragon Island and the strange empire of Akatsurai, where knights would sooner cut themselves open like melons than suffer the slightest shame.
+	</p>
+	<p><random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-9" section="29">Plain sailing</outcome>
+		<outcome range="10-12" section="588">In shallow water</outcome>
+	</outcomes>
+</section>

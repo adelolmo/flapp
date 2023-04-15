@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="522" boxes="1" image="522.jpg">
+	<p>
+		<if ticks="1">
+			If there is a tick in the box <goto section="277"/>, immediately.
+		</if>
+		If not, <tick/>, and read on.
+	</p>
+	<p>
+		You have heard tell of this centaur. Among the plains people he is called the Horse that Sings, the living incarnation of the nomad spirit, the wanderlust. But you are steeped in magical lore, quite capable of resisting the beguiling music. As the ensorcelled dancers pass by you, the centaur stops playing. The people slump to the earth, exhausted.
+	</p>
+	<p>Horse that Sings canters over to you.</p>
+	<p>
+		&#8216;Few mortals can refuse the call of the flute,&#8217; he says in a lilting voice, like wind in the trees. &#8216;Here,&#8217; he says, smiling whimsically, and he hands you his flute.
+	</p>
+	<p>
+		Note the
+		<tool name="centaur flute" ability="charisma" bonus="3"/>
+		on your Adventure Sheet.
+	</p>
+	<p>
+		The centaur rides away. Another flute appears in his hands, and the carnival begins again. Exhausted dancers rise to their feet, filled with supernatural energy, to follow their master once more.
+	</p>
+	<p><goto section="224"/>.</p>
+</section>

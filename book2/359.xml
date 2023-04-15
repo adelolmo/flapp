@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="359">
+	The broad, gently rolling pasturelands between the Grimm and
+	the Rainbow rivers lie before you. Wool is sent south from here
+	to make the rich gowns of the merchant princes of Ringhorn
+	and Metriciens. <random type="travel"/>:
+	<outcomes>
+		<outcome range="2-6" section="15">Nuns from the Abbey of Lacuna</outcome>
+		<outcome range="7-12" section="312">Uneventful journey</outcome>
+	</outcomes>
+</section>

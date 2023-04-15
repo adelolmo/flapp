@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="355">
+	<p>
+		A bolt of lightning splits the boulder in two and the deity leaps forth. Dazzled by the blast, you cannot see him but you can hear his words: &#8216;You have given me the greatest of gifts, which is freedom. If death should ensnare you, I in my turn will set you free.&#8217;
+	</p>
+	<p>
+		Write
+		<resurrection book="6" section="710" supplemental="t">
+			<i>Lords of the Rising Sun</i> <b>710</b>
+		</resurrection>
+		in the Resurrection Arrangements box on your Adventure Sheet. If and when you get killed, turn to <b>710</b> in this book. This is a special boon, which the deity grants even if you have another resurrection deal arranged. The deity departs. <goto section="44"/>.
+	</p>
+</section>

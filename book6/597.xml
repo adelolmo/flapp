@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="597">
+	<p>
+		The Lord Chancellor&#8217;s servant tells you his master has gone up to the cliffs. He points to a path winding through pine trees above the villa.
+	</p>
+	<p>&#8216;Come back another time,&#8217; he suggests.</p>
+	<choices>
+		<choice section="424">Go up to the clifftop</choice>
+		<choice section="362">Return to the town</choice>
+	</choices>
+</section>

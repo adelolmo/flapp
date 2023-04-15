@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="412">
+	<p>
+		The pirates&#8217; treasure amounts to <gain shards="1200"/> and their ship&#8217;s hold contains <buy cargo="spices" quantity="1" shards="0">1 Cargo Unit of spices</buy>, which you can add to your own cargo if you have room for it. Your mate also thinks you should take the <item name="pirate captain's head"><b>pirate captain&#8217;s head</b></item> as a trophy.
+	</p>
+	<p>
+		<set var="r" value="rank" modifier="natural"/>
+		You also get a chance to increase in Rank.
+		<random dice="2" var="roll"/>,
+		<if var="roll" greaterthan="r">
+			and if the result is greater than your current Rank then you
+			<gain ability="rank" amount="1">gain a Rank</gain>.
+			You also
+			<gain ability="stamina" amount="1d">
+				gain 1-6 Stamina points permanently
+			</gain>:
+			increase your normal (unwounded) Stamina score by the roll of one die. Remember that going up in Rank will also increase your Defence by 1.
+		</if>
+	</p>
+	<p>
+		Once you have made the necessary adjustments to your Adventure Sheet, <goto section="648"/>.
+	</p>
+</section>

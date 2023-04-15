@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="735">
+	The man you have rescued turns out to be a wealthy merchant
+	from Metriciens. He writes you out a letter of credit amounting
+	to <tick shards="300"/>. Add this sum to the money on your Adventure
+	Sheet. &#8216;It is a small price to pay for my life!&#8217; declares the man,
+	shaking your hand. <goto section="358"/>.
+</section>

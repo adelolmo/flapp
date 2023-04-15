@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="139">
+	<p>
+		You are spotted by a spear-armed guard. It gives an ululating cry of alarm, and many others swarm out of the mound.
+	</p>
+	<p>
+		You have little choice but to run - with a pack of deadly killers close behind. Desperately, you try to lose them in the night.
+	</p>
+	<p>
+		<rankcheck dice="1" add="-1">Roll a die</rankcheck>, and subtract one from the score.
+		<success>
+			If the result is less than or equal to your Rank, <goto section="295"/>.
+		</success>
+		<failure>Otherwise, <goto section="663"/>.</failure>
+	</p>
+</section>

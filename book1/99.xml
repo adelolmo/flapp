@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="99">
+	You are on the east bank of the River Grimm, a great, powerful river, which rushes past towards the sea. You can travel to Golnir from here.
+	<choices>
+		<choice book="2" section="168">Cross the bridge to Conflass</choice>
+		<choice book="2" section="306">Ford the river to the south</choice>
+		<choice section="333">Follow the river north</choice>
+		<choice section="175">Head for the Curstmoor</choice>
+		<choice section="560">Head towards Devil&#8217;s Peak</choice>
+		<choice section="579">Go south to the mouth of the river</choice>
+		<choice section="100">Go to Marlock City</choice>
+	</choices>
+</section>

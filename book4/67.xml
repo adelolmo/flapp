@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="67">
+	<p>
+		You are washed up on to a pebble beach, gasping for breath, and only half-conscious. You are barely aware of grasping hands rifling through your things. You have been found by wreckers. You lose
+		<lose item="*" shards="*">
+			all your possessions and money
+		</lose>
+		- cross them off your Adventure Sheet.
+	</p>
+	<p>
+		When you come to, you have been dragged up the beach, beneath towering cliffs. You have probably been washed up on the shores of Nerech, the Land of the Manbeasts. <goto section="688"/>.
+	</p>
+</section>

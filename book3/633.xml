@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="633">
+	You retrace your steps until you are standing beside the shaft
+	that the mine supervisor had boarded up. The tunnel you are in
+	stretches back to the surface.
+	<choices>
+		<choice section="651">Go deeper into the mine</choice>
+		<choice section="394">Head for the surface</choice>
+	</choices>
+</section>

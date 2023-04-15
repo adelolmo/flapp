@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="428" image="428.jpg">
+	<p>
+		Scratching your head, you start to deliver your sermon, but the cats quickly get bored and wander off. &#8216;You don&#8217;t have the knack,&#8217; says the stranger. &#8216;You have to keep people&#8217;s attention if you want to teach them the error of their ways.&#8217; His tone is soothing, but he has a big triumphant grin on his face.
+	</p>
+	<p>
+		You have to
+		<lose item="*">
+			give him all your possessions
+		</lose>. (But not your money.) When you&#8217;ve done that,
+		<goto section="153"/>.
+	</p>
+</section>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="380">
+	You stow away in the hold of one of the pirate ships and wait for her to be put to sea.
+	<difficulty ability="thievery" level="16">
+		Attempt a THIEVERY roll at Difficulty 16
+	</difficulty>
+	to see if you can avoid being discovered.
+	<outcomes>
+		<success section="419"/>
+		<failure section="114"/>
+	</outcomes>
+</section>

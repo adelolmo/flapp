@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="645" boxes="1">
+	<p>
+		<if ticks="1">
+			If there is a tick in the box, <goto section="248"/> immediately.
+		</if>
+		If not, <tick/>, and read on.
+	</p>
+	<p>
+		You are brought before the druids&#8217; leader, the Oak Druid, a bearded fellow with earth and leaves all tangled up in his hair. He asks you to perform a service for them.
+	</p>
+	<p>
+		&#8216;Take this oak staff to the Willow Druid in the forest of Larun. The sacred grove where he lives will be hard to find, but I&#8217;m sure you can do it. The Willow Druid will give you something to bring back to me. When you return with it, I will make you a better Wayfarer.&#8217;
+	</p>
+	<p>
+		Note the <item name="oak staff"/> on your Adventure Sheet. You leave the City of Trees, <goto section="678"/>.
+	</p>
+</section>

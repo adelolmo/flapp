@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="214">
+	<p>
+		They explain the rules. As a Mage you will find that the mystical energy that radiates from the starstone floor of the arena will enable you to cast three types of wall of force spells: fire, water and thorns. The trick is to catch your opponent with a wall of energy that defeats his wall, and goes on to affect him directly. You must defeat two opponents to become Arena Champion.
+	</p>
+	<p>
+		Soon you find yourself facing your first opponent across the flat, marble expanse of the glowing starstone. Her name is Dialla Earth-daughter, a sorceress from the Isle of Druids to the south. A drum thunders, marking the start of the contest. You sense the power emanating from the ground, and you feel instinctively how to use it.
+	</p>
+	<choices>
+		<choice section="4">Wall of fire</choice>
+		<choice section="37">Wall of water</choice>
+		<choice section="60">Wall of thorns</choice>
+	</choices>
+</section>

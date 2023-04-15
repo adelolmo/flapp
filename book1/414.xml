@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="414">
+	<p>
+		Haylie runs into her mother&#8217;s arms for a tearful reunion. Lynn, the mother, gives you a suit of <armour name="chain mail" bonus="3"/> and a <weapon name="sword"/> (an ordinary weapon).
+	</p>
+	<p>
+		&#8216;These have been in the family for generations - it&#8217;s all I have to give,&#8217; she says.
+	</p>
+	<p>
+		Fourze is hauled off to the local magistrate for judgment - he will probably be sold into slavery.
+	</p>
+	<p>
+		<tick codeword="Attar">Gain the codeword Attar</tick>
+		and <goto section="427"/>.
+	</p>
+</section>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="351">
+	Dense thickets clog the ground in every clearing, so that even
+	when you catch a glimpse of the sky it is difficult to make any
+	real progress.
+	<choices>
+		<choice section="372">Press on the way you&#8217;re going</choice>
+		<choice section="529">Turn back and try another path</choice>
+	</choices>
+</section>

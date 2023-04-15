@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="372">
+	This is wild, windswept heathland where shepherds eke out a
+	meagre living.
+	<choices>
+		<choice section="305">Head towards the Haunted Hills</choice>
+		<choice section="7">Head towards the Forest of the Forsaken</choice>
+		<choice section="30">Follow the Rainbow River south</choice>
+		<choice section="53">Go east towards the River Grimm</choice>
+		<choice section="351">Go north up into the mountains</choice>
+		<choice section="236">Strike out westwards</choice>
+	</choices>
+</section>

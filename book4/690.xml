@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="690">
+	<p>
+		You have instructions from Lord Shiryoku, the Shogun&#8217;s spymaster, to gather any information you can. While you are in the palace, you use the time to pick up the latest rumours, finding out the general state of the Clan of the White Spear.
+	</p>
+	<p>
+		<lose codeword="Fog"/>, and <tick codeword="Dog">acquire the codeword Dog</tick>.
+	</p>
+	<p>Afterwards, you leave. <goto section="10"/>.</p>
+</section>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="685">
+	<!-- I think this list is exhaustive -->
+	Check your list of possessions. Do you have an edged weapon such as a <b>knife</b>, <b>sword</b> or other sharp implement with which to cut the balloon&#8217;s ropes? (A <b>paper sword</b> with not do the trick.)
+	<if weapon="*axe|*cleaver|*dagger|*katana|*knife|naginata|*sabre|*scimitar|*sword">
+		If you do, <goto section="699"/>.
+	</if>
+	If not, Talanexor&#8217;s spell hits you while you are still fumbling with the ropes - <goto section="140"/>.
+</section>

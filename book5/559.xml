@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="559">
+	<p><tick codeword="Ecumenical">Tick the codeword Ecumenical</tick>.</p>
+	<p>
+		You notice some people playing a board-game that resembles chess while they wait for purification. The Uttakin call it bokh, and it is a game much loved by them.
+	</p>
+	<p>
+		You are cleansed with sand by some priests. In effect they scrape off a layer of skin with the rough sand, a rather painful process.
+	</p>
+	<p>
+		In the bathhouse, the nobles of Uttaku take off their masks, and, according to old tradition, commoners may approach and petition the lords, while their masks are off. Requests must be granted, within reason, or the lords will incur the wrath of Ebron. Hence the nobles who attend the bathhouse are often surrounded by guards, making it difficult for people to get near them. You spot one blue-skinned lord in the sand within a tightly-knit group of former gladiators.
+	</p>
+	<choices>
+		<choice section="94">Go to the cathedral</choice>
+		<choice section="516">Try to get close to the lord</choice>
+	</choices>
+</section>

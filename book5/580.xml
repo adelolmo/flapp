@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="580">
+	<p>
+		The lake is icy cold as you plunge in and strike out towards the stones.
+	</p>
+	<p>
+		<if codeword="Ember">If you have the codeword Ember, <goto section="436"/>.</if> If not, <goto section="689"/>.
+	</p>
+</section>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="680">
+	<p>
+		&#8216;You are brave enough, I&#8217;ll give you that!&#8217; roars Tadachika, delighted at the opportunity of showing off his skill. Signalling the chancellor&#8217;s guards to stay back, he draws his sword and advances on you.
+	</p>
+	<fight name="Tadachika" combat="11" defence="17" stamina="21"/>
+	<choices>
+		<choice flee="t" section="696">Turn and run off</choice>
+		<choice section="728">Fight and win</choice>
+	</choices>
+</section>

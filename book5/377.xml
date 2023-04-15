@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="377">
+	<p>
+		<if codeword="Evil|Exultant">If you have the codeword Evil or Exultant, <goto section="533"/> immediately.</if> If not, read on.
+	</p>
+	<p>
+		You spy movement in the craggy heights above - you start, fearing ambush. The creature above you is no assailant, however. You take it at first for a brilliant white horse, until you catch sight of a scintillating rainbow horn, jutting proudly from the unicorn's forehead. Legends say that the horn of a unicorn is a cure for any ill, and a potent ward against magic.
+	</p>
+	<choices>
+		<choice section="488">Hunt the unicorn for its horn</choice>
+		<choice section="514">Try to befriend the creature</choice>
+		<choice section="307">Journey on</choice>
+	</choices>
+</section>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="360">
+	You have no luck in tracking down the ghoul. The next day, you hear a rumour doing the rounds in the taverns. A ghoul was found and destroyed by an adventuring priestess of Tyrnai - apparently, the temple of Nagil rewarded her handsomely. Looks like you were pipped at the post. <goto section="100"/>.
+</section>

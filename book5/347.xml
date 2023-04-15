@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="347">
+	<p><lose codeword="Envoy">Lose the codeword Envoy</lose>.</p>
+	<p>
+		You have picked up the steps of the spectral minuet during your adventures, and you teach them to the Seneschal of the Dance of Majesty. He is so pleased that as a reward he arranges a trainer for you. Choose the ability of your choice (ie. COMBAT, CHARISMA and so on), <training>roll two dice</training> and if the result is higher than that ability you can add one to it permanently. He also gives you <gain shards="500"/>.
+	</p>
+	<p>
+		Your rediscovery of the lost spectral minuet has considerably enhanced your reputation among the style-conscious courtiers. Turn to <b>401</b> and <tick name="UttakuStatus" count="3">add 3 to your Status points</tick> in the box provided. Then make a choice <goto section="401">from there</goto>.
+	</p>
+</section>

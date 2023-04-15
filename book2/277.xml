@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="277">
+	<p>
+		Its bite was venomous.
+		<if codeword="SpiderPoison">
+			<lose codeword="SpiderPoison" hidden="t"/>
+			<if not="t" blessing="poison">
+				If you were injured during the fight,
+				<lose stamina="1d">lose an additional 1-6 Stamina points</lose> now.
+			</if>
+			<else>
+				(Remember that if you have a blessing of the goddess Maka, you can <lose blessing="poison">use it</lose> to negate the effect of the poison.)
+			</else>
+		</if>
+	</p>
+	<p>
+		Assuming you survive, you search the spider&#8217;s den and find several corpses trussed up in web silk. Among the litter of mouldered bones, you find <gain shards="50"/> - treasure that the spider&#8217;s previous victims have no further use for. Note it on your Adventure Sheet and then <goto section="93"/>.
+	</p>
+</section>

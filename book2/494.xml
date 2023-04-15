@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="494">
+	&#8216;You&#8217;re a man after my own heart,&#8217; you tell the outlaw leader.
+	He soon sees from your tales of skulduggery and daring
+	adventure that you are in a higher league than his motley band
+	of men. The outlaws ask you to stay and lead them for a while.
+	<choices>
+		<choice section="72">Accept the offer</choice>
+		<choice section="519">Refuse</choice>
+	</choices>
+</section>

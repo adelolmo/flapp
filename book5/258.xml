@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="258">
+	<p>
+		A brightly painted caravan, pulled by horses, rumbles into view. It pulls up, and the pedlars open up the back to display their wares.
+	</p>
+	<market>
+		<header type="armour"/>
+		<armour name="leather" bonus="1" buy="50" sell="45"/>
+		<armour name="ring mail" bonus="2" buy="100" sell="90"/>
+
+		<header type="weapon"/>
+		<weapon bonus="0" buy="50" sell="40"/>
+		<weapon bonus="1" buy="250" sell="200"/>
+
+		<header type="other"/>
+		<tool name="flute" ability="charisma" bonus="1" buy="190" sell="180"/>
+		<tool name="compass" ability="scouting" bonus="1" buy="490" sell="450"/>
+		<item name="rope" buy="45" sell="40"/>
+		<item name="lantern" tags="light" buy="90" sell="80"/>
+		<item name="parrot fungus" buy="90" sell="80"/>
+		<item name="uncanny salts" buy="90" sell="80"/>
+		<item name="scroll of Ebron" buy="200" sell="180"/>
+		<item name="amulet of Ebron" buy="90" sell="80"/>
+		<item name="selenium ore" buy="700" sell="600"/>
+		<item name="faery mead" buy="200" sell="150"/>
+	</market>
+	<p>
+		An old gypsy wise woman offers to bless you for 75 Shards.
+		If you pay the money, <goto section="683" force="f"/>.
+		If not, when you have finished, they ride on.
+		<goto section="211"/>.
+	</p>
+</section>

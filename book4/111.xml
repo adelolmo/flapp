@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="111">
+	<p>
+		The market of the City of Mystery consists of a single shop that specializes in magic. There is also a stall, where a scholar mage is looking to buy and sell ancient artifacts of the Shadar.
+	</p>
+	<p>
+		<if curse="Curse of Tambu">
+			If you have the Curse of Tambu, note the paragraph down (<b>111</b>) and <goto section="12"/>.
+		</if> If not, you can visit the market.
+	</p>
+	<market>
+		<header type="magic"/>
+		<tool name="amber wand" ability="magic" bonus="1" buy="500" sell="400"/>
+		<tool name="ebony wand" ability="magic" bonus="2" buy="1000" sell="800"/>
+		<tool name="cobalt wand" ability="magic" bonus="3" buy="2000" sell="1600"/>
+		<tool name="selenium wand" ability="magic" bonus="4" buy="4000" sell="3200"/>
+		<tool name="celestium wand" ability="magic" bonus="5" buy="8000" sell="6400"/>
+		<header header1="Potions" header2="To buy" header3="To sell"/>
+		<item name="potion of strength" buy="100" sell="90">
+			<effect type="use" ability="combat"/>
+		</item>
+		<item name="potion of comeliness" buy="100" sell="90">
+			<effect type="use" ability="charisma"/>
+		</item>
+		<item name="potion of intellect" buy="100" sell="90">
+			<effect type="use" ability="magic"/>
+		</item>
+		<item name="potion of godliness" buy="100" sell="90">
+			<effect type="use" ability="sanctity"/>
+		</item>
+		<item name="potion of stealth" buy="100" sell="90">
+			<effect type="use" ability="thievery"/>
+		</item>
+		<item name="potion of nature" buy="100" sell="90">
+			<effect type="use" ability="scouting"/>
+		</item>
+		<header header1="Artifacts" header2="To buy" header3="To sell"/>
+		<item name="banner of the Shadar" buy="800" sell="400"/>
+		<item name="Shadar scroll" sell="150"/>
+	</market>
+	<p>
+		Potions can be used just before a Difficulty roll or a combat to add one to the relevant ability and have one use only.
+	</p>
+	<p>
+		The shopkeeper tells you he can make you a special potion for 150 Shards, but he needs an <b>ink sac</b> as an ingredient.
+		<if shards="150"><if item="ink sac">
+				If you pay the money, and have an <b>ink sac</b>
+				(<group>
+					<text>cross it off</text>
+					<lose shards="150"/>
+					<lose item="ink sac" price="x"/>
+				</group>
+				your Adventure Sheet) he can make you a
+				<item name="potion of restoration" flag="x">
+					<effect type="use" uses="1" verb="Drink">
+						<rest/>
+					</effect>
+				</item> (one use only, heals all lost Stamina points).
+		</if></if>
+	</p>
+	<p><goto section="274"/>.</p>
+</section>

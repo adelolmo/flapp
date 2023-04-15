@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="461">
+	<p>You say the password &#8216;Rebirth&#8217; to the door.</p>
+	<p>
+		&#8216;Sorry,&#8217; says the Demon Door. &#8216;The password changes once it has been used.&#8217; says the door smugly. &#8216;I can&#8217;t open for you.&#8217;
+	</p>
+	<p>You will just have to leave.</p>
+	<choices>
+		<choice section="110">North to the Bronze Hills</choice>
+		<choice section="333">West to the River Grimm</choice>
+		<choice section="560">South to the country</choice>
+		<choice section="387">East to the road</choice>
+	</choices>
+</section>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="449">
+	<p>
+		You realize that it is too risky to linger here. You scale the cliffs under cover of darkness and find a beach on the far side of the island, where you can make your camp at a safe distance from the cursed village.
+	</p>
+	<p><goto section="177"/>.</p>
+</section>

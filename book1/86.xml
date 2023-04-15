@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="86" tag="temple">
+	<p>
+		The temple of the Three Fortunes is a squat, square building. A frieze above the door depicts three woman weaving a tapestry.
+	</p>
+	<p>
+		&#8216;That&#8217;s the Tapestry of Fate, where our destiny is woven,&#8217; comments a priest.
+	</p>
+	<choices>
+		<choice section="258">Become an initiate</choice>
+		<choice section="573">Renounce worship</choice>
+		<choice section="603">Seek a blessing</choice>
+		<choice section="400">Leave the temple</choice>
+	</choices>
+</section>

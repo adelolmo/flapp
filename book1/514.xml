@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="514">
+	<p>
+		To renounce the worship of Tyrnai, you must pay 50 Shards to the warrior priests, and suffer the &#8216;Wrathful Blow&#8217;. A priest will strike you once - it is better to be struck by a priest than by Tyrnai himself!
+	</p>
+	<p>
+		<if god="Tyrnai"><if shards="50">
+				If you are determined to renounce your initiate status,
+				<group>
+					<text>pay the 50 Shards and delete Tyrnai</text>
+					<lose shards="50"/>
+					<lose god="Tyrnai"/>
+					<lose stamina="1"/>
+				</group>
+				from the God box on your Adventure Sheet. The high priest smashes you across the jaw, saying &#8216;I&#8217;m doing you a favour - believe me!&#8217; Lose 1 Stamina point. If you earlier arranged a resurrection here, it is cancelled with no refund.
+		</if></if>
+	</p>
+	<p>When you have finished, <goto section="282"/>.</p>
+</section>

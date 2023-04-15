@@ -1,0 +1,16 @@
+<section name="Marana Fireheart" profession="Rogue">
+	<p>
+		Marana is a fiercely independent woman who grew up in the backstreets of her home town. Forced to flee because she was too active in her chosen profession, she has come to new lands to seek her fortune. Devious and resourceful, she can break in almost anywhere. She has heard that the temple of Sig in Marlock City needs the services of a rogue.
+	</p>
+	<p>
+		You can play as Marana, or as a rogue with a different name (enter it in the 'Name' field). To begin your adventure, <goto section="1" force="f"/>.
+	</p>
+	<p>For another profession, choose from the following:</p>
+	<choices>
+		<choice section="Liana">Wayfarer</choice>
+		<choice section="Andriel">Warrior</choice>
+		<choice section="Chalor">Mage</choice>
+		<choice section="Ignatius">Priest</choice>
+		<choice section="Astariel">Troubadour</choice>
+	</choices>
+</section>

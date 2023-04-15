@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="474">
+	The sun is sinking behind a shelf of cloud when you come across
+	an ancient burial mound. Ghostly light flickers around the stone
+	arch leading inside.
+	<choices>
+		<choice section="578">Enter the mound</choice>
+		<choice section="222">Press on</choice>
+	</choices>
+</section>

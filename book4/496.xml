@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="496">
+	<p><tick codeword="Dwarf">Gain the codeword Dwarf</tick>.</p>
+	<p>
+		The room is empty, except for a key made of obsidian lying on the stone floor. Note the <item name="obsidian key"/> on your Adventure Sheet.
+	</p>
+	<p>
+		You find a ventilation shaft you can crawl through and emerge from the pyramid, alive but rather small. Outside, however, the magical effect wears off after a few hours and you are soon back to normal size. <goto section="472"/>.
+	</p>
+</section>

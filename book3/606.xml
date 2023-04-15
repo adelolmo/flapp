@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="606">
+	<p>
+		Anyone who has climbed a mountain knows that it is easier to go up than to come down. Your heart is in your mouth as you make the perilous descent.
+	</p>
+	<p>
+		<difficulty ability="scouting" level="15">
+			Make a SCOUTING roll at a Difficulty of
+			15<adjust item="climbing gear" amount="1"/>
+			<adjust item="climbing gear|rope" amount="1"/>
+		</difficulty>
+		to climb down safely. You can add 1 to the dice roll if you have a <b>rope</b>; add 2 if you have <b>climbing gear</b>.
+	</p>
+	<outcomes>
+		<success section="588"/>
+		<failure section="123"/>
+	</outcomes>
+</section>

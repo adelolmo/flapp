@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="221">
+	&#8216;It&#8217;s slow going so close to land,&#8217; mutters the helmsman. &#8216;Are
+	you sure you don&#8217;t want me to steer out to sea, skipper?&#8217;
+	<choices>
+		<choice section="187">Head west</choice>
+		<choice section="210">Head east</choice>
+		<choice book="3" section="301">Steer south</choice>
+	</choices>
+</section>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="678">
+	<p>
+		Wisps of cloud swirl around you. When you gaze down, the tiny figures of your men are like midges beside the great basin of the sea. The altitude is making you dizzy.
+	</p>
+	<p>
+		<if codeword="Calcium">
+			If you have the codeword Calcium, <goto section="642"/>.
+		</if>
+		If not, the increasingly thin air forces you to turn back - <goto section="606"/>.
+	</p>
+</section>

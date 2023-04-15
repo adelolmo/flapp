@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="538">
+	<p>
+		You encounter a ship bound from Danger, where the harbour is set in cliffs a thousand feet above the sea and vessels must be winched up. The captain hails you and says he has a
+		<buy cargo="minerals" flag="x" quantity="1">Cargo Unit of minerals</buy> in his hold that he would be willing to exchange for
+		<sell cargo="?" price="x" quantity="1">one Cargo Unit</sell> of any other commodity.
+	</p>
+	<p>
+		Alter the details on your Ship&#8217;s Manifest if you trade cargoes with him, then <goto section="3"/>.
+	</p>
+</section>

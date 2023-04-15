@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="356">
+	You tell them you are working for a merchant in Yarimura, travelling south to set up a trade route with the merchants&#8217; guild of Sokara. They believe it and let you pass.
+	<choices>
+		<choice section="145">Head north</choice>
+		<choice section="295">Enter the citadel</choice>
+	</choices>
+</section>

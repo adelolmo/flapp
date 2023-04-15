@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="419">
+	<p>
+		After several weeks at sea, the ship puts in at Smogmaw. You wait until the pirates are carousing in town before slipping away, taking with you <gain shards="50"/> from their coffers for good measure!
+	</p>
+	<p>
+		<lose codeword="Colour">
+			Lose the codeword Colour
+		</lose>
+		if you have it and <goto section="44"/>.
+	</p>
+</section>

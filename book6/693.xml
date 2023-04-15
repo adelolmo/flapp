@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="693">
+	A maid spots you skulking and raises the alarm. You are chased
+	by Kiyomori&#8217;s guards and soon apprehended.
+	<tick codeword="Fracas">
+		Get the codeword Fracas
+	</tick>
+	if you didn&#8217;t have it already, then <goto section="452"/>.
+</section>

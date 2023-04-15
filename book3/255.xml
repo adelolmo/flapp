@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="255">
+	<p>
+		The wind does not abate for several hours. Somehow you have the uneasy feeling that it has blown you a quite unconscionable distance in that time.
+	</p>
+	<p>
+		After consulting the stars and his charts, the navigator makes a guess at your current position.
+	</p>
+	<p><random/>.</p>
+	<outcomes>
+		<outcome range="2-3" section="228"/>
+		<outcome range="4" section="320"/>
+		<outcome range="5-6" section="118"/>
+		<outcome range="7" section="648"/>
+		<outcome range="8-9" section="322"/>
+		<outcome range="10" section="283"/>
+		<outcome range="11-12" section="352"/>
+	</outcomes>
+</section>

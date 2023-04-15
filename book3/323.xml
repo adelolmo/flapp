@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="323">
+	<p>
+		Obviously a powerful sleep spell permeates this island. You know you can only overcome it by using stronger magic of your own. The song of the mermaids bursts to your lips as a result of sudden inspiration. It has the desired effect - the men rise from the stone couches and follow you like sleepwalkers along the causeway.
+	</p>
+	<p><goto section="102"/>.</p>
+</section>

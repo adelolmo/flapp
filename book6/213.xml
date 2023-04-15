@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="213">
+	You move closer through the long grass, but still he has not
+	noticed you.
+	<choices>
+		<choice section="236">Announce your presence</choice>
+		<choice section="260">Sneak up on him</choice>
+		<choice section="398">Turn and depart</choice>
+	</choices>
+</section>

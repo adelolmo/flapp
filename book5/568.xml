@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="568">
+	You manage to grab a fat purse without incident. Later, you open it up to see what you got. <random dice="1"/>.
+	<outcomes>
+		<outcome range="1,2" section="425"/>
+		<outcome range="3,4" section="87"/>
+		<outcome range="5,6" section="698"/>
+	</outcomes>
+</section>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="473" boxes="1">
+	<p>
+		The slave market is a large, canvas-covered square. The poor unfortunate slaves, people from all over Harkuna - from the Feathered Lands, Golnir, criminals of Sokara, nomads from the steppes, are paraded in chains on a dais. Merchants and nobles bid for the slaves they want.
+		<if ticks="1">
+			If there is a tick in the above box, <goto section="610"/> immediately.
+		</if>
+		If not, <tick/> and read on.
+	</p>
+	<p>
+		An unusual sale has come up - a little, furry, bat-winged humanoid. It is one of the Mannekyn People from Sky Mountain in the north and it is going for 50 Shards.
+	</p>
+	<p>
+		<if shards="50">
+			If you want to buy it, <goto section="459" force="f"/>.
+		</if>
+		If not, you head back into town. <goto section="400"/>.
+	</p>
+</section>

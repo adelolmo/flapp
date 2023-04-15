@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="135">
+	Your current position is south of the Sleeping Isle. The bottom
+	edges of your charts show a fancifully drawn morass of
+	swampland and rank jungle - the unexplored continent of
+	Ankon-Konu.
+	<choices>
+		<choice section="79">Go west</choice>
+		<choice section="153">Go east</choice>
+		<choice section="468">Go north</choice>
+		<choice book="8" section="200">Go south</choice>
+	</choices>
+</section>

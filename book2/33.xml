@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="33" dock="Metriciens">
+	You are at the harbourfront in Metriciens. Here you can buy a
+	ship - or put to sea, if you have ship docked at this location. It is
+	also possible to visit the warehouses lining the waterfront, where
+	goods from afar are bought and sold in quantity.
+	<choices>
+		<choice section="331">Buy a ship</choice>
+		<choice section="10">Sell a ship</choice>
+		<choice section="164" sail="t">Go aboard your ship</choice>
+		<choice section="354">Hire crew for your ship</choice>
+		<choice section="308">Pay for passage on a ship</choice>
+		<choice section="285">Visit the warehouses</choice>
+		<choice section="48">Go to the city centre</choice>
+	</choices>
+</section>

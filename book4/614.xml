@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="614" tag="temple">
+	<p>
+		The temple of Nai is a sturdy, low blockhouse. Nai is the god of earthquakes and of ferocity in battle.
+	</p>
+	<p>
+		Inside there is a huge idol of Nai, as a mighty warrior, shooting his Arrow of Earthquakes from his bow, the Shatterer of Worlds. The idol is hollow bronze, and the priests of Nai climb inside during important festivals. Using huge metal hammers they create a thunderous booming in honour of their god. As the bringer of earthquakes, Nai is to be placated rather than worshipped, but many warriors pray to him for aid in hand-to-hand combat.
+	</p>
+	<choices>
+		<choice section="267">Become an initiate of Nai</choice>
+		<choice section="427">Renounce his worship</choice>
+		<choice section="554">Seek a blessing</choice>
+		<choice section="58">Leave the temple</choice>
+	</choices>
+</section>

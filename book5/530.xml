@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="530">
+	<p>
+		The administrator is shocked to see that you are right. Unfortunately for you, he covers his blunder by pretending that you wrote the heretical text. Naturally, he is believed, and you, a lowly slave, are hauled off to the Red Garden to be executed for the crime of supreme heresy.
+	</p>
+	<p><goto section="170"/>.</p>
+</section>

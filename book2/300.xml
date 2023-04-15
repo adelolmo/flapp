@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="300">
+	<p>
+		An elf approaches out of the foliage surrounding you. He looks like a green candle-flame against the darkness. In his hands he bears a slim silver sword, which he presents to you with a solemn bow. &#8216;Now my debt to you is repaid,&#8217; he murmurs before vanishing off into the depths of the wood.
+	</p>
+	<p>
+		You get a
+		<weapon name="silver sword" bonus="1"/> but must
+		<lose codeword="Bosky">lose the codeword Bosky</lose>.
+	</p>
+	<choices>
+		<choice section="22">Follow the elf</choice>
+		<choice section="93">Continue searching the woods</choice>
+	</choices>
+</section>

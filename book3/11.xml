@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="11">
+	Using grapnels you climb with several crewmen to the level of
+	the tunnel. It is jet black, drinking in the sunlight. To explore
+	you must have a <b>lantern</b>, <b>candle</b> or other light source.
+	<choices>
+		<choice item="?" tags="light" section="178">Continue into tunnel</choice>
+		<choice section="196">No source of light</choice>
+	</choices>
+</section>

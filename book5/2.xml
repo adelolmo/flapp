@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="2">
+	<p>
+		You emerge in a thick forest. The air is heavy with a musty odour; the trees are alive with birdsong. Behind you, on the forest floor, is the silvery pool. You look for an abzu plant.
+	</p>
+	<p><difficulty ability="scouting" level="13"/>.</p>
+	<outcomes>
+		<success section="316"/>
+		<failure section="219"/>
+	</outcomes>
+</section>

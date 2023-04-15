@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="7">
+	<p>
+		The stowaway is an assassin who bursts from hiding and runs at you brandishing a long curved knife. &#8216;Nivram the Wizard sends his regards, scum!&#8217; he rants.
+	</p>
+	<fight name="Assassin" combat="8" defence="10" stamina="8"/>
+	<p>
+		There is nowhere to flee.
+		<if dead="f">
+			If you beat him you can take his <weapon name="dagger"/> and the <gain shards="10"/> in his purse. Then <goto section="78"/>.
+		</if>
+	</p>
+</section>

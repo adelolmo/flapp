@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="530">
+	<p>
+		You find a ship drifting on the open sea. Her sails are furled, fluttering gently in the breeze.
+	</p>
+	<p>&#8216;I can&#8217;t see anyone aboard, captain,&#8217; hollers the lookout.</p>
+	<choices>
+		<choice section="548">Go alongside</choice>
+		<choice section="32">Sail past</choice>
+	</choices>
+</section>

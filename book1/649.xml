@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="649" boxes="1">
+	<p>
+		<if ticks="1">
+			If there is a tick in the box, <goto section="114"/> immediately.
+		</if>
+		If not, <tick/>, and read on.
+	</p>
+	<p>
+		The chief administrator is overjoyed to see you. The priests already know you have been successful in freeing Sul Veneris, the Lord of Thunder, because their crystal ball shows them that the storm demons have been driven away.
+	</p>
+	<p>
+		As a reward you receive the tuition of several high priests. You <gain ability="rank" amount="1">gain 1 Rank</gain>. <random dice="1" var="x">Roll a single die</random>. The result is <gain ability="stamina" amount="x">the number of Stamina points you gain permanently</gain>. Also, don&#8217;t forget to increase your Defence by 1 as a result of your gain in Rank.
+	</p>
+	<p>
+		&#8216;Visit me anytime,&#8217; says the chief administrator when you leave. <goto section="100"/>.
+	</p>
+</section>

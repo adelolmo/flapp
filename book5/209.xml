@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="209">
+	<p><tick codeword="Elude">Tick the codeword Elude.</tick></p>
+	<p>
+		You know that the carnivorous alalakh plant is drawn to movement, and that the worst thing you could do if ensnared by the alalakh is to struggle. You also know that, at night, the alalakh is dormant. All you have to do is remain absolutely still, no matter what, until nightfall.
+	</p>
+	<p><difficulty ability="thievery" level="14"/>.</p>
+	<outcomes>
+		<success section="288"/>
+		<failure section="259"/>
+	</outcomes>
+</section>

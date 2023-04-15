@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="137">
+	<p>
+		You realise that you are being subjected to some kind of spell or curse. It is affecting your judgement, filling you with the desire to kill Luroc. It is affecting him too, for he keeps glancing at you, and fingering his long dagger murderously.
+	</p>
+	<p>
+		You endeavour to control yourself and explain the situation to Luroc. He understands, but it won't be long before both of you fall under the spell and become completely enraged.
+	</p>
+	<p>
+		<items group="4.113" limit="3"/> 
+		You will have to take what you can, and get out quickly or find a way of negating the curse. Choose three things only from the following:
+	</p>
+	<p>1 <item name="500 Shards" group="4.113"/></p>
+	<p>2 <item name="dust of tranquillity" group="4.113"/></p>
+	<p>3 <weapon name="battle-axe" bonus="2" group="4.113"/></p>
+	<p>4 <item name="casket of gems" group="4.113"/></p>
+	<p>5 <item name="selenium ore" group="4.113"/></p>
+	<p>6 <tool name="silver holy symbol" ability="sanctity" bonus="2" group="4.113"/></p>
+	<p>When you are ready, <goto section="163"/>.</p>
+</section>

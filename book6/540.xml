@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="540">
+	<p>
+		You dive through a side door leading to a terrace and run off across the garden. But the grass is slippery because of the rain and you lose your footing and go sprawling. As you jump to your feet the old scholar comes gliding rapidly across the lawn towards you, his robes belling out around him. He casts a spell that manifests a swarm of venomous sprites who start buzzing around your head.
+	</p>
+	<p>
+		<difficulty ability="magic" level="16">
+			Make a MAGIC roll at a Difficulty of 16
+		</difficulty>.
+	</p>
+	<outcomes>
+		<success section="637"/>
+		<failure section="658"/>
+	</outcomes>
+</section>

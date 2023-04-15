@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="48">
+	<p>
+		To renounce the worship of Amanushi, you must pay 40 Shards to the priesthood by way of compensation.
+	</p>
+	<p>
+		The priest begs you to reconsider. 'Do not forget that Amanushi can protect you from the knife in the dark, and the depredations of those who would steal from you.'
+	</p>
+	<p>
+		Do you want to change your mind?
+		<if god="Amanushi"><if shards="40">
+				If you are determined to renounce your faith, pay the 40 Shards and
+				<group>
+					<text>delete Amanushi from the God box</text>
+					<lose shards="40"/>
+					<lose god="Amanushi"/>
+				</group>
+				on your Adventure Sheet.
+		</if></if>
+	</p>
+	<p>When you have finished here, <goto section="194"/>.</p>
+</section>

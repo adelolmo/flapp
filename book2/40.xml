@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="40">
+	<p>
+		Something about the man makes you suspicious. Pretending to need to answer a call of nature, you watch from a bush while he goes through your belongings. You bide your time until he is occupied before stealing back everything he took off you, plus a few of his own possessions for good measure. He suspects nothing, and when it is time for you to go your separate ways he bids you farewell with a cheery wave.
+	</p>
+	<p>
+		Going through the items you filched off him, you find a <item name="lantern" tags="light"/>, a <item name="rabbit's foot charm"><b>rabbit&#8217;s foot charm</b></item> and a <item name="fishing hook"/>. Note these on your Adventure Sheet and <goto section="349"/>.
+	</p>
+</section>

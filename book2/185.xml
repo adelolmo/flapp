@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="185" image="185.jpg">
+	<p>
+		A sprawling single-storey cottage squats incongrously amid the thick black tree trunks. In front is a well from which a man in a homespun tunic is raising water. Hearing you approach, he turns and greets you cautiously.
+	</p>
+	<p>
+		&#8216;I am Knocklar the hermit,&#8217; he says. &#8216;I don&#8217;t get all that many visitors here in the Forest of the Forsaken. Are you lost?&#8217;
+	</p>
+	<p>
+		<if item="severed head">
+			If you have a <b>severed head</b>, <goto section="369"/>.
+		</if>
+		If not, <goto section="381"/>.
+	</p>
+</section>

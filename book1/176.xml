@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="176" todock="Yellowport">
+	<p>
+		The crew are very nervous about your orders. They drop anchor in a bay, and will row you to shore, but they absolutely refuse to come with you. In fact, they won&#8217;t even wait for you to come back.
+	</p>
+	<p>
+		If you insist on going ashore, your crew will sail for Yellowport and meet you there. &#8216;If you ever make it back,&#8217; adds the first mate ominously.
+	</p>
+	<p>
+		If you want to go ashore note on your Adventure Sheet that your ship is now docked in Yellowport, and <goto section="32" force="f"/>. Otherwise, <goto section="85" sail="t"/> and choose again.
+	</p>
+</section>

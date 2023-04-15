@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="527">
+	<p>
+		&#8216;Er, something for your cellar. Master,&#8217; you say lamely, handing over the <b>bottle of wine</b>. (<lose item="bottle of wine">Cross it off</lose> your Adventure Sheet.)
+	</p>
+	<p>
+		&#8216;Splendid,&#8217; says the Master, somewhat mollified. &#8216;And rest assured that I&#8217;ve been keeping abreast of your work ... er, whatever your name is ... and I think you can expect good marks at the end of term. Mantel will show you out.&#8217;
+	</p>
+	<p><goto section="607"/>.</p>
+</section>

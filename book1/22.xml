@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="22">
+	<p>
+		You reach down and deftly pull out the ceramic plug. A gush of foul-smelling emerald green liquid spills on to the floor, and the golem twitches once before collapsing. The other golem is coming to life, however. You&#8217;ll have to be quick to get it in time!
+	</p>
+	<p><difficulty ability="combat" level="9"/></p>
+	<outcomes>
+		<success section="539"/>
+		<failure section="647"/>
+	</outcomes>
+</section>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="676">
+	<p>
+		The snake does not notice you cast a swift dowsing spell. Now you know which door leads to the treasure. You point to it confidently.
+	</p>
+	<p>
+		Again the gem flickers with light. Slowly four of the other doors creak open, each revealing a poison-tipped dart that would have slain you if you had chosen that door. <i>Now only two doors remain unopened</i>, says the snake. <i>Do you wish to cleave to your original choice? I&#8217;ll give you a last chance to change your mind.</i>
+	</p>
+	<choices>
+		<choice section="748">Stick with your first choice</choice>
+		<choice section="724">Choose the other closed door instead</choice>
+	</choices>
+</section>

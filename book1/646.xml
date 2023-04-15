@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="646">
+	Your mind is blasted into numb confusion by the protective spells that guard the sacred grove. You wander off aimlessly into the forest, and get hopelessly lost for days. You don&#8217;t even have the wit to eat and drink - <lose stamina="3">lose 3 Stamina points</lose>. If you are still alive, you wander through the forest until you emerge, at last, at the Bronze Hills. <goto section="110"/>.
+</section>

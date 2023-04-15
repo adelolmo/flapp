@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="363">
+	<p>
+		Your knowledge of the creatures of the wild tells you that these are finmen, a race of underwater beings that is thought to be quite intelligent, and mostly peaceful in its dealings with mankind.
+	</p>
+	<p>One of them lowers his spear towards you.</p>
+	<choices>
+		<choice section="520">Attack them</choice>
+		<choice section="634">Wait to see what happens</choice>
+	</choices>
+</section>

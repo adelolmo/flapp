@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="444">
+	<p>
+		To the west are fertile rice paddies, but here the long grass lies withered across lanes of dry earth.
+	</p>
+	<p><random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-8" section="31">A quiet journey</outcome>
+		<outcome range="9-12" section="121">An unearthly gleam</outcome>
+	</outcomes>
+</section>

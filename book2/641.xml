@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="641">
+	<p>
+		The hammering gets louder as you approach. Sparks fly on the night wind. You see the shadow of a huge man against the foliage.
+	</p>
+	<p>You step on a twig. The crack is followed by dead silence.</p>
+	<p>
+		You continue on to the clearing. The money and item you left have gone. <lose item="*" shards="*" cache="2.617">Cross them off</lose> your Adventure Sheet.
+	</p>
+	<p>And yet...</p>
+	<p>You feel the boulder. It&#8217;s still warm.</p>
+	<p><goto section="97"/>.</p>
+</section>

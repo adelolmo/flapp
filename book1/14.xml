@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="14">
+	<p>
+		Someone stabs you in the back. <lose stamina="5">Lose 5 Stamina points</lose>. If you still live, you spin around just as a beefy, disreputable-looking thug comes for you again with a long dagger.
+	</p>
+	<p>&#8216;Get the snooping swine!&#8217; yells the man with the eyepatch.</p>
+	<p>You must fight.</p>
+	<fight name="Thug" combat="8" defence="6" stamina="13"/>
+	<p>
+		If you lose, you are dead, unless you have a <resurrection>resurrection deal</resurrection>.
+		If you win, <goto section="476"/>.
+	</p>
+</section>

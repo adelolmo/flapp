@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="189">
+	You soon leave Chard&#8217;s Inn behind in your haste to seek fresh
+	adventures.
+	<choices>
+		<choice section="166">Take the road north to Wheatfields</choice>
+		<choice section="304">Take the road south to Castle Ravayne</choice>
+		<choice section="75">Head west cross-country</choice>
+		<choice section="98">Head east cross-country</choice>
+	</choices>
+</section>

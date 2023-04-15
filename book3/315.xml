@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="315">
+	<p>
+		You lose your way and end up in a quiet spot behind a row of huts, where a half dozen assailants leap at you. Seconds later you are face down in the rank mud and struggling for your liberty.
+	</p>
+	<p>
+		To break free and escape you must
+		<difficulty ability="combat" level="13">
+			make a COMBAT roll at a Difficulty of 13
+		</difficulty>.
+	</p>
+	<outcomes>
+		<success section="44"/>
+		<failure section="345"/>
+	</outcomes>
+</section>

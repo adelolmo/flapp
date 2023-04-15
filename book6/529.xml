@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="529">
+	You are surrounded by dense forest. Splashes of gold sunlight
+	penetrate the green gloom by day, but after nightfall the
+	darkness becomes absolute.
+	<choices>
+		<choice section="562">Press deeper into the woods</choice>
+		<choice section="420">Look for a path out</choice>
+	</choices>
+</section>

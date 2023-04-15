@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="338" image="338.jpg">
+	<p>
+		<if codeword="Ebony">If you have the codeword Ebony, <goto section="99"/>.</if> If not, read on.
+	</p>
+	<p>
+		A handsome man, wearing a gold turban and silken robes, floats down out of the sky on a flying carpet to land beside you.
+	</p>
+	<p>
+		'The name's Prince Azim. Look after this for me, would you?' he says matter-of-factly. He hands you a large sack. Then he takes off, and disappears into the distance. You notice several black specks in the sky that appear to be pursuing him.
+	</p>
+	<p>
+		Looking inside the sack, you find <gain shards="2000"/>! Note them on your Adventure Sheet.
+	</p>
+	<p><tick codeword="Ebony"/> and <goto section="168"/>.</p>
+</section>

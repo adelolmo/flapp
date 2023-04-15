@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="342">
+	<p>
+		The inner keep of the castle is a mighty fortress with walls several metres thick. Narrow windows admit golden shafts of sunlight into the gloomy hallway.
+	</p>
+	<p>
+		<if title="Paladin of Ravayne">
+			<tick codeword="2.342.1" hidden="t"/>
+			If you have the title Paladin of Ravayne then you know these ancient halls well, and there is even a private chamber set aside for your use.
+		</if>
+		<else><lose codeword="2.342.1" hidden="t"/></else>
+	</p>
+	<choices>
+		<choice box="2.342.1" section="661">Visit your chamber (if a Paladin)</choice>
+		<choice section="379">Visit the chapel of the god Elnir</choice>
+		<choice section="21">Seek out the wizard Estragon</choice>
+		<choice section="44">Request an audience with the baroness</choice>
+		<choice section="315">Leave the keep</choice>
+	</choices>
+</section>

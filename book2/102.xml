@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="102" tag="temple">
+	<tick special="difficultyRestore" hidden="t"/>
+	The temple of the Three Fortunes is a hushed, echoing hallway
+	where a triple-branched candelabrum burns wanly on an altar of
+	green stone. In the dim light you can make out a tapestry that
+	depicts the three goddesses as a young maiden, a woman, and an
+	old crone.
+	<choices>
+		<choice section="201">Become an initiate of the Fortunes</choice>
+		<choice section="224">Renounce their worship</choice>
+		<choice section="247">Seek a blessing</choice>
+		<choice section="48">Leave the temple</choice>
+	</choices>
+</section>

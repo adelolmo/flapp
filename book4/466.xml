@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="466">
+	<tick codeword="Deep">Get the codeword Deep</tick>.
+	You are able to map the main tunnels. They run under the Spine of Harkun, from north to south. You have discovered a secret way to cross the mountains without having to go through the Pass of Eagles. Caves on either side of the mountains mark the entrance to the tunnels.
+	<choices>
+		<choice section="558">Go north</choice>
+		<choice book="1" section="3">Go south</choice>
+	</choices>
+</section>

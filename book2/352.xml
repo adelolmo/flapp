@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="352">
+	<p>
+		The road sweeps around through the meadows and fields of eastern Golnir. In places it is in dire need of repair. A peasant leaning on a turnstile tells you that a man once fell into one of the road&#8217;s flooded potholes during the rainy season. &#8216;&#8217;E wuz drowned!&#8217;
+	</p>
+	<p><random type="travel"/> for encounters:</p>
+	<outcomes>
+		<outcome range="2-6" section="693">The High King&#8217;s messenger</outcome>
+		<outcome range="7-8" section="310">An uneventful journey</outcome>
+		<outcome range="9-12" section="717">The wizard Estragon</outcome>
+	</outcomes>
+</section>

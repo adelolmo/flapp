@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="251">
+	<p>
+		<if codeword="Avenge">
+			If you have the codeword Avenge, <goto section="622"/> immediately.
+		</if>
+		If not, read on.
+	</p>
+	<p>
+		The last time you were here, you had only a few minutes to grab some loot. This time, the sea dragon returns almost straight away, and you are forced to climb out of the hole in the roof without getting anything except a pouch of <gain shards="50"/>. You crawl out on to the island in the middle of the lake and hitch a boat ride back to Cadmium. <goto section="135"/>.
+	</p>
+</section>

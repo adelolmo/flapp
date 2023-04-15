@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="66">
+	<p>
+		The sea heaps up. White foam from breaking waves begins to be blown in streaks. &#8216;This is near a gale!&#8217; says the mate.
+	</p>
+	<p><random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-5" section="213">A storm hits</outcome>
+		<outcome range="6-8" section="155">The gale blows over</outcome>
+		<outcome range="9-12" section="429">Suddenly becalmed</outcome>
+	</outcomes>
+</section>

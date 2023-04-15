@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="611">
+	<p>
+		&#8216;Up in the hills,&#8217; a peasant tells you, &#8216;lurk the uncivilized <i>emishi</i> - the earth spiders who burn our crops and steal our womenfolk.&#8217;
+	</p>
+	<p>
+		&#8216;Earth spiders? Why do you call the barbarians that? Is it because they are hairy and unwashed?&#8217;
+	</p>
+	<p>He shakes his head. &#8216;No. It&#8217;s because they&#8217;re giant spiders.&#8217;</p>
+	<p>Where now?</p>
+	<choices>
+		<choice section="319">North into the hills</choice>
+		<choice section="270">To Kaiju</choice>
+		<choice section="554">Across the Shi River</choice>
+		<choice section="174">South to Kumo Province</choice>
+		<choice section="674">Still further east</choice>
+	</choices>
+</section>

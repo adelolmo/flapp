@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="714">
+	Hills spread across the horizon in all directions. The
+	incessant breeze makes the heather sway like a living thing, but
+	you sense you are alone here on the heath.
+	<choices>
+		<choice section="738">Go north</choice>
+		<choice section="496">Go south</choice>
+		<choice section="521">Go east</choice>
+		<choice section="546">Go west</choice>
+	</choices>
+</section>

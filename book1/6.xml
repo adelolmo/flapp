@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="6">
+	<p>
+		The chest springs open with a click. Inside you find <gain shards="60"/>, a <tool name="mandolin" ability="charisma" bonus="1"/>, and a
+		<item name="potion of healing">
+			<effect type="use" uses="1" verb="Drink">
+				<rest stamina="5"/>
+			</effect>
+		</item>.
+		The potion can be used once, at any time (even in combat) to restore 5 Stamina points. There is also an ancient religious text about the gods of the Uttaku, called the <item name="scroll of Ebron"/>, which reveals that one of the gods of the Uttakin is called Ebron, and that he has fourteen angles.
+	</p>
+	<p>
+		<tick codeword="StillInYellowport" hidden="t"/>
+		Note whatever you are taking on your Adventure Sheet, and <goto section="10"/>.
+	</p>
+</section>

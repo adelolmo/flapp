@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="598">
+	<p>
+		For a prisoner who has been chained up without food or water, Akugenda reacts with outstanding vigour. Leaping to his feet, he touches your throat in a caress that suddenly becomes a steel grip.
+	</p>
+	<p>
+		&#8216;Sorry to be such an ingrate,&#8217; he says, &#8216;but I could really use a boost of life-energy right now.&#8217;
+	</p>
+	<p>
+		You can hardly believe it - he is using sorcery to drain your soul!
+		<difficulty ability="magic" level="15"/> to resist.
+	</p>
+	<outcomes>
+		<success section="638"/>
+		<failure section="140"/>
+	</outcomes>
+</section>

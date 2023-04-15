@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="87">
+	<p>
+		You are on the road between Blessed Springs and Venefax. Pilgrims, the sick and injured travel this route to the holy waters of Blessed Springs to find salvation. <random type="travel" dice="1">Roll a die</random>.
+	</p>
+	<outcomes>
+		<outcome range="1,2">
+			Attacked by a mad pilgrim. You must fight.
+			<fight name="Pilgrim" combat="3" defence="5" stamina="6"/>
+			If you win, you get his <weapon name="staff"/>.
+		</outcome>
+		<outcome range="3,4">Nothing happens</outcome>
+		<outcome range="5,6">
+			Blessed by a priest. Write <tick blessing="storm">Safety from Storms</tick> in the Blessings box on your Adventure Sheet.
+		</outcome>
+	</outcomes>
+	<p>When you are ready, you can:</p>
+	<choices>
+		<choice section="510">Go to Blessed Springs</choice>
+		<choice section="427">Go to Venefax</choice>
+		<choice section="548">Go north into the countryside</choice>
+	</choices>
+</section>

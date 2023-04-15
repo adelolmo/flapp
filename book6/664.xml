@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="664">
+	<p>
+		You knock back the wine before you have time to gag. It feels like your insides are being scoured out with a wire brush. An instant later the alcohol fumes hit your brain. The effect is similar to being half drowned and then held over a bonfire.
+	</p>
+	<p>
+		<group force="t">
+			<text>Lose 1 point permanently</text>
+			<lose ability="charisma" amount="1"/>
+			<lose ability="combat" amount="1"/>
+			<lose ability="magic" amount="1"/>
+			<lose ability="scouting" amount="1"/>
+			<lose ability="thievery" amount="1"/>
+		</group>
+		from all your ability scores except SANCTITY.
+	</p>
+	<p>One thing&#8217;s for sure - you can&#8217;t handle much of this stuff.</p>
+	<choices>
+		<choice item="faery mead" section="740">Offer him <b>faery mead</b> if you have it</choice>
+		<choice section="712">Attack him</choice>
+		<choice section="501">Make your excuses and leave</choice>
+	</choices>
+</section>

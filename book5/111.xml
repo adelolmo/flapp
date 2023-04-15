@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="111">
+	<p>
+		You are at the banks of the River Rese, which marks the border between Old Harkuna and the merchant cities and baronies of the land of Golnir. A bridge spans the river, leading to Delpton on the other side.
+	</p>
+	<choices>
+		<choice book="2" section="6">Cross the bridge to Delpton</choice>
+		<choice section="222">Head south along the river</choice>
+		<choice section="333">Follow the river north</choice>
+		<choice section="31">Go west into the Singing Forest</choice>
+	</choices>
+</section>

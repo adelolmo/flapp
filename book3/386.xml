@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="386">
+	What are you interested in finding out about?
+	<choices>
+		<choice section="573">The Bluewood</choice>
+		<choice section="591">The key of stars</choice>
+		<choice section="609">Estragon</choice>
+		<choice section="627">The Feathered Lands</choice>
+		<choice section="645">Akatsurai</choice>
+		<choice section="357">The gods</choice>
+		<choice section="247">Ghosts</choice>
+		<choice section="663">Trau</choice>
+		<choice section="375">Mannekyn People</choice>
+		<choice section="681">The Uttakin</choice>
+		<choice section="698">Old Harkuna</choice>
+		<choice section="2">The Innis Shoals</choice>
+		<choice section="650">The city of Dangor</choice>
+		<choice section="668">The Shadar</choice>
+		<choice section="542">The Forest of Larun</choice>
+		<choice section="63">Mermaids</choice>
+	</choices>
+</section>

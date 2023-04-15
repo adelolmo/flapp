@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="86">
+	<p>
+		The skeleton crumbles to leave a foul-smelling vapour that makes blisters appear on your skin.
+		<if not="t" blessing="poison">
+			Unless you have a blessing of Immunity to Disease/Poison you soon succumb: <goto section="140"/>.
+		</if>
+		<else>
+			If you do have such a blessing,
+			<lose blessing="poison">cross it off</lose>
+			your Adventure Sheet and read on.
+		</else>
+	</p>
+	<p>
+		The burial mound contains a heap of gold and gems worth somewhere between 500 and 3000 Shards
+		(<random dice="1" var="r">roll one die</random>
+		<set var="s" value="r*500"/>
+		and
+		<gain shards="s">multiply by 500</gain>).
+		There is also one antique of considerable value;
+		<random/> to see what it is:
+	</p>
+	<outcomes>
+		<outcome range="2-4">
+			<tool name="jade crown" ability="charisma" bonus="5"/>
+		</outcome>
+		<outcome range="5-9">
+			<tool name="stone arrowhead" ability="scouting" bonus="4"/>
+		</outcome>
+		<outcome range="10-12">
+			<tool name="Vajra baton" ability="sanctity" bonus="5"/>
+		</outcome>
+	</outcomes>
+	<p>
+		When you have added the loot to your Adventure Sheet, <goto section="416"/>.
+	</p>
+</section>

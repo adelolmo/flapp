@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="293">
+	<p>
+		You tell the high priest that you wish to renounce the worship of Nagil. He summons four acolytes bearing a pall and asks you to lie on it so that they can carry you outside. When you ask what that symbolizes, he gives a faint shrug and says, &#8216;You must draw your own conclusion.&#8217;
+	</p>
+	<p>
+		Do you want to reconsider?
+		<if god="Nagil">
+			If you are determined to renounce your faith,
+			<group>
+				<text>delete Nagil from the God box</text>
+				<lose god="Nagil"/>
+				<lose title="Chosen One of Nagil"/>
+			</group>
+			on your Adventure Sheet. You must lose any outstanding resurrection arrangements, and also the title Chosen One of Nagil if you have it.
+		</if>
+		When you have finished here, <goto section="125"/>.
+	</p>
+</section>

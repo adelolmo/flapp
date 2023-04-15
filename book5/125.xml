@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="125">
+	<p>You enter the chamber of the Compiler of Confectionery Surprises. He is a hugely fat man, sampling chocolates from a vast tray.
+	</p>
+	<p><if codeword="Entropy">If you have the codeword Entropy, <goto section="201"/>.</if> If not, <goto section="227"/>.
+	</p>
+</section>

@@ -1,0 +1,13 @@
+<section name="The Court of Hidden Faces" image="Mask.JPG">
+	<p>
+		To begin your adventure, you will need to choose a profession:
+	</p>
+	<choices>
+		<choice section="Nakir">Warrior</choice>
+		<choice section="Jadhak">Mage</choice>
+		<choice section="Anathema">Priest</choice>
+		<choice section="Domisellus">Troubadour</choice>
+		<choice section="Melmoth">Wayfarer</choice>
+		<choice section="Shen">Rogue</choice>
+	</choices>
+</section>

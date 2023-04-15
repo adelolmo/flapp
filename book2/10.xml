@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="10" dock="Metriciens">
+	<p>
+		The shipyards of Metriciens are among the finest in the world, and no merchant wants to make do with a second-hand vessel to transport his precious wares. The best offers you can get are as follows:
+	</p>
+	<market>
+		<header type="shipsale"/>
+		<trade ship="barque" sell="100"/>
+		<trade ship="brigantine" sell="200"/>
+		<trade ship="galleon" sell="350"/>
+	</market>
+	<p>
+		Remember to cross the ship off the Ship&#8217;s Manifest if you go ahead with the sale. When you have finished your business here, <goto section="33"/>.
+	</p>
+</section>

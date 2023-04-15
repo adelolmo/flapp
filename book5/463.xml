@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="463">
+	The vampires flee to an ancient crypt beneath a bare and wind-blasted hill.
+	<choices>
+		<choice section="608">Follow them into the crypt</choice>
+		<choice section="583">Wait until morning</choice>
+	</choices>
+</section>

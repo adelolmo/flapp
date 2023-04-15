@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="599">
+	<p>
+		Sneering at your feeble excuses, the men set you ashore on a deserted island.
+	</p>
+	<p>&#8216;How do you expect me to survive?&#8217; you ask them.</p>
+	<p>
+		&#8216;What business is it of ours if you live or die?&#8217; is their callous reply.
+	</p>
+	<p><goto section="177"/>.</p>
+</section>

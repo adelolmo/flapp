@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="220">
+	<p>
+		In the uplands, night brings moonlight as dazzling as polished silver. With the sunrise, morning mist unveils pretty meadows and meandering flower-lined paths.
+	</p>
+	<p><random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-7" section="243">You see no one</outcome>
+		<outcome range="8-12" section="89">Two poor knights</outcome>
+	</outcomes>
+</section>

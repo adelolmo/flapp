@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="57" boxes="1">
+	<if ticks="0">
+		If the box above is empty,
+		<tick>put a tick in it now</tick> and <goto section="80"/>.
+	</if>
+	<if item="flame opal eye">
+		If the box is ticked and you have a <b>flame opal eye</b>, <goto section="103"/>.
+	</if>
+	<if not="t" item="flame opal eye">
+		If the box is ticked and you are not carrying the <b>flame opal eye</b>, <goto section="11"/>.
+	</if>
+</section>

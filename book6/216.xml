@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="216">
+	<p>
+		The music of the flute is so beautiful that you are inspired to join in with a song.
+		<random>
+			<adjust ability="charisma"/>
+		</random> and add your CHARISMA.
+		(You can use the bonus of any one item you possess that augments your CHARISMA, just like making a normal CHARISMA roll.)
+	</p>
+	<outcomes>
+		<outcome range="2-10">
+			Your hideous racket offends the gods;
+			<lose blessing="*">lose any blessings</lose>.
+		</outcome>
+		<outcome range="11-20">
+			Your song pleases the gods;
+			<gain ability="charisma" amount="1">gain a point of CHARISMA</gain>.
+		</outcome>
+		<outcome range="21+">
+			Your singing makes the gods jealous;
+			<lose ability="charisma" amount="1">
+				lose a point of CHARISMA
+			</lose>.
+		</outcome>
+	</outcomes>
+	<p>After amending your Adventure Sheet, <goto section="732"/>.</p>
+</section>

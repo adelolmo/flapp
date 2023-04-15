@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="365">
+	<p>
+		The chaplain welcomes you. 'The gods have seen fit to return you safely to us!' he cries joyously, throwing his pudgy little hands up as if in prayer.
+	</p>
+	<p>
+		'Priest, give me a blessing,' you tell him. 'The goodwill of the gods is not something to take for granted.'
+	</p>
+	<p>
+		He can bestow only one blessing on you at a time.
+		<if blessing="?">If you already have a blessing of any sort, he cannot give you another.</if>
+		<else>
+			<tick price="b" hidden="t"/>
+			Otherwise you can choose the blessing you want - either
+			<gain flag="b" blessing="storm"/>,
+			<gain flag="b" blessing="disease"/>, or
+			<gain flag="b" blessing="injury"/>. (The last of these protects you by allowing you not to lose Stamina points when you would otherwise be wounded, from one source of damage once only, or the damage you take in a single combat round.) Note the blessing you choose on your Adventure Sheet, and remember that a blessing only works once and must then be crossed off.
+		</else>
+	</p>
+	<p>When you've finished in the chapel, <goto section="245"/>.</p>
+</section>

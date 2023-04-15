@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="132">
+	<p>
+		<tick codeword="Enigma"/>
+		and cross the
+		<lose item="selenium ore"/> off your Adventure Sheet.
+	</p>
+	<p>
+		'Excellent!' says Hemmuwa Tamalkaya. He begins work on the iron golem, placing the ore inside its head. He seems to have forgotten you are there.
+	</p>
+	<p>'Um, you said you'd pay me for the ore,' you say politely.</p>
+	<p>
+		'Eh, what?' mutters the wizard looking up. 'Oh, yes, the adventurer. Hmm. Actually, there may be one more service you can do for me,' he says.
+	</p>
+	<p><goto section="554"/>.</p>
+</section>

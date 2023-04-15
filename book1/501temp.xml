@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="501">
+	<!-- how much is the ransom? pay it here! -->
+	<set var="ransom" value="1"/>
+	<if not="t" shards="1">
+		If you didn&#8217;t have enough money in the bank to cover the ransom demand, <goto section="288"/>.
+	</if>
+	<else>
+		Otherwise, your captors
+		<lose shards="ransom">take the money</lose> and run. You are released into Yellowport, <goto section="10"/>.
+	</else>
+</section>

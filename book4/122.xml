@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="122">
+	<if codeword="Dove" title="Arena Champion">
+		If you have the codeword Dove or the title Arena Champion,
+		<goto section="302"/> immediately.
+	</if>
+	<if title="Illuminate of Molhern">
+		If not, but you have the title Illuminate of Molhern,
+		<goto section="478"/>.
+	</if>
+	Otherwise, <goto section="552"/>.
+</section>

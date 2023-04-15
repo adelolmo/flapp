@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="318">
+	<p>
+		<if codeword="Dead">
+			If you have the codeword Dead, <goto section="98"/> immediately.
+		</if>
+		If not, read on.
+	</p>
+	<p>
+		You cling on, only your hardy toughness keeping you alive. Fortunately for you, a passing merchant ship picks you up.
+	</p>
+	<p>
+		The captain, a certain Avar Hordeth, from Metriciens, in Golnir, is happy to take you to Yarimura, his next port of call.
+	</p>
+	<p>
+		<if codeword="Divest">
+			If you have the codeword Divest, <goto section="51"/> immediately.
+		</if>
+		If not, read on.
+	</p>
+	<p>
+		After an uneventful journey, you disembark at the harbour in Yarimura. <goto section="10"/>.
+	</p>
+</section>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="22">
+	<p>
+		The tengu king tells you about a man calling himself Tatsu. &#8216;I trained him in the secret art of Oak Limb boxing, which made him invincible to attack on all points of his body except the top of his head.&#8217;
+	</p>
+	<p>&#8216;Sounds good. Will you teach me?&#8217;</p>
+	<p>
+		He laughs a long dry creaking laugh. &#8216;It would take too many years. But I will show you the rudiments of the art.&#8217;
+	</p>
+	<p>
+		Permanently increase your unwounded Stamina score by 1-6 points (the
+		<gain ability="stamina" amount="1d">roll of one die</gain>).
+		Then <goto section="259"/>.
+	</p>
+</section>

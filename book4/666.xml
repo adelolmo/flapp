@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="666">
+	<p>
+		The sun is sucked below the horizon, casting its wan rays across the flat and desolate steppes. You camp for the night.
+		<if item="wolf pelt|fur cloak">
+			If you have a <b>woIf pelt</b> or <b>fur cloak</b>, the fur helps to keep you warm.
+		</if>
+		<else>
+			If you do not, <lose stamina="1">lose 1 Stamina</lose> from the cold.
+		</else>
+	</p>
+	<p>
+		You need to hunt for food.
+		<difficulty ability="scouting" level="11"/>.
+		<success>If you succeed, you find a wild hare to eat.</success>
+		<failure>
+			If you fail, you go hungry and must
+			<lose stamina="1">lose 1 Stamina point</lose>.
+		</failure>
+	</p>
+	<choices>
+		<choice section="472">Go north</choice>
+		<choice section="91">West to the rivers</choice>
+		<choice section="29">Go south</choice>
+		<choice section="383">Go east</choice>
+	</choices>
+</section>

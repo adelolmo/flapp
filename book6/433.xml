@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="433" dock="Narai">
+	<p>
+		Here you can buy a ship or set sail if you already have one. Alternatively, you could pay for passage on a vessel bound for these destinations:
+	</p>
+	<choices>
+		<choice shards="20" section="27">Chambara, cost 20 Shards</choice>
+		<choice shards="30" section="302">Hagashin, cost 30 Shards</choice>
+		<choice shards="30" section="128">Kaiju, cost 30 Shards</choice>
+	</choices>
+	<p>
+		If you can afford to buy a ship of your own then you can sail wherever you want. Three ship types are available.
+	</p>
+	<market>
+		<header type="ship"/>
+		<trade ship="barque" initialCrew="average" buy="240"/>
+		<trade ship="brigantine" initialCrew="average" buy="480"/>
+		<trade ship="galleon" initialCrew="average" buy="990"/>
+	</market>
+	<p>
+		If you already own a ship you can sell it for half these prices. If you do buy a ship, record its details on the Ship&#8217;s Manifest. The crew quality is average, but you can
+		<buy crew="good" shards="75">upgrade it to good</buy>
+		for 75 Shards and
+		<buy crew="excellent" shards="150">to excellent</buy>
+		for a further 150 Shards. Once you own a ship you can stock it with local goods or sell cargo that you have transported here from other ports.
+	</p>
+	<choices>
+		<choice section="482">Buy and sell cargo</choice>
+		<choice section="224" sail="t">Set sail (if ship docked here)</choice>
+		<choice section="155">Return to the town centre</choice>
+	</choices>
+</section>

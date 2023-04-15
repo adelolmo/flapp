@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="419">
+	<p>
+		<lose codeword="2.419.1" hidden="t"/>
+		<lose codeword="2.419.2" hidden="t"/>
+		<lose codeword="2.419.3" hidden="t"/>
+		You are ambushed by a band of outlaws in wolf-pelt jerkins. They jump up from behind a ridge. You see at a glance that they far outnumber you, but they make no move to attack. Their leader signals for his men to lower their crossbows before scrambling down from the ridge to speak with you. &#8216;No offence,&#8217; he says with a grin, &#8216;but one lone wanderer isn&#8217;t worth the trouble of robbing.&#8217;
+	</p>
+	<p>
+		Maybe he&#8217;d think differently if he could see inside your money-pouch? Or perhaps they are really put off because you look too tough to handle without casualties? See if you can impress them by
+		<difficulty ability="thievery" level="13" var="x">
+			making a THIEVERY roll
+		</difficulty>
+		and
+		<difficulty ability="charisma" level="13" var="y">
+			a CHARISMA roll
+		</difficulty>, both at a Difficulty of 13.
+		<success var="x">
+			<success var="y">
+				<tick codeword="2.419.1" hidden="t"/>
+				<lose codeword="2.419.2" hidden="t"/>
+				<lose codeword="2.419.3" hidden="t"/>
+			</success>
+			<failure var="y">
+				<lose codeword="2.419.1" hidden="t"/>
+				<tick codeword="2.419.2" hidden="t"/>
+				<lose codeword="2.419.3" hidden="t"/>
+			</failure>
+		</success>
+		<failure var="x">
+			<success var="y">
+				<lose codeword="2.419.1" hidden="t"/>
+				<tick codeword="2.419.2" hidden="t"/>
+				<lose codeword="2.419.3" hidden="t"/>
+			</success>
+			<failure var="y">
+				<lose codeword="2.419.1" hidden="t"/>
+				<lose codeword="2.419.2" hidden="t"/>
+				<tick codeword="2.419.3" hidden="t"/>
+			</failure>
+		</failure>
+	</p>
+	<choices>
+		<choice box="2.419.1" section="494">Both rolls successful</choice>
+		<choice box="2.419.2" section="519">Fail one roll</choice>
+		<choice box="2.419.3" section="544">Fail both rolls</choice>
+	</choices>
+</section>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="72">
+	<set var="x" codeword="3.72.Gain" hidden="t"/>
+	<tick shards="x" hidden="t"/>
+	<lose codeword="3.72.Gain" hidden="t"/>
+	The priestess stretches like a cat, making no effort to stifle a
+	yawn. &#8216;If you&#8217;ll excuse me, it is time for my siesta.&#8217; She lies back
+	on the divan and closes her eyes. You quietly withdraw from the
+	temple. <goto section="44"/>.
+</section>

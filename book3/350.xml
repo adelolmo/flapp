@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="350">
+	<p>
+		The stowaway is a runaway slave who has spent his whole life at sea. He has no money, but in return for you letting him stay aboard till you reach port he helps teach your crew what he knows of seafaring.
+		<lose crew="-1">Increase your crew quality by one step</lose>
+		(i.e. from poor to average, average to good, or good to excellent).
+	</p>
+	<p>Now <goto section="78"/>.</p>
+</section>

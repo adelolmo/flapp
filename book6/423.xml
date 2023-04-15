@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="423">
+	Takakura heaps every honour on you, to the envy of all the other courtiers. He presents you with a
+	<weapon name="golden katana"/>,
+	a <tool name="lute" ability="charisma" bonus="3"/>
+	and personal apartments here in the palace.
+	Note these gifts on your Adventure Sheet and then <goto section="576"/>.
+</section>

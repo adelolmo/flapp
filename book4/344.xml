@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="344">
+	<p>
+		At the merest mention of the name, he jumps to his scrawny legs like a startled stick-insect and bolts off to hide in his tent. When you try to coax him out, he peers out from behind the tent flap and tells you to go before he places a hex on you.
+	</p>
+	<p>
+		There is no point in upsetting the poor old devil any more than you have done. You walk back to the camp and ask a nomad where you can sleep. <goto section="394"/>.
+	</p>
+</section>

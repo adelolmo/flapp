@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="463">
+	<p>He tells you his sob story whether you want to hear it or not.</p>
+	<p>
+		&#8216;I am an expert thief, if an indifferent fighter, but the old established burglars&#8217; clans will not allow me to ply my trade in the towns. Thus I&#8217;ve had to try my luck as a highwayman, and I&#8217;m just not cut out for it!&#8217;
+	</p>
+	<p>&#8216;That&#8217;s for sure.&#8217;</p>
+	<p>
+		&#8216;Well, thanks anyway for sparing my life,&#8217; he says. &#8216;In return let me give you this advice. The bridge over the Chu River is a favourite place for the Black Swan sisters to waylay travellers. Don&#8217;t trust them an inch!&#8217;
+	</p>
+	<p>
+		<if item="dragon mask">
+			If you have a <b>dragon mask</b>, <goto section="50"/>.
+		</if>
+		If not, <goto section="316"/>.
+	</p>
+</section>

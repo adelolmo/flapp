@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="592">
+	<p>
+		The Kraken returns to the depths, inexorably dragging your vessel down with it.
+		<lose ship="t">
+			Cross the ship and crew	off
+		</lose> your Ship&#8217;s Manifest.
+		They are lost; you will be lucky if you can save yourself.
+	</p>
+	<p>
+		<rankcheck dice="2"/>.
+		<failure>
+			If the score is greater than your Rank, you are drowned - <goto section="123"/>.
+		</failure>
+		<success>
+			If the score is less than or equal to your Rank, you are swept miraculously towards a beach of soft white sand.
+			<lose stamina="2d">Lose 2-12 Stamina points</lose> and (if you can survive that)
+			<goto book="8" section="111">turn to 111</goto> in
+			<i>The Lone and Level Sands</i>.
+			<i>[Lacking book 8, I suppose you could <goto section="177"/> instead --Ed]</i>
+		</success>
+	</p>
+</section>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="608">
+	<p>
+		&#8216;Were you set ashore by your fellow crewmen?&#8217; you ask the poor wretch, for this is a common punishment at sea.
+	</p>
+	<p>
+		&#8216;No,&#8217; he says. &#8216;We had the misfortune to encounter a shoal of mermaids. Hearing their sad sweet song, all the others flung themselves into the sea and were drowned. Later the ship hit that reef and sank, and there I waited till you found me.&#8217;
+	</p>
+	<p>&#8216;Why didn&#8217;t the mermaids&#8217; song affect you?&#8217;</p>
+	<p>He gives a wry smile. &#8216;I&#8217;m tone deaf.&#8217;</p>
+	<p>
+		<tick codeword="Cynosure">Get the codeword Cynosure</tick> and
+		<goto section="245"/>.
+	</p>
+</section>

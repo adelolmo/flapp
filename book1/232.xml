@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="232" boxes="1">
+	<p>
+		<if ticks="1">
+			If there is a tick in the box, <goto section="151"/> immediately.
+		</if>
+		If not, <tick/>, and read on.
+	</p>
+	<p>
+		The interior of the cave is cool and refreshing, a paradise compared with the savage heat of your gruelling climb. You find a man, floating cross-legged in the middle of the air! He is dressed only in a loincloth, and is painfully thin. His face is shrouded in a great luxuriant growth of glossy black hair, a beard like no other you have ever seen.
+	</p>
+	<p>
+		At the sight of you, he gives an exasperated sigh, and says, &#8216;I am Damor the Hermit. A HERMIT. That means I like to live alone - got that? Alone! So go away!&#8217;
+	</p>
+	<p>&#8216;I nearly died getting here, old man!&#8217; you reply testily.</p>
+	<p>
+		&#8216;Yes, you&#8217;d have to be pretty tough to get through the curse I put on the path, I suppose,&#8217; he says somewhat apologetically.
+	</p>
+	<p>
+		<if codeword="Anthem">
+			If you have the codeword Anthem, <goto section="285"/>.
+		</if>
+		Otherwise, <goto section="480"/>.
+	</p>
+</section>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="440">
+	<p>
+		Becoming an initiate of Elnir gives you the benefit of paying less for blessings and other services the Temple can offer. It costs 60 Shards to become and initiate. You cannot become an initiate of Elnir if you are already an initiate of another temple.
+	</p>
+	<p>
+		<if safeAddGod="Elnir"><if shards="60">
+				If you choose to become an initiate,
+				<group>
+					<text>write 'Elnir' in the God box</text>
+					<lose shards="60"/>
+					<tick god="Elnir"/>
+				</group>
+				on your Adventure Sheet - and then cross 60 shards off your Adventure Sheet.
+		</if></if>
+	</p>
+	<p><goto section="568"/>.</p>
+</section>

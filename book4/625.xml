@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="625">
+	<p><tick codeword="Drink">Record the codeword Drink</tick>.</p>
+	<p>
+		You are about to finish the creature off when it changes shape into a small, furry fellow with webbed hands and feet, and a thick, heavy tail. It drops to its knees, begging for mercy.
+	</p>
+	<p>&#8216;Wait!&#8217; it cries. &#8216;Spare me and I will give you my treasure.&#8217;</p>
+	<p>&#8216;Where is it?&#8217; you demand.</p>
+	<p>
+		&#8216;In a sunken grotto beneath the river. I will go and fetch it, if it pleases you, my lord,&#8217; it says, grovellingly.
+	</p>
+	<choices>
+		<choice section="162">Agree</choice>
+		<choice section="701">Kill it</choice>
+	</choices>
+</section>

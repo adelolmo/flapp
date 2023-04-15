@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="47">
+	<p><tick codeword="Defend">Record the codeword Defend</tick>.</p>
+	<p>
+		You are spotted outside Beladai's tent by a group of torch-wielding soldiers.
+	</p>
+	<p>
+		'Stinking assassin!' yells one of them, and they fall upon you in a rage.
+	</p>
+	<p>You are hacked to pieces in moments. <goto section="7"/>.</p>
+</section>

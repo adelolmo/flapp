@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="45">
+	<p>
+		You move with calm assurance across a dizzying rock-face that many brave men would go weak at the knees simply to behold. You know that the trick is to keep your body out from the cliff and test each handhold carefully before putting your full weight on it.
+	</p>
+	<p>
+		<training ability="scouting"/>, and if you get more than your SCOUTING score you can increase it permanently by 1.
+	</p>
+	<choices>
+		<choice section="164">Climb to the top of the cliff</choice>
+		<choice section="706">Descend to the ground</choice>
+	</choices>
+</section>

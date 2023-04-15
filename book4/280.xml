@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="280">
+	You are outside the walls of Yarimura, beside the Great Tatsu Gate, which is carved into the likeness of a huge dragon's head.
+	<choices>
+		<choice section="307">Visit the villa of Hordeth</choice>
+		<choice section="325">Explore Cliff Wood</choice>
+		<choice section="10">Enter the city</choice>
+		<choice section="398">Head north</choice>
+		<choice section="442">Head west into the Great Steppes</choice>
+		<choice section="426">Head south to the Gemstone Hills</choice>
+	</choices>
+</section>

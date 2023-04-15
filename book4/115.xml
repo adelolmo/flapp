@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="115">
+	<set var="lights" item="?" tags="light" value="matches"/>
+	<set var="candles" item="?" tags="light,useonce" value="matches"/>
+	<if var="candles" equals="lights">
+		<tick codeword="LitCandle" hidden="t"/>
+	</if>
+	Your light picks out the glint of gold at the end of a long tunnel.
+	<choices>
+		<choice section="76">Head along the tunnel</choice>
+		<choice section="157">Leave the cave</choice>
+	</choices>
+</section>

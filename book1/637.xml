@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="637">
+	<p>
+		Somehow you manage to evade the creature&#8217;s jaws, and swim back to shore. Hauling yourself up on to the beach, you are assaulted by an angry villager.
+	</p>
+	<p>
+		&#8216;Where&#8217;s my boat?&#8217; he cries, &#8216;You&#8217;ve sunk it, haven&#8217;t you? You city types don&#8217;t know a thing! Well, you&#8217;ll have to pay me back - fifty Shards at least!&#8217;
+	</p>
+	<p>
+		&#8216;Hah!&#8217; you reply, &#8216;The cost of hiring it was more than its worth in any case. As far as I&#8217;m concerned, that boat was mine to do with as I liked!&#8217;
+	</p>
+	<p>
+		The argument goes on all the way back to the village but eventually the fisherman gives up and storms off.
+	</p>
+	<p><goto section="135"/>.</p>
+</section>

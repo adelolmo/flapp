@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="32">
+	You pore over the charts, reckoning your position to lie dead
+	south of Knucklebones Point.
+	<choices>
+		<choice section="504">Head for Sorcerers&#8217; Isle</choice>
+		<choice section="205">Steer a course for the Unnumbered Isles</choice>
+		<choice section="175" book="2">Head north to the mainland</choice>
+		<choice section="77">Go eastwards</choice>
+	</choices>
+</section>

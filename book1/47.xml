@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="47">
+	The Forest of Larun is a mighty swathe of densely packed trees, a slice of primordial nature in the middle of busy, industrious Sokara.
+	<choices>
+		<choice section="596">Venture deeper into the forest</choice>
+		<choice section="110">North to the Bronze Hills</choice>
+		<choice section="333">West to the River Grimm</choice>
+		<choice section="560">South into the countryside</choice>
+		<choice section="387">East to the road</choice>
+	</choices>
+</section>

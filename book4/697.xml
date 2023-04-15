@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="697">
+	You get lost, and wander aimlessly amid the freezing fog. <random type="travel" dice="1"/> to see where you emerge.
+	<outcomes>
+		<outcome range="1" section="91">Still on the river plain</outcome>
+		<outcome range="2" section="669">The coast</outcome>
+		<outcome range="3" section="472">A pyramid</outcome>
+		<outcome range="4" section="320">A lake</outcome>
+		<outcome range="5" section="281">The plains</outcome>
+		<outcome range="6" section="29">The plains</outcome>
+	</outcomes>
+</section>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="651">
+	You get a couple of handfuls of jewels worth <gain shards="200"/>, but
+	then the giant&#8217;s pet raven peers out from its cage and gives a
+	screech. The giant yawns like a volcano about to go off.
+	<choices>
+		<choice section="501">Run for it</choice>
+		<choice section="712">Do battle with the giant</choice>
+	</choices>
+</section>

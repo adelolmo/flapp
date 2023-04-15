@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="80">
+	<p>You must fight all three of them, one at a time.</p>
+	<fight name="Priest" combat="8" defence="9" stamina="12"/>
+	<fight name="Warrior" combat="11" defence="11" stamina="15"/>
+	<fight name="Bylewyn Buskle" combat="10" defence="10" stamina="18"/>
+	<p>
+		If you win, <goto section="123"/>. If you lose, <goto section="7" dead="t"/>.
+	</p>
+</section>

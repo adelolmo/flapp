@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="746">
+	You strip your beaten opponent of her
+	<armour name="splint armour" bonus="4"/>,
+	a <weapon name="shortsword"/>,
+	an <item name="agate swan"/> pendant
+	and an <item name="iron fan"/>.
+	You can also
+	<transfer item="*" from="6.635">retrieve any weapon</transfer>
+	you gave her.
+	<choices>
+		<choice item="cursed sword" section="448">If you exchanged weapons before the duel</choice>
+		<choice section="58">If not</choice>
+	</choices>
+</section>

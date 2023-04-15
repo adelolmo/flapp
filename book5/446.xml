@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="446">
+	<p>
+		<if codeword="Edify">If you have the codeword Edify <goto section="594"/> immediately.</if> If not, read on.
+	</p>
+	<p>
+		The High King wants selenium ore, and as much of it as he can get, for his magicians and the war machines they are making. The High King will pay you 800 Shards for every nugget of <sell item="selenium ore" shards="800"/> you bring.
+	</p>
+	<p>He also needs the <b>sceptre of kings</b>.</p>
+	<p>
+		'My sorcerer tells me there may be a clue about the location of this sceptre somewhere in the Icicle Woods,' says the High King. 'Bring me the sceptre, and I'll reward you further - I cannot give this important task to anyone else, for you are my most trusted champion.'
+	</p>
+	<p>
+		<if item="sceptre of kings">
+			If you have the <b>sceptre of kings</b>
+			<goto section="678"/>.
+		</if> If not, you leave. <goto section="112"/>.
+	</p>
+</section>

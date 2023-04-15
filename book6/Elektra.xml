@@ -1,0 +1,16 @@
+<section name="Elektra Nemora" profession="Troubadour">
+	<p>
+		Elektra always has a sweet song on her lips to charm the people she meets. She believes all conflict is best settled by compromise, an attitude that makes her a natural diplomat and peacekeeper. As well as helping to calm the tense military situation in Akatsurai, she would like to play music at the court of the sovereign - a signal honour for a travelling minstrel.
+	</p>
+	<p>
+		You can play as Elektra, or as a troubadour with a different name (enter it in the 'Name' field). To begin your adventure, <goto section="1" force="f"/>.
+	</p>
+	<p>For another profession, choose from the following:</p>
+	<choices>
+		<choice section="Kintu">Warrior</choice>
+		<choice section="Panjang">Mage</choice>
+		<choice section="Abraxas">Priest</choice>
+		<choice section="Shikibu">Rogue</choice>
+		<choice section="Ithacus">Wayfarer</choice>
+	</choices>
+</section>

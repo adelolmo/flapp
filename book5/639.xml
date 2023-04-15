@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="639">
+	<p>
+		The alchemist's stall is full of potions, jars of exotic substances, herbs, and so on. Alembics and beakers full of strangely coloured liquids bubble and boil.
+	</p>
+	<p>
+		The alchemist sells potions. You can buy as many as you can afford - each one costs 50 Shards.
+	</p>
+	<p>
+		<buy item="Potion of strength" shards="50">
+			<effect type="use" ability="combat"/>
+		</buy>
+	</p>
+	<p>
+		<buy item="Potion of comeliness" shards="50">
+			<effect type="use" ability="charisma"/>
+		</buy>
+	</p>
+	<p>
+		<buy item="Potion of intellect" shards="50">
+			<effect type="use" ability="magic"/>
+		</buy>
+	</p>
+	<p>
+		<buy item="Potion of godliness" shards="50">
+			<effect type="use" ability="sanctity"/>
+		</buy>
+	</p>
+	<p>
+		<buy item="Potion of stealth" shards="50">
+			<effect type="use" ability="thievery"/>
+		</buy>
+	</p>
+	<p>
+		<buy item="Potion of nature" shards="50">
+			<effect type="use" ability="scouting"/>
+		</buy>
+	</p>
+	<p>
+		A potion can be used just before any ability roll or a fight to add 1 to the relevant ability for that one roll or fight only. Each potion can be used only once, and you cannot use more than one at a time (i.e. you cannot drink six potions and add 6 to your roll).
+	</p>
+	<p>When you are finished, <goto section="101"/>.</p>
+</section>

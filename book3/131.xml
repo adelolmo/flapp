@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="131">
+	<p>
+		You order your men below and tell them to secure the hatches, knowing that the mermaid&#8217;s singing will otherwise draw them to their doom.
+	</p>
+	<p>
+		&#8216;But what about the wheel, skipper?&#8217; asks the helmsman. &#8216;If I leave it untended who knows where we&#8217;ll end up?&#8217;
+	</p>
+	<p>
+		He has a point. If you have a length of <b>rope</b> you could lash yourself to the wheel. Otherwise you&#8217;ll have to go below with the others or stay on deck and take your chances.
+	</p>
+	<choices>
+		<choice item="rope" section="353">Tie yourself to the wheel</choice>
+		<choice section="439">Go below with the crew</choice>
+		<choice section="149">Remain on deck</choice>
+	</choices>
+</section>

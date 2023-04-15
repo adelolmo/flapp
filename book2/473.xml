@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="473" image="473.jpg">
+	The storyteller is sitting on a grassy hummock beside a leafy
+	lane, regaling the children from a nearby village with his tall
+	tales. <random/>:
+	<outcomes>
+		<outcome range="2-6" section="454"/>
+		<outcome range="7-12" section="667"/>
+	</outcomes>
+</section>

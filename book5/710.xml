@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="710">
+	<p>
+		The spriggans become quite agitated at the sight of you climbing up. One of them casts a hex on the drainpipe you are climbing, and it buckles under your weight. You fall to the ground with a crash. <lose stamina="1d">Lose 1-6 points of Stamina</lose> (the roll of one die). If you are still alive, read on.
+	</p>
+	<p>
+		The spriggans burst into squeaky giggles, leaping up and down, like demented monkeys. You'll have to try a different approach.
+	</p>
+	<choices>
+		<choice item="faery mead" section="676">Lay out a jug of <b>faery mead</b></choice>
+		<choice section="168">Leave</choice>
+	</choices>
+</section>

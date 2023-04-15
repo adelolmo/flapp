@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="551">
+	A farmer puts you up for a couple of days;
+	<rest stamina="1">recover 1 Stamina if injured</rest>.
+	As you make ready to set out, the farmer tells you that
+	Gaman Monastery lies to the north.
+	<choices>
+		<choice section="609">Go north</choice>
+		<choice section="735">Go east over the Chu River</choice>
+		<choice section="568">Go south</choice>
+		<choice section="356">Go west to Oni Province</choice>
+	</choices>
+</section>

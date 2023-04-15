@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="720">
+	The tunnel is in darkness. You will need either a <b>lantern</b> or a
+	<b>candle</b> to proceed. If you use a <b>candle</b>, cross it off your
+	Adventure Sheet, as it is only good for one use.
+	<choices>
+		<choice item="?" tags="light" section="744">Proceed along the tunnel</choice>
+		<choice section="716">Do not have <b>candle</b>/<b>lantern</b></choice>
+	</choices>
+</section>

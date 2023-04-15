@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="186">
+	<p>
+		The catamarans are packed with raiders from the coast of Ankon-Konu. They cannot hope to take your ship, but they will try to leap aboard and carry off a few prisoners.
+	</p>
+	<p>
+		<if profession="warrior" not="t">
+			<random dice="2">
+				<adjust ability="rank"/>
+			</random>
+		</if>
+		<else>
+			(<random dice="3">
+				three<adjust ability="rank"/>
+			</random> if you are a Warrior)
+		</else>
+		and add your Rank to the number rolled.
+	</p>
+	<outcomes>
+		<outcome range="2-3" section="123">An arrow impales your eye</outcome>
+		<outcome range="4-12" section="206">The raiders retreat at last</outcome>
+		<outcome range="13+" section="352">You drive them off with ease</outcome>
+	</outcomes>
+</section>

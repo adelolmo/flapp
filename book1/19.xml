@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="19" boxes="3">
+	<p>
+		<tick>Put a tick</tick> in an empty box.
+		<if ticks="3">
+			If all three boxes are now ticked, <tick codeword="Anvil">gain the codeword Anvil</tick>.
+		</if>
+	</p>
+	<p>
+		The Dragon Knights are impressed with your combat skills. Your opponent comes round, ruefully rubbing his neck. Grudgingly, he admits to your superior skill and hands you his weapon and armour. You get an ordinary <weapon name="sword"/> and a suit of <armour name="heavy plate" bonus="6"/>. You take your leave, <goto section="276"/>.
+	</p>
+</section>

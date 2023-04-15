@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="352">
+	<p>
+		The woman, who is from Akatsurai, spots you. &#8216;You have not been processed!&#8217; she says in surprise.
+	</p>
+	<p>
+		&#8216;We&#8217;ll see who gets processed here, you she-devil,&#8217; you reply through gritted teeth.
+	</p>
+	<p>
+		She smiles evilly and takes up a long-bladed spear, spinning it about her head and body in a display of breath-taking martial skill.
+	</p>
+	<fight name="She-devil" combat="8" defence="6" stamina="10"/>
+	<p>
+		If you lose, <goto section="7" dead="t"/>.
+		If you win, <goto section="170"/>.
+	</p>
+</section>

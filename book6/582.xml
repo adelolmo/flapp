@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="582">
+	<p>
+		The giant takes the seal and puts it close to his eyes. In his shovel-like hands it looks no bigger than a pinhead.
+	</p>
+	<p>
+		After a moment he gives a grunt, half satisfied and half disappointed, and beckons you inside. The door booms shut. You stand waiting until the giant points towards a staircase at the back of the hall. &#8216;Come this way &#8216; he growls.
+	</p>
+	<p><goto section="643"/>.</p>
+</section>

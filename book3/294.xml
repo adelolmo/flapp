@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="294">
+	<p>
+		You are transformed into a bird and have no cares other than to soar off with the rest of the flock. After many months, you chance to alight on the deck of a ship and when the other birds fly off you are left behind - human once more. The captain of the vessel listens to your tale with astonishment, but seems to accept it as true. &#8216;I have heard that the natives of the Weeping Jungle believe that all mankind were birds once.&#8217;
+	</p>
+	<p>
+		You have not lost your money or possessions, which were
+		transformed with you, but your ship is gone; <lose ship="t">cross it off</lose> your Ship&#8217;s Manifest. The captain agrees to drop you off in Smogmaw, unless you would rather pay him 30 Shards to take you back to Dweomer.
+	</p>
+	<choices>
+		<choice section="44">Disembark at Smogmaw</choice>
+		<choice section="100" shards="30">Pay 30 Shards to go to Dweomer</choice>
+	</choices>
+</section>

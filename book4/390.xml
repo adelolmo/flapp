@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="390">
+	<p>
+		The sea stretches away in all directions. There is not a jot of land in sight.
+	</p>
+	<p>
+		&#8216;I think we may be lost on the Unbounded Ocean,&#8217; whispers the first mate. The crew mutter among themselves, for the Unbounded Ocean has a reputation for demons and other such manifestations of evil.
+	</p>
+	<p><difficulty ability="scouting" level="14"/>.</p>
+	<outcomes>
+		<success section="602"/>
+		<failure section="557"/>
+	</outcomes>
+</section>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="233" boxes="1" image="233.jpg">
+	<p>
+		<if ticks="1">
+			If there is a tick in the box, <goto section="412"/>.
+		</if>
+		If not, <tick/>, and read on.
+	</p>
+	<p>
+		You are on the cobbled road between Yellowport and Trefoille. It is well-kept by the Sokaran military.
+	</p>
+	<p>
+		You spot a man up ahead, striding towards you. Suddenly, five or six bandits appear from the wayside to assault him. The lone figure executes a series of movements, almost faster than the eye can see, and you see his sword flashing in the sun. Moments later, the bandits are all lying dead or dying around him.
+	</p>
+	<p>
+		You stop to compliment him on his swordsmanship. The man, a grizzled veteran of many campaigns, regards you with steely grey eyes and says, &#8216;I have learned much of the arts of war in my time, it is true.&#8217;
+	</p>
+	<p>
+		Impressed by his skill and demeanour, you venture to ask him to teach you some of these arts. He looks you up and down with a critical eye.
+	</p>
+	<p>
+		<if profession="Warrior">
+			If you are a Warrior, <goto section="146"/>.
+		</if>
+		Otherwise <goto section="567"/>.
+	</p>
+</section>

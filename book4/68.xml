@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="68">
+	The bells toll a deep sonorous note. But then the other bells begin pealing, set off somehow by the first. The ringing becomes so loud that it sends you running for the exit, hands clapped over your ears, shrieking in agony. Blood runs from your ears. <lose stamina="1d">Lose 1-6 Stamina points</lose>. You run out into the ruin, away from the Cave of Bells.
+	<choices>
+		<choice section="107">Visit the Vault of the Shadar</choice>
+		<choice section="298">Visit the Crypt of Kings</choice>
+		<choice section="266">Leave the City of Ruins</choice>
+	</choices>
+</section>

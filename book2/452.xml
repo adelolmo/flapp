@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="452">
+	It is a
+	<weapon name="magic sword" bonus="2"/>. Record it on your
+	Adventure Sheet. Before you can do anything else, you find the
+	chamber is spinning around you. A dark vortex seems to open at
+	your feet, and you plunge in. A few moments later you find
+	yourself lying among the rushes at the river&#8217;s edge. The waterfall
+	is flowing again. The spirits have departed.
+	<goto section="716"/>.
+</section>

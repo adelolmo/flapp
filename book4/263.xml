@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="263">
+	<p>
+		<tick special="lock" cache="4.127" hidden="t"/>
+		The battle begins. With a strange cry, Red Flame raises his arms and gestures in the air. To your amazement a wall of flame appears in front of him, and speeds away towards the finman with a roar. Simultaneously, the fish-scaled, webbed finman responds by opening his toothed maw and vomiting forth a stream of gushing water that forms into a wall of his own, and rushes, like a small tidal wave, to meet the wall of flame.
+	</p>
+	<p>
+		At the moment of impact, the flames are extinguished instantly, and the wall of water surges on to engulf Red Flame. He is lifted up, and dashed against the wall of the arena, where he lies unmoving.
+	</p>
+	<p>
+		Arena attendants run on to carry his body away, and the referees declare that the finman, whose name is unpronounceable by the human throat, is the victor.
+	</p>
+	<p>
+		If the finman can win two more bouts, he will have won the title of Arena Champion.
+		<if codeword="4.127.1">
+			<lose codeword="4.127.1" hidden="t"/>
+			If you bet and won, <adjustmoney name="4.127" multiply="2" force="f">add the amount you bet to your total of Shards</adjustmoney>.
+		</if>
+		<if codeword="4.127.2">
+			<lose codeword="4.127.2" hidden="t"/>
+			If you lost, <adjustmoney name="4.127" multiply="0" force="f">cross off the money</adjustmoney>.
+		</if>
+		<tick special="unlock" cache="4.127" hidden="t"/>
+		<goto section="13"/>.
+	</p>
+	<moneycache name="4.127" text="Winnings" max="0"/>
+</section>

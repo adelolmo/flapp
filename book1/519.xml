@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="519">
+	Your crew have driven off the other ker&#8217;ilk, which dive into the sea. The ship was carrying <buy cargo="furs" quantity="1">1 Cargo Unit of furs</buy>, which you can take if your ship has room. You clean up the dead sailors, and give them a proper burial at sea. There is nothing else of interest, so you sail on. <goto section="209"/>.
+</section>

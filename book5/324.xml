@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="324">
+	<p>
+		You manage to shoulder your way through, and get right next to the lord. The noble's shoulders slump with resignation as he realises he'll have to grant whatever you ask of him. He gazes at you mournfully.
+	</p>
+	<p>'How can I help, my poor friend?' he asks insincerely.</p>
+	<choices>
+		<choice section="119">Teach you the game of bokh</choice>
+		<choice section="186">Get you an audience with the Faceless King</choice>
+		<choice section="233">Help you become an initiate of the Church of Ebron</choice>
+		<choice section="46">Ask him to give you 500 Shards</choice>
+	</choices>
+</section>

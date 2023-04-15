@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="636">
+	The ship manoeuvres out on to open ocean and is soon heading
+	north under a full press of sail.
+	<lose shards="15">Pay the 15 Shards</lose> for your berth
+	if you haven&#8217;t already, then <random dice="1" type="travel"/>.
+	<outcomes>
+		<outcome range="1">
+			Captured by slavers;
+			<goto book="5" section="321">turn to 321</goto>
+			in <i>The Court of Hidden Faces</i>
+		</outcome>
+		<outcome range="2">
+			The ship goes down in a storm, but you
+			cling to a raft; <goto section="180"/>
+		</outcome>
+		<outcome range="3-6">
+			You reach Aku without incident;
+			<goto book="5" section="444">turn to 444</goto>
+			in <i>The Court of Hidden Faces</i>
+		</outcome>
+	</outcomes>
+</section>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="560">
+	<p>
+		You approach the entrance to the Brotherhood of Night, the thieves&#8217; guild,
+	</p>
+	<p>
+		<if profession="Rogue">
+			If you are a Rogue, <goto section="349"/>.
+		</if>
+		If not, read on.
+	</p>
+	<p>
+		&#8216;Whaddya want?&#8217; growls one of the men lounging on the steps. &#8216;Get lost, or we&#8217;ll lose you in the harbour, if you get my drift.&#8217;
+	</p>
+	<p>You are clearly unwelcome here. <goto section="633"/>.</p>
+</section>

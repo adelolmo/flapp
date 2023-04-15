@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="34">
+	You make it only 50 feet up the sheer rockface before you lose your footing and fall to the ground. <lose stamina="4">Lose 4 Stamina points</lose>. If you still live, <goto section="658"/> where you can try again, if you like.
+</section>

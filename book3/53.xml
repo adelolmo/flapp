@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="53">
+	<if docked="Smogmaw">
+		If you have a ship docked here at Smogmaw, <goto section="92"/>.
+	</if>
+	<else>
+		If not, <goto section="73"/>.
+	</else>
+</section>

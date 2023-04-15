@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="464">
+	<p>
+		<if item="sealed letter" cache="6.464">
+			<tick special="lock" cache="6.464" hidden="t"/>
+			If you previously left a <b>sealed letter</b> here,
+			<goto section="28"/> at once.
+		</if>
+		Otherwise read on.
+	</p>
+	<p>
+		Like any knight of Akatsurai you are expected to live simply. Your room contains only a pallet, a low table, and two floor cushions. A maid has left a single flower in a celadon vase.
+	</p>
+	<p>
+		You can rest from your adventures here,
+		<rest>restoring your Stamina to normal</rest> if wounded.
+	</p>
+	<p>
+		Possessions and money can be left without fear of robbery; just record them in the box below.
+	</p>
+	<p>When you are ready to leave, <goto section="553"/>.</p>
+	<itemcache name="6.464" text="Private apartments"/>
+</section>

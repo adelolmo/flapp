@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="211">
+	<p><if codeword="Diamond">If you have the codeword Diamond, <goto section="427"/> immediately.</if> If not, read on.</p>
+	<p>
+		The land is bleak and desolate. It is worked by peasants in rags, desperately poor and taxed almost into oblivion by their harsh overseers, the lords of Uttakin. You spot the occasional troop of mercenaries in the pay of the Uttakin, patrolling the area, and keeping the locals in their place (i.e. oppressed).
+	</p>
+	<p><if codeword="Emerald">If you have the codeword Emerald, <goto section="563"/> immediately.</if> If not, <goto section="346"/>.</p>
+</section>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="266">
+	The Conjuror of Amusements has no need of you for now. He does offer to teach you a magic trick or two, for 250 Shards.
+	<if shards="250">
+		If you pay,
+		<group>
+			roll one die
+			<lose shards="250"/>
+			<training ability="magic" dice="1"/>
+		</group>
+		and if the result is higher than your MAGIC rating, you can add one to that rating.
+	</if>
+	When you are finished, <goto section="401"/>.
+</section>

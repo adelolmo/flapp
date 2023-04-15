@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="598">
+	<p>
+		The sky is the colour of burning sulphur. From behind the clouds comes the growl of thunder. The sailors mutter in fear. &#8216;It is the wrath of Elnir,&#8217; says the mate. &#8216;He summons us to our doom!&#8217;
+	</p>
+	<p>
+		<if blessing="storm">
+			If you have the blessing of Alvir and Valmir, which confers Safety from Storms, you can ignore the storm.
+			<lose blessing="storm">Cross off your blessing</lose>
+			and <goto section="50"/>.
+		</if>
+	</p>
+	<p>
+		Otherwise the storm hits with titanic fury, flinging mighty waves across the deck.
+		<if ship="barque">
+			<random dice="1">
+				<adjust crew="poor" amount="-1"/>
+				<adjust crew="excellent" amount="1"/>
+			</random> if your ship is a barque,
+		</if>
+		<elseif ship="brigantine">
+			<random dice="2">
+				two dice<adjust crew="poor" amount="-1"/>
+				<adjust crew="excellent" amount="1"/>
+			</random> if it is a brigantine,
+		</elseif>
+		<else>
+			or
+			<random dice="3">
+				three dice<adjust crew="poor" amount="-1"/>
+				<adjust crew="excellent" amount="1"/>
+			</random> if a galleon.
+		</else>
+		Add 1 to the roll if you have an excellent crew; subtract 1 if you have a poor crew.
+	</p>
+	<outcomes>
+		<outcome range="0-4" section="634">Your ship sinks</outcome>
+		<outcome range="5-6" section="670">The mast splits</outcome>
+		<outcome range="7-19" section="9">You weather the storm</outcome>
+	</outcomes>
+</section>

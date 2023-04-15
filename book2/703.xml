@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="703">
+	<p>
+		You are given a bed beside the hearth in the common-room. There are no other guests. &#8216;We don&#8217;t get many travellers in these parts,&#8217; explains the innkeeper as he bids you good night.
+	</p>
+	<p>
+		In the middle of the night you hear a knock on the door. A voice calls from outside: &#8216;Is anyone awake? Let me in.&#8217;
+	</p>
+	<choices>
+		<choice section="775">Open the door</choice>
+		<choice section="385">Go back to sleep</choice>
+	</choices>
+</section>

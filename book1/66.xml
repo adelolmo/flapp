@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="66">
+	You stand your ground. The ghostly horses stream past you on either side, neighing wildly at the sky. Nimbly, you leap at one, and manage to wrap your arms around its neck, and swing on to its back. The horse feels quite solid, but appears to be a luminous, pale-green colour. You look up through a cloud of sparks emanating from the horse&#8217;s mane just in time to see a rocky wall of a low hill looming up out of the evening mist. Your horse is galloping full tilt right into it!
+	<choices>
+		<choice section="17">Hold on</choice>
+		<choice section="28">Leap off</choice>
+	</choices>
+</section>

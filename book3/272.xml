@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="272">
+	<p>
+		The witches curse your crew with a dreary malaise that renders them useless for all but the simplest chores.
+	</p>
+	<p>
+		<lose crew="3">Reduce your crew&#8217;s quality</lose> to poor. (If your crew is already of poor quality it can&#8217;t get any worse and so the curse has no effect.)
+	</p>
+	<p>
+		Tittering evilly, the witches skim off across the choppy sea. <goto section="39"/>.
+	</p>
+</section>

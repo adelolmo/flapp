@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="643">
+	Gamely, you drive yourself on, but your thirst is becoming terrible, and soon you will be unable to continue. If you go on, you might die of thirst before finding a water supply.
+	<choices>
+		<choice section="244">Turn back</choice>
+		<choice section="78">Press on</choice>
+	</choices>
+</section>

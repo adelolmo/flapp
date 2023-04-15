@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="141" tag="temple">
+	<p>
+		The Temple of Maka, the terrible goddess of disease and famine, is a large underground chamber accessible via an ornate entrance in the middle of the Plaza of the Gods, where all the temples stand in Yellowport.
+	</p>
+	<p>
+		Down below, the walls are bare earth; the ceiling is covered in the roots of growing plants, for Maka is also the goddess of the harvest, who must be kept happy else disease and famine will strike the people, their crops and their livestock, bringing ruin to all.
+		<tick codeword="StillInYellowport" hidden="t"/>
+	</p>
+	<choices>
+		<choice section="368">Become an initiate</choice>
+		<choice section="261">Renounce her worship</choice>
+		<choice section="481">Seek a blessing</choice>
+		<choice section="77">Ask to be cured of disease or poison</choice>
+		<choice section="10">Leave the temple</choice>
+	</choices>
+</section>

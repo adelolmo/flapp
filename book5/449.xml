@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="449">
+	<if codeword="Ectoplasm">
+		If you have the codeword Ectoplasm, note this paragraph number (<b>449</b>) and <goto section="356"/>.
+	</if> If not, you pass an uneventful night, camped under the stars. The next day, you journey on. <goto section="393"/>.
+</section>

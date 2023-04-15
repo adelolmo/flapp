@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="163">
+	Luroc Bans suddenly gives an inarticulate scream, and charges at you, brandishing his long dagger! You feel an overwhelming urge to kill him too.
+	<if item="dust of tranquillity">
+		If you took the <b>dust of tranquillity</b> from the treasure hoard, <goto section="275"/>.
+	</if>
+	If not, <goto section="209"/>.
+</section>

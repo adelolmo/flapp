@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="422">
+	<p>
+		After a time of aimless drifting, you come out on to the open sea. High winds, a strong current, and heavy rains sweep you and the raft to a destination over which you have no control.
+	</p>
+	<p>
+		The raft is washed up on a thin sliver of beach, under towering cliffs. Judging by the landscape, this is Nerech, the Land of the Manbeasts.
+	</p>
+	<p><goto section="688"/>.</p>
+</section>

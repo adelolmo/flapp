@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="390">
+	<p>
+		The wise woman lives a reclusive existence. Her home is a cave in the cliffs high above the village. The islanders turn to her for medicine, soothsaying and the favour of the gods.
+	</p>
+	<p>
+		She greets you with a sticky yellow smile and waits for you to fill her hand with silver. For <lose shards="5" price="x">5 Shards</lose> she will give you a blessing of <gain blessing="storm" flag="x">Safety from Storms</gain>. Note this in the Blessings box on your Adventure Sheet if you decide to buy it. You can have only one Safety from Storms blessing at a time, and it will work only once.
+	</p>
+	<p>
+		When you have finished your business with the wise woman, <goto section="335"/>.
+	</p>
+</section>

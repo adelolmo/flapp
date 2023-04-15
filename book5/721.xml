@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="721">
+	The merchants' guild is a large building of white marble, plushly decorated inside to show off the wealth of the guild of Uttaku. Here you can bank your money for safe-keeping - or invest it in guild enterprises in the hope of making a profit.
+	<choices>
+		<choice section="115">Make an investment</choice>
+		<choice section="116">Check on investments</choice>
+		<choice section="601">Deposit or withdraw money (note that you are in Aku)</choice>
+		<choice section="444">Return to the city centre</choice>
+	</choices>
+</section>

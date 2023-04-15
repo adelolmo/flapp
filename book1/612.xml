@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="612" boxes="1">
+	<p>
+		<if ticks="1">
+			If there is a tick in the box, <goto section="549"/> immediately.
+		</if>
+		If not, <tick/>, and read on.
+	</p>
+	<p>
+		The priestess, who is wearing the skin of a wolf, and is covered in red paint, welcomes you gleefully.
+	</p>
+	<p>
+		&#8216;At last, the tusk of a were-boar! Now the ceremony can go ahead.&#8217;
+	</p>
+	<p>
+		<lose item="boar's tusk">
+			Cross the <b>boar&#8217;s tusk</b> off
+		</lose>
+		your Adventure Sheet. The priestess rewards you with knowledge.
+		<gain ability="scouting" amount="1">
+			Add 1 to your SCOUTING rating permanently
+		</gain>.
+	</p>
+	<p><goto section="195"/>.</p>
+</section>

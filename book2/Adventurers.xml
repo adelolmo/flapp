@@ -1,0 +1,32 @@
+<adventurers>
+  <abilities>
+    <header>Charisma Combat Magic Sanctity Scouting Thievery</header>
+    <profession name="Priest">4 2 3 6 4 2</profession>
+    <profession name="Mage">2 2 6 1 5 3</profession>
+    <profession name="Rogue">5 4 4 1 2 6</profession>
+    <profession name="Troubadour">6 3 4 3 2 4</profession>
+    <profession name="Warrior">3 6 2 4 3 2</profession>
+    <profession name="Wayfarer">2 5 2 3 6 4</profession>
+  </abilities>
+  <stamina amount="13"/>
+  <rank amount="2"/>
+  <gold amount="16"/>
+  <items>
+    <armour name="leather jerkin" bonus="1"/>
+    <weapon profession="Priest" name="mace"/>
+    <weapon profession="Mage" name="staff"/>
+    <weapon profession="Rogue" name="sword"/>
+    <weapon profession="Troubadour" name="sword"/>
+    <weapon profession="Warrior" name="battle-axe"/>
+    <weapon profession="Wayfarer" name="spear"/>
+    <item name="map"/>
+  </items>
+  <starting>
+	  <adventurer name="Ignatius the Devout" profession="Priest" gender="M"/>
+	  <adventurer name="Chalor the Exiled One" profession="Mage" gender="m"/>
+	  <adventurer name="Andriel the Hammer" profession="Warrior" gender="m"/>
+	  <adventurer name="Marana Fireheart" profession="Rogue" gender="f"/>
+	  <adventurer name="Astariel Skysong" profession="Troubadour" gender="m"/>
+	  <adventurer name="Liana the Swift" profession="Wayfarer" gender="f"/>
+  </starting>
+</adventurers>

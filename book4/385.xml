@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="385" image="385.jpg">
+	<p>
+		A golden tower slowly materializes before you, hanging some fifty feet above the plain. Sunlight reflects off the tower, making it look like a gigantic blazing torch and bathing the snow with golden light. The tower begins to flicker indistinctly, as if it were a mirage. A hazy, insubstantial golden stairway descends from the tower to the ground. You try to walk up it, but your feet pass through the first step as if it wasn&#8217;t there.
+	</p>
+	<p>
+		<if item="pathfinder's gem">
+			If you have a <b>pathfinder&#8217;s gem</b>, <goto section="417"/>.
+		</if>
+		If not, <goto section="567"/>.
+	</p>
+</section>

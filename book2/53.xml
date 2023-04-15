@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="53">
+	<tick codeword="2.53.1" hidden="t"/>
+	Traversing the river valley down to the River Grimm, you reach
+	a ford where you can cross to the east bank for 1 Shard. You
+	could try swimming across, but the current is strong: you need
+	to succeed at a
+	<group>
+		<text>SCOUTING roll at Difficulty 10</text>
+		<lose codeword="2.53.1"/>
+		<difficulty ability="scouting" level="10"/>
+	</group>
+	to do so.
+	<choices>
+		<success book="1" section="123">Swim the river</success>
+		<failure section="76">Failed attempt to swim</failure>
+		<choice shards="1" book="1" section="123" box="2.53.1">Pay to cross the river</choice>
+		<choice section="99" box="2.53.1">Follow the riverbank south</choice>
+		<choice section="7" box="2.53.1">Strike out towards the forest</choice>
+		<choice section="351" box="2.53.1">Go north into the mountains</choice>
+		<choice section="372" box="2.53.1">Head west</choice>
+	</choices>
+</section>

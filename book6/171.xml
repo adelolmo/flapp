@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="171">
+	<p>
+		The priests can offer a range of blessings.
+		<lose shards="35" price="x">Pay 35 Shards</lose> and
+		<random dice="1" flag="x">roll randomly</random> using one die,
+		or choose the blessing you want for
+		<lose shards="60" price="y">60 Shards</lose>
+		<i>[one of <tick blessing="charisma" flag="y"/>,
+			<tick blessing="combat" flag="y"/>,
+			<tick blessing="magic" flag="y"/>,
+			<tick blessing="sanctity" flag="y"/>,
+			<tick blessing="scouting" flag="y"/> or
+			<tick blessing="thievery" flag="y"/>]</i>.
+	</p>
+	<outcomes flag="x">
+		<outcome flag="x" range="1">A <tick blessing="charisma"/> blessing</outcome>
+		<outcome flag="x" range="2">A <tick blessing="combat"/> blessing</outcome>
+		<outcome flag="x" range="3">A <tick blessing="magic"/> blessing</outcome>
+		<outcome flag="x" range="4">A <tick blessing="sanctity"/> blessing</outcome>
+		<outcome flag="x" range="5">A <tick blessing="scouting"/> blessing</outcome>
+		<outcome flag="x" range="6">A <tick blessing="thievery"/> blessing</outcome>
+	</outcomes>
+	<p>
+		The blessing allows you to try again when you fail an ability roll. Blessings only work once and are then used up. You can have only one blessing of each type at a time, so if you rolled for a random blessing and got one you already had then you have wasted your money.
+	</p>
+	<p><goto section="79"/>.</p>
+</section>

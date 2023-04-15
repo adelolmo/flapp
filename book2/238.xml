@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="238">
+	<p>
+		The ship sets sail out of Ringhorn, bound for the strange nation of the Uttakin. &#8216;There&#8217;s trouble on the wind, skipper,&#8217; reckons the first mate. The captain&#8217;s only reply is a sour grunt.
+	</p>
+	<p><random type="travel"/>:</p>
+	<outcomes>
+		<outcome range="2-6" section="399">Uttakin slavers</outcome>
+		<outcome range="7-12" book="5" section="444">A trouble-free voyage</outcome>
+	</outcomes>
+</section>

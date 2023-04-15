@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="56">
+	There is naturally no shortage of rumours in a teeming city like
+	Metriciens, where merchants come and go from all corners of
+	the known world. <random/>:
+	<outcomes>
+		<outcome range="2-4" section="694">Honey for a thief</outcome>
+		<outcome range="5-7" section="718">Political intrigue</outcome>
+		<outcome range="8-9" section="742">Trade secrets</outcome>
+		<outcome range="10-12" section="766">A bizarre tale</outcome>
+	</outcomes>
+</section>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="241">
+	<p>
+		Somehow you manage to keep your head above water. You swim until you have no strength left and it is only determination that keeps you going.
+	</p>
+	<p>
+		A ship heaves into view. You raise your arm and give a feeble cry. By some miracle you are spotted. You are hauled aboard, wrapped in blankets and given a bowl of hot soup. You have been rescued by merchants from Metriciens who will drop you at their next port of call. <random dice="1"/>.
+	</p>
+	<outcomes>
+		<outcome range="1-2" section="612">The capital</outcome>
+		<outcome range="3" section="323">Hidari</outcome>
+		<outcome range="4" section="281">Mukogawa</outcome>
+		<outcome range="5" section="433">Narai</outcome>
+		<outcome range="6" section="128">Kaiju</outcome>
+	</outcomes>
+</section>

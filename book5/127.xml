@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="127">
+	<p>
+		Your hunting skill takes you to within six feet of the unicorn, on a ledge above it. It appeares jittery, scanning the path below it for signs of danger. You seize the moment and leap down, slaying the creature with a single blow.
+	</p>
+	<p>
+		Without ceremony, you wrench off the <b>unicorn's horn</b>, which you take - pausing first to wipe the blood off its tarnished rainbow surface. Note the <item name="unicorn's horn"/> on your Adventure Sheet.
+	</p>
+	<p><tick codeword="Evil"/> and <goto section="307"/>.</p>
+</section>

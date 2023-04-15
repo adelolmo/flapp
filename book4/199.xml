@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="199">
+	<p>
+		<if codeword="Drake">
+			If you have the codeword Drake, <goto section="485"/> immediately.
+		</if>
+		If not, read on.
+	</p>
+	<p>
+		The Tower of Bakhan is a tall, forbidding structure. You knock on the gargoyle-adorned doors, and are shown in to a dark, shadowy room. You sit at a table, at the far end of which squats a misshapen form, wreathed in voluminous robes, and indistinct in the darkness.
+	</p>
+	<p>
+		'I am Bakhan,' rasps a voice. As you watch, the robes begin to shift and rustle, as if changing shape. After a few minutes, the voice speaks again, sounding quite different this time. 'I have been cursed. Every hour, my form changes at random into hideous shapes and creatures that would blight your soul if you were to look upon them. But do not fear, for I will not hurt you.'
+	</p>
+	<p>
+		Bakhan has searched for ways to deal with curses for many years. If you are cursed (such as the Curse of the Shadar), Bakhan can <lose curse="?" flag="c">remove it</lose> for you, but it will cost you <lose price="c" shards="100"/>.
+	</p>
+	<p>
+		'You look a brave sort,' Bakhan croaks. 'I need a <b>witch&#8217;s hand</b> and some <b>parrot fungus</b> if I am to lift my own curse. Bring me those things, and I will reward you.'
+	</p>
+	<p>
+		<if item="witch's hand"><if item="parrot fungus">
+				If you have a <b>witch&#8217;s hand</b> and some <b>parrot fungus</b>, <goto section="691"/>.<text/>
+		</if></if>
+		If not, you leave. <goto section="10"/>.
+	</p>
+</section>

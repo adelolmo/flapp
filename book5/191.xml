@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="191">
+	<p>
+		You are allowed into the cathedral. It is cool and dim inside. The windows are covered in blue glass. This has the effect of bathing the worshippers in a blue light. As those of the Uttakin aristocracy who are of pure noble blood have blue skin, the priests say that the light of Holy Ebron makes even the poorest commoner a true noble.
+	</p>
+	<p>
+		<if god="Ebron">If you are an initiate of Ebron, <goto section="509"/>.</if> If not, but you want to become an initiate of Ebron, <goto section="376" force="f"/>. Otherwise, there is nothing for you to do here. <goto section="444"/>.
+	</p>
+</section>

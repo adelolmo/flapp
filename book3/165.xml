@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="165">
+	<p>
+		You are swept away by the current and eventually carried back to the bank. By this time you are bruised and weary and you have got several mouthfuls of foul muddy water.
+	</p>
+	<p>
+		<lose stamina="2">Lose 2 Stamina points</lose>. Also, unless you have a blessing of Immunity to Disease/Poison, you become sick with malaria and must permanently
+		<if blessing="disease" not="t">
+			<group force="t">
+				<text>lose 1 from all your attributes</text>
+				<lose ability="charisma" amount="1"/>
+				<lose ability="combat" amount="1"/>
+				<lose ability="magic" amount="1"/>
+				<lose ability="scouting" amount="1"/>
+				<lose ability="thievery" amount="1"/>
+			</group>
+			except SANCTITY.
+		</if>
+		<else>
+			(Remember to <lose blessing="disease">cross off</lose> the blessing if you had one.)
+		</else>
+	</p>
+	<p><goto section="44"/>.</p>
+</section>

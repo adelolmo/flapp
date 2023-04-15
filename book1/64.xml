@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="64">
+	<tick codeword="StillInYellowport" hidden="t"/>
+	Your amateurish tinkering sets the trap off, and the chest explodes! You take the full force of the blast - <lose stamina="5">lose 5 Stamina points</lose>. If you are still alive, you also find that the contents of the chest have been vaporized - except for a sturdy metal scroll case, containing a piece of ancient religious text about the gods of Uttaku. You discover from the scroll that one of the gods of the Uttakin is called Ebron, and that he has fourteen angles. Note the <item name="scroll of Ebron"/> on your Adventure Sheet if you wish to take it. <goto section="10"/>.
+</section>

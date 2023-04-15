@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="665">
+	<p>
+		<tick special="lock" cache="2.617" hidden="t"/>
+		<set var="MoneyBonus" value="shards/300" cache="2.617"/>
+		The next day you go back to see what has become of the item you left. <lose shards="*" cache="2.617">The money has gone</lose>, as you expected.
+
+		<set var="weaponbonus" item="?" cache="2.617" value="weapon"/>
+		<set var="armourbonus" item="?" cache="2.617" value="armour"/>
+
+		<if god="Molhern" not="t">
+			<random dice="2">
+				<adjust amount="MoneyBonus"/>
+			</random>
+		</if>
+		<else>
+			(<random dice="3">
+				three dice<adjust amount="MoneyBonus"/>
+			</random> if you&#8217;re an initiate of Molhern)
+		</else>
+		and add 1 for every full 300 Shards you left as payment:
+
+		<!-- work out the maximum bonus we'll allow -->
+		<if var="weaponbonus" greaterthan="0">
+			<set var="bonus" value="6-weaponbonus"/>
+		</if>
+		<else>
+			<set var="bonus" value="6-armourbonus"/>
+		</else>
+	</p>
+	<outcomes>
+		<outcome range="2-6">
+			<lose item="*" cache="2.617">The item has gone</lose>
+		</outcome>
+		<outcome range="7-9">
+			The item is unchanged
+			<tick item="*" cache="2.617" addtag="Molherned" hidden="t"/>
+		</outcome>
+		<outcome range="10-12">
+			The item is
+			<if var="bonus" greaterthan="1"><set var="bonus" value="1"/></if>
+			<tick item="*" cache="2.617" addtag="Molherned" addbonus="bonus">
+				upgraded by +1
+			</tick>
+		</outcome>
+		<outcome range="13-15">
+			The item is
+			<if var="bonus" greaterthan="2"><set var="bonus" value="2"/></if>
+			<tick item="*" cache="2.617" addtag="Molherned" addbonus="bonus">
+				upgraded by +2
+			</tick>
+		</outcome>
+		<outcome range="16-18">
+			The item is
+			<if var="bonus" greaterthan="3"><set var="bonus" value="3"/></if>
+			<tick item="*" cache="2.617" addtag="Molherned" addbonus="bonus">
+				upgraded by +3
+			</tick>
+		</outcome>
+		<outcome range="19-21">
+			The item is
+			<if var="bonus" greaterthan="4"><set var="bonus" value="4"/></if>
+			<tick item="*" cache="2.617" addtag="Molherned" addbonus="bonus">
+				upgraded by +4
+			</tick>
+		</outcome>
+		<outcome range="22+">
+			The item is
+			<if var="bonus" greaterthan="5"><set var="bonus" value="5"/></if>
+			<tick item="*" cache="2.617" addtag="Molherned" addbonus="bonus">
+				upgraded by +5
+			</tick>
+		</outcome>
+	</outcomes>
+	<p>
+		<tick special="unlock" cache="2.617" hidden="t"/>
+		An upgrade on armour increases its Defense bonus; an upgrade on a weapon increases its COMBAT bonus.
+		<i>[The most an item can be upgraded to is +6; Molhern is no man's slave --Ed]</i>.
+	</p>
+	<itemcache name="2.617" itemlimit="1" text="Molhern's Smithy"/>
+	<p>
+		When you have made the necessary adjustments to your Adventure Sheet, <goto section="97"/>.
+	</p>
+</section>

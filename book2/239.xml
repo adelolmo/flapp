@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="239">
+	<p>
+		The ship sails out of Metriciens harbour. On only the first day out, the quartermaster says something ominous: &#8216;I didn&#8217;t like the look of those fellows that watched us loading the cargo. Foreign-looking types they were.&#8217;
+	</p>
+	<p><random type="travel"/>:</p>
+	<outcomes>
+		<outcome range="2-6" section="670">Attacked by pirates</outcome>
+		<outcome range="7-12" section="140" book="1">Your fears are unfounded</outcome>
+	</outcomes>
+</section>

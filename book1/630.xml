@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="630">
+	<p>
+		You struggle deeper into the forest until you come to a thick wall of impenetrable thorn bushes. Circling it, you find there is a break in the hedge, but it is filled by a large tree.
+	</p>
+	<p>
+		To your surprise, a face forms in the trunk, and speaks in a woody voice, &#8216;None can pass - begone, human!&#8217;
+	</p>
+	<p>
+		<if codeword="Apple">
+			If you have the codeword Apple, <goto section="594"/>.
+		</if>
+		If not, you can:
+	</p>
+	<choices>
+		<choice section="678">Leave the forest</choice>
+		<choice section="570">Attack the tree</choice>
+		<choice section="237">Try to persuade it to let you pass</choice>
+	</choices>
+</section>

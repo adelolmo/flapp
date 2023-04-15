@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="520">
+	<p>
+		The men say nothing, only look at you reproachfully as you get into the cutter and row away from the becalmed ship. &#8216;If looks were curses,&#8217; the first mate says in your ear, &#8216;we&#8217;d fry in hell tonight.&#8217;
+	</p>
+	<p>
+		<lose ship="t">
+			Cross the vessel&#8217;s details off
+		</lose>
+		your Ship&#8217;s Manifest. After days at sea the others have succumbed to thirst and fever. You are left to bend doggedly over the oars, determined to struggle for life until the gods see fit to snuff out your wretched life.
+	</p>
+	<p>
+		At last you see a stretch of shoreline. You shake the mate&#8217;s arm, trying to rouse him, but he is stiff and cold. The others too - all are dead. You alone survive to stagger ashore.
+	</p>
+	<p><goto section="313"/>.</p>
+</section>

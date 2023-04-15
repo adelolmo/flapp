@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="15">
+	<p>
+		A faint screeching from far above reaches your ears. Squingintg into the mists that shroud the peaks, you can make out spindly shadows circling in the skies.
+	</p>
+	<choices>
+		<choice section="157">Look for shelter</choice>
+		<choice section="207">Stand your ground</choice>
+	</choices>
+</section>

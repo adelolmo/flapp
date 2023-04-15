@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="634">
+	<p>
+		You strike up a conversation with a dwarf who is going in the same direction. He works as a jester in the wintertime, usually spending a month at each castle he visits. &#8216;My jokes and tricks mean I am much in demand.&#8217;
+	</p>
+	<p>&#8216;And in the summer?&#8217;</p>
+	<p>
+		&#8216;Alas, no one has time for feasts when the weather is fine.&#8217; His friendly wit inspires you. <training ability="charisma" dice="1"/>, and if you get higher than your CHARISMA score then add 1 to it. Then <goto section="223"/>.
+	</p>
+</section>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="118">
+	The lookout spots an island off the starboard bow. Nothing is
+	recorded on the charts for this region, but perhaps that isn&#8217;t
+	surprising. Few ships return from the dread Sea of Hydras.
+	<choices>
+		<choice section="413">Explore the island</choice>
+		<choice section="278">Sail on</choice>
+	</choices>
+</section>

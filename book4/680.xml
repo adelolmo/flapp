@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="680">
+	<p>
+		You meet a troupe of people, marching through the steppes. There are nomads, townsfolk, even sailors by the look of them. Their clothes are in tatters, but they dance along tirelessly, a crazed, uncontrolled look in all their eyes.
+	</p>
+	<p>
+		At their head, a white centaur with a long white beard leads them a merry dance. Half horse, half man, he plays a haunting melody on a silver flute. The music is so beguiling that it fills your heart with a terrible, yearning desire to follow him, wherever ever he may go.
+	</p>
+	<p><difficulty ability="magic" level="18"/>.</p>
+	<outcomes>
+		<success section="522"/>
+		<failure section="408"/>
+	</outcomes>
+</section>
+

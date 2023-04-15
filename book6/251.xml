@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="251">
+	<p>
+		You put the flute to your lips - and immediately start coughing and spluttering as though your lungs are about to split. You failed to realize that an ancient heirloom like this is often left unused for years, gathering a lot of dust in that time. As you collapse helplessly, gasping for a cup of water, the other courtiers look down their noses at you.
+	</p>
+	<p>
+		Masayori leads you outside on to the veranda, where you slowly recover. &#8216;Bad luck,&#8217; he says. &#8216;I&#8217;d say your career as a courtier is pretty much over. No one ever recovered from a public disgrace like that.&#8217;
+	</p>
+	<p>
+		Sure enough, you later hear that your Junior Court Rank title has been revoked.
+		<lose title="Junior Court Rank">Cross it off</lose>
+		your Adventure Sheet and then <goto section="79"/>.
+	</p>
+</section>

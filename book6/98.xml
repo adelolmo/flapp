@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="98">
+	By the side of the road, a signpost has rotted and fallen in the
+	long grass. You turn it over and read:
+	<i>The House of the Ugly Women</i>.
+	Three roads meet at this point, but you cannot be sure
+	which route the signpost originally marked out.
+	<choices>
+		<choice section="194">Go south-east towards Chompo</choice>
+		<choice section="30">Head in the direction of Narai</choice>
+		<choice section="146">Take the third path</choice>
+		<choice section="282">Strike out cross-country</choice>
+	</choices>
+</section>

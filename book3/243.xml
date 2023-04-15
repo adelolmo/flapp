@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="243">
+	The cook is delighted. The fish is rated a great delicacy by the
+	dons of Dweomer. You are rewarded with <gain shards="200"/>.
+	<lose item="smoulder fish">
+		Cross the <b>smoulder fish</b> off
+	</lose>
+	your list of possessions and then <goto section="607"/>.
+</section>

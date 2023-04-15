@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="26">
+	<p>
+		You are sailing in the coastal waters near the estuary of the River Rese.
+	</p>
+	<choices>
+		<choice book="3" section="475">Steer south to the sea</choice>
+		<choice book="2" section="335">Steer east towards Ringhorn</choice>
+		<choice section="60">Steer west along the coast</choice>
+	</choices>
+</section>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="115">
+	If you are on a quest for the temple of Nagil, to bring them the head of an escaped ghoul, <goto section="446" force="f"/>. If you do not want to look for the ghoul yet, or have already done so, <goto section="226"/>.
+</section>

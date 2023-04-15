@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="656">
+	<p>
+		The woman takes a spinning leap towards you, whirling through the air so fast that her attacks comes thick and fast in a blur of furious motion. If you gave her a weapon, add its COMBAT bonus (if any) to her COMBAT and Defence scores <i>[this has been done already --Ed]</i>.
+	</p>
+	<fight name="Warrior Maid" combat="8" defence="16" stamina="18" useCache="6.635"/>
+	<choices>
+		<choice section="746">Fight and win</choice>
+		<choice flee="t" section="36">Surrender</choice>
+	</choices>
+</section>

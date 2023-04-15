@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="148">
+	<p>
+		The high priest is pleased to accept you into the church.
+		<group>
+			<text>Write Ebron in the God box of your Adventure Sheet</text>
+			<tick god="Ebron"/>
+			<lose title="Chosen One of Nagil"/>
+		</group>
+		- you are now a fully fledged initiate of the Church of Ebron.
+		<i>[If you had the title Chosen One of Nagil, it is now lost]</i>.
+		<goto section="509"/>.
+	</p>
+</section>

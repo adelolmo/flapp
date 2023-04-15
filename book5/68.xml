@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="68">
+	<p>The giant chameleon is slain.</p>
+	<p><difficulty ability="magic" level="13"/>.</p>
+	<outcomes>
+		<success section="552"/>
+		<failure section="291"/>
+	</outcomes>
+</section>

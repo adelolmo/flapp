@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="200">
+	You are travelling through a region of fields and pastures in
+	central Golnir.
+	<choices>
+		<choice section="333">Go east</choice>
+		<choice section="124">Go south to the Whistling Heath</choice>
+		<choice section="280">Go west</choice>
+		<choice section="71">Go north to Wheatfields</choice>
+	</choices>
+</section>

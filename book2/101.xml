@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="101">
+	This part of the country is infamous as the haunt of brigands,
+	smugglers and witches. <random type="travel"/>:
+	<outcomes>
+		<outcome range="2-6" section="360">Smugglers</outcome>
+		<outcome range="7" section="268">Uneventful journey</outcome>
+		<outcome range="8-9" section="337">Brigands&#8217; trap</outcome>
+		<outcome range="10-12" section="499">A coven meeting</outcome>
+	</outcomes>
+</section>

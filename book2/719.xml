@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="719">
+	<p>
+		You go out into the meadows as soon as the sun rises. Early as you are, the place is already teeming with other prospectors and you are forced to make do with a patch of hard soil that you sift through until late afternoon.
+	</p>
+	<p><random/>:</p>
+	<outcomes>
+		<outcome range="2-4" section="395"/>
+		<outcome range="5-8" section="420"/>
+		<outcome range="9-12" section="445"/>
+	</outcomes>
+</section>

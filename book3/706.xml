@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="706">
+	<p>
+		You spend a pleasant few days on the Island of Fire. &#8216;Ah, &#8217;tis an earthly paradise,&#8217; declares the first mate, sucking milk from a coconut while he is fanned by two lovely island maidens.
+	</p>
+	<p>
+		You suck your teeth, thinking that perhaps you&#8217;d better get your men back to sea before their discipline atrophies altogether.
+	</p>
+	<p>
+		<rest stamina="2d">Recover 2-12 Stamina</rest> if wounded
+		and then <goto section="479"/>.
+	</p>
+</section>

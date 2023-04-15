@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="493">
+	<p>
+		The pirates do not stand on ceremony. You are hauled out on to the high terrace of the citadel and impaled on an iron spike. Your body will hang there, staring sightlessly out to sea, until the carrion birds have eaten their fill.
+	</p>
+	<p>
+		Lose the codewords
+		<lose codeword="Colour">Colour</lose> and
+		<lose codeword="Crocus">Crocus</lose> if you had them, then
+		<goto section="123"/>.
+	</p>
+</section>

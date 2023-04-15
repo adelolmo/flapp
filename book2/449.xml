@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="449">
+	<p>
+		These militiamen are employed by the mercantile guilds of Ringhorn and Metriciens to keep the roads safe. &#8216;If you&#8217;re worried about thieves, you should invest in a town house and leave some of your money at home,&#8217; advises the militia sergeant.
+	</p>
+	<p>
+		&#8216;Or better still, invest at the merchants&#8217; guild,&#8217; suggests the captain.
+	</p>
+	<p><goto section="55"/>.</p>
+</section>

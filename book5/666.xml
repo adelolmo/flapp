@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="666">
+	<p>
+		Several people stop to stare at you in astonishment. Within a matter of seconds you have been surrounded by twenty or more of the Soulwatch, the black-robed, demon-masked religious police of the Church of Ebron. You are arrested for supreme heresy, the worst conceivable crime in Uttaku. There is no discussion and no trial, and no way out, even if you were the Faceless King himself.
+	</p>
+	<p>You are hauled off to the Red Garden. <goto section="170"/>.</p>
+</section>

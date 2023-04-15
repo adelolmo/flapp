@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="663">
+	<p>
+		You step into the darkness. It is much colder here, a marrow-freezing, bitter, biting cold that reaches into your chest with talons of frosty iron and squeezes your heart.
+	</p>
+	<p>
+		<if not="t" item="?" tags="light">
+			You must have a <b>lantern</b> or <b>candle</b> to proceed, otherwise it is too dark and you must turn back - <goto section="22"/>.
+		</if>
+	</p>
+	<p>
+		If you have a light source available, you press on into a maze of tunnels.
+	</p>
+	<p>
+		<if item="?" tags="light">
+			<difficulty ability="scouting" level="13"/>.
+		</if>
+	</p>
+	<outcomes>
+		<success section="273"/>
+		<failure section="140"/>
+	</outcomes>
+</section>

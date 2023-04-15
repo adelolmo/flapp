@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="365">
+	<p>
+		There is only one thing to be said for the dungeon of Castle Ravayne: there aren&#8217;t any rats. It&#8217;s far too uncomfortable for rats.
+	</p>
+	<p>
+		<lose item="*" shards="*">
+			Lose all your possessions and cash
+		</lose>. Also
+		<lose title="Paladin of Ravayne">
+			lose the title Paladin of Ravayne
+		</lose>
+		if you had it.
+	</p>
+	<p>
+		<if codeword="Bashful">
+			If you have the codeword Bashful, <goto section="430"/>.
+		</if>
+		If not <goto section="455"/>.
+	</p>
+</section>

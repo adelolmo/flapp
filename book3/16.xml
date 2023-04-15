@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="16">
+	<p>
+		You can take their three
+		<weapon name="sword" quantity="3">
+			<b>swords</b>
+		</weapon>
+		and the <gain shards="107"/> they have in their money pouches. One of them also had a
+		<item name="mariner's ruttier">
+			<b>mariner&#8217;s ruttier</b>
+		</item>
+		tucked into his breeches; he clearly won&#8217;t have any use for it now.
+	</p>
+	<p>
+		When you have finished going over the bodies,
+		<lose codeword="Church">delete the codeword Church</lose> and
+		<goto section="44"/>.
+	</p>
+</section>

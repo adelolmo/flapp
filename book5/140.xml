@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="140">
+	<p>
+		She leads you down a hidden, winding path. After some time, the ground suddenly gives way beneath your feet, and you sink into a patch of quicksand! The old woman chuckles evilly and disappears into a grove of mangrove trees.
+	</p>
+	<p>
+		You are sinking fast - already the swampy mud is up to your waist. Desperately, you reach out for the branch of a gnarled tree.
+	</p>
+	<p>
+		<rankcheck add="2"/>.
+		<success>
+			If the result is less than or equal to your Rank,
+			<goto section="73"/>.
+		</success>
+		<failure>If not, <goto section="632"/>.</failure>
+	</p>
+</section>

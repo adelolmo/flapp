@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="410">
+	&#8216;Oh, what a load of rotten leaves!&#8217; exclaims the tree. &#8216;Anyone can see you&#8217;re as bad as the next human. In fact, I&#8217;d say you&#8217;re probably a... a lumberjack! Now, get lost!&#8217;
+	<choices>
+		<choice section="678">Leave the forest</choice>
+		<choice section="570">Attack the tree</choice>
+	</choices>
+</section>

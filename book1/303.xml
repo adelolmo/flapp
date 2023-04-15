@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="303">
+	<p>
+		Cross the <lose item="salt and iron filings"/> from your Adventure Sheet. As fast as you can, you lay out a line of powder in front of you. The ghoul gives a moaning wail and shrinks back, unable to cross the line of salt and iron filings. Quickly you run around the ghoul, encircling it with the powder. The creature lunges for you but it cannot cross the line - you keep it at bay at every turn. Soon it is completely trapped. Casually, you sit on a tombstone and wait for sunrise. When it comes, the ghoul is burnt to a crisp. You take the rotting, charred head and make your way back into town.
+	</p>
+	<p>Note you have a <item name="ghoul's head"/> and <goto section="100"/>.</p>
+</section>

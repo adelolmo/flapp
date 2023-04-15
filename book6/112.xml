@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="112">
+	<p>
+		You may have found Mister Dragon&#8217;s one weak spot - as long as you strike exactly right.
+	</p>
+	<p><random/>.</p>
+	<outcomes>
+		<outcome range="2-8" section="17"/>
+		<outcome range="9-12" section="454"/>
+	</outcomes>
+</section>

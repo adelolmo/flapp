@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="152" dock="Dweomer">
+	<p>
+		Note on your Ship&#8217;s Manifest that your ship is docked at Dweomer harbour.
+	</p>
+	<p><goto section="100"/>.</p>
+</section>

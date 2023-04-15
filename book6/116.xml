@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="116">
+	<p>
+		The vampires lunge at you with outstretched arms like sleepwalkers in the throes of a homicidal nightmare. Fight them one at a time.
+	</p>
+	<fight name="First Vampire" combat="6" defence="10" stamina="14"/>
+	<fight name="Second Vampire" combat="6" defence="10" stamina="14"/>
+	<fight name="Third Vampire" combat="6" defence="10" stamina="14"/>
+	<fight name="Fourth Vampire" combat="6" defence="10" stamina="14"/>
+	<fight name="Fifth Vampire" combat="6" defence="10" stamina="14"/>
+	<p>If you defeat them all, <goto section="91"/>.</p>
+</section>

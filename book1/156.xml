@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="156">
+	<p>
+		The priest looks you over. &#8216;I&#8217;m afraid we have no one skilled enough to cure you. However, I believe the Temple of Maka in Yellowport might be able to help. And the holy waters at Blessed Springs are known to be efficacious in this kind of case.&#8217;
+	</p>
+	<p><goto section="100"/>.</p>
+</section>

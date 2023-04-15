@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="183">
+	<p>
+		With a terrifying screech, a blazing creature drops directly out of the sky. It collides with a tree, throwing up a fountain of white sparks, and rebounds towards you. You catch a fleeting glimpse of a slavering muzzle, muscular body, and wet fur engulfed in dazzling light. Then it strikes.
+	</p>
+	<p>
+		<if profession="priest">
+			If you are a Priest,
+			<goto section="208">turn immediately to 208</goto>.
+		</if>
+		Otherwise you must fight this creature.
+		<set var="s" value="shards/1000"/>
+		<tick special="defence" bonus="s" hidden="t"/>
+	</p>
+	<fight name="Thunder Beast" combat="15" defence="20" stamina="20"/>
+	<p>
+		When it hits you, reduce the damage inflicted by 1 for every 1000 Shards you are carrying. (This is because its electrical attacks are dissipated by strings of cash.)
+		<i>[Your Defence has been temporarily increased by this amount instead --Ed]</i>
+	</p>
+	<p>
+		If you kill the thunder beast, it vanishes in a mass of hissing sparks; <goto section="551"/>.
+	</p>
+</section>

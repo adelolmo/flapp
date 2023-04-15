@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="420">
+	<p>
+		You have almost given up hope when you dig up a speck of gold worth <tick shards="2"/>.
+	</p>
+	<p>
+		&#8216;What confounded luck!&#8217; says a nearby prospector. &#8216;That means there&#8217;s a good chance of a large nugget buried there somewhere.&#8217;
+	</p>
+	<p>You want to go on digging, but the daylight is going.</p>
+	<p>
+		&#8216;I&#8217;ll help you dig first thing tomorrow, if you like,&#8217; says the prospector, as you walk back to town.
+	</p>
+	<choices>
+		<choice section="470">Try again tomorrow</choice>
+		<choice section="104">Leave Goldfall</choice>
+	</choices>
+</section>

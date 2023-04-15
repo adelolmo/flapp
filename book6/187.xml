@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="187">
+	<p>
+		The tengu king throws aside dignity to teach you the art of concealment.
+	</p>
+	<p>
+		&#8216;You must become a shadow,&#8217; he says. &#8216;Slide across the ground without weight and you will make no sound. Press yourself down until you have no thickness. Melt into the background until you scarcely exist.&#8217;
+	</p>
+	<p>
+		It sounds esoteric, but it seems to work.
+		<gain ability="thievery" amount="1">
+			Increase your THIEVERY score by 1
+		</gain>,
+		then <goto section="259"/>.
+	</p>
+</section>

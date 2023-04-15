@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="135">
+	<!-- modified so that even 'kept' weapons can be broken -->
+	<tick special="weaponlock" hidden="t"/>
+	Mister Dragon parries whatever weapon you are using by
+	catching it between the palms of his hands. Then, with only a
+	slight shrug of the shoulders, he snaps it in two.
+	<group force="t">
+		<text>Remove that weapon</text>
+		<tick weapon="?" using="t" tag="keep" removetag="keep"/>
+		<lose weapon="?" using="t"/>
+	</group>
+	from your list of possessions and <goto section="719"/>.
+</section>

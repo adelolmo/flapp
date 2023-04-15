@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="415">
+	<p>
+		You emerge from a doorway set in the side of a tree. You now seem to be standing in a forest. The foliage overhead is so thick that you can hardly tell if it is day or night.
+	</p>
+	<p><goto section="697"/>.</p>
+</section>

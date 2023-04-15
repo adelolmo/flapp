@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="228">
+	You have learnt much from your battle in the arena. You
+	<gain ability="rank" amount="1">gain a Rank</gain>
+	(note it on your Adventure Sheet).
+	<random dice="1" var="x"/> and
+	<gain ability="stamina" amount="x">add the result</gain> to your total, unwounded Stamina score.
+	Remember that an increase in Rank also increases your Defence. The spectators applaud your victory - note the title <gain title="Arena Champion">Arena Champion</gain> in the Titles box. Now <goto section="274"/>.
+</section>

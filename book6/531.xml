@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="531">
+	<p>
+		As you tiptoe past you discover why he didn&#8217;t notice you. He is long past caring about the affairs of this world. His dead dry limbs are held up by a giant cobweb, making him look like a grotesque puppet left hanging in front of the shrine.
+	</p>
+	<p>
+		The web tells you what to look for - and sure enough, crouching just inside the entrance, you make out a tense clump of bristly legs and tiny jewel-like eyes.
+	</p>
+	<choices>
+		<choice section="547">Attack the creature</choice>
+		<choice section="398">Run away</choice>
+	</choices>
+</section>

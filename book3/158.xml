@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="158">
+	<p>
+		Somehow you manage to keep your head above water. You swim until your limbs feel as though they are caught in a net. You struggle on, mortally weak but determined not to give up.
+	</p>
+	<p>
+		A ship heaves into view. You raise your arm and give a feeble cry. By some miracle you are spotted, and the ship steers towards you. You are hauled aboard, wrapped in blankets, and given a bowl of hot soup.
+	</p>
+	<p>
+		To your immense relief, you have been rescued by merchants from Metriciens.
+	</p>
+	<p>
+		&#8216;We are bound for Dweomer and then home,&#8217; they say. &#8216;We&#8217;ll drop you off wherever you like.&#8217;
+	</p>
+	<choices>
+		<choice section="100">Get off at Dweomer</choice>
+		<choice book="2" section="48">Continue on to Metriciens</choice>
+	</choices>
+</section>

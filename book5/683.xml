@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="683">
+	<p>
+		<if shards="75">
+			Cross off the <lose shards="75"/> and write
+			<tick blessing="luck"/> in the Blessings box on your Adventure Sheet.
+		</if>
+		The blessing works by allowing you to reroll any dice result once. (This does not have to be an ability roll. You could also use it to reroll an encounter result that you didn't want.) When you use the blessing, cross it off your Adventure Sheet. You can have only one Luck blessing at any one time.
+	</p>
+	<p>
+		When you are ready, the gypsies pack up and leave. <goto section="211"/>.
+	</p>
+</section>

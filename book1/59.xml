@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="59">
+	Your deft fingers find a false spine of carved wood among the titles in the bookcase. Pressing it, you hear a click and the bookcase swings out from the wall. Beyond lies a hidden room where you find a <item name="verdigris key"/>. Note this on your Adventure Sheet if you decide to take it.
+	<tick codeword="StillInYellowport" hidden="t"/>
+	<choices>
+		<choice section="10">Leave at once</choice>
+		<choice section="386">Go upstairs to find Lauria</choice>
+		<choice section="534">Wait for her to return</choice>
+	</choices>
+</section>

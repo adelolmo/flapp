@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="601">
+	<p>
+		The palace, the home of Protector General Grieve Marlock, is an imposing building of astonishing luxury. You get as far a huge reception area, manned by many guards and staffed by government officials.
+	</p>
+	<p>
+		<if title="Protector of Sokara">
+			If you have the title Protector of Sokara, <goto section="669"/>.
+		</if>
+		If not, you are thrown out. <goto section="100"/>.
+	</p>
+</section>

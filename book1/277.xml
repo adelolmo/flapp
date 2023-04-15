@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="277">
+	<p>
+		A patrol of militiamen - mercenaries in the pay of the dictator, General Grieve Marlock - stop you in the street.
+	</p>
+	<p>
+		<if codeword="Assassin">If you have the codeword Assassin, <goto section="221"/> immediately.</if>
+	</p>
+	<p>
+		<if title="Protector of Sokara">
+			<tick codeword="StillInYellowport" hidden="t"/>
+			If not, but you are a Protector of Sokara, they greet you politely and salute. You return to the city centre without incident - <goto section="10"/>.
+		</if>
+	</p>
+	<p>
+		Otherwise they decide you will be arrested unless you pay 15 Shards as &#8216;taxes&#8217;. If you refuse, or don&#8217;t have 15 Shards, <goto section="538" force="f"/>.
+		<if shards="15">
+			<tick codeword="StillInYellowport" hidden="t"/>
+			If you hand over the money, <lose shards="15">cross it off</lose> and the militiamen leave you alone - <goto section="10">turn back to 10</goto>.
+		</if>
+	</p>
+</section>

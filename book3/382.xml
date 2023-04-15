@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="382">
+	<p>
+		&#8216;Ah,&#8217; says Lauria as you approach her table. &#8216;I don&#8217;t think I had the chance to introduce my father the last time you were here...&#8217;
+	</p>
+	<p>You bow to him. &#8216;Sir.&#8217;</p>
+	<p>&#8216;Father is the Warden of All Hellions College,&#8217; says Lauria.</p>
+	<p>
+		You&#8217;ll get further playing in cool this time. &#8216;Are you aware,&#8217; you ask Lauria, &#8216;that because of you I was whipped half to death? Look, I still bear the scars.&#8217;
+	</p>
+	<p>
+		&#8216;Please,&#8217; says her father, &#8216;I do not care to have you expose yourself to me over dinner. And in any case, those can hardly be called scars.&#8217;
+	</p>
+	<p>
+		He traces his finger over your injuries, which heal completely. <gain ability="charisma" amount="1">Add 1 to your CHARISMA</gain>.
+	</p>
+	<p>
+		&#8216;There,&#8217; says Lauria. &#8216;Now perhaps you&#8217;ll stop being such a pest.&#8217; But she says it with a smile.
+	</p>
+	<p>
+		<lose codeword="Anger">
+			Lose the codeword Anger
+		</lose> and <goto section="571"/>.
+	</p>
+</section>

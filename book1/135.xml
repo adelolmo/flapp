@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="135">
+	The shores of the Lake of the Sea Dragon are swept by ochre waves, and the air smells foul. A sickly, pale green seaweed is the only vegetation that can survive in the sulphurous waters of the lake. A small fishing village, Cadmium, has grown up on the shores of the lake.
+	<choices>
+		<choice section="382">Talk to a fisherman</choice>
+		<choice section="292">Visit the local market</choice>
+		<choice section="203">Hire a boat and go fishing</choice>
+		<choice section="474">Go north to the Coldbleak Mountains</choice>
+		<choice section="548">North east into the farmlands</choice>
+		<choice section="278">South east into open countryside</choice>
+		<choice section="576">South, following the Stinking River</choice>
+		<choice section="387">West along the road</choice>
+	</choices>
+</section>

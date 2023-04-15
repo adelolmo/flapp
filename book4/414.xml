@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="414">
+	<p><lose codeword="Dirty">Lose the codeword Dirty</lose>.</p>
+	<p>
+		You wait until nightfall before approaching the villa. Its white, marbled walls seem to glow in the moonlight. Four guards patrol the perimeter.
+	</p>
+	<p>
+		&#8216;Psst! a voice hisses from the darkness, and Luroc Bans steps up beside you. He is dressed completely in black, and is carrying a grappling iron.
+	</p>
+	<p>
+		&#8216;We go in over the walls - there&#8217;s an inner courtyard. Floril will meet us inside. She should have got the keys to the vault by now. Just follow me.&#8217;
+	</p>
+	<choices>
+		<choice section="626">Follow Luroc</choice>
+		<choice section="667">Pull out</choice>
+		<choice section="601">Pull out and warn Avar Hordeth</choice>
+	</choices>
+</section>

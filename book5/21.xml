@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="21">
+	<p>
+		The Blender of Spices wears a mask shaped like the face of a hugely fat eunuch, grinning unpleasantly. It is rather disturbing. <if codeword="Ethereal">If you have the codeword Ethereal, <goto section="362"/>.</if> If not, <goto section="467"/>.
+	</p>
+</section>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="309" image="309.jpg">
+	<p>
+		You have entered a long, dark and shadowy hall. Torches set into brackets on the wall give off a flickering, reddish light.
+	</p>
+	<p>
+		At the far end, sitting behind a massive oaken table, are five cowled figures. The one in the middle throws back his hood to reveal a shiny, black, featureless mask.
+	</p>
+	<p>
+		&#8216;Welcome,&#8217; he says in a thickly accented voice, &#8216;to the Brotherhood of the Night.&#8217;
+	</p>
+	<p>
+		He explains that the brotherhood is looking for new members, and that you might be worthy of joining.
+	</p>
+	<choices>
+		<choice section="616">Apply for membership</choice>
+		<choice section="633">Leave</choice>
+	</choices>
+</section>

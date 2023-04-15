@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="746">
+	With silent efficiency, the highwaymen divest you off your
+	purse. <lose shards="*">Cross off all the money</lose>
+	on your Adventure Sheet, then <goto section="55"/>.
+</section>

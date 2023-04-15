@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="452">
+	<p>
+		'Not at all, friend,' you reassure him. 'I heard there was a disused mine up here, waiting to be worked. I deal with such problems and opportunities and I thought I might be able to help out.'
+	</p>
+	<p>
+		'Harrumph ... I suppose you might be able to help. My late father - may the earth preserve him - bequeathed this mining equipment to his three sons. One half of the carts to me, one quarter to my older brother, and one sixth part to my younger brother. I was Pa's favourite, you see. But there are only eleven carts! None are to be sold or given away. Until we work out how to divide the carts, we cannot work the mine. Can you suggest something?'
+	</p>
+	<p>What will you reply?</p>
+	<choices>
+		<choice section="577">Cut the carts into pieces</choice>
+		<choice section="531">Borrow a cart</choice>
+		<choice section="705">Go and dig for earthworms, you ugly runt</choice>
+		<choice section="275">I don't know</choice>
+	</choices>
+</section>

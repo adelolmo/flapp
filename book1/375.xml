@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="375">
+	<p>
+		You tell the provost you have important news, best heard by him alone. He takes you to a side chamber without his guards.
+	</p>
+	<p>
+		<tick codeword="StillInYellowport" hidden="t"/>
+		If you want to attempt to slay the provost marshal, <goto section="344" force="f"/>. Otherwise, you tell him some old news and he throws you out - <goto section="10"/>.
+	</p>
+</section>

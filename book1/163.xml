@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="163">
+	<p>
+		You hold up the <b>pirate captain&#8217;s head</b>. The guildmaster looks up expectantly, but his face quickly darkens.
+	</p>
+	<p>
+		&#8216;This is not Amcha!! Everyone knows he has only one eye - this poor fellow is probably some beggar you killed in an alley somewhere. You think you can swindle the guild with this pathetic ruse! Out! Get out! And don&#8217;t come back until you bring me the head of Amcha One-Eye!&#8217;
+	</p>
+	<p>
+		The guildmaster has you removed by his guards, and you are dumped into the street. <goto section="100"/>.
+	</p>
+</section>

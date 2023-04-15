@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="412">
+	<p>
+		You dodge past the lurching beetles, avoiding their antlers. One of them, however, takes a chunk out of your leg. <lose stamina="1d">Lose 1-6 Stamina</lose> (the roll of one die).
+	</p>
+	<p>
+		If you still live, you throw yourself into the hole, and crawl forward. You come out in a small, square chamber, deep within the pyramid. <goto section="496"/>.
+	</p>
+</section>

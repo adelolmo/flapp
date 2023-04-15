@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="183">
+	<p>
+		The interior of the tomb is lighted by a greyish glow. A corpse in ancient knightly regalia lies on a stone slab. Awakened by your approach, it sits up. Cobwebs veil its eye sockets and its skin looks like the bark of a dead tree. It extends an accusing finger.
+	</p>
+	<p>
+		&#8216;For disturbing my slumber I should strike you dead where you stand,&#8217; it intones in a gravid voice. &#8216;But there is a way for you to earn a reprieve.&#8217;
+	</p>
+	<choices>
+		<choice section="298">Turn and run</choice>
+		<choice section="46">Wait to hear what it suggests</choice>
+	</choices>
+</section>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="416" boxes="1">
+	<if ticks="0">
+		If the box above is empty,
+		<tick>put a tick in it now</tick> and <goto section="566"/>.<text/>
+	</if>
+	<elseif item="map of the mountains">
+		If the box is ticked and you have a <b>map of the mountains</b>,
+		<goto section="638"/>.<text/>
+	</elseif>
+	<else>
+		If the box is ticked and you do not have a <b>map of the mountains</b>, <goto section="491"/>.
+	</else>
+</section>

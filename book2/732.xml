@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="732">
+	<p>
+		The net is hauled up out of the water and bundled aboard. Despite her slender frame, the mermaid struggles like a frenzied shark, thrashing the deck with her tail and spitting curses in the liquid tongue of the undersea folk.
+	</p>
+	<p>
+		The mate steps forward and cracks her over the head with a cudgel, laying her out cold. A hasty search yields only a <item name="mermaid's comb" sell="50"><b>mermaid&#8217;s comb</b></item> and <item name="coral-red tresses" sell="50"/>. Either of these can be sold at any market for 50 Shards.
+	</p>
+	<p>
+		At the mate&#8217;s advice, you order the mermaid thrown back into the sea before she can come round and lay a curse on the ship. As she sinks below the waves, you raise the mainsail and resume your voyage without further delay. <goto section="335"/>.
+	</p>
+</section>

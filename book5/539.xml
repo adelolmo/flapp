@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="539">
+	<p>
+		You are travelling in Old Harkuna, just west of the River Rese delta. A castle stands on a low hill close by.
+	</p>
+	<choices>
+		<choice section="20">Go to the castle</choice>
+		<choice section="31">Head north into the Singing Forest</choice>
+		<choice section="12">Go west across country</choice>
+		<choice section="150">Follow the road to Ringhorn</choice>
+		<choice section="222">Head east across country to the river</choice>
+	</choices>
+</section>
+

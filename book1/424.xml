@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="424">
+	<p>
+		The ship&#8217;s captain says, &#8216;I&#8217;ll take you but you should be warned - it&#8217;s a dangerous place we&#8217;re travelling to. You&#8217;d better be sure you can handle it - if you&#8217;re not at least a master of your profession, I&#8217;d advise against. It&#8217;s up to you, though.&#8217;
+	</p>
+	<p>
+		You must have <i>Over the Blood-Dark Sea</i> to travel to Copper Island.
+		<if book="3">
+			If you still want to go,
+			<group>
+				<text>cross off the 30 Shards and turn to <b>99</b></text>
+				<lose shards="30"/>
+				<goto book="3" section="99"/>
+			</group> in that book.
+		</if>
+		If you decide not to go, <return>return to the section you came from</return>.
+	</p>
+</section>

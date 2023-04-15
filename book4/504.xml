@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="504">
+	<p>
+		You try to make a joke about the situation, but they take it as an insult to the fighting quality of their tribe, and their faces suddenly set in hard lines, like stone. They seize you, take all your money and possessions (<lose item="*" shards="*">cross them off</lose> your Adventure Sheet) and tie your hands behind your back. Then they set you running, and chase after on their huge birds, which they encourage to kick and peck at you. <lose stamina="3d">Lose 3-18 Stamina points</lose> (the roll of three dice).
+	</p>
+	<p>
+		If you still live, eventually they tire of their sport and ride off, leaving you half-alive and bleeding. You manage to loosen your bonds, but your situation is desperate, alone on the steppes with nothing.
+	</p>
+	<p><goto section="698"/>.</p>
+</section>

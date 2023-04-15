@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="693">
+	<p>
+		During an eclipse, when the sun is hidden and day becomes night, hideous straggle-haired crones with leathery wings suddenly drop out of the sky uttering shrill cries.
+	</p>
+	<p>
+		<if codeword="Judas">
+			If you have the codeword Judas, <goto section="587"/>.
+		</if>
+		If not, <goto section="605"/>.
+	</p>
+</section>

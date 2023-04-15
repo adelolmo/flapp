@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="179">
+	<p>
+		Darkness falls. Now, perhaps, it will be you with the advantage. You sneak in through a window at the back of the wizard's house.
+	</p>
+	<p><difficulty ability="thievery" level="14"/></p>
+	<outcomes>
+		<success section="483"/>
+		<failure section="433"/>
+	</outcomes>
+</section>

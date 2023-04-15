@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="331">
+	Inside the shrine there are many white cocoons strung high up
+	in the recesses above the rafters. Some are wrapped around
+	nothing but desiccated bones, others contain dead bodies well-preserved
+	by the venom that slew them. You also find a
+	<weapon name="warhammer" bonus="4"/>, a suit of
+	<armour name="splint armour" bonus="4"/> and
+	<gain shards="660"/>.
+	When you have taken whatever you want and perhaps said a quick prayer, you can leave:
+	<goto section="398"/>.
+</section>

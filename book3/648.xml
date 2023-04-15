@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="648">
+	<p>You are far out at sea with no land in sight.</p>
+	<p>
+		&#8216;The Feathered Lands lie south of here,&#8217; the helmsman mutters, &#8216;but will we ever see them? Not this side of the grave, I&#8217;ll wager!&#8217; You distract him from such gloomy thoughts by ordering a new course.
+	</p>
+	<choices>
+		<choice section="504">Steer north towards Golnir</choice>
+		<choice section="189">Steer south to Ankon-Konu</choice>
+		<choice section="42">Steer east</choice>
+		<choice section="244">Steer west</choice>
+	</choices>
+</section>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="35">
+	<p>They look up at you with eyes made bleary by drink.</p>
+	<p>
+		&#8216;It&#8217;s our old skipper,&#8217; says Mister Haywood, your erstwhile midshipman.
+	</p>
+	<p>
+		&#8216;Strike me blind!&#8217; says Fryer, once your trusted first mate. &#8216;I never thought to see you this side of hell.&#8217;
+	</p>
+	<choices>
+		<choice section="53">Threaten them</choice>
+		<choice section="130">Greet them amicably</choice>
+		<choice section="166">Preach at them</choice>
+	</choices>
+</section>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="173">
+	<p>
+		You scramble down to help the child. As you reach her, she looks up into your eyes, smiles, and vanishes. Then a boulder hurled from above strikes you on the back of the skull. <lose stamina="3"/>. If you are still alive, you spin around and see a blue-skinned troll. Its vicious grin fills your vision as it leaps to the attack.
+	</p>
+	<fight name="Troll" combat="6" defence="11" stamina="20"/>
+	<p>
+		If you win, <goto section="53"/>. If you lose, <goto section="7" dead="t"/>.
+	</p>
+</section>

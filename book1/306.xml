@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="306">
+	<p>
+		Something doesn&#8217;t feel right about the pearls. You realize a minor enchantment has been put on them - they are in fact tiny pebbles, made to look like pearls. You squeeze them in the palm of your hand, and they revert to their natural state.
+	</p>
+	<p>
+		&#8216;By the twin gods!&#8217; exclaims the young man. &#8216;Look at that! They were pebbles all along!&#8217;
+	</p>
+	<p>
+		You stare at him for a long while, fingering your weapon. The Sea Gypsy shifts uneasily from foot to foot, coughing nervously and hands you another bag of pearls. This time you are sure they are real. Note the <item name="bag of pearls"/> on your Adventure Sheet.
+	</p>
+	<p>
+		You take your leave, and resume your journey. <goto section="85"/>.
+	</p>
+</section>

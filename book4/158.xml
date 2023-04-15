@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="158">
+	<p><gain codeword="Deathless">Gain the codeword Deathless</gain>.</p>
+	<p>Kaschuf falls at last, well and truly dead.</p>
+	<p>
+		The villagers are overjoyed. The Lady Nastasya, whom Kaschuf had imprisoned, is freed to take up her position as Duchess of Vodhya. A fair is held to celebrate.
+	</p>
+	<p>
+		The duchess rewards you with <gain shards="750"/> and promises to spread the word about your heroic deads across the land. <gain ability="charisma" amount="1">Increase your CHARISMA by 1 point</gain>.
+	</p>
+	<p>After much festivity, you take your leave. <goto section="398"/>.</p>
+</section>

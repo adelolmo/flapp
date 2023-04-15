@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="674">
+	The Guildmaster in Marlock City promised a reward if you
+	brought him the head of Amcha One-Eye.
+	<choices>
+		<choice section="420">Go through with the plan to kill Amcha</choice>
+		<choice section="691">Let him live for now</choice>
+	</choices>
+</section>

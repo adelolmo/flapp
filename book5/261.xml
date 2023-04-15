@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="261">
+	To renounce the worship of Maka you must pay 15 Shards to the priesthood as compensation.
+	<if god="Maka"><if shards="15">
+			If you renounce your faith, pay the 15 Shards and
+			<group>
+				delete Maka from the God box
+				<lose shards="15"/>
+				<lose god="Maka"/>
+			</group>
+			on your Adventure Sheet.
+	</if></if>
+	When you have finished here, <goto section="142"/>.
+</section>

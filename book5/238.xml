@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="238">
+	<p>
+		You narrowly avoid tripping a pitfall trap that would have tipped you into a deep hole and collapsed the ceiling on top of you. Wiping the sweat from your brow, you peer into the gloom. Without a sound, a shape forms in front of you - a more intense shadow in the shadows.
+	</p>
+	<fight name="Wight" combat="12" defence="15" stamina="13"/>
+	<p>
+		If you win, the treasures of the tomb are yours. In a stone chest you find a
+		<item name="silver flute" group="5.238"/>, a
+		<item name="stone bracelet" group="5.238">
+			<curse name="Curse of Blighted Magic">
+				<effect ability="magic" divide="2"/>
+			</curse>
+		</item>, a
+		<item name="black axe" group="5.238"/>, a
+		<item name="gossamer net" group="5.238"/> and a
+		<item name="bag of gold" group="5.238"/>.
+		Write down what you wish to take and <goto section="118"/>.
+	</p>
+</section>

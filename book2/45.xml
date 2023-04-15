@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="45">
+	A branch in the path to your left leads back out of the Forest of
+	the Forsaken. The way ahead is overhung by low moss-sheathed
+	boughs.
+	<choices>
+		<choice section="23">Leave the forest</choice>
+		<choice section="366">Carry on along the path</choice>
+		<choice section="22">Go back the way you came</choice>
+	</choices>
+</section>

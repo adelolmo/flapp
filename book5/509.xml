@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="509" tag="temple">
+	The priests of Ebron can give you a blessing of Defence through Faith. The blessing will cost you 25 Shards. Or you can give up the worship of Ebron.
+	<choices>
+		<choice section="248" shards="25">Seek a blessing</choice>
+		<choice section="417">Renounce the worship of Ebron</choice>
+		<choice section="444">Leave the temple</choice>
+	</choices>
+</section>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="395">
+	<p>
+		<lose item="*" shards="*">
+			Cross off all your equipment and your money
+		</lose>. The man loads up a horse with your gear and canters away.
+	</p>
+	<p>
+		'You should learn to recognise a bluff, my friend!' he calls out, laughing.
+	</p>
+	<p>There were no hidden archers. <goto section="358"/>.</p>
+</section>

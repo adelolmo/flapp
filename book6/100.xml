@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="100">
+	<p>
+		You are in coastal waters off Oni Province, the north-western outpost of the Akatsurese empire.
+	</p>
+	<p>&#8216;What course, captain?&#8217; asks the helmsman.</p>
+	<choices>
+		<choice section="72">Make for Dragon Island</choice>
+		<choice section="309">Head for the Sea of Hydras</choice>
+		<choice section="224">Tack eastwards along the north coast</choice>
+		<choice section="250">Steer due south</choice>
+	</choices>
+</section>

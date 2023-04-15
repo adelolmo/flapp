@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="95">
+	<tick codeword="StillInYellowport" hidden="t"/>
+	You are greeted warmly and politely by the provost marshal who treats you as one if his own. However, there are no more missions, and after thanking you once again, he politely sends you on your way. <goto section="10">Return to 10</goto>.
+</section>

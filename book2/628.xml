@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="628">
+	A
+	<item name="green gem" sell="100"/>
+	is set into the serpent&#8217;s head. It takes all your
+	strength to prise it out of the bone in which it is set, but at last
+	you manage it. You can sell the <b>green gem</b> for 100 Shards at
+	any market (note that on your Adventure Sheet so you
+	remember) or you can keep it. <goto section="116"/>.
+</section>

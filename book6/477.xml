@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="477">
+	He is quite dead, but in their haste to rob him the highwaymen
+	missed a
+	<item name="rabbit's foot charm"><b>rabbit&#8217;s foot charm</b></item>,
+	a <item name="four-leaf clover"/>
+	and a <item name="silver horseshoe"/>.
+	Take these if you think they are worth having and then <goto section="671"/>.
+</section>

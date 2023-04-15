@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="527">
+	<p>
+		<set var="d" value="-defence"/>
+		The ghoul gives vent to a loud screech and lashes out with its dirt-caked claws.
+	</p>
+	<fight name="Ghoul" combat="7" defence="12" stamina="15"/>
+	<p>
+		<flee>
+			If you flee it will get a free
+			<lose stamina="2d">
+				parting blow<adjust amount="7"/>
+				<adjust amount="d"/>
+			</lose>
+			as you run off.
+		</flee>
+	</p>
+	<choices>
+		<choice section="506" flee="t">Turn and run</choice>
+		<choice section="544">Fight and win</choice>
+	</choices>
+</section>

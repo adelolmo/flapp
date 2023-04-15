@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="234" tag="temple">
+	Maka is the dread goddess of disease and famine, who must be
+	propitiated to ensure good harvests. When Maka is angry, the
+	crops are struck with pestilence and people go hungry. Her
+	temple is a high-gabled building of dark wood with narrow
+	leaded lights that admit only a dismal gloom to the interior of
+	the nave.
+	<choices>
+		<choice section="87">Become an initiate of Maka</choice>
+		<choice section="110">Renounce her worship</choice>
+		<choice section="133">Seek a blessing</choice>
+		<choice section="71">Leave</choice>
+	</choices>
+</section>

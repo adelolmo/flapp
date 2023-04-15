@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="374">
+	You forgot you were standing at the end of the headland. You
+	take a step back, lose your footing, and fall to your death on the
+	sharp rocks below. <goto section="123"/>.
+</section>

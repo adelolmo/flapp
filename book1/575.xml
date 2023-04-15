@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="575">
+	<p>
+		You hand him the <b>black dragon shield</b>.
+		<lose item="black dragon shield">
+			Cross it off
+		</lose>
+		your Adventure Sheet, and
+		<lose codeword="Axe">
+			lose the codeword Axe
+		</lose>.
+	</p>
+	<p>&#8216;You are indeed worthy,&#8217; he says.</p>
+	<p>&#8216;And will you teach me your fighting arts?&#8217; you ask.</p>
+	<p>&#8216;You have already learned all I can teach you,&#8217; he says.</p>
+	<p>
+		You realise that what he says is true - your defeat of the Black Dragon Knight has taught you much.
+		<gain ability="rank" amount="1">Gain 1 Rank</gain> and <random dice="1" var="x"/>. The score is the number of Stamina points you can
+		<gain ability="stamina" amount="x">add to your unwounded total</gain>, permanently. Also, don&#8217;t forget to increase your Defence by 1 as a result of your gain in Rank.
+	</p>
+	<p>You look up, but Yanryt the Son has gone.</p>
+	<p><goto section="400"/>.</p>
+</section>

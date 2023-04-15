@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="105">
+	You will have to fight it.
+	<fight name="Scorpion Shaman" combat="5" defence="8" stamina="9"/>
+	<fightdamage><tick codeword="ScorpionSting" hidden="t"/></fightdamage>
+	If you win, <goto section="532"/>. If you lose, your adventures are over unless you have a <resurrection>resurrection deal</resurrection>.
+</section>

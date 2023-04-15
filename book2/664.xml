@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="664">
+	A thick serpentine body with many heads rises up from behind
+	the rocks. The venom spilling from its jaws produces plumes of
+	acidic vapour where it touches the ground.
+	<choices>
+		<choice section="267">Fight the hydra</choice>
+		<choice section="290">Run away</choice>
+	</choices>
+</section>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="402">
+	<p>
+		As you step up to the arch of the tunnel, you notice that the air in the entrance shimmers with a bluish light. As you pass through it, you feel a momentary sense of dislocation. You continue on for hours, until you come to a ladder leading upward. You climb up through a hole in the ground, emerging from the side of a grassless hill. Then the hole closes up behind you! You cannot go back.
+	</p>
+	<p>Turn to <goto book="1" section="110"/>.</p>
+</section>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="500">
+	<p>
+		You pass through a village. A minstrel is standing on the village green singing a song:
+	</p>
+	<p>&#8216;I crept into a ruined castle,</p>
+	<p>Then ran away, by golly.</p>
+	<p>And how I nearly suffered</p>
+	<p>For my greed and my folly!</p>
+	<p>Something followed me, you see,</p>
+	<p>Across the windswept heather,</p>
+	<p>And it would&#8217;ve caught me, too,</p>
+	<p>If I hadn&#8217;t used a feather!&#8217;</p>
+	<p>
+		You cannot be bothered to listen to any more of this awful doggerel. <goto section="35"/>.
+	</p>
+</section>

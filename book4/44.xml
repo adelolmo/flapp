@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="44">
+	<p>
+		You are trekking across the endless steppes. Your vision is filled with vast blue skies, and tall grasses that stretch away in all directions, dotted with clumps of scrubby, ground-hugging vegetation.
+	</p>
+	<p>
+		After a time, you come to an area of marshy ground, fed by a trickling stream. Gnarled trees have taken root around the marsh.
+	</p>
+	<p><random type="travel" dice="2"/>.</p>
+	<outcomes>
+		<outcome range="2-5" section="707">A light in the marsh</outcome>
+		<outcome range="6-7" section="92">No event</outcome>
+		<outcome range="8-12" section="126">A hut on stilts</outcome>
+	</outcomes>
+</section>

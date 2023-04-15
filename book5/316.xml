@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="316">
+	You find a clump of abzu plants. You grab one. Note the <item name="abzu plant"/> on your Adventure Sheet. You decide it would be better to return, while the pool still remains, rather than be trapped forever in the past. <goto section="556"/>.
+</section>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="4">
+	<p>You are in central Old Harkuna.</p>
+	<choices>
+		<choice section="317">West to the Ruby River</choice>
+		<choice section="653">North towards the High King's Seat</choice>
+		<choice section="31">East into the Singing Forest</choice>
+		<choice section="12">South into the country</choice>
+		<choice section="181">South to the town of Thurlings</choice>
+	</choices>
+</section>

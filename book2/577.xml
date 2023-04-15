@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="577">
+	<p>&#8216;Stop, thief!&#8217;</p>
+	<p>
+		You have no intention of doing anything of the sort. You know only too well the fate that awaits you if you&#8217;re caught. Abandoning part of your haul to delay the sentries (<lose shards="400">lose 400 Shards</lose>), you race out of the castle gates into the night.
+	</p>
+	<p>
+		<tick codeword="Bullion">Get the codeword Bullion</tick> and
+		<goto section="118"/>.
+	</p>
+</section>

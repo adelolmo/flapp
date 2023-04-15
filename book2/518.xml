@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="518">
+	Colossal limestone crags tower on all sides.
+	<choices>
+		<choice book="5" section="159">Go west</choice>
+		<choice section="351">Go east</choice>
+		<choice section="259">Go south</choice>
+		<choice book="4" section="100">Go north</choice>
+	</choices>
+</section>

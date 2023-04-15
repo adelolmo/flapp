@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="40" boxes="1">
+	<p>
+		<if ticks="1">
+			If there is a tick in the box, Orin Telana refuses to talk to you until you have completed your mission - <goto section="152"/> immediately.
+		</if>
+		If not, <tick>put a tick there now</tick>, and read on.
+	</p>
+	<p>
+		Orin is surprised to see you. 'It is vital for us all that you kill Beladai,' he says. 'You must infiltrate his camp to the north, find his tent and kill him! If you are having trouble penetrating the camp, perhaps this will help.'
+	</p>
+	<p>
+		He gives you a
+		<item name="potion of stealth">
+			<effect type="use" ability="thievery"/>
+		</item>. It can be used once only, just before you make a THIEVERY roll, to add one to your THIEVERY ability, for that roll only. Note it on your Adventure Sheet.
+	</p>
+	<p>
+		<if codeword="Deep">
+			If you have the codeword Deep, <goto section="644"/>.
+		</if>
+		If not, you leave - <goto section="152"/>.
+	</p>
+</section>

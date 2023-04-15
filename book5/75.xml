@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="75">
+	<p>
+		You enter a chamber whose walls are covered in banners, weapons and shields, illustrating the long and distinguished history of Uttakin warfare. It is known as the Stable of the Chariots, a reminder of the days when the Uttakin rode their chariots across the flat grasslands of Ankon-Konu, the southern continent.
+	</p>
+	<p>
+		A woman in lavish ceremonial armour is talking with a couple of mercenary captains. She has a mask that is frighteningly war-like.
+	</p>
+	<p><if codeword="Errant">If you have the codeword Errant, <goto section="448"/>.</if> If not, <goto section="584"/>.
+	</p>
+</section>

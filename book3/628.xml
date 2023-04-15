@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="628">
+	<p>
+		It is with heavy heart that you scupper the ship, putting to sea in the rowboats. After several weeks at sea you are reduced to eating worm-ridden biscuits and drinking rainwater. At last, Smogmaw comes in sight. You put in at the quayside and stagger ashore, too weary to notice that the current is carrying your rowboats back out to sea.
+	</p>
+	<p>
+		<lose ship="t">Cross your ship and cargo off</lose> the Ship&#8217;s Manifest. You will have to lay off the crew as well because there are no vessels for purchase here in Smogmaw. <goto section="44"/>.
+	</p>
+</section>

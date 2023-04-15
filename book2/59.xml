@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="59">
+	<p>
+		<lose god="Sig">Amend your Adventure Sheet</lose> to show you are no longer an initiate of Sig.
+	</p>
+	<p>
+		You leave the temple and head off down a narrow street. After a few minutes, you think you hear a soft padding on the cobblestones behind. Are you being followed?
+		<difficulty ability="thievery" level="13">
+			Make a THIEVERY roll at a Difficulty of 13
+		</difficulty>.
+	</p>
+	<outcomes>
+		<success section="82"/>
+		<failure section="105"/>
+	</outcomes>
+</section>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="709">
+	<p>
+		Dodging and hacking, you battle the dragon without a thought for your own life. The paladins join in too, swarming across its body and piercing its scaly flanks with their spears. It is a hard fight but at last the dragon lies dead.
+	</p>
+	<p>
+		&#8216;We shall not forget your valour this day,&#8217; says the queen. &#8216;Henceforth you will be known as the mightiest of our champions.&#8217;
+	</p>
+	<p>
+		<tick codeword="Flood">Get the codeword Flood</tick>
+		and <goto section="692"/>.
+	</p>
+</section>

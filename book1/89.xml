@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="89">
+	<p>
+		The undead pirate reaches for you, but it is too slow. Then it speaks, its voice seeming to sound inside your head.
+	</p>
+	<p>
+		&#8216;Damn you, and your kind, thieving sea centaur! I curse you forever - may you never swim again in the seas you love. You will walk for the rest of your life as a human, doomed to wander the surface world, unable to find the peace of coral caves!&#8217;
+	</p>
+	<p>
+		Quickly, you swim away, unable to believe your luck! What a convenient curse. You find yourself already changing back to a human, and you make it to your ship, coughing and spluttering. Your crew haul you aboard. The gems are worth <gain shards="300"/> - add that much to your money. You sail on, lucky to be still human. <goto section="507"/>.
+	</p>
+</section>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="374">
+	<p>
+		You sense that sorcery is afoot. You make a few magical divinations which tell you that the path is cursed: it will sour the water supply of anyone that travels upon it. However, you can tell that the curse affects only the path. There is just enough room to squeeze your way up beside it, hugging the rock face. You find your water returns to a state that is drinkable.
+	</p>
+	<p>
+		Eventually, the path leads to a bubbling well of springwater in the rocks, just at the opening of a cave. You refill your canteen, then explore the cave. <goto section="232"/>.
+	</p>
+</section>

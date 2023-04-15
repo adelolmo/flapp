@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="210">
+	<p>
+		They fall back for a moment, but your invocation fails to take hold, and they close in. You must fight them one at a time.
+	</p>
+	<fight name="1st Storm Demon" combat="4" defence="7" stamina="8"/>
+	<fight name="2nd Storm Demon" combat="4" defence="7" stamina="8"/>
+	<fight name="3rd Storm Demon" combat="4" defence="7" stamina="8"/>
+	<p>
+		If you win, <goto section="54"/>.
+		If you lose, you are tossed off the peak, and end up as a messy paste on the ground below.
+		That&#8217;s the end of you, unless you have a <resurrection>resurrection deal</resurrection>.
+	</p>
+</section>

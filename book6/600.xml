@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="600">
+	<if codeword="Flimsy">
+		If you have the codeword Flimsy, <goto section="365"/>.
+	</if>
+	If not, <goto section="640"/>.
+</section>

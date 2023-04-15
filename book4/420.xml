@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="420">
+	<p>
+		You mistime your move, and he drives his lance into your gut. <lose staminato="1">Lose all your Stamina points, save one</lose>.
+	</p>
+	<p>
+		Barely alive, you sink to the ground in agony. The birdriders spit contemptuously at your performance - they had hoped for more sport. They ride away in disgust, leaving you to die. It will be very hard to survive the cruel steppes in your current condition.
+	</p>
+	<p><goto section="698"/>.</p>
+</section>

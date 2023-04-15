@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="12">
+	<p>
+		It is an easy matter to sell the gold-scribed scroll that carries the curse of Tambu to an unsuspecting merchant.
+	</p>
+	<p>
+		As you part company, you see he is quickly stricken by the ague when he reads the scroll. You, however, feel much better now that the
+		<lose curse="Curse of Tambu">curse is lifted</lose>.
+		Restore one point to your CHARISMA, COMBAT and SCOUTING ratings. <return>Turn back</return> to the paragraph you noted.
+	</p>
+</section>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="611">
+	You cannot sense what it is that assails you. Judging by the way the forest is disturbed, there may be several invisible creatures heading toward you.
+	<choices>
+		<choice section="77">Flee</choice>
+		<choice section="657">Stand your ground</choice>
+	</choices>
+</section>

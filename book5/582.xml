@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="582">
+	<p>
+		You set to work. It is hot and humid, and the insects of the swamp seem intent on eating you alive.
+	</p>
+	<p>
+		<rankcheck add="2"/>.
+		<failure>
+			If you roll higher than your Rank, <goto section="620"/>.
+		</failure>
+		Otherwise, <goto section="280"/>.
+	</p>
+</section>

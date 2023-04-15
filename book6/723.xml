@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="723">
+	<p>
+		She executes a sudden merciless attack, her pretty face transforming in an instant to a snarl of inhuman rage. But her fierce expression is soon wiped away when she sees the fake blade snap against the buckle of your belt.
+	</p>
+	<p>Gaping in dismay, she takes a step backwards. &#8216;I&#8217;m defeated!&#8217;</p>
+	<p>You give her a buccaneer&#8217;s grin. &#8216;Madam, I cheated.&#8217;</p>
+	<p>
+		&#8216;It makes no difference.&#8217; She slumps in dejection. &#8216;Father always tells us that trickery is half the battle.&#8217;
+	</p>
+	<p>
+		She pulls an <b>agate swan</b> pendant from around her neck and hands it to you.
+	</p>
+	<p>
+		&#8216;If you ever need to cross the bridge again, show this to whichever of my sisters is on duty. That way she&#8217;ll know better than to tangle with you.&#8217;
+	</p>
+	<p>
+		Add the <item name="agate swan"/>
+		to your list of possessions and cross off the
+		<lose item="paper sword"/>.
+		Then <goto section="448"/>.
+	</p>
+</section>

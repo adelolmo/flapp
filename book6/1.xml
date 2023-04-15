@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="1" start="t">
+	<p>&#8216;Wait a minute, I can feel a pulse.&#8217;</p>
+	<p>
+		Slowly the world seeps back. First sounds: the dull roar and mutter of words, the creak of timbers, the fluttering of canvas in the breeze. Then the hard wooden planking under your back and the smell of the rope on which your head is resting. A salty taste in your mouth, mingled with bile&#8211;
+	</p>
+	<p>
+		You sit up suddenly, coughing sea water out of your lungs. A circle of sailors are standing looking at you. One of their number, a man in finer clothes who seems to be a merchant captain, steps forward and helps you to your feet. Your clothes are wet through. You feel as weak as a kitten.
+	</p>
+	<p>
+		&#8216;We fished you out of the sea,&#8217; says the captain. &#8216;You were clinging to a broken spar. We thought you were dead.&#8217;
+	</p>
+	<p>
+		You can only nod, still too dazed to string a sentence together.
+	</p>
+	<p>&#8216;Who are you?&#8217; asks one of the men. &#8216;Where are you from?&#8217;</p>
+	<p>
+		You press your fingers to your head. Your hair is matted with blood and brine. &#8216;I don&#8217;t know...&#8217;
+	</p>
+	<p>
+		The captain looks at his crew. &#8216;That&#8217;s enough gawping. Back to work, the lot of you.&#8217;
+	</p>
+	<p>
+		Your only belongings are the clothes on your back and a <b>platinum earring</b>. Everything else was lost in the shipwreck - including all memories of your life until this moment. You must begin afresh.
+	</p>
+	<p>
+		<difficulty ability="charisma" level="11">
+			Make a CHARISMA roll at a Difficulty of 11
+		</difficulty>.
+		<success>
+			If you succeed, <goto section="370"/>.
+		</success>
+		<failure>
+			If you fail, <goto section="389"/>.
+		</failure>
+	</p>
+</section>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="675">
+	The hills rise steeply in the east, blue and tree-clad. This is the
+	Kwaidan Forest, whose leafy paths are more often trod by sprites
+	than mortal men.
+	<choices>
+		<choice section="398">Enter the forest</choice>
+		<choice section="493">Go north</choice>
+		<choice section="97">Go south</choice>
+	</choices>
+</section>

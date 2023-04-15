@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="205">
+	<p>
+		You jump through into the dark treasure vault. To your horror, the portal suddenly closes behind you with a pop! You are trapped on another plane.
+	</p>
+	<p><difficulty ability="magic" level="15"/>.</p>
+	<outcomes>
+		<success section="182"/>
+		<failure section="122"/>
+	</outcomes>
+</section>

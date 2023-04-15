@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="329">
+	<p>
+		&#8216;Still haven&#8217;t found him?&#8217; he says. &#8216;Did you try the Castle of the Dragon Knights to the west of the Bronze Hills?&#8217; As he turns and leaves, he says, &#8216;When you have better tidings, I will return here.&#8217;
+	</p>
+	<p>You follow him, but he is nowhere to be seen. <goto section="400"/>.</p>
+</section>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="113">
+	<if codeword="Armour">
+		If you have the codeword Armour, <goto section="550"/> immediately.
+	</if>
+	<if profession="Rogue">
+		If not, but you are a Rogue, <goto section="75"/>.
+	</if>
+	Otherwise, the high priest has little to say to you; your audience is cut short. <goto section="235"/>.
+</section>

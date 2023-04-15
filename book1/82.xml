@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="82">
+	<p>
+		You are following the course of the Stinking River - and it certainly does stink, laden with sulphur as it is. <random type="travel" dice="1">Roll a die</random>.
+	</p>
+	<outcomes>
+		<outcome range="1,2">
+			Stung by a large golden insect. You are
+			<poison name="Insect Poison">
+				poisoned
+				<effect ability="combat" bonus="-1"/>
+			</poison> (COMBAT -1 until you find a cure)
+		</outcome>
+		<outcome range="3,4">Nothing happens</outcome>
+		<outcome range="5,6">
+			Catch a <item name="smoulder fish"/>. Note it on your Adventure Sheet.
+		</outcome>
+	</outcomes>
+	<p>
+		When you are ready, you can:
+		<lose codeword="StillInYellowport" hidden="t"/>
+	</p>
+	<choices>
+		<choice section="310">Follow the river north</choice>
+		<choice section="10">Follow the river south to Yellowport</choice>
+		<choice section="558">Go west to the road</choice>
+		<choice section="278">Go east into the countryside</choice>
+	</choices>
+</section>

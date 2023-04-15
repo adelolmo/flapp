@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="261">
+	<p>
+		She puts a sack in the hole she&#8217;s dug and quickly fills it in with loose soil. When she straightens up and sweeps back her hair you get a nasty shock - she has no face. Pressing back out of sight, you wait for her to leave and then go to see what she buried. Inside the sack you find dozens of peeled human faces. They look like rubber masks, but they are warm to the touch and make soft twittering noises when you touch them. These are real faces.
+	</p>
+	<p>
+		<if codeword="Face">
+			If you have the codeword Face, <goto section="277"/>.
+		</if>
+		If not then you hurry off before the woman comes back;
+		<goto section="529"/>.
+	</p>
+</section>

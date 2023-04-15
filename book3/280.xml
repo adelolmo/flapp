@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="280">
+	The ghost disappears with a doleful sigh. A wisp of fabric drifts
+	down to the deck. It is a <item name="spectral veil"/>.
+	Note it on your list of possessions if you decide to keep it,
+	then <goto section="78"/>.
+</section>

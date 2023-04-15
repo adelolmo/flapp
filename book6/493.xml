@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="493">
+	<p>
+		Journeying on, as the days pass, you see the full moon rise above forests of pine and sunlight mingle with the gushing spring waters from the hills.
+	</p>
+	<p><random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-9" section="514">A quiet journey</outcome>
+		<outcome range="10-12" section="436">Lost children</outcome>
+	</outcomes>
+</section>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="36">
+	<p>
+		Misgee leads you deep into the Mixen Sumps, along a thin trail overhung with twisted mangrove trees. Clouds of insects buzz in the hot, sticky air, until you're desperate to face Grindel the Ripper, rather than the stinging, relentless bites of the midges and gnats of the Sumps.
+	</p>
+	<p>
+		You come to the skeletal remains of a warrior, draped over a tree. The skull has been crushed. Later, you find several decaying heads hanging from some branches.
+	</p>
+	<p>
+		Eventually, you come to a clearing of solid ground. A large mound of earth has been heaped up, and a wooden door has been set in its side. Smoke curls up from a primitive chimney.
+	</p>
+	<p>
+		'The lair of Grindel the Ripper!' whispers Misgee. He backs away, and says he will wait for one hour only, a little way back up the trail.
+	</p>
+	<p><goto section="3">Turn to 3</goto>.</p>
+</section>

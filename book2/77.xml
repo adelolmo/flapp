@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="77">
+	You stand on the windswept Endless Plains and wonder where
+	you should seek your next adventure.
+	<choices>
+		<choice section="259">Head due north</choice>
+		<choice section="305">Head north-east to the Haunted Hills</choice>
+		<choice section="100">Search for the Tower of Despair</choice>
+		<choice section="71">Visit the town of Wheatfields</choice>
+		<choice section="52">Head towards the Rese River</choice>
+		<choice section="30">Go eastwards</choice>
+		<choice section="123">Go south</choice>
+	</choices>
+</section>

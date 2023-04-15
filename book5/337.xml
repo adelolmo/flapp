@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="337">
+	<p>
+		The demon-woman slashes at you without mercy. You fight back, but to your horror, you cannot harm her in any way. Your weapon simply passes through her as if she wasn't there! Yet her cane is real enough, for it hammers you for <lose stamina="4">4 points of damage</lose>. Cross off the Stamina points.
+	</p>
+	<p>
+		If you still live, you realise you have no choice but to flee for your life - she is invulnerable, and you are not. <lose stamina="1d">Roll one die</lose> and lose the result in Stamina points.
+	</p>
+	<p>
+		If you still live, you hear her insane cackling fading on the breeze as you run out of the swamps.
+	</p>
+	<p><goto section="371"/>.</p>
+</section>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="738">
+	<p>
+		&#8216;Your technique is magnificent,&#8217; remarks Kiyomori. &#8216;A pity I must order your death.&#8217;
+	</p>
+	<p>
+		<set var="r" value="rank" modifier="natural"/>
+		It certainly was a remarkable feat to overcome three skilled samurai like that.
+		<random dice="2" var="roll"/>.
+		<if var="roll" greaterthan="r">
+			If the total is higher than your Rank, you
+			<gain ability="rank" amount="1">advance one Rank</gain>
+			and
+			<gain ability="stamina" amount="1d">gain 1-6 extra Stamina points</gain>
+			permanently.
+			Remember that going up in Rank also increases your Defence score by 1.
+		</if>
+	</p>
+	<p>
+		The rest of the chancellor&#8217;s guards are already on their way - time to make a break for it. <goto section="577"/>.
+	</p>
+</section>

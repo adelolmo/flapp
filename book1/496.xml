@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="496" boxes="1">
+	<p>
+		<if ticks="1">
+			If there is a tick in the box, <goto section="317"/> immediately.
+		</if>
+		If not, <tick/>, and read on.
+	</p>
+	<p>
+		You manoeuvre your ship as close as possible, and then take a rowboat over to the craft. Climbing inside, you find yourself in a small cabin which is lit by winking red and green lights set into the walls. A figure lies sprawled beside an ornate couch. The figure, although manlike, appears to have silver skin, and a great big round head, with one black, glittering eye that seems to fill its whole face. Whatever it is appears to be dead.
+	</p>
+	<p>
+		Quickly you search the craft, and find a kind of spear that fires steel balls from one end. It counts as a <weapon name="magic spear" bonus="2"/>.
+	</p>
+	<p>
+		Worried that you may be meddling with a ship of demons, you head back quickly, and sail on. <goto section="85"/>.
+	</p>
+</section>

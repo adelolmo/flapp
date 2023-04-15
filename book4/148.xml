@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="148">
+	The sarcophagus stands in the centre of the chamber, just as it did the last time you were here. You trace the mysterious carvings etched into its lid and wonder how long its occupant has lain here in this desolate region of the world.
+	<choices>
+		<choice section="527">Lift the lid</choice>
+		<choice section="226">Leave</choice>
+	</choices>
+</section>

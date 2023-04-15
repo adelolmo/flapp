@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="621">
+	The coast road between Yellowport and Venefax is wellmaintained and you make good time. You pass a few army patrols but they leave you alone.
+	<lose codeword="StillInYellowport" hidden="t"/>
+	<choices>
+		<choice section="510">Travel to Blessed Springs</choice>
+		<choice section="427">Head for Venefax</choice>
+		<choice section="548">Go north across country</choice>
+		<choice section="10">South to Yellowport</choice>
+	</choices>
+</section>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="339">
+	<p>
+		You find a burned-out house in the poor quarter where a trader has set up a stall, selling ash and debris. The merchant, a weaselly-looking old woman, is screeching, &#8216;Ashes, ashes from the house of a sorceress! Fifteen Shards a packet!&#8217;
+	</p>
+	<p>
+		If you want to buy some, cross off 15 Shards and
+		<buy item="ashes" shards="15" quantity="1">note the <b>ashes</b></buy>
+		on your Adventure Sheet. When you are ready, you head back to the centre of the town. <goto section="100"/>.
+	</p>
+</section>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="666">
+	The sigh of the wind as it swirls around the tors sounds like the
+	sharp intake of breath between the teeth of a giant.
+	<choices>
+		<choice section="571">Go north</choice>
+		<choice section="521">Go south</choice>
+		<choice section="546">Go east</choice>
+		<choice section="396">Go west</choice>
+	</choices>
+</section>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="692">
+	<p>
+		Cross off the 25 Shards. Write <tick blessing="defence"/> in the Blessings box on your Adventure Sheet. The blessing works by allowing you to add 3 to your Defence for the duration of one combat only. When you use the blessing, cross it off your Adventure Sheet. You can have only one Defence through Faith blessing at any one time. Once it is used up, you can return to any branch of the Church of Ebron to buy a new one.
+	</p>
+	<p>You leave the cathedral. <goto section="100"/>.</p>
+</section>

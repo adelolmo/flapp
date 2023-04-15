@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="207">
+	<p>
+		With a growl, it leaps forward, fangs bared hungrily. You must fight.
+		<lose codeword="2.207.1" hidden="t"/>
+	</p>
+	<fight name="Faery Wolf" combat="5" defence="7" stamina="10"/>
+	<p>
+		<flee>
+			Because the faery wolf is chained to the wall, you can flee from combat at any time, but you will take a final wound of <lose stamina="1d">1-6 Stamina points</lose> (roll one die for how many) as you <tick codeword="2.207.1">run away</tick> from the creature.
+		</flee>
+	</p>
+	<choices>
+		<choice section="184">Fight and kill the wolf</choice>
+		<choice section="22" box="2.207.1">Flee from the tower</choice>
+	</choices>
+</section>

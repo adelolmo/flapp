@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="555">
+	<p>
+		You preach the word of Ebron, and soon you have drawn a small crowd, including one or two of the Soulwatch, the religious police.
+	</p>
+	<p><difficulty ability="sanctity" level="14"/>.</p>
+	<outcomes>
+		<success section="239"/>
+		<failure section="48"/>
+	</outcomes>
+</section>

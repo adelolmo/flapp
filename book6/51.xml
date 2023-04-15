@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="51">
+	<p>
+		Hand over any
+		<lose item="sealed letter" multiple="12"><b>sealed letters</b></lose>
+		that you have.
+	</p>
+	<p>
+		Yoritomo reads quickly, a derisive smile playing on his lips. &#8216;See this calligraphy?&#8217; he snorts. &#8216;This is how I know that Kumonosu will never amount to anything. He writes with a barbarian&#8217;s hand!&#8217;
+	</p>
+	<p>
+		Your reward is not in the form of cash, which would be an insult to any proud Akatsurese knight. <random dice="1"/> to see what your lord gives you.
+	</p>
+	<outcomes>
+		<outcome range="1-2">
+			<weapon name="sword" bonus="1"/>
+		</outcome>
+		<outcome range="3-4">
+			<tool name="lotus talisman" ability="sanctity" bonus="1"/>
+		</outcome>
+		<outcome range="5">
+			<armour name="splint armour" bonus="4"/>
+		</outcome>
+		<outcome range="6">
+			<weapon name="spear" bonus="4"/>
+		</outcome>
+	</outcomes>
+	<p>Note the item on your Adventure Sheet and <goto section="553"/>.</p>
+</section>

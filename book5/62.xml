@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="62">
+	<p>
+		Although they are pulling faces at you and whispering insults about the smell of humans you ignore it and greet them as politely as you can - through gritted teeth. They stop whispering and look at you with their beady little eyes.
+	</p>
+	<p>
+		'What do you want, human? This is our tree and you're not having any berries,' says the largest member of the group.
+	</p>
+	<p>
+		You tell them you are not interested in the berries but would like to hear of anything important going on in the wood. They group together and mutter among themselves for a minute or two.
+	</p>
+	<p>'All right, we'll tell you something but only for 10 Shards,' they reply at last.</p>
+	<choices>
+		<choice section="522" shards="10">Pay 10 Shards</choice>
+		<choice section="47">Forget it and move on</choice>
+	</choices>
+</section>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="378">
+	<p>
+		You find a wide pool of bubbling, electric blue water. It gives off a strong invigorating scent, like crushed pine leaves.
+	</p>
+	<p>
+		<if codeword="Appease">
+			If you have the codeword Appease, <goto section="593"/> immediately.
+		</if>
+		<if item="vial of yellow dust">
+			If not, but you have a <b>vial of yellow dust</b>, <goto section="556"/>.
+		</if>
+		Otherwise, you can bathe in the waters, <goto section="598" force="f"/>, or leave, <goto section="510"/>.
+	</p>
+</section>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="544">
+	<p>
+		<if codeword="Elude">If you have the codeword Elude, <goto section="8"/>.</if> If not, read on.
+	</p>
+	<p>
+		A crimson vine snakes its way toward you, blood dripping from its barbed suckers.
+	</p>
+	<p><difficulty ability="scouting" level="15"/>.</p>
+	<outcomes>
+		<success section="209"/>
+		<failure section="98"/>
+	</outcomes>
+</section>

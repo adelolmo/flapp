@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="672">
+	<p>
+		Around the central mountains of Akatsurai, the terrain is rugged and wild. Swept by the wind, blue-tinted heather seethes like an ocean under a wide sky of racing clouds.
+	</p>
+	<p><random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-8" section="296">An untroubled journey</outcome>
+		<outcome range="9-12" section="426">Unexpected hospitality</outcome>
+	</outcomes>
+</section>

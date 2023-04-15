@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="306" image="306.jpg">
+	<p>
+		<set var="a" value="-armour"/>
+		There seems to be a large chalk boulder plugging the tomb entrance. As you clear away the earth it dawns on you that the boulder looks very like a gigantic skull. You are chuckling at your own overwrought imagination when the boulder opens its jaws with a gleeful clacking sound and sits up, shrugging the soil off ancient white limbs. You have unearthed the monstrous skeleton of an ancient giant.
+	</p>
+	<fight name="Skeleton Spectre" combat="13" defence="20" stamina="21"/>
+	<p>
+		<flee>
+			If you turn and flee, it will get a final free blow at your retreating back doing
+			<lose stamina="2d">
+				2-12 Stamina points<adjust amount="a"/>
+			</lose>
+			less the Defence bonus of your armour.
+		</flee>
+	</p>
+	<choices>
+		<choice section="86">Fight on and win</choice>
+		<choice flee="t" section="416">Run away</choice>
+	</choices>
+</section>

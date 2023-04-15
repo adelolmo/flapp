@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="537">
+	<p>
+		You find out that they call themselves the Gypsies of the Sea, wandering nomads of the waves, who find their islands naturally occurring in the Sea of Weeds. They make their homes upon them, and live a life of aimless drifting.
+	</p>
+	<p>
+		A tanned young man, full of wit and charm, explains that he makes his living from pearl diving, and selling what he finds to people like yourself. He offers you a bag of pearls for 25 Shards.
+	</p>
+	<choices>
+		<choice section="106" shards="25" pay="f">Buy the pearls</choice>
+		<choice section="85">Leave and resume your journey</choice>
+	</choices>
+</section>

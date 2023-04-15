@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="558">
+	You join the much-travelled road that connects Trefoille and Caran Baru. The traffic mostly consists of convoys of troops and supplies.
+	<choices>
+		<choice section="250">Go to Trefoille</choice>
+		<choice section="387">Follow the road north</choice>
+		<choice section="175">Go north into the Curstmoor</choice>
+		<choice section="310">Go east to the river</choice>
+	</choices>
+</section>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="475">
+	<p>
+		You convince them that the ship can be repaired - all you need is some wood.
+	</p>
+	<p>
+		The first mate stands up, along with several others. He tells you the barque is called the <i>Mermaid&#8217;s Desire</i>, and that they lost their captain in the storm that beached the ship. Clearly, they look to you for leadership.
+	</p>
+	<p>
+		&#8216;We&#8217;ve got the tools to repair her,&#8217; says the mate, &#8216;but where&#8217;s the wood?&#8217;
+	</p>
+	<p>
+		You decide to lead them in search of timber, though the landscape is bleak and desolate.
+	</p>
+	<p><difficulty ability="scouting" level="14"/>.</p>
+	<outcomes>
+		<success section="559"/>
+		<failure section="681"/>
+	</outcomes>
+</section>

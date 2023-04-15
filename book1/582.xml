@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="582">
+	<p>
+		Before you have time to react, the dragon&#8217;s massive tail smashes into the keel of your boat, lifting it out of the water, and breaking it in two. You are pitched into the sulphurous lake, with a rabid sea dragon closing in, intent on swallowing you whole!
+	</p>
+	<p>
+		<rankcheck dice="1"/>.
+		<success>
+			If you score less than or equal to your Rank, <goto section="637"/>.
+		</success>
+		<failure>
+			Otherwise, <goto section="477"/>.
+		</failure>
+	</p>
+</section>

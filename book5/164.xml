@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="164">
+	<p>
+		You have failed to finish your story in time for the Great Telling. The master is livid with rage.
+	</p>
+	<p>
+		Through gritted teeth he says ominously, 'You can still serve the library.' He has you arrested and then flayed alive. Your skin is used as parchment upon which are written the holy texts of Ebron.
+	</p>
+	<p><goto section="7"/>.</p>
+</section>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="685">
+	<p>
+		This promises to be a desperate struggle, but at least you have a fighting chance - if you could clearly see the Gorgons&#8217; eyes, on the other hand, it would all be over in an instant. Fight them one after the other.
+	</p>
+	<fight name="First Gorgon" combat="4" defence="5" stamina="8"/>
+	<fight name="Second Gorgon" combat="5" defence="6" stamina="11"/>
+	<p>There is nowhere to flee. If you win, <goto section="393"/>.</p>
+</section>

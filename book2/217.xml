@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="217" image="217.jpg">
+	Wishport is a picturesque town set at the back of a bay rimmed
+	by white cliffs. Fish, oil, dyes and other commodities are packed
+	here for transport inland.
+	<if not="t" codeword="2.217">
+		You can buy a town house here for 100 Shards. If you decide to,
+		<lose shards="100" price="x">cross off the money</lose> and
+		<tick codeword="2.217" flag="x">put a tick in the box</tick>
+		by the town house option.
+	</if>
+	<choices>
+		<choice section="302">Visit the market</choice>
+		<choice section="325">Visit the harbour</choice>
+		<choice section="737">Lodge at an inn</choice>
+		<choice section="3">Visit the merchants&#8217; guild</choice>
+		<choice section="348" box="2.217">Visit your town house {box} (if box ticked)</choice>
+		<choice section="4">Visit the temple of Alvir and Valmir</choice>
+		<choice section="27">Visit the temple of the Three Fortunes</choice>
+		<choice section="142">Leave Wishport</choice>
+	</choices>
+</section>

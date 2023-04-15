@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="574">
+	<p>
+		You wander into the Severed Hand inn. Many of the patrons do indeed seem to have lost their hands - a common punishment for theft in the city. It goes quiet when you enter, but everyone quickly returns to their business.
+	</p>
+	<p>
+		People sit huddled in the shadowy corners of the inn, talking in low tones.
+	</p>
+	<choices>
+		<choice section="63">Approach some locals</choice>
+		<choice section="182">Leave the tavern</choice>
+	</choices>
+</section>

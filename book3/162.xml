@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="162">
+	<p>
+		You begin to suffer from stomach cramps followed by bouts of nausea. Perhaps it was those berries you picked?
+		<if blessing="poison">
+			If you have a blessing of Immunity to Disease/Poison, you wake the next morning feeling fine (and remember to <lose blessing="poison">cross off</lose> the blessing).
+		</if>
+		<else>
+			Otherwise you <lose stamina="1d">lose 1-6 Stamina points</lose>.
+		</else>
+	</p>
+	<p>If still alive, <goto section="144"/>.</p>
+</section>

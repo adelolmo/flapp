@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="625" image="625.jpg">
+	<p>
+		By the gods! Your castle is under siege! You hasten to rally your knights and men-at-arms, calling on them to attack and drive off the varlets who are trying to take the castle. They are a small army of bandits - former mercenaries by the look of them.
+	</p>
+	<p><random dice="3">Roll three dice</random>.</p>
+	<outcomes>
+		<outcome range="2-6">
+			The battle is lost and you are slain.
+			<tick codeword="Extinguish">Gain the codeword Extinguish</tick>
+			<extrachoice remove="TargdazRecall"/>
+			and <goto section="7"/>.
+		</outcome>
+		<outcome range="7-8">
+			You lose the battle but escape with your life; <goto section="722"/>.
+		</outcome>
+		<outcome range="9+">
+			Victory! The enemy retreats, leaving behind <gain shards="200"/> of loot; <goto section="196"/>.
+		</outcome>
+	</outcomes>
+</section>

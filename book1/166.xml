@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="166">
+	<p>
+		You are on the road between Marlock City and the Shadar Tor. Along most of the length of the road, a thin sliver of a shanty town has grown up. Tents and lean-to&#8217;s line the way. You find out that the people living here are refugees from Trefoille. The city was burnt to the ground during the recent civil war, in which the old king was overthrown. <random type="travel" dice="1">Roll a die</random>.
+	</p>
+	<outcomes>
+		<outcome range="1,2">
+			A pick-pocket! You <lose shards="10">lose 10 Shards</lose>
+		</outcome>
+		<outcome range="3,4">Nothing happens</outcome>
+		<outcome range="5,6">You find a <item name="lantern" tags="light"/> by the side of the road</outcome>
+	</outcomes>
+	<p>When you are finished, you can:</p>
+	<choices>
+		<choice section="100">Go to Marlock City</choice>
+		<choice section="35">Head for the Shadar Tor</choice>
+	</choices>
+</section>

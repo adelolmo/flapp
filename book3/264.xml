@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="264">
+	Daybreak casts a net of mist across the water, blurring the
+	horizon. It seems as though you are suspended in an infinite
+	white void.
+	<choices>
+		<choice section="66">Steer north</choice>
+		<choice section="156">Go south</choice>
+		<choice section="210">Travel east</choice>
+		<choice section="119">Head west</choice>
+	</choices>
+</section>

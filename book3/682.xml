@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="682">
+	<p>
+		The entire island is carpeted in a mossy grey-green sward. Freshwater has collected in hollows in the ground and there are tame birds that you can easily catch to eat.
+	</p>
+	<p><random dice="1"/>.</p>
+	<outcomes>
+		<outcome range="1" section="646"/>
+		<outcome range="2-6" section="664"/>
+	</outcomes>
+</section>

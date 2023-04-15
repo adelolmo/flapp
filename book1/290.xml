@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="290">
+	<p>
+		<if codeword="Cutlass">
+			If you have the codeword Cutlass, <goto section="403"/> immediately.
+		</if>
+		<if codeword="Amcha">
+			If not, but you have the codeword Amcha, <goto section="512"/>.
+		</if>
+		Otherwise read on.
+	</p>
+	<p>The guildmaster, a tall gaunt man, welcomes you.</p>
+	<p>
+		&#8216;The guild, in Golnir and Sokara, is plagued by privateers on the high seas. Amcha One-eye is the worst of these lawless dogs - he has cost us thousands of Shards! Bring me the head of Amcha One-eye, and I will reward you! He and his cut-throat crew operate from the Unnumbered Isles - now called the Kingdom of the Reavers because of the pirates who have made their base there. The isles lie to the south.&#8217;
+	</p>
+	<p>
+		If you want to take up the quest, <tick codeword="Amcha" force="f">note the codeword Amcha</tick>. When you are ready, <goto section="100"/>.
+	</p>
+</section>

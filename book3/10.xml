@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="10">
+	It is getting harder to breathe;
+	<if codeword="Calcium" not="t">
+		<lose stamina="3">lose 3 Stamina points</lose> unless you
+		have the codeword Calcium.
+	</if>
+	<if dead="f">
+		If you survive, you fling open the door to find a large chest containing platinum coins to the value of <gain shards="400"/>. &#8216;We got the treasure, now let&#8217;s be getting out of here!&#8217; urges one of your men.
+	</if>
+	<choices>
+		<choice section="29">Take a look along the passage</choice>
+		<choice section="308">Return to the ship</choice>
+	</choices>
+</section>

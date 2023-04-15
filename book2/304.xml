@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="304">
+	<p>
+		The road is built of old grey cobblestones, which are now half overgrown with a carpet of rich green grass. Sometimes you pass a patrol of soldiers or a peasant leading his cattle to market. You do not expect any trouble on this well-patrolled stretch of road.
+	</p>
+	<p><random type="travel"/> for encounters:</p>
+	<outcomes>
+		<outcome range="2-6" section="34">An eerie light in the dusk</outcome>
+		<outcome range="7" section="11">An uneventful journey</outcome>
+		<outcome range="8-12" section="691">A pardoner</outcome>
+	</outcomes>
+</section>

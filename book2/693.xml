@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="693">
+	<p>
+		You are surprised to meet a herald in the livery of the High King of Old Harkuna. &#8216;Surely the throne is vacant?&#8217; you say. &#8216;The barons have now divided the old kingdom among themselves.&#8217;
+	</p>
+	<p>
+		The herald nods. &#8216;This is true. But my father&#8217;s father served the last High King, and I have sworn to continue the family tradition.&#8217;
+	</p>
+	<p>
+		You watch him ride off. His cause is futile but honourable. <goto section="310"/>.
+	</p>
+</section>

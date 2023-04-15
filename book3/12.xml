@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="12">
+	<p>
+		&#8216;Lucky it turned out to be pretty old,&#8217; remarks the bosun. &#8216;A younger one would have been tough to beat.&#8217;
+	</p>
+	<p>
+		Leaning against a tree to get your breath back, you merely throw him a withering glare.
+	</p>
+	<p>
+		A trail winds up the hillside towards the middle of the island. One of the men sees you glance along it and says, &#8216;Shouldn&#8217;t we be setting sail, captain?&#8217;
+	</p>
+	<choices>
+		<choice section="31">Explore further inland</choice>
+		<choice section="125">Return to the ship</choice>
+	</choices>
+</section>

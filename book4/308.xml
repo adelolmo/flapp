@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="308">
+	The Citadel of Velis Corin - or the Shield of the North as it is sometimes called - completely occupies the Pass of Eagles. The pass is the only one through the mountains of the Spine of Harkun. From this side, a massive wall stretches from one side of the pass to the other. The main entrance, in the middle of the wall, is a pair of huge steel doors, known as the Great Gate. Many towers rise up behind the wall, topped with flags and pennants fluttering in the wind. The citadel, gleaming white in the sun, looks completely invulnerable to a frontal assault from this side. A patrol of Knights of the Northern Shield rides out towards you.
+	<choices>
+		<choice section="145">Leave, and head north into the plains</choice>
+		<choice section="132">Wait for the guard patrol</choice>
+	</choices>
+</section>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="82">
+	<p>
+		You clear away the pile of stones and squirm through into a low-roofed chamber where there are many silver and blue jade funerary trinkets strewn around a stone casket.
+	</p>
+	<p>
+		You stuff your jerkin full of loot; <gain shards="3000">add 3000 Shards</gain> to the cash recorded on your Adventure Sheet. Then you turn your attention to the stone sarcophagus.
+	</p>
+	<choices>
+		<choice section="527">Open the sarcophagus</choice>
+		<choice section="226">Leave the mound</choice>
+	</choices>
+</section>

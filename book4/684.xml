@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="684">
+	You are high up in the peaks, struggling on through swirling eddies of snow and ice.
+	<if codeword="Calcium" not="t">
+		<lose stamina="2d">Lose 2-12 Stamina</lose> (the roll of two dice) because of the harsh conditions
+	</if>.
+	<if codeword="Calcium">
+		If you have the codeword Calcium, however,
+		<lose stamina="1d">lose only 1-6 Stamina</lose>, as you can breathe the thin air normally.
+	</if>
+	<choices>
+		<choice section="575">Go on up</choice>
+		<choice section="271">Go back down</choice>
+	</choices>
+</section>

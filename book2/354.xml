@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="354" dock="Metriciens">
+	<p>
+		You trawl through the taverns along the waterfront, looking for able seamen willing to crew your vessel. It costs
+		<buy crew="average" shards="15"/> to upgrade a poor crew to average, and
+		<buy crew="good" shards="30"/> to upgrade average to good. You cannot upgrade higher than that in Metriciens, because there aren&#8217;t enough good sailors.
+	</p>
+	<p>
+		Once you&#8217;ve recorded any changes in the ship box on the Ship&#8217;s Manifest, <goto section="33"/>.
+	</p>
+</section>

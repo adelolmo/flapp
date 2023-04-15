@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="36">
+	She strips you of your
+	<lose armour="?">best armour</lose>, your
+	<lose weapon="?">best weapon</lose> and
+	<lose shards="*">any cash you are carrying</lose>,
+	then sends you on your way with a jaunty
+	kick. Her peals of scornful laughter follow you to the end of the
+	bridge.
+	<choices>
+		<choice item="cursed sword" section="448">If you have a <b>cursed sword</b></choice>
+		<choice section="58">If not</choice>
+	</choices>
+</section>

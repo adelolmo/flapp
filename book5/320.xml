@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="320">
+	You insert the key, and turn. With a click, the stone plinth sinks into the ground, revealing a staircase. Down below, you find a chamber around the edge of which are several arches that flicker with a glowing blue light. You can step through an arch and teleport to various parts of the world.
+	<choices>
+		<choice section="10">Aku</choice>
+		<choice book="4" section="85">Sky Mountain</choice>
+		<choice book="1" section="670">Trefoille</choice>
+		<choice book="3" section="415">The Bluewood on Sorcerers' Isle</choice>
+		<choice book="2" section="48">Metriciens</choice>
+		<choice book="6" section="75">Chambara</choice>
+		<choice book="8" section="85">Pethumar</choice>
+		<choice book="7" section="85">Dunpala</choice>
+		<choice section="210">Journey on</choice>
+	</choices>
+</section>

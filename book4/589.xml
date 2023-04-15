@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="589">
+	<p>
+		The villa of Avar Hordeth, which you robbed with Luroc Bans, the former nomad turned thief looks as quiet and peaceful as before - except, that is, for the mercenary guards patrolling the grounds in sizeable numbers. It seems Avar Hordeth is taking no chances this time. You can count at least forty guards on patrol.
+	</p>
+	<p>There is nothing you can do here, so you leave.</p>
+	<p><goto section="280"/>.</p>
+</section>

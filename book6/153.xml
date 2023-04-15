@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="153" dock="Kaiju">
+	<p>
+		You enter a whitewashed building at the back of the harbour. Apart from a few crates, the warehouse is almost bare. The merchants tell you most of their stock has been sold to the Moonrise Clan in Mukogawa. They quote the following prices:
+	</p>
+	<market>
+		<header type="cargo"/>
+		<trade cargo="furs" buy="125" sell="75"/>
+		<trade cargo="grain" buy="225" sell="200"/>
+		<trade cargo="metals" buy="750" sell="650"/>
+		<trade cargo="minerals" buy="500" sell="450"/>
+		<trade cargo="spices" sell="600"/>
+		<trade cargo="textiles" buy="250" sell="175"/>
+		<trade cargo="timber" buy="200" sell="100"/>
+	</market>
+	<p>
+		These prices are per Cargo Unit. Any Cargo Units you buy will be taken to your ship, so note them on the Ship&#8217;s Manifest.
+	</p>
+	<p>After you&#8217;ve completed your business, <goto section="128"/>.</p>
+</section>

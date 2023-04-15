@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="241">
+	You travel on, leaving behind the inn and the desolate
+	windswept expanse of the heaths.
+	<choices>
+		<choice section="170">Take the road north to Wheatfields</choice>
+		<choice section="147">Take the road south to Metriciens</choice>
+	</choices>
+</section>

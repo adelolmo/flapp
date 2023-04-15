@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="574">
+	From here you can go:
+	<choices>
+		<choice section="328">North-west</choice>
+		<choice section="17">North-east towards Spatterdash</choice>
+		<choice section="478">East</choice>
+		<choice section="31">South-east into the Singing Forest</choice>
+		<choice section="711">South</choice>
+		<choice section="465">West to the Ruby River</choice>
+	</choices>
+</section>

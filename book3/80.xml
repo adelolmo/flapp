@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="80">
+	<p>
+		Dead men whose bones are crusted with barnacle creep over the rail at night and carry off half your crewmen. You only discover the cause of the disappearances when you question a sailor who had been locked up in the brig for some minor offence. He saw the barnacle men carrying out their ghastly business through a knothole in the brig door. You have no doubt he&#8217;s telling the truth; his hair has turned pure white.
+	</p>
+	<p><tick crew="poor">Reduce your Crew Quality to poor</tick>.</p>
+	<p><goto section="321"/>.</p>
+</section>

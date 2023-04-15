@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="490">
+	<p>
+		Giving a warcry that sounds like a chicken breaking wind, the little fellow runs forward and pokes his knife towards you with an extravagant flourish. &#8216;Have at you!&#8217; he cries.
+	</p>
+	<p>
+		You can try to take him alive if you want. To do that, you must
+		<group>
+			<text>fight without a weapon</text>
+			<transfer weapon="*" to="6.490"/>
+			<tick special="attack" bonus="-1"/>
+			<tick codeword="6.490.1"/>
+		</group>
+		and taking a COMBAT penalty of 1. You can then treat any wounds you deal him as subdual damage only, and he will still be alive when his Stamina reaches zero.
+	</p>
+	<fight name="Ridiculous Rogue" combat="4" defence="16" stamina="30"/>
+	<p>
+		Whether you kill him or not, you can take his
+		<armour name="ring mail" bonus="2"/>,
+		his <weapon name="knife"/>
+		and his money pouch containing <gain shards="15"/>.
+		<if codeword="6.490.1">
+			<transfer item="*" from="6.490" hidden="t"/>
+			Then, if you were fighting to subdue him, <goto section="463"/>.
+		</if>
+		<else>If you decide to kill him, <goto section="316"/>.</else>
+	</p>
+</section>

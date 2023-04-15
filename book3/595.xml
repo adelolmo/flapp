@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="595">
+	<p>
+		Your prow drives into the side of the Uttakin ship, which is unable to turn fast enough to avoid the collision. Water pours in through the broken timbers. With the weight of its metal flanks, the vessel is pulled down into the depths.
+	</p>
+	<p>
+		A few survivors come swimming across calling for mercy. Your crew club the Uttakin unconscious and loot their belongings. There are also a few slaves who managed to slip out of their bonds as the ship went down. They are wealthy merchants from Metriciens who reward you handsomely for bringing about their rescue. All in all, you gain <gain shards="450"/> from the encounter. Add this to the sum on your Adventure Sheet, then <goto section="300"/>.
+	</p>
+</section>

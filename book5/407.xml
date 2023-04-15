@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="407">
+	<p>
+		The storm demon shatters with a crash of thunder. In the crater you find a nugget of <item name="selenium ore"/>. Note it on your Adventure Sheet.
+	</p>
+	<p>When you are ready, you journey on. <goto section="74"/>.</p>
+</section>

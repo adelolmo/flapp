@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="98">
+	Here in the peaceful countryside of south-west Golnir, haycarts
+	rumble down leafy lanes and peasants look up from their work
+	with a cheery wave. The dangers that an adventurer must often
+	face are easily forgotten in this idyllic setting.
+	<random type="travel"/> for encounters:
+	<outcomes>
+		<outcome range="2-6" section="448">A wise friar</outcome>
+		<outcome range="7" section="235">Uneventful journey</outcome>
+		<outcome range="8-12" section="473">A storyteller</outcome>
+	</outcomes>
+</section>

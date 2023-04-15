@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="573">
+	Your stay at the inn has been so restful that you are reluctant to
+	leave. Nonetheless, it is time to resume your travels.
+	<choices>
+		<choice section="2">Take the road to Narai</choice>
+		<choice section="30">Take the road to Chompo</choice>
+		<choice section="336">Go south cross-country</choice>
+	</choices>
+</section>

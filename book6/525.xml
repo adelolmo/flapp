@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="525">
+	&#8216;I can show you the way to the Pure Land,&#8217; he says, &#8216;but you
+	will only be able to remain there until daybreak.&#8217; He scatters
+	some dust from his hand and a shining path appears leading up
+	into the western night sky. &#8216;This path will take you there. Be
+	sure that you do not stray off it! When you hear me ring the
+	gong in my temple you must drop whatever you are doing and
+	return at once, because at sunrise the path will vanish.&#8217;
+	<choices>
+		<choice section="542">Set out along the path</choice>
+		<choice section="610">Stay here after all</choice>
+	</choices>
+</section>

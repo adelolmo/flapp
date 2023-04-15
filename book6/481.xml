@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="481">
+	<p>
+		<lose codeword="6.481.1" hidden="t"/>
+		It stalks out of the darkness, its body hanging between long ebony legs like a fat oilskin full of poison. It would take a brave man to face such a thing without flinching.
+		<fightdamage type="add">
+			<tick codeword="6.481.1" hidden="t"/>
+		</fightdamage>
+	</p>
+	<fight name="Spider Creature" combat="10" defence="20" stamina="33" preDamage="SpiderDamage"/>
+	<choices>
+		<choice flee="t" section="585">Run for your life</choice>
+		<choice section="605">Fight and win</choice>
+	</choices>
+</section>

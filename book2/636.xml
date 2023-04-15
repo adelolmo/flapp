@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="636">
+	A particularly striking mermaid with a winsome face, coral curls
+	and a firm lithe tail swims daringly close to the side of the ship.
+	The mate grins at her and gives a friendly wave, but under his
+	breath he says to you: &#8216;I reckon we could net the little imp,
+	captain.&#8217;
+	<choices>
+		<choice section="660">Talk to her</choice>
+		<choice section="684">Try to catch her in a net</choice>
+		<choice section="335">Continue on your way</choice>
+	</choices>
+</section>

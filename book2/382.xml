@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="382">
+	You reach a glade where a long table is laid out for a banquet. It
+	is spread with silver plates piled high with succulent roast meat,
+	spice cakes, warm fresh bread and large ripe fruits. Carved oak
+	chairs are set out for thirteen guests.
+	<choices>
+		<choice section="407">Sit and eat your fill</choice>
+		<choice section="432">Wait and watch</choice>
+		<choice section="22">Retrace your steps</choice>
+	</choices>
+</section>

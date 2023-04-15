@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="327">
+	<p>
+		You have already cleaned the ratmen out of the tunnels below the city but the old well will make a good cache for equipment and money that you don&#8217;t want to carry with you. It has an advantage over a town house - there is no risk of burglary or fire. You may also <rest>rest here</rest> as long as you like, restoring any lost Stamina points. Note
+		&#8216;<extrachoice atbook="1" atsection="10" section="327" key="YellowportSewers" text="Secret cache">
+			Secret cache, Yellowport - <i>The War-Torn Kingdom</i> <b>327</b>
+		</extrachoice>&#8217; on your Adventure Sheet so that you can come here whenever you are in Yellowport.
+	</p>
+	<p>
+		To go back to the city above, <goto section="10"/>.
+	</p>
+	<itemcache name="1.327" text="Items in cache"/>
+</section>

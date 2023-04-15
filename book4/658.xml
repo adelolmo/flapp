@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="658">
+	<!-- the problem here is to transfer and upgrade crew from the
+	     old (lost) ship to the new ship -->
+	<p>
+		Your opponent falls to your superior combat skills. You join the fray, and soon it becomes clear that the wreckers are losing, caught out by the ferocity and excellence of your attack. They fight to the last man, knowing that capture means execution - the law shows no mercy to criminals.
+	</p>
+	<p>
+		&#8216;Worse than pirates, these scum!&#8217; yells your first mate, as he hammers a wrecker with a belaying pin.
+	</p>
+	<p>
+		<set var="oldcrew" value="crew"/>
+		Afterwards you take stock. Your ship and its cargo are lost for ever - <lose ship="t">cross them off</lose> your Adventure Sheet.
+	</p>
+	<p>
+		Moored on the other side of the island, however, is the wrecker&#8217;s ship. It is only a barque but it will do.
+		<buy ship="barque" name="Scavenger" initialCrew="oldcrew" shards="0" quantity="1" force="t">
+			Note it on your Adventure Sheet
+		</buy>,
+		and rename if it you want: it is currently called <i>Scavenger</i>. It has a capacity of 1 Cargo Unit but no cargo is loaded. You find some other things of worth on board, however: a chest which contains <tick shards="100"/> and a <tool name="sextant" ability="scouting" bonus="3"/>.
+	</p>
+	<p>
+		Also, the battle has improved the morale and experience of your crew. You can upgrade Crew Quality one level.
+		<if crew="poor">
+			A poor quality crew
+			<buy crew="average" shards="0">becomes average</buy>,
+		</if>
+		<elseif crew="average">
+			an average quality crew
+			<buy crew="good" shards="0">becomes good</buy>,
+		</elseif>
+		<elseif crew="good">
+			and a good quality crew
+			<buy crew="excellent" shards="0">becomes excellent</buy>.
+		</elseif>
+		There is no change for an excellent quality crew. Note the crew with the barque on the Ship&#8217;s Manifest.
+	</p>
+	<p>
+		Afterwards, you prepare to set sail. You have a new ship, but you still have the problem of navigating Disaster Bay. Where do you go from here?
+	</p>
+	<p><goto section="533"/>.</p>
+</section>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="222">
+	You are travelling in south-west Golnir, somewhere between
+	Metriciens and Castle Ravayne.
+	<choices>
+		<choice section="373">Head south to the coastal road</choice>
+		<choice section="98">Go north</choice>
+		<choice section="25">Travel to Castle Ravayne</choice>
+		<choice section="124">Head towards the Whistling Heath</choice>
+		<choice section="245">Go due east from here</choice>
+	</choices>
+</section>

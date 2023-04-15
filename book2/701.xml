@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="701">
+	<p>
+		It is late afternoon when you cross a bridge near a mill pond. The seven fools are wading around at the water&#8217;s edge with rakes in their hands, lunging at the pond. They seem quite agitated, and when you ask what the matter is one replies: &#8216;Just look! The moon&#8217;s gone and fallen into the pond, and we better have her out by nightfall or who knows what trouble there&#8217;ll be.&#8217;
+	</p>
+	<p>
+		You explain it is just the reflection of the moon, which is palely visible in the sky by this hour. The fools are so relieved that one of them presents you with a <item name="four-leaf clover"/>. Note it on your Adventure Sheet and then <goto section="265"/>.
+	</p>
+</section>

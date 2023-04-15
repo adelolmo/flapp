@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="652">
+	<p>
+		Gaspar will invest money for you in various enterprises. The investment must be in multiples of 100 Shards. Write the sum you are investing in the box here (or withdraw a sum invested previously) and then <goto section="687"/>.
+	</p>
+	<moneycache name="3.652" multiples="100" text="Money invested"/>
+</section>

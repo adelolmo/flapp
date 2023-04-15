@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="297">
+	<lose codeword="2.297.1" hidden="t"/>
+	The knight is no easy opponent. Perhaps you should flee while
+	you still can.
+	<flee>
+		(If you do he will <lose stamina="1d">hit you for 1-6 Stamina points</lose> as you <tick codeword="2.297.1">run off</tick>.)
+	</flee>
+	<fight name="Silent Knight" combat="7" defence="12" stamina="7"/>
+	<choices>
+		<choice box="2.297.1" section="23">If you run away</choice>
+		<choice section="320">If you win</choice>
+	</choices>
+</section>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="398" boxes="1">
+	<p>
+		<if ticks="1">
+			If there is a tick in the box, <goto section="225"/> immediately.
+		</if>
+		If not, <tick/>, and read on.
+	</p>
+	<p>
+		You make your way up the hill. After a while, you spot a cave set into the hillside, a little further up. Judging by the human bones, dumped near the entrance, this is the lair of a dangerous beast. Fresh tracks, of some large, two-legged, threetoed creature, lead from the cave into some nearby trees. It seems it is not home, at the moment.
+	</p>
+	<p>
+		<if codeword="Apache">
+			If you have the codeword Apache, <goto section="463"/> immediately.
+		</if>
+		If not,
+		<difficulty ability="magic|scouting" level="11">
+			make a MAGIC or SCOUTING roll (your choice) at Difficulty 11
+		</difficulty>.
+	</p>
+	<outcomes>
+		<success section="577">Successful SCOUTING or MAGIC roll</success>
+		<failure section="486">Failed SCOUTING or MAGIC roll</failure>
+	</outcomes>
+</section>

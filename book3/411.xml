@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="411">
+	The boats are badly weathered, having been left untended for a
+	long time. You chose the most seaworthy and wait until the tide
+	is in to float her out of the harbour, preferring to cast yourself on
+	the mercy of the sea than risk a night on this eerie island.
+	<random dice="1" type="travel"/>.
+	<outcomes>
+		<outcome range="1-2" section="505">Wrecked on a beach</outcome>
+		<outcome range="3-4" section="472">Picked up by pirates</outcome>
+		<outcome range="5-6" section="430">Reach the mainland</outcome>
+	</outcomes>
+</section>

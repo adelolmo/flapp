@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="241">
+	<p>
+		&#8216;Pay heed to what I say,&#8217; whispers the fiend in gravid tones. &#8216;Go north to a certain fane that is upon the steppes, and there tell the four winds that Tayang Khan was foully slain at sea.&#8217;
+	</p>
+	<p>
+		You try twice to find your voice, finally managing to gasp out: &#8216;What if they already know that?&#8217;
+	</p>
+	<p>
+		But the fiend seems not to understand. It speaks like a sleepwalker, repeating its words until they fade into incoherence. You watch it go as the candle burns down, and your rigid terror gradually gives way to fatigue. In the morning you are hardly sure it happened at all.
+	</p>
+	<p>
+		<tick codeword="Cull">Get the codeword Cull</tick> and
+		<goto section="22"/>.
+	</p>
+</section>

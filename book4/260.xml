@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="260">
+	<p>
+		You are reminded of an evening you spent among the One-Eyed Crow clan, down on the windswept plains. Their bard told a tale of an ancient folk hero who vanquished a vast invulnerable maggot by repeatedly striking it on the snout - the one part of the creature that was susceptible to injury.
+	</p>
+	<p>
+		Bearing this in mind, you keep up a barrage of painful blows on the worm&#8217;s soft snout until it pulls back into the interior of the burrow. <goto section="429"/>.
+	</p>
+</section>

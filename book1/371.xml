@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="371">
+	<p>
+		With a war cry, you leap to the attack. Your first blow rips away a great chunk of its body!
+	</p>
+	<p>
+		Suddenly, a voice pipes up from inside the Gob-gobbler. &#8216;Help, help, lads, this one&#8217;s a real fighter!&#8217;
+	</p>
+	<p>
+		You realize the Gob-gobbler is a man disguised as a monster. But then two thugs - bandits, by the look of them - run out of the woods to attack you. You must fight them one at a time.
+	</p>
+	<fight name="First bandit" combat="3" defence="4" stamina="6"/>
+	<fight name="Second bandit" combat="2" defence="3" stamina="7"/>
+	<p>
+		If you win, <goto section="422"/>. If you lose, you are dead, unless you have a <resurrection>resurrection deal</resurrection>.
+	</p>
+</section>

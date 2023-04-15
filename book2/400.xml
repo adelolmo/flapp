@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="400" image="400.jpg">
+	<p>
+		Misshapen sprites with grotesque faces come scampering out of the hedge beside the road. Tittering to themselves, they prod you with gnarled fingers and discuss whether you are worth eating.
+	</p>
+	<p>
+		&#8216;Give us an emerald and we&#8217;ll let you go,&#8217; pipes up one of the sprites.
+	</p>
+	<p>
+		It seems they will accept a <b>green gem</b> to leave you in peace.
+	</p>
+	<choices>
+		<choice item="green gem" pay="t" section="288">Give them a green gem</choice>
+		<choice section="627">Make a break for it</choice>
+	</choices>
+</section>

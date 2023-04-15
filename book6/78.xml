@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="78">
+	<p><tick codeword="Face">Get the codeword Face</tick>.</p>
+	<p>
+		Your blank features will startle and horrify anyone you meet. The only remedy is to wear a <b>mask</b> if you have one. Any sort of mask will do: a <b>courtier&#8217;s mask</b>, <b>dragon mask</b>, etc. People might think it odd that you go about masked, but it is better than scaring them witless.
+	</p>
+	<p>
+		If you do not have a mask you will automatically fail any CHARISMA roll from now on.
+		<tick ability="charisma" effect="+cursed">
+			Put your CHARISMA score in brackets
+		</tick>
+		and make a note beside it that you cannot use CHARISMA as long as you have no mask.
+	</p>
+	<p>Now <goto section="357"/>.</p>
+</section>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="253" image="253.jpg">
+	The stranger grabs hold of you, hefts you into the air, and flings you down. You hit the deck with such force that it makes your teeth rattle.
+	<lose stamina="1d">Lose 1-6 Stamina points</lose> (the score of one die) and decide whether you feel like fighting on.
+	<choices>
+		<choice section="235">Grapple your foe</choice>
+		<choice section="217">Tell him there&#8217;s no need to fight</choice>
+	</choices>
+</section>

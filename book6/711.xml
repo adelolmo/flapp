@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="711">
+	<p>
+		He steps closer, scrutinizing you with his strange luminous gaze, then pauses in the act of raising a hand to your throat and gives a vexed sigh.
+	</p>
+	<p>
+		&#8216;Ah, your soul is forbidden fruit. Well, no matter - I sense there are others wandering in the woods nearby. I shall have them instead.&#8217;
+	</p>
+	<p>
+		You are not sure whether to broach the subject of a reward, but Morituri shows he is not ungrateful by offering you a <b>hyperium wand (MAGIC +6)</b>.
+	</p>
+	<p>&#8216;This would be a great gift, lord,&#8217; you say.</p>
+	<p>
+		He spreads his hands, displaying talons like kitchen knives. &#8216;It is yours for just a few drops of blood, sufficient to sustain me until I can find another source to feed on.&#8217;
+	</p>
+	<choices>
+		<choice section="23">Let him drink some of your blood</choice>
+		<choice section="742">Refuse to co-operate</choice>
+	</choices>
+</section>

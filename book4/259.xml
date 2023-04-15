@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="259" boxes="1">
+	<p>
+		<if ticks="1">
+			If there is a tick in the box, <goto section="59"/> immediately.
+		</if>
+		If not, <tick/>, and read on.
+	</p>
+	<p>
+		Bakhan takes the ore and makes a <b>selenium wand</b> for you. Cross off the <lose item="selenium ore"/> and add the <tool name="selenium wand" ability="magic" bonus="4"/> to your Adventure Sheet. Afterwards, she bids you a fond farewell. <goto section="10"/>.
+	</p>
+</section>

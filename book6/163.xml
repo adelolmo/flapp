@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="163">
+	<p>You convince them that you slew their cousin in a fair fight.</p>
+	<p>
+		&#8216;Tsebaka was like an unsheathed sword,&#8217; they say, nodding. &#8216;He never could stay out of trouble.&#8217;
+	</p>
+	<p>
+		They advise you to give them the <b>ivory-handled katana</b> in case you run into other warriors of their clan who might not be so amenable.
+		<lose item="ivory-handled katana" force="f">Cross it off</lose>
+		your Adventure Sheet if you do, then <goto section="243"/>.
+	</p>
+</section>

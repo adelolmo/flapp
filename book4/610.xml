@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="610">
+	<p>
+		You find the remains of the snake demon that you slew here. Its rotting flesh adds to the stench of decay that permeates the tomb.
+	</p>
+	<p>
+		At the far end of the hall, you find a large plaque which is inscribed: &#8216;Here lies Xinoc the Priest-King, exalted under heaven.&#8217; There is a small hole in the plaque.
+	</p>
+	<p>
+		<if item="obsidian key">
+			If you have an <b>obsidian key</b>, <goto section="434"/>.
+		</if>
+		If not, there is nothing you can do but leave.
+	</p>
+	<choices>
+		<choice section="657">Visit the Cave of Bells</choice>
+		<choice section="107">Visit the Vault of the Shadar</choice>
+		<choice section="266">Leave the City of Ruins</choice>
+	</choices>
+</section>

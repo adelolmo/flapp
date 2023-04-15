@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="116">
+	You manage to get your bearings. A stream runs to the southeast
+	and by following it you can reach the forest&#8217;s edge.
+	<choices>
+		<choice section="185">Cross the stream</choice>
+		<choice section="162">Follow the stream</choice>
+		<choice section="22">Return to the path</choice>
+	</choices>
+</section>

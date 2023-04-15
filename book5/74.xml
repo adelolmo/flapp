@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="74">
+	<p>From here you can travel:</p>
+	<choices>
+		<choice section="682">North, towards the house of Holyamu</choice>
+		<choice section="100">South to Kunrir</choice>
+		<choice section="334">South, skirting Kunrir</choice>
+		<choice section="714">East into the central Grumes</choice>
+	</choices>
+</section>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="82">
+	<p>
+		You easily evade your pursuers. Crouching unseen in the shadows, you watch them blunder past. You smile to see them peering to and fro, frowning in annoyance at having lost you.
+	</p>
+	<p>
+		Perhaps you never really needed Sig&#8217;s divine help. You seem to be just as lucky without it. <training ability="thievery"/>. If the roll is higher than your current THIEVERY score, increase it by 1.
+	</p>
+	<p>Once you&#8217;ve done that, <goto section="2"/>.</p>
+</section>

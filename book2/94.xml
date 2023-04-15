@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="94">
+	<p>
+		Molhern is the blacksmith of the gods, famous for his cleverness and the breadth of his knowledge. Here at the monastery, his most devout adherents live an austere existence, striving to honour the god through a regimen of hard physical labour combined with academic study.
+	</p>
+	<p>
+		If you are injured, this is a good place to rest and recuperate from your wounds.
+	</p>
+	<choices>
+		<choice section="5">Stop off at the monastery</choice>
+		<choice section="214">Take the road to Conflass</choice>
+		<choice section="329">Take the road to Metriciens</choice>
+		<choice section="352">Take the road to Wheatfields</choice>
+		<choice section="8">Head towards the Whistling Heath</choice>
+	</choices>
+</section>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="569">
+	<p>
+		A narrow-hulled ship with triangular sails pulls alongside. At the rail are turbanned men from Mithdrak, a port of fabulous renown to the far west.
+	</p>
+	<p>
+		The merchants offer to trade cargo with you. They have
+		<tick cargo="textiles" quantity="2" flag="x">2 Cargo Units of textiles</tick>, which they are willing to exchange on a one-for-one basis for Units of <lose cargo="furs" price="x">furs</lose>, <lose cargo="timber" price="x">timber</lose> or <lose cargo="grain" price="x">grain</lose>.
+	</p>
+	<p>When you have completed your business, <goto section="264"/>.</p>
+</section>

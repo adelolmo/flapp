@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="687">
+	<p>
+		You pick up a man who you find clinging to a broken bowsprit. He tells you his vessel was wrecked in a storm. &#8216;It seems I alone survived to tell the tale,&#8217; he says as he tucks into the food you set out for him in your cabin.
+	</p>
+	<p><random/>:</p>
+	<outcomes>
+		<outcome range="2-5" section="711"/>
+		<outcome range="6-8" section="735"/>
+		<outcome range="9-12" section="759"/>
+	</outcomes>
+</section>

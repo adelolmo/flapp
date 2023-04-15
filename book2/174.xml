@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="174">
+	<transfer shards="*" item="*" from="2.105">Recover the money</transfer> that the assassins stole. You disdain to take the deviltooth knives they were using, but you can take a
+	<item name="scarab amulet"/> and a
+	<armour name="leather jerkin" bonus="1"/>.
+	Then <goto section="2"/>.
+</section>

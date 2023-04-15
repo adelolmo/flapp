@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="482">
+	<p>
+		You sense a disharmony in the vibrations of the citadel. Your magical intuition gives you an idea - it ought to be possible to set up a musical vibration of your own, and the resonant harmonics might just shatter the thrumming ruby and bring it down on the necromancer.
+	</p>
+	<p>
+		<if item="*flute|*whistle">
+			If you have a <b>flute</b> or <b>whistle</b>, whether or not they have a bonus, <goto section="632"/>.
+		</if>
+	</p>
+	<p>
+		Otherwise, you will have to try to sing the right note.
+		<difficulty ability="charisma" level="15">
+			<adjust profession="troubadour" amount="1"/>
+		</difficulty>. You can add one to the roll if you are a Troubadour.
+	</p>
+	<outcomes>
+		<success section="329"/>
+		<failure section="464"/>
+	</outcomes>
+</section>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="242">
+	<p>
+		Your innate holiness and faith is like a burning white light to the vampires. Their eyes run with blood, and they howl at the moon in their pain, like running dogs in the night. They turn and flee.
+	</p>
+	<choices>
+		<choice section="463">Follow the vampires</choice>
+		<choice section="393">Let them go and journey on</choice>
+	</choices>
+</section>

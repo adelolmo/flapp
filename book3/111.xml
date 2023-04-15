@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="111" tag="temple">
+	<set var="x" codeword="3.111.Gain" hidden="t"/>
+	<tick shards="x" hidden="t"/>
+	<lose codeword="3.111.Gain" hidden="t"/>
+
+	<lose codeword="3.111" hidden="t"/>
+
+	The priestess asks you if you wish to become an initiate of the
+	Three Fortunes. You must refuse if you are already an initiate of
+	another temple.
+	<if safeAddGod="The Three Fortunes">
+		If you accept, write
+		<group>
+			<text>The Three Fortunes</text>
+			<tick god="The Three Fortunes"/>
+			<tick codeword="3.111"/>
+		</group>
+		in the God box on your Adventure Sheet.
+	</if>
+	<choices>
+		<choice box="3.111" section="256">Become an initiate</choice>
+		<choice section="44">Turn down her offer and leave</choice>
+	</choices>
+</section>

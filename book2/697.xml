@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="697">
+	The bull catches you on its horns and tosses you over the hedge,
+	where you land in a pile of manure. A group of nearby peasants
+	find this hilarious.
+	<lose stamina="1d">Lose 1-6 Stamina points</lose> and all your dignity.
+	Also
+	<lose ability="combat" amount="1">
+		lose 1 point off your COMBAT score
+	</lose>	because of the damage to your confidence. Then
+	<goto section="199"/>.
+</section>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="637">
+	<p>Estragon smiles. &#8216;I never thought you&#8217;d succeed in this quest.&#8217;</p>
+	<p>
+		<lose codeword="2.567.3a" hidden="t"/>
+		<tick codeword="2.567.3b" hidden="t"/>
+		&#8216;I thought you could see the future in your magic mirrors,&#8217; you reply, handing him the <b>golden katana</b>.
+	</p>
+	<p>&#8216;In this case the portents were unclear.&#8217;</p>
+	<p>
+		<set var="r" value="rank" modifier="natural"/>
+		<random dice="2" var="roll"/>,
+		<if var="roll" greaterthan="r">
+			and if the result is greater than your current Rank you
+			<gain ability="rank" amount="1">gain a Rank</gain>.
+			You also
+			<gain ability="stamina" amount="1d">
+				gain 1-6 Stamina points <i>permanently</i>
+			</gain>; increase your normal (unwounded) Stamina score by the roll of one die. Remember that going up a Rank increases your Defence.
+		</if>
+	</p>
+	<p>
+		Remember to
+		<lose item="golden katana">
+			cross the <b>golden katana</b> off
+		</lose> your Adventure Sheet, then <goto section="342"/>.
+	</p>
+</section>

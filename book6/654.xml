@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="654">
+	The road leads in one direction to Chambara, in the other to
+	Mukogawa. From your vantage point here in the hills you can
+	see the countryside tumble down to west and east in a profusion
+	of fields, streams and scattered farmsteads.
+	<choices>
+		<choice section="631">Travel to Chambara</choice>
+		<choice section="552">Travel to Mukogawa</choice>
+		<choice section="515">Go north-east</choice>
+		<choice section="672">Go north-west</choice>
+		<choice section="444">Go south-east</choice>
+		<choice section="704">Go south-west</choice>
+	</choices>
+</section>

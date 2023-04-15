@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="139">
+	The tengu pelt you with sticks and pine cones, flutter down to
+	tear your clothes, and cavort about tormenting you on all sides.
+	There are far too many of them to fight. You can only run for
+	your life.
+	<lose stamina="1d">Lose 1-6 Stamina points</lose>,
+	<lose item="*">all your possessions</lose> and
+	<adjustmoney multiply="0.5">half of any money</adjustmoney>
+	you&#8217;re carrying. Assuming you survive, the tengu
+	finally tire of their sport and let you go. <goto section="603"/>.
+</section>

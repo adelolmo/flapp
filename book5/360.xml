@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="360">
+	<p>
+		You try to reason with the crowd, but your pleas fall on deaf ears. Instead, the priest convinces them you must be a heretic too! They are out for blood, and yours will do.
+	</p>
+	<p>
+		You are forced to flee for your life, as they begin to hurl rocks and stones at you. You lose <lose stamina="2d">2-12 Stamina</lose> (the roll of two dice) in making your getaway.
+	</p>
+	<p><goto section="74"/>.</p>
+</section>

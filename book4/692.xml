@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="692">
+	You beat them off, killing a few in the process. You find <gain shards="15"/> and a set of <tool name="lockpicks" ability="thievery" bonus="1"/> on the bodies. When you are finished looting them, <goto section="182"/>.
+</section>

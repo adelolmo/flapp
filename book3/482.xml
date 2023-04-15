@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="482">
+	<p>
+		&#8216;Few reach this far,&#8217; booms a voice. Startled, you whirl around and peer in all directions, but there is nothing to be seen except the pall of leaves and trees like silent sentinels.
+	</p>
+	<p>
+		The branches of the plane tree move - sluggish serpents stirred to drowsy life, unfolding to reveal a fissure in the earth.
+	</p>
+	<p>&#8216;Where does it lead?&#8217; you ask the unseen presence.</p>
+	<p>
+		&#8216;Anywhere you wish, if you have the science to find your way. But to the unskilled it is only a gateway to hell.&#8217;
+	</p>
+	<choices>
+		<choice section="464">Enter the hole</choice>
+		<choice section="388">Turn back</choice>
+	</choices>
+</section>

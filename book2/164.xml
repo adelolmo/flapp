@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="164" dock="Metriciens">
+	The first mate peers dourly along the dock, shaking his head at
+	the merchants checking their wares before loading. &#8216;The
+	lubbers!&#8217; he spits. &#8216;I&#8217;ll be glad to get shot o&#8217; this dump.&#8217;
+	<choices>
+		<choice section="48">Go ashore</choice>
+		<choice sail="t" section="210">Set sail</choice>
+	</choices>
+</section>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="210">
+	The deep and dark blue ocean rolls on around your bows,
+	churned by a freshening wind. <random type="travel"/>.
+	<outcomes>
+		<outcome range="2-4" section="138">A flying ship</outcome>
+		<outcome range="5-8" section="228">Nothing</outcome>
+		<outcome range="9-12" section="619">An exotic vessel</outcome>
+	</outcomes>
+</section>

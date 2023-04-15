@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="381">
+	You are sailing in Kotobuki Bay, close to the mouth of the
+	Moku River where stands Chambara, the imperial capital.
+	<choices>
+		<choice section="400">Make for Chambara harbour</choice>
+		<choice section="200">Steer south-east</choice>
+		<choice section="300">Steer west</choice>
+		<choice section="80">Head out to sea</choice>
+	</choices>
+</section>

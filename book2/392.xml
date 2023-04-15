@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="392">
+	<p>
+		Sir Fontesque twirls his long moustache and demands the right of trial by combat. The next day you are obliged to meet him on the field in front of the keep. The truth of your accusation will be decided by the outcome of this duel, as ancient law dictates.
+	</p>
+	<fight name="Sir Fontesque" combat="7" defence="13" stamina="11"/>
+	<p>
+		If you win, <goto section="467"/>.
+		<flee>
+			If you surrender, <goto section="319"/>.
+		</flee>
+	</p>
+</section>

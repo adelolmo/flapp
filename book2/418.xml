@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="418">
+	The innkeeper charges 1 Shard a day. This entitles you to a mat
+	beside the common-room fire and two hot meals.
+	<rest stamina="1" shards="1">
+		Each day you spend here
+	</rest>, you can recover 1 Stamina point if injured, up to
+	the limit of your normal unwounded Stamina score. When you
+	are ready to leave, <goto section="443"/>.
+</section>

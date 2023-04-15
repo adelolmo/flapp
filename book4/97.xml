@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="97">
+	The main gate is guarded by the Knights of the Northern Shield, the permanent garrison of the citadel.
+	<if title="Protector of Sokara" item="officer's pass">
+		If you have the title Protector of Sokara or an <b>officer&#8217;s pass</b>, the guards wave you through - <goto section="295"/>.
+	</if>
+	If not, you are denied entry. <goto section="596"/>.
+</section>

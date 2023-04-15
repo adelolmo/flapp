@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="634">
+	<p>
+		The fishman puts his spear down, and all three of them squat down around you, and lay out various wares in front of you. It is obvious they wish to trade! They speak with bubbly squeaks and clicks that you cannot understand but sign language is enough for both parties.
+	</p>
+	<p>
+		They are offering two
+		<item flag="x" name="ink sac" quantity="2"><b>ink sacs</b></item>, one
+		<item flag="x" name="mariner's ruttier" quantity="1"/>, and one
+		<weapon flag="x" name="magic trident" bonus="2" quantity="1"/>.
+		They will accept in exchange
+		<lose price="x" item="bag of pearls"><b>bags of pearls</b></lose>,
+		<lose price="x" item="silver nugget"><b>silver nuggets</b></lose> and
+		<lose price="x" item="smoulder fish"/>, one for each. Simply delete one of the items from your sheet and add the one you want.
+	</p>
+	<p>
+		When you're finished, or if you don't have any of the items they are interested in, the creatures leave, diving into the waters. You return to your ship and crew. High tide comes, refloating your ship, and you sail on. <goto section="471"/>.
+	</p>
+</section>

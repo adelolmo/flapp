@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="600">
+	<p>
+		A mist creeps in on the sea breeze, swirling in pockets across the downs. Hearing a footfall, you look back nervously, but the mist makes it impossible to see if you are being followed.
+	</p>
+	<p>
+		<difficulty ability="scouting" level="13">
+			Make a SCOUTING roll at a Difficulty of 13
+		</difficulty>.
+	</p>
+	<outcomes>
+		<success section="425"/>
+		<failure section="675"/>
+	</outcomes>
+</section>

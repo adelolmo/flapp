@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="520">
+	You go out to the circle of standing stones and wait. The sun
+	sinks slowly into the west, leaving a lilac sky waiting for the
+	coming of night. There is a warm scent of honeysuckle on the
+	breeze. <random/>:
+	<outcomes>
+		<outcome range="2-5" section="495">The trau arrive</outcome>
+		<outcome range="6-12" section="173">A fruitless vigil ends at dawn</outcome>
+	</outcomes>
+</section>

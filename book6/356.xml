@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="356">
+	<p>
+		You are traversing wide, windswept heathland where it is possible to go from dawn to dusk without seeing a living soul.
+	</p>
+	<p><random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-5" section="228">Asked to run an errand</outcome>
+		<outcome range="6-12" section="376">Nothing untoward</outcome>
+	</outcomes>
+</section>

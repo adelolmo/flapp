@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="65">
+	<p>
+		The vampire furrows its bald white brow, perplexed to hear you speaking in verse. It looks like a cat that has caught sight of itself in a mirror. Each time it speaks, you reply with a line that rhymes - and all the time you are slowly retreating down the beach to the rowboat.
+	</p>
+	<p>
+		<if profession="Troubadour"><set var="r" value="rank"/></if>
+		<else><set var="r" value="0"/></else>
+		<random dice="2">
+			<adjust amount="r"/>
+		</random>.
+		If you are a Troubadour, add your Rank to the result.
+	</p>
+	<outcomes>
+		<outcome range="2-9" section="85">The vampire attacks</outcome>
+		<outcome range="10+" section="41">It watches you depart</outcome>
+	</outcomes>
+</section>

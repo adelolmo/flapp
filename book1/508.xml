@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="508">
+	<p>
+		You come round inside a disused warehouse, enmeshed in the net. You have been stripped of all your possessions - they are in a tidy pile nearby. Several men surround you. They are dressed in furs and robes that are adorned with hundreds of multicoloured feathers. Each man wears a necklace of animal skulls and has his teeth sharpened to needle-like points.
+	</p>
+	<p>
+		&#8216;Hallo,&#8217; the leader says reasonably. &#8216;We are the Unspeakable Ones - it is our way to eat people in sacrifice of our god.&#8217;
+	</p>
+	<p>
+		He points to a squat wooden idol of a grossly fat half-man, half ape with ivory needles for teeth. You notice the name &#8216;Badogor the Unspoken&#8217; inscribed on a plaque at the base of the idol.
+	</p>
+	<p>&#8216;Badogor the Unspoken - who&#8217;s he?&#8217; you ask.</p>
+	<p>
+		&#8216;Do not speak his name!&#8217; shouts the cannibal, &#8216;Or you will be forever cursed!&#8217;
+	</p>
+	<p>
+		You notice a large cauldron of boiling water into which another cultist is tossing herbs and garlic. He stares at you and licks his lips.
+	</p>
+	<p><goto section="320"/>.</p>
+</section>

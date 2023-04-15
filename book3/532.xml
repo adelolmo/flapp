@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="532">
+	You lay Lauria out with a right cross. She&#8217;ll wake up with a bad
+	headache, but that was on the cards anyway after the amount of
+	cider she drank. You take the opportunity to steal <gain shards="250"/>
+	and a <weapon name="dagger" bonus="1"/>
+	before sneaking off into the night.
+	<lose codeword="Anger">Lose the codeword Anger</lose>
+	and <goto section="675"/>.
+</section>

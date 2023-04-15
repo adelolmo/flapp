@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="461">
+	<p>
+		The pirate vessel crunches into your side. The attackers swarm aboard, screaming the war-cry that has struck terror into many brave hearts over the centuries. Your men square off grimly with hooks, belaying-pins, and anything else that comes to hand. They will die fighting rather than be enslaved.
+	</p>
+	<p>
+		<if profession="warrior">
+			<random dice="3">
+				<adjust ability="rank"/>
+				<adjust crew="poor" amount="-2"/>
+				<adjust crew="good" amount="2"/>
+				<adjust crew="excellent" amount="3"/>
+			</random> if you are a Warrior,
+		</if>
+		<else>
+			or
+			<random dice="2">
+				two dice<adjust ability="rank"/>
+				<adjust crew="poor" amount="-2"/>
+				<adjust crew="good" amount="2"/>
+				<adjust crew="excellent" amount="3"/>
+			</random>
+			if you belong to any other profession.
+		</else>
+		Add your Rank to this roll. Then, if your crew is poor quality, subtract 2 from the total. If the crew is good, add 2. If the crew is excellent, add 3.
+	</p>
+	<outcomes>
+		<outcome range="0-4" section="560">Calamity; you are killed</outcome>
+		<outcome range="5-9" section="535">
+			Crushing defeat; <lose stamina="2d">lose 2-12 Stamina</lose>
+		</outcome>
+		<outcome range="10-13" section="510">
+			Forced to give in; <lose stamina="1d">lose 1-6 Stamina</lose>
+		</outcome>
+		<outcome range="14-17" section="14">The pirates withdraw</outcome>
+		<outcome range="18+" section="536">Outright victory</outcome>
+	</outcomes>
+</section>

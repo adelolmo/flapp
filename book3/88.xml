@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="88">
+	<p>
+		There is ample fruit and even a little game, in the form of flightless weasel-birds. The trick lies in knowing what is safe to eat and what is toxic.
+	</p>
+	<p>
+		<difficulty ability="scouting" level="12">
+			Make a SCOUTING roll at a Difficulty of 12
+		</difficulty>.
+	</p>
+	<outcomes>
+		<success section="144"/>
+		<failure section="162"/>
+	</outcomes>
+</section>

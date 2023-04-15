@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="472">
+	<p>
+		<if codeword="Dotage">
+			If you have the codeword Dotage, <goto section="667"/> immediately.
+		</if>
+		If not, read on.
+	</p>
+	<p>
+		Fort Estgard is one of three forts along the wall that runs right along the border. Their purpose is to defend Sokara against the ravening manbeasts of Nerech, which are constantly trying to break through to raid the interior. The commander of the fort desperately wants to see you.
+	</p>
+	<p>
+		&#8216;My daughter, Alissia, has been kidnapped by the manbeasts!&#8217; he says. &#8216;They are asking that I let one of their raiding parties through, to attack the farmlands. I&#8217;m delaying my response as long as possible, but if I don&#8217;t do something soon, they will kill her! Please, I need a brave adventurer to rescue her!&#8217;
+	</p>
+	<p>
+		If you take up the quest,
+		<tick codeword="Alissia" force="f">record the codeword Alissia</tick>.
+	</p>
+	<choices>
+		<choice book="4" section="225">Head east to Nerech</choice>
+		<choice section="299">North west to Fort Mereth</choice>
+		<choice section="259">South east to Fort Brilon</choice>
+		<choice section="548">West into the farmlands</choice>
+	</choices>
+</section>

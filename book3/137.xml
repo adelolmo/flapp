@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="137">
+	You are at sea south of Sokara, at a point roughly on the same
+	longitude as Trefoille. You consider your next course.
+	<choices>
+		<choice section="4">South</choice>
+		<choice section="66">North</choice>
+		<choice section="246">East</choice>
+		<choice section="81">West</choice>
+	</choices>
+</section>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="369" tag="temple">
+	<p>
+		<if item="boar's tusk">
+			If you have a <b>boar&#8217;s tusk</b>, <goto section="612"/>.
+		</if>
+		If not, read on.
+	</p>
+	<p>
+		The priestess, dressed in ceremonial leather armour, and carrying a silver bow, recognizes you, and welcomes you. She offers you the usual services.
+	</p>
+	<choices>
+		<choice section="618">Become an initiate of Lacuna</choice>
+		<choice section="334">Renounce the worship of Lacuna</choice>
+		<choice section="52">Seek a blessing</choice>
+		<choice section="195">Leave the temple</choice>
+	</choices>
+</section>

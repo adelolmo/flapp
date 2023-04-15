@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="505">
+	<p>
+		You are on a stretch of shore. Surf pounds on white sand. At the back of the beach is a wall of craggy grey rocks covered with hanging ferns. It is the classic desert island.
+	</p>
+	<p><goto section="177"/>.</p>
+</section>

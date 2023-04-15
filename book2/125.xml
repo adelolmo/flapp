@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="125" tag="temple" image="125.jpg">
+	Nagil is the god of death, and is usually depicted as a cowled
+	figure with a hollow black stare. Paradoxically, his temple is no
+	stately mausoleum, but a wide, high-towered building from
+	whose minarets a haunting melody is sung both at dawn and at
+	dusk.
+	<choices>
+		<choice section="270">Become an initiate of Nagil</choice>
+		<choice section="293">Renounce his worship</choice>
+		<choice section="316">Make resurrection arrangements</choice>
+		<choice section="48">Leave the temple</choice>
+	</choices>
+</section>

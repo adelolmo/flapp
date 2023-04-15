@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="309">
+	<p>
+		<lose codeword="BladeSeven" hidden="true"/>
+		Metal is the element of persistence and bravery. While you have this doughty weapon with you (not necessarily in your hands), you can add 2 to your COMBAT score. Note the
+		<weapon name="sword of metal">
+			<effect type="aura" ability="combat" bonus="2"/>
+		</weapon>
+		on your Adventure Sheet.
+	</p>
+	<p>You swim back to shore. <goto section="268"/>.</p>
+</section>

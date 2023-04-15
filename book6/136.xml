@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="136">
+	<p>
+		The coastal cliffs form walls of rock on one side; walls of black storm-clouds tower on the other. &#8216;Let&#8217;s not get trapped between them,&#8217; cautions the helmsman.
+	</p>
+	<p><random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-9" section="87">A safe journey</outcome>
+		<outcome range="10-12" section="447">A blustery wind</outcome>
+	</outcomes>
+</section>

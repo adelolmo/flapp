@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="267">
+	<p>
+		The priest shows you a selection of wands. The shape is different from the wands of the west as they are wide and flat with rounded ends. The glyphs inscribed along the side are unfamiliar to you, but the priest assures you that the wands function perfectly well.
+	</p>
+	<market>
+		<header type="magic"/>
+		<tool name="amber wand" ability="magic" bonus="1" buy="500" sell="250"/>
+		<tool name="ebony wand" ability="magic" bonus="2" buy="1000" sell="500"/>
+		<tool name="cobalt wand" ability="magic" bonus="3" buy="2000" sell="1000"/>
+		<tool name="selenium wand" ability="magic" bonus="4" buy="4000"/>
+		<tool name="celestium wand" ability="magic" bonus="5" buy="8000"/>
+	</market>
+	<p>After you have finished your business here, <goto section="79"/>.</p>
+</section>

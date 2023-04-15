@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="251">
+	<p>
+		You lash out, knocking the dwarf to the ground. As he sits cradling his head, you hurry over to the figure on horseback. As you lift the visor, a wisp of green smoke curls out and you hear a voice say: &#8216;I thank you, mortal, for my freedom.&#8217;
+	</p>
+	<p>The smoke disperses on the breeze: the armour is empty.</p>
+	<p>
+		<tick codeword="Bosky">
+			Get the codewords Bosky
+		</tick>	and
+		<tick codeword="Baluster">Baluster</tick>.
+		You can also take <armour name="plate armour" bonus="5"/>
+		and a <weapon name="curved sword" bonus="1"/>, since the dwarf is in no fit state to stop you.
+	</p>
+	<choices>
+		<choice section="343">Continue along the path</choice>
+		<choice section="23">Turn back</choice>
+	</choices>
+</section>

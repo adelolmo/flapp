@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="438">
+	The Urushi Mountains are a great blue bruise against the limpid
+	sky at dusk. North is the city of Mukogawa, centre of Moonrise
+	Clan power. Across the Ugetsu Straits lies the island of Toho,
+	the untamed outpost of the Akatsurese empire.
+	<choices>
+		<choice section="535">Go south</choice>
+		<choice section="220">Go west</choice>
+		<choice section="359">Go up into the mountains</choice>
+		<choice section="178">Go north to Mukogawa</choice>
+	</choices>
+</section>

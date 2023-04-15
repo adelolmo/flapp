@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="551">
+	<p>
+		A trick of the light throws red shadows against the western clouds. Squinting into the blaze of dying sunlight, you imagine a scene of battle. An owl flies above phalanxes of troops, guiding them to victory against demons with round shields who seem to emerge out of a great blood-washed lake.
+	</p>
+	<p>&#8216;Daydreaming, skipper?&#8217; asks the first mate.</p>
+	<p>
+		Startled out of your reverie, the spell is broken. Now you see only a line of pink clouds under the gathering curtain of night.
+	</p>
+	<p>
+		<tick codeword="Cyclops">Get the codeword Cyclops</tick> and <goto section="59"/>.
+	</p>
+</section>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="110">
+	<p>
+		You try to fight, but it has become so cold that you can hardly breathe. Your eyelids freeze together, and you cannot see. Suddenly, you are struck senseless.
+	</p>
+	<p>
+		You come round on the shore of the lake, but you have drained of your vital energy by some vampiric force.
+		<lose ability="rank" amount="1">Reduce your Rank by one</lose>, and <random dice="1" var="x">roll a die</random>. The result is the
+		<lose ability="stamina" amount="x">
+			number of Stamina points you lose
+		</lose>, permanently.
+	</p>
+	<p><goto section="320"/>.</p>
+</section>

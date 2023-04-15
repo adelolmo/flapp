@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="323">
+	The creature&#8217;s armour is too heavy to suit you, but you can take
+	a
+	<weapon name="hunting spear"/>, a
+	<item name="boar's tusk"><b>boar&#8217;s tusk</b></item> and
+	<tick shards="30"/> that it had in its
+	purse. Record your acquisitions and then <goto section="93"/>.
+</section>

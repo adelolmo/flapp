@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="474">
+	<p>
+		Kiyomori and his retinue could not be more astonished if a faery creature from the overworld had just fallen into their midst. Jiro, the chancellor&#8217;s executioner, rests the tip of his two-handed sword on the turf and shakes his head.
+	</p>
+	<p>&#8216;Now what do you think you&#8217;re up to?&#8217; he says.</p>
+	<p>&#8216;Who is this fool?&#8217; demands Kiyomori. &#8216;Jiro, execute them both.&#8217;</p>
+	<p>
+		Jiro hefts his sword and steps closer. Two other guards are moving to get behind you.
+	</p>
+	<p>What now?</p>
+	<choices>
+		<choice section="618">Fight all three</choice>
+		<choice section="598">Cut Akugenda&#8217;s bonds</choice>
+		<choice section="577">Run for it</choice>
+	</choices>
+</section>

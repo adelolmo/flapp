@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="550">
+	<p>
+		You must be in one of the cities mentioned in the book below before you can use the Vade Mecum <i>[I'm not enforcing this. Be honest --Ed]</i>. It is a book of teleportation. You can use it to travel instantly to any one of the other cities listed.
+	</p>
+	<p>
+		<!-- Had to reorder this section; this way, you can only get
+		to the choices after making the difficulty roll -->
+		If you don't want to use the book, or you aren't in one of the cities below, <return force="f">turn back</return> to the paragraph you noted.
+	</p>
+	<p>
+		Every time you use the book you must <difficulty ability="magic" level="13"/>.
+		<failure>
+			If you fail the roll, you still travel to your destination, but the book is destroyed in the process, and you must
+			<lose item="Vade Mecum">cross it off</lose>
+			your Adventure Sheet.
+		</failure>
+	</p>
+	<choices>
+		<choice book="5" section="444">To Aku</choice>
+		<choice book="6" section="79">To Chambara</choice>
+		<choice book="7" section="42">To Dunpala</choice>
+		<choice book="3" section="571">To Dweomer</choice>
+		<choice book="9" section="50">To Mithdrak</choice>
+		<choice book="8" section="20">To Pethumar</choice>
+		<choice book="2" section="2">To Ringhorn</choice>
+		<choice book="10" section="88">To Teleos</choice>
+		<choice book="4" section="10">To Yarimura</choice>
+		<choice book="1" section="10">To Yellowport</choice>
+	</choices>
+</section>
+		

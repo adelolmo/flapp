@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="103">
+	<p>
+		You are brought into the presence of the god himself. He wears the war-gear of a mighty overlord, his face hidden in the gloom of a great iron visor.
+	</p>
+	<p>
+		'You have striven long and hard in my service,' he says. 'Now is the time for your reward.'
+	</p>
+	<p>
+		A seneschal, bony and lavender of skin, comes forward bearing a magnificent sword of white metal. This is bestowed on you amid much ceremony. The assembled dead give a cheer - though it sounds like the death-groan of a multitude - as you buckle the sword to your belt.
+	</p>
+	<p>
+		Add the <weapon name="white sword" bonus="8" tags="keep"/> to your list of possessions. You can never lose this sword; it cannot be stolen from you or lost. Even if you die and are resurrected elsewhere, the sword will still be with you.
+	</p>
+	<p>
+		<if god="Nagil">
+			If you are an initiate of Nagil, <goto section="551"/>.
+		</if>
+		If not, <goto section="387"/>.
+	</p>
+</section>

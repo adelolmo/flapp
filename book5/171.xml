@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="171">
+	<p>
+		You are stopped by a patrol of the city guard, mercenaries led by a masked Uttakin captain. <if codeword="Evade">If you have the codeword Evade, <goto section="65"/>.</if> If not, you undergo a routine check, and they let you go on your way. <goto section="100"/>.
+	</p>
+</section>

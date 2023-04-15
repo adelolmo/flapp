@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="590">
+	You come to a large hunting lodge beside a grove of pine trees.
+	Here you could rest for a few days.
+	<choices>
+		<choice section="610">Take a room at the lodge</choice>
+		<choice section="654">Continue on your way</choice>
+	</choices>
+</section>

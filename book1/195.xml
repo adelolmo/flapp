@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="195" dock="Isle of Druids">
+	<p>
+		<gain codeword="Aspen">Gain the codeword Aspen</gain>
+		if you do not already have it.
+	</p>
+	<p>
+		The Trading Post is a small village, set up here by enterprising settlers from the mainland. Its main export appears to be furs from the forest.
+	</p>
+	<p>
+		The Mayor, a fat genial fellow, who greets you personally, insists that one day the Trading Post will be a thriving town. There is not a lot here yet, however: a small market, a quay, the settler&#8217;s houses, and a shrine to Lacuna the Huntress, goddess of nature.
+	</p>
+	<choices>
+		<choice section="544">Visit the shrine to Lacuna</choice>
+		<choice section="452">Visit the market</choice>
+		<choice section="332">Visit the quayside</choice>
+		<choice section="181">Visit the Green Man Inn</choice>
+		<choice section="11">Climb the hill that overlooks the town</choice>
+		<choice section="257">Go inland, into the Old Forest</choice>
+	</choices>
+</section>

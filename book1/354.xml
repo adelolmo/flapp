@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="354">
+	<lose weapon="?" bonus="1">You throw</lose>, muttering a prayer for forgiveness to the gods. The weapon soars through the air. It turns, and catches the sunlight, sparkling like a flashing star, before sinking beneath the water with barely a splash. No ripples appear. Your heart feels uplifted, and the curse is no more! <lose curse="Tyrnai&#8217;s Curse">Delete the curse</lose> and its effects, and <lose codeword="Appease">lose the codeword Appease</lose>. <goto section="378"/>.
+</section>

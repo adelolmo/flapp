@@ -1,0 +1,16 @@
+<section name="Domisellus of Atticala" profession="Troubadour">
+	<p>
+		Inspired by a dream of the High King, who now sleeps beneath the frozen surface of the Rimewater, you took up your haversack and began a life of adventure and minstrelsy.  You have not met many people who you could not sway with your deft wit and silver tongue.  You have heard tell of songs sung in the haunted ruins of the High King's Seat.
+	</p>
+	<p>
+		You can play as Domisellus, or as a troubadour with a different name (enter it in the 'Name' field). To begin your adventure, <goto section="1" force="f"/>.
+	</p>
+	<p>For another profession, choose from the following:</p>
+	<choices>
+		<choice section="Nakir">Warrior</choice>
+		<choice section="Jadhak">Mage</choice>
+		<choice section="Anathema">Priest</choice>
+		<choice section="Melmoth">Wayfarer</choice>
+		<choice section="Shen">Rogue</choice>
+	</choices>
+</section>

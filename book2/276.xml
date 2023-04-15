@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="276">
+	<!-- regal helm - treat as regular armour? or additional? -->
+	The floor of the belfry is virtually covered with silver, gold and precious gems - all sprinkled with bat guano. Two items draw your gaze: a
+	<weapon name="golden sword" bonus="2"/> and a
+	<armour name="regal helm" bonus="3"/>. You can take these two items: record them as possessions on your Adventure Sheet. You can also try to gather some treasure before the vampire bats wake up.
+	<choices>
+		<choice section="322">Gather some treasure</choice>
+		<choice section="22">Leave without further delay</choice>
+	</choices>
+</section>

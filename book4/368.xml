@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="368">
+	<p>&#8216;Wait!&#8217; one of them shrieks.</p>
+	<p>
+		It flies down, and looks in your face. Then it says, &#8216;I know you!&#8217;
+	</p>
+	<p>
+		It is Pikalik, the Wing-warrior. You bought him in the slave market in Caran Baru, and then set him free. The others become friendly, and fly you up to their lair, a maze of caves running through the topmost peak, accessible only by air.
+	</p>
+	<p>
+		The journey is quite exhilarating, though it takes seven or eight Mannekyn People to carry you. Pikalik takes you to their leader. You are shown into a richly adorned cave, deep in the rock.
+	</p>
+	<p><goto section="428"/>.</p>
+</section>

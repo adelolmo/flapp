@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="26">
+	You set sail for Dweomer. The journey takes a few days but, amazingly, it is uneventful. The captain can&#8217;t believe his luck, as you disembark at Dweomer harbour, on the Sorcerers&#8217; Isle. <goto book="3" section="100">Turn to paragraph 100</goto> in <i>Over the Blood-Dark Sea</i>.
+</section>

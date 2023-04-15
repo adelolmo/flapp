@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="407" dock="Isle of Mystery">
+	If you own a ship, and it is anchored nearby, <goto section="323" sail="t"/>. If you don't have a ship, <goto section="629"/>.
+</section>

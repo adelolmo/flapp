@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="317">
+	<p>
+		For days you slog on, hungry and half-blind with the glare of low, slanting rays of sunlight that glance off the ice. You are bone weary but it is too cold to snatch more than a few minutes&#8217; sleep. Each footstep plunges you thigh-deep in snow. Avalanches are a constant threat. You should never have ventured into this merciless wasteland.
+	</p>
+	<p>
+		<lose stamina="1d">Lose 1-6 Stamina points</lose>
+		(the roll of one die) and, if still alive,
+		<difficulty ability="scouting" level="18"/>.
+	</p>
+	<outcomes>
+		<success section="636"/>
+		<failure section="452"/>
+	</outcomes>
+</section>

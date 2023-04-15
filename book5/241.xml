@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="241" image="241.jpg">
+	<p>
+		You find the statue of the ancient sun god you dug out of the swamp. It stands proud and upright - indeed, since the last time you were here, it seems even cleaner, and less weather-beaten.
+	</p>
+	<p>
+		<if shards="25">If you want to leave an offering to the sun god of 25 Shards, <goto section="451" force="f"/>.</if> If not, you can leave the Mixen Sumps.
+	</p>
+	<choices>
+		<choice section="213">North to the Hall of Heroes</choice>
+		<choice section="12">East</choice>
+		<choice section="438">West</choice>
+	</choices>
+</section>

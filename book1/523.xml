@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="523">
+	<p>
+		<tick codeword="StillInYellowport" hidden="t"/>
+		<if codeword="Assassin">
+			If you have the codeword Assassin, <goto section="27"/> immediately.
+		</if>
+		<if title="Protector of Sokara">
+			If not, if you have the title Protector of Sokara, you are sent in to see the provost marshal immediately - <goto section="95"/>.
+		</if>
+	</p>
+	<p>
+		Otherwise, you have to wait several hours to be seen by one of the provost marshal&#8217;s aides, a certain Captain Royzer.
+	</p>
+	<p>
+		<if codeword="Artery">
+			If you have the codeword Artery, Royzer sends you in to see Marloes Marlock immediately - <goto section="456"/>.
+		</if>
+	</p>
+	<p>
+		Otherwise, you will have to convince the captain it is worth his while to let you see the provost marshal.
+		<if profession="warrior"><set var="x" value="1"/></if>
+		<elseif profession="rogue"><set var="x" value="1"/></elseif>
+		<elseif profession="troubadour"><set var="x" value="1"/></elseif>
+		<else><set var="x" value="2"/></else>
+		<if var="x" equals="1"><if shards="5">
+				If you are a Warrior, Rogue or Troubadour, Royzer will let you in for the modest bribe of 5 Shards -
+				<group>
+					<text>turn to <b>191</b></text>
+					<lose shards="5"/>
+					<goto section="191"/>
+				</group>.
+		</if></if>
+	</p>
+	<p>
+		<if var="x" equals="2"><if shards="5">
+				If you are a Wayfarer, Priest or Mage, you will have to convince the captain of your loyalty to Sokara first.
+				<difficulty ability="charisma" level="9"/>.
+				<success>
+					If you are successful, you can then bribe him -
+					<group>
+						<text>pay 5 Shards and turn to <b>191</b></text>
+						<lose shards="5"/>
+						<goto section="191"/>
+					</group>.
+				</success>
+		</if></if>
+	</p>
+	<p>
+		If you fail your CHARISMA roll or do not wish to pay the bribe, Captain Royzer dismisses you rudely. <goto section="10"/>.
+	</p>
+</section>

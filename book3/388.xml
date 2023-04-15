@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="388">
+	<p>
+		You look back. The path you came along is not there anymore. You are lost in the Bluewood.
+	</p>
+	<p>
+		To find your way out again you will need to
+		<difficulty ability="scouting" level="15">
+			make a SCOUTING roll at a Difficulty of 15
+		</difficulty>.
+	</p>
+	<outcomes>
+		<success section="705"/>
+		<failure section="369"/>
+	</outcomes>
+</section>

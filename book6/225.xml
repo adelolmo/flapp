@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="225">
+	<p>
+		He tells a story about a poor knight whose wife became inexplicably ill. He roamed far and wide searching for a cure and finally encountered an old hermit who told him that he should search for a dragon, because all dragons have a magical pearl in the roof of their mouth. The hermit claimed that such a pearl was the only thing that could heal the knight&#8217;s wife.
+	</p>
+	<p>
+		Eventually, after many adventures, the knight encountered the dragon and slew it. He then discovered that the hermit had been the dragon in human form. It had cursed the knight&#8217;s wife because of an old feud with her family. After the dragon&#8217; s death the curse was lifted, the wife recovered, and they lived happily ever after on the fortune they got for selling the magic pearl.
+	</p>
+	<p>
+		<tick codeword="Farm">Get the codeword Farm</tick>
+		and <goto section="611"/>.
+	</p>
+</section>

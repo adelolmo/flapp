@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="13">
+	<p>
+		<if god="Sig"><set var="cost" value="10"/></if>
+		<else><set var="cost" value="30"/></else>
+		The blessing of Sig costs 10 Shards if you are an initiate, 30 Shards otherwise.
+		<if shards="cost">
+			If you buy the blessing,
+			<group>
+				<text>cross off the money and mark THIEVERY</text>
+				<lose shards="cost"/>
+				<tick blessing="thievery"/>
+			</group>
+			in the Blessings box on your Adventure Sheet.
+		</if>
+	</p>
+	<p>
+		The blessing works by allowing you to reroll any failed
+		THIEVERY attempt once. When you use the blessing, cross it off
+		your Adventure Sheet. You can then make a second try at the
+		roll.
+	</p>
+	<p>
+		You can have only one blessing for each ability at any one
+		time. Once your THIEVERY blessing is used up, you can return
+		to any branch of the temple of Sig to buy a new one.
+	</p>
+	<p>When you are finished here, <goto section="347"/>.</p>
+</section>

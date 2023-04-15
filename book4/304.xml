@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="304">
+	<p>
+		Your last blow sends Kaschuf&#8217;s bald head spinning bloodily off his shoulders. His headless corpse slumps to the ground. But then, to your horror, the head and body rush together, and his wounds close up. Kaschuf stands before you again, completely whole. He bursts into laughter.
+	</p>
+	<p>
+		&#8216;Oh, you&#8217;re a good fighter, I&#8217;ll give you that, but they don&#8217;t call me Kaschuf the Deathless for nothing!&#8217;
+	</p>
+	<p>
+		After a few more bouts that end with the same result you begin to tire. There seems to be no way to defeat him and you have no choice but to flee for your life. <lose stamina="1d">Roll one die</lose>, and lose that many Stamina points as Kaschuf chops at you one last time.
+	</p>
+	<p>
+		If you still live, as you run down the hill, you hear him calling after you, &#8216;Goodbye, milksop! Please come by again!&#8217;
+	</p>
+	<p><goto section="249"/>.</p>
+</section>

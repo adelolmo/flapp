@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="342">
+	<p>
+		The alchemist&#8217;s shop is lined with potions, jars of exotic substances, herbs, and so on. Alembics and beakers bubble and boil, full of strangely-coloured liquids. The alchemist, a tall, gangly fellow with a beak of a nose, sells potions. You can buy as many as you can afford - each one costs 50 Shards.
+	</p>
+	<p>
+		<buy item="potion of strength" shards="50">
+			<effect type="use" ability="combat"/>
+		</buy>
+	</p>
+	<p>
+		<buy item="potion of comeliness" shards="50">
+			<effect type="use" ability="charisma"/>
+		</buy>
+	</p>
+	<p>
+		<buy item="potion of intellect" shards="50">
+			<effect type="use" ability="magic"/>
+		</buy>
+	</p>
+	<p>
+		<buy item="potion of godliness" shards="50">
+			<effect type="use" ability="sanctity"/>
+		</buy>
+	</p>
+	<p>
+		<buy item="potion of stealth" shards="50">
+			<effect type="use" ability="thievery"/>
+		</buy>
+	</p>
+	<p>
+		<buy item="potion of nature" shards="50">
+			<effect type="use" ability="scouting"/>
+		</buy>
+	</p>
+	<p>
+		A potion can be used just before an ability roll or a fight to add 1 to the relevant ability for that one roll or fight only. Each potion can be used only once. The alchemist can make you a special potion for 250 Shards, but he needs an <b>ink sac</b>.
+		<if shards="250"><if item="ink sac">
+				If you pay the money, and have an <b>ink sac</b> 
+				(<group>
+					<text>cross it off</text>
+					<lose shards="250" price=""/>
+					<lose item="ink sac" price="x"/>
+				</group>
+				your Adventure Sheet) he will make you a
+				<item name="potion of restoration" flag="x" verb="Drink">
+					<effect type="use" uses="1">
+						<rest/>
+						<lose poison="*"/>
+						<lose disease="*"/>
+					</effect>
+				</item>. It can be used only once to heal all lost Stamina points, cure poison and disease.
+		</if></if>
+		<goto section="510"/>.
+	</p>
+</section>

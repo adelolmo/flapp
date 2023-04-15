@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="196">
+	<p>
+		Your sorceror Targdaz comes to greet you. 'It is good of you to take time off from your experiments,' the steward of the castle mutters to him as he admits him to your chamber.
+	</p>
+	<p>
+		He gives a secret smile. 'In fact I am about my experiments even as we speak. This form in which you see me is but a seeming - an insubstantial projection.'
+	</p>
+	<p>You wave your hand. 'Enough of this.'</p>
+	<p>Targdaz bows. 'How may I serve you?'</p>
+	<choices>
+		<choice section="273">Get him to lift a curse</choice>
+		<choice section="304">Have him enchant a weapon</choice>
+		<choice section="680">Have him create a magic item</choice>
+		<choice section="245">Dismiss him</choice>
+	</choices>
+</section>

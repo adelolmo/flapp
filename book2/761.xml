@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="761">
+	The Saucy Goblin Inn has a tariff of
+	<rest shards="1" stamina="1">1 Shard a day</rest>. During the
+	time you spend here, you will recover 1 Stamina point per day
+	(if injured) up to the maximum limit set by your normal
+	unwounded Stamina score. When you are ready to leave,
+	<goto section="242"/>.
+</section>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="465">
+	<p>
+		You are gazing over the side when you see a dark shadow rising from the depths. It is huge.
+	</p>
+	<p>
+		Before you have a chance to shout any warning, colossal tentacles rear up from the water and grapple the ship.
+	</p>
+	<p>
+		<if ship="barque">
+			<random dice="1">
+				<adjust ability="rank"/>
+			</random> if your ship is a barque,
+		</if>
+		<elseif ship="brigantine">
+			<random dice="2">
+				two dice<adjust ability="rank"/>
+			</random> if she&#8217;s a brigantine,
+		</elseif>
+		<else>
+			and
+			<random dice="3">
+				three dice<adjust ability="rank"/>
+			</random> if she&#8217;s a galleon.
+		</else>
+		You can add your Rank to this roll.
+	</p>
+	<outcomes>
+		<outcome range="2-9" section="592">The ship is lost</outcome>
+		<outcome range="10-15" section="610">You escape in the cutter</outcome>
+		<outcome range="16+" section="135">The Kraken departs</outcome>
+	</outcomes>
+</section>

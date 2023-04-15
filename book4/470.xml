@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="470">
+	<p>
+		The merchant ship is a large galleon with a complement of marines on board. It is called the <i>Sea Centaur</i>; your first mate tells you it is owned by Avar Hordeth - the man you robbed in Yarimura.
+	</p>
+	<p>The <i>Sea Centaur</i> changes direction and bears down on you.</p>
+	<choices>
+		<choice section="451">Make a run for it</choice>
+		<choice section="419">Sail to meet it</choice>
+	</choices>
+</section>

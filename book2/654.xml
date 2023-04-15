@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="654">
+	<p>
+		You ought to have learnt a few tricks in that fight.
+		<set var="r" value="rank"/>
+		<random dice="2" var="roll"/>.
+		<if var="roll" greaterthan="r">
+			If the total is higher than your Rank, you
+			<gain ability="rank" amount="1">
+				gain a Rank
+			</gain>. Going up in Rank gives you an additional
+			<gain ability="stamina" amount="1d">
+				1-6 Stamina points
+			</gain> (added to both your current and unwounded Stamina scores) and will also increase your Defence by 1.
+		</if>
+	</p>
+	<p>
+		Searching the bodies of the brigands, you find four suits of
+		<armour name="leather armour" bonus="1" quantity="4"/>,
+		one suit of <armour name="ring mail" bonus="2"/>,
+		five <weapon name="sword" quantity="5"><b>swords</b></weapon>
+		and a purse containing <gain shards="37"/>.
+	</p>
+	<p><goto section="258"/>.</p>
+</section>

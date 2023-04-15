@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="147">
+	<p>
+		The road to the coast carries a constant traffic of trade goods to and from the hinterland.
+	</p>
+	<p><random type="travel"/> for encounters:</p>
+	<outcomes>
+		<outcome range="2-6" section="524">A merchant caravan</outcome>
+		<outcome range="7" section="287">An uneventful journey</outcome>
+		<outcome range="8-12" section="549">Sokaran traders</outcome>
+	</outcomes>
+</section>

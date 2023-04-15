@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="356">
+	<p>
+		The strange women come closer and one of them touches your face with her long dry fingers. Immediately her crowing laughter turns to a strangled cry of alarm: &#8216;Warm living flesh! Our powers did not work, my sister&#8212;!&#8217;
+	</p>
+	<p>
+		You take advantage of her surprise to deal her a vicious blow that lays her senseless. Now you have only one of them to fight.
+	</p>
+	<fight name="Gorgon" combat="4" defence="5" stamina="8"/>
+	<p>If you win, <goto section="393"/>.</p>
+</section>

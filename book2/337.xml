@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="337">
+	Wily brigands have set a concealed trap out of the downs. To spot it in time to avoid getting caught, you need to
+	<difficulty ability="scouting" level="12">
+		make a SCOUTING roll at a Difficulty of 12
+	</difficulty>.
+	<outcomes>
+		<success section="268"/>
+		<failure section="289"/>
+	</outcomes>
+</section>

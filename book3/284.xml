@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="284">
+	<p>
+		While some of your crew see to repairs aboard ship, you lead a shore party in gathering food and fresh water.
+	</p>
+	<p><random dice="1"/>.</p>
+	<outcomes>
+		<outcome range="1-2">
+			You fall from a coconut palm;
+			<lose stamina="1d">lose 1-6 Stamina</lose>
+		</outcome>
+		<outcome range="3">
+			Stung by a scorpion;
+			<if blessing="poison">
+				<lose blessing="poison" hidden="t"/>
+			</if>
+			<else>
+				<lose stamina="2d">lose 2-12 Stamina</lose>
+				unless you have a blessing of Immunity to Disease/Poison
+			</else>
+		</outcome>
+		<outcome range="4-6">
+			You get a good rest;
+			<rest stamina="1">recover 1 Stamina</rest>
+			if injured
+		</outcome>
+	</outcomes>
+	<p>When you are ready to leave the island, <goto section="304"/>.</p>
+</section>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="708">
+	<p>
+		The play is about an extremely old frog with magical powers. It tricks a foolish scholar with the illusion of a beautiful girl. The frog uses this illusion to lure the scholar to his death in the marshes, but he is saved in the nick of time by his wise teacher. The teacher draws his sword and slices just to the left of the illusion, where he knows that the invisible frog must be standing, and it jumps into the water. As the ripples fade, so does the illusion that the scholar had fallen in love with.
+	</p>
+	<p>
+		<tick codeword="Flag">Get the codeword Flag</tick>
+		and then <goto section="226"/>.
+	</p>
+</section>

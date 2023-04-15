@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="364">
+	Darkness falls and the nomad warriors make their camp. Crouching around their cookpot, they throw only occasional curious glances towards their sobbing captive.
+	<choices>
+		<choice section="129">Free the poor wretch</choice>
+		<choice section="52">Continue on your way</choice>
+	</choices>
+</section>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="39">
+	You are halfway between the Innis Shoals and Braelak, the
+	Sorcerer&#8217;s Isle.
+	<choices>
+		<choice section="58">Go west</choice>
+		<choice book="5" section="95">Head for the mainland</choice>
+		<choice section="129">Go east</choice>
+		<choice section="170">Steer south for open ocean</choice>
+	</choices>
+</section>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="19">
+	<p>
+		The crew amuse themselves by throwing apple cores at a shoal of glider crabs. &#8216;Look lively, you swabs!&#8217; you say to them. &#8216;I&#8217;ll soon find you chores if you&#8217;re idle.&#8217;
+	</p>
+	<p>
+		They return to their duties with alacrity. &#8216;What heading shall I steer, cap&#8217;n?&#8217; asks the helmsman.
+	</p>
+	<choices>
+		<choice section="630">Go west</choice>
+		<choice section="81">Go north</choice>
+		<choice section="4">Go east</choice>
+		<choice section="227">Go south</choice>
+	</choices>
+</section>

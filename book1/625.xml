@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="625">
+	<p>
+		You realize that you have committed an act of sacrilege by stealing from the temple - you know in your heart that Tyrnai has cursed you.
+	</p>
+	<p>
+		You will never be a great fighter while you suffer the wrath
+		of Tyrnai. Subtract 1 from your COMBAT ability until you can find a way of lifting the curse. Perhaps the priests of Sig in Marlock City can help you. Note that you are under
+		&#8216;<curse name="Tyrnai&#8217;s Curse">
+			<effect ability="combat" bonus="-1" text="COMBAT -1"/>
+		</curse>, -1 COMBAT.&#8217;
+	</p>
+	<p>You sneak out of the temple. <goto section="400"/>.</p>
+</section>

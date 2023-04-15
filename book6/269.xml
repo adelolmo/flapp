@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="269">
+	<p>
+		Overtaken by nightfall on a deserted hillside, you take shelter in a ramshackle barn. You are so weary after your travels that the straw feels as comfortable as a feather bed, and in spite of the raw wind outside you are soon fast asleep.
+	</p>
+	<p>
+		You wake in pitch darkness. The sound of bells and hushed voices is what must have woken you. Crawling to the door of the barn, you look out on a sombre moonlit scene. A group of mourners in ceremonial white stoles have set down a coffin right outside. &#8216;We&#8217;ll just rest a bit before going on,&#8217; you overhear someone say.
+	</p>
+	<choices>
+		<choice section="303">Show yourself</choice>
+		<choice section="401">Watch from hiding</choice>
+		<choice section="521">Go back to bed</choice>
+	</choices>
+</section>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="86">
+	<p>
+		<!-- need node to catch sale of pirate captain's head,
+		     mark codeword 3.86.sold -->
+		Smogmaw market comprises a row of flimsy grass-roofed huts where goods are laid out on straw mats.
+	</p>
+	<market>
+		<header type="armour"/>
+		<armour name="leather" bonus="1" buy="40" sell="35"/>
+		<armour name="ring mail" bonus="2" buy="150" sell="100"/>
+		<armour name="chain mail" bonus="3" sell="150"/>
+
+		<header type="weapon"/>
+		<weapon bonus="0" buy="40" sell="35"/>
+		<weapon bonus="1" buy="200" sell="175"/>
+		<weapon bonus="2" buy="450" sell="375"/>
+		<weapon bonus="3" sell="750"/>
+
+		<header type="other"/>
+		<tool name="compass" ability="scouting" bonus="1" buy="400" sell="320"/>
+		<tool name="cross-staff" ability="scouting" bonus="2" buy="800" sell="640"/>
+		<tool name="sextant" ability="scouting" bonus="3" buy="1200" sell="1000"/>
+		<tool name="lockpicks" ability="thievery" bonus="1" buy="250" sell="180"/>
+		<item name="mariner's ruttier" sell="200"/>
+		<item name="selenium ore" sell="350"/>
+		<tool name="holy symbol" ability="sanctity" bonus="1" buy="200" sell="100"/>
+		<item name="rope" buy="40" sell="25"/>
+		<item name="lantern" tags="light" buy="140" sell="100"/>
+		<item name="fretwork key" sell="1000"/>
+		<item name="parrot" buy="75" sell="25"/>
+		<item name="parrot fungus" buy="150" sell="120"/>
+		<item name="pirate captain's head" sell="75">
+			<sold>
+				<tick codeword="3.86.sold"/>
+			</sold>
+		</item>
+	</market>
+	<p>
+		Items with no purchase price are not available in Smogmaw&#8217;s market. When you have completed your transactions, <goto section="167"/>.
+	</p>
+</section>

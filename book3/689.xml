@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="689">
+	<p>
+		The ship pulls alongside. The pirates cast out grappling hooks and within moments are swarming aboard. You offer them your goods in exchange for your freedom.
+	</p>
+	<p><difficulty ability="charisma" level="15"/>.</p>
+	<outcomes>
+		<success section="416"/>
+		<failure section="435"/>
+	</outcomes>
+</section>

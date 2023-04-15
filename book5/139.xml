@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="139">
+	<p>
+		The troll grunts and says, 'It's those damnable priests of the Church of Ebron. They're always passing through and kicking up a fuss about holy days, heresy and suchlike. You have to wear a spotted scarf or a striped scarf on such and such a day, and I don't know what. It's not as if they mind me ripping travellers off for a few Shards, it's sticking to their holy rules that they get uptight about! And those Soulwatch guys - phew! - they're worse than the toughest knight. So I wear all this gear so as not to upset them. Anyways, you paying the toll or what?'
+	</p>
+	<choices>
+		<choice section="27" shards="5">Pay the 5 Shards and cross the bridge</choice>
+		<choice section="263">Refuse to pay the toll</choice>
+		<choice section="487">Follow the river north into the Grumes</choice>
+		<choice section="317">Follow the river south</choice>
+	</choices>
+</section>

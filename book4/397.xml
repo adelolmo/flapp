@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="397">
+	The golem stands with folded arms, waiting for you to give the wrong password so that it can pummel your bones to a fine powder. Which of these three options will you pick?
+	<choices>
+		<choice section="18">Azure</choice>
+		<choice section="351">Emerald</choice>
+		<choice section="313">Scarlet</choice>
+	</choices>
+</section>

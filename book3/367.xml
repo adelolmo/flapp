@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="367">
+	<p>
+		<set dock="Yellowport"/>
+		He is happy to have a companion on his quest. You tell your men to take the ship to Yellowport, where you will join them later. Then you climb up behind him and fly off.
+	</p>
+	<p>
+		The sea whips past far below, then you are over the coast and speeding north. Glimpsed through wispy cloud, the farms and villages look like toys.
+	</p>
+	<p>
+		The horse rears - you don&#8217;t know why. Realizing he is losing control of his mount, the hero urges it closer to the ground.
+	</p>
+	<p>
+		You can see the treetops when suddenly you slip from the saddle and fall. You crash through branches; leaves whip across your face. Then you hit the ground.
+	</p>
+	<p>
+		<lose stamina="2d">Lose 2-12 Stamina points</lose> (the roll of two dice). If still alive, you look up but there is no sign of the horse or its rider. Note on your Ship&#8217;s Manifest that the ship is at Yellowport and then <goto section="596" book="1">turn to 596</goto> in <i>The War-Torn Kingdom</i>.
+	</p>
+</section>

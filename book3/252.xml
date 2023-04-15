@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="252">
+	<p>
+		Your crewmen take the opportunity to collect some barrels of fresh water from the fountain. <lose codeword="Callid">Lose the codeword Callid</lose> if you had it.
+	</p>
+	<p>
+		There is nothing else of interest here, so you return to the ship. <goto section="196"/>.
+	</p>
+</section>

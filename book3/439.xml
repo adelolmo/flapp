@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="439">
+	Along with your crew, you cower below decks with your hands
+	over your ears. The ship drifts on untended with no one but Fate
+	at the tiller, and slowly that deathly singing fades into the
+	distance. <random type="travel"/>.
+	<outcomes>
+		<outcome range="2-6" section="486">The ship hits a reef</outcome>
+		<outcome range="7+" section="244">Adrift in unknown waters</outcome>
+	</outcomes>
+</section>

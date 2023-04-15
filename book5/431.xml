@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="431">
+	<p>
+		<if gender="male">
+			If you are male, <gain ability="magic" amount="1">increase your MAGIC rating by one</gain> permanently, and <goto section="557"/> immediately.
+		</if>
+	</p>
+	<p>
+		If you are female, the unicorn nuzzles you tenderly. It stares into your eyes with its own dewy, innocent gaze. You have a purity of spirit that has captivated the creature.
+	</p>
+	<p>
+		The unicorn has given you an important insight into the nature of holiness. <gain ability="magic" amount="1">Gain one point of MAGIC</gain> and <gain ability="charisma" amount="1">one point of CHARISMA</gain>, permanently, and <goto section="557"/>.
+	</p>
+</section>

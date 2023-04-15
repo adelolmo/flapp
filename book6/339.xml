@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="339">
+	<p>
+		You train hard and are soon an expert in the holy riddles that the Sage of Peace used to bring enlightenment to his followers. The abbot is pleased with your progress. &#8216;You have mastered all I can teach,&#8217; he says. &#8216;To progress further you must travel to one of the remote monasteries.&#8217;
+	</p>
+	<p>
+		Note that you are now an
+		<gain title="Initiate of the Sage of Peace">initiate</gain>
+		of the Sage of Peace. (This does not prevent you from also being an initiate of another temple, because the sage is not a jealous god.)
+	</p>
+	<p>Now <goto section="380"/>.</p>
+</section>

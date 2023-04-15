@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="27">
+	<p>
+		It is only once you&#8217;re under way that the captain remembers to mention the dangers of travelling by sea: &#8216;Pirates, waterspouts, shark men and giant squids...&#8217;
+	</p>
+	<p><random dice="1" type="travel">Roll one die</random>.</p>
+	<outcomes>
+		<outcome range="1" section="241">Sunk by a tidal wave</outcome>
+		<outcome range="2" section="612">
+			Plague:
+			<if blessing="disease" not="t">
+				<lose ability="stamina" amount="2">
+					lose 2 Stamina points permanently
+				</lose>
+				unless you have Immunity to Disease/Poison
+			</if>
+			<else><lose blessing="disease" hidden="t"/></else>
+		</outcome>
+		<outcome range="3-6" section="612">
+			You reach Chambara safely
+		</outcome>
+	</outcomes>
+</section>

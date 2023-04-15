@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="265">
+	<p>
+		You can take the crewmen exploring with you or leave them here to gather supplies. If you decide to take the men,
+		<tick codeword="Cosy" force="f">get the codeword Cosy</tick>.
+	</p>
+	<p>
+		You stroll through light woodland and emerge on a level plain. The grass is as neatly mown as a lawn. Bees hum drowsily between the flowers. A paved avenue, lined on either side by stone slabs, stretches off across the plain towards grey cliffs in the distance.
+	</p>
+	<choices>
+		<choice section="43">Go on</choice>
+		<choice section="5">Turn back</choice>
+	</choices>
+</section>

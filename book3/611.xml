@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="611">
+	<p>
+		One of the men falls ill. His skin turns yellow and he begins to vomit, and death follows quickly. The plague spreads, the narrow confines of the ship allowing no escape for any of you. You watch the crew die in front of your eyes.
+	</p>
+	<p>
+		<if blessing="disease" not="t">
+			Unless you have a blessing of Immunity to Disease/Poison you soon succumb yourself: <goto section="123"/>.
+		</if>
+		<else>
+			If you have such a blessing,
+			<lose blessing="disease">cross it off</lose>
+			and <goto section="700"/>.
+		</else>
+	</p>
+</section>

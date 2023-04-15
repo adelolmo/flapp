@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="23">
+	<p>
+		Morituri scratches your chest with one long sharp fingernail and laps up the blood that spills forth. He clings like a limpet until you begin to feel dizzy. You have to force his mouth away. For a moment he stares at you as though on the point of a murderous rage, but then rationality returns to his face.
+	</p>
+	<p>
+		&#8216;Your life force is strong,&#8217; he says appreciatively, licking the gore off his lips.
+	</p>
+	<p>
+		Permanently reduce your unwounded Stamina score by 1-6 points (the
+		<lose ability="stamina" amount="1d">roll of one die</lose>).
+		You do get a
+		<tool name="hyperium wand" ability="magic" bonus="6"/>,
+		however, to sweeten the pill. You tuck it into your belt (add it to your list of possessions) and then look around for Morituri, but he has already departed. <goto section="583"/>.
+	</p>
+</section>

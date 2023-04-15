@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="343">
+	<p>
+		You play well enough not to become a laughing stock, but that is all. &#8216;Hmm,&#8217; is the only remark the Sovereign makes after you have finished.
+	</p>
+	<p>
+		Masayori takes the flute from you. From the smug look on his little round face you suspect that somehow he has got one over on you. <goto section="595"/>.
+	</p>
+</section>

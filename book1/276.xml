@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="276">
+	You are wandering across the wilderness of north-western Sokara. There is a magnificent castle nearby, with many different pennants flying from its towers.
+	<choices>
+		<choice section="611">Visit the castle</choice>
+		<choice section="123">Head west to the River Grimm</choice>
+		<choice section="3">Travel north to the mountains</choice>
+		<choice section="201">Head north-east</choice>
+		<choice section="110">Head east into the Bronze Hills</choice>
+		<choice section="47">Go south into the Forest of Larun</choice>
+	</choices>
+</section>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="359">
+	<tick codeword="StillInYellowport" hidden="t"/>
+	A wandering tinker accosts you, selling <buy item="lantern" tags="light" shards="50" quantity="3"><b>lanterns</b></buy> for 50 Shards each. You can buy no more than three. <goto section="10"/>.
+</section>

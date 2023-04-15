@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="308">
+	<p>
+		Unless you have the codeword <i>Calcium</i>,
+		<if codeword="Calcium" not="t">
+			<lose stamina="1d">lose 1-6 Stamina points</lose>
+		</if>
+		(the score of one die) as you vainly struggle for breath in the thin air.
+	</p>
+	<p>
+		If you survive, you can climb back down to your ship and cut the cable loose before continuing on your way: <goto section="228"/>.
+	</p>
+</section>

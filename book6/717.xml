@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="717">
+	<p>
+		Lord Yoritomo of the Moonrise Clan has sent out the call to arms to all his loyal vassals in the east. Troops are arriving every day and there is hardly room in the city to billet them. Perhaps that is why the innkeeper feels justified in charging
+		<rest stamina="1" shards="4">4 Shards a day</rest>.
+		Still, that price includes a comfortable bed and good food, allowing you to recuperate 1 Stamina point each day until fully healed.
+	</p>
+	<p>
+		When you are ready to move on, pay your bill and
+		<goto section="178"/>.
+	</p>
+</section>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="569">
+	While you sleep, the ghost gnaws at your leg. Having died of
+	starvation, it is driven to eternally crave flesh. You feel nothing,
+	but the ghost is not sated until you have
+	<lose stamina="1d">lost 3-18 Stamina points</lose>
+	(roll three dice). If you can survive that, you wake at dawn to
+	find your leg horribly mauled. Only then do you recall the
+	wispy grey visitation that at the time you took to be a dream.
+	<goto section="172"/>.
+</section>

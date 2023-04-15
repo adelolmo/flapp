@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="441">
+	<p>
+		&#8216;I desire you to go to Uttaku,&#8217; says Vanna. &#8216;The Uttakin are said to be steeped in decadence. I am advised they no longer pose a military threat. See if this true.&#8217;
+	</p>
+	<p>
+		The audience is at an end. You bow and withdraw.
+		<goto section="342"/>.
+	</p>
+</section>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="420">
+	<p>
+		Your ship is sailing in the coastal waters beside Marlock City. You notice an unusual number of Sokaran warships patrolling the area.
+	</p>
+	<p>
+		&#8216;The pirates are getting bolder and bolder - that&#8217;s why the navy&#8217;s out in force,&#8217; says the first mate.
+	</p>
+	<choices>
+		<choice book="2" section="119">Sail west</choice>
+		<choice section="142">Sail into Marlock City</choice>
+		<choice section="120">Sail east along the coast</choice>
+		<choice section="502">Sail south into the Violet Ocean</choice>
+	</choices>
+</section>

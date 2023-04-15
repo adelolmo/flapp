@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="626">
+	The creature gives a laugh of unholy glee and rushes at you.
+	<fight name="Barrow Wight" combat="5" defence="9" stamina="18"/>
+	There is no point in fleeing. You could never escape from it
+	now night has fallen. If you win, <goto section="698"/>.
+</section>

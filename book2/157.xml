@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="157">
+	<p>
+		The back room of the temple is shrouded in gloom. A golden wheel is set into the far wall. You may spin this wheel once at a cost of <lose shards="20" price="x"/>. <random dice="1" flag="x"/> for the outcome.
+	</p>
+	<outcomes>
+		<outcome range="1" flag="x">
+			<lose ability="?" amount="1" flag="x">
+				Lose 1 point from any ability
+			</lose>
+			(minimum score of 1)
+		</outcome>
+		<outcome range="2" flag="x">
+			<gain ability="?" amount="1" flag="x">
+				Gain 1 point on any attribute
+			</gain>
+			(maximum score of 12)
+		</outcome>
+		<outcome range="3" flag="x">
+			<lose ability="stamina" amount="1d" fatal="t" flag="x">
+				Lose 1-6 points of Stamina <i>permanently</i>
+			</lose>
+		</outcome>
+		<outcome range="4" flag="x">
+			<gain ability="stamina" amount="1" flag="x">
+				Gain 1 point of Stamina <i>permanently</i>
+			</gain>
+		</outcome>
+		<outcome range="5" flag="x">
+			Displeasure of the goddesses
+			(<lose blessing="*" flag="x">lose <i>all</i> blessings</lose>)
+		</outcome>
+		<outcome range="6" flag="x">
+			Favour of the goddesses (write the title
+			<gain title="Beloved of the Three Fortunes" flag="x"/>
+			on your Adventure Sheet)
+		</outcome>
+	</outcomes>
+	<p>
+		You may not take any ability (COMBAT, CHARISMA, etc) below 1. If your Stamina drops below 1 you are killed. Once you have spun the wheel, <goto price="x" section="19"/>.
+	</p>
+</section>

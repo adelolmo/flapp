@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="172">
+	<p>The Uttakin lord shrugs not unhappily.</p>
+	<p>
+		'As you wish,' he says, relieved at your relatively simple request.
+	</p>
+	<p>
+		He signals to one of his entourage, who comes over and instructs you.
+		<tick title="bokh" titlePattern="Circle {0} Master of bokh" titleValue="1" titleAdjust="1">
+			Note that you have gained one circle of bokh mastery
+		</tick>, i.e. if you have no skill in bokh, note that you are now a 1st Circle Master of bokh; if you are a 2nd Circle Master, note that you are now a 3rd Circle Master and so on.
+	</p>
+	<p>
+		When you are ready, you go back to the Cathedral of Ebron, purified and a little wiser. <goto section="94"/>.
+	</p>
+</section>

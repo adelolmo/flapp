@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="7">
+	<p>
+		<!-- remove any temporary (fight-related) curses -->
+		You are dead. Cross off the <lose item="*">possessions</lose> and <lose shards="*">money</lose> listed on your Adventure Sheet.
+	</p>
+	<p>
+		<if resurrection="t">If you have a resurrection arranged, you can now <resurrection>turn to the entry</resurrection> marked for it.</if> If you have no resurrection, it really is the end; you should delete all ticks and codewords in all your <i>Fabled Lands</i> books and start again (at <b>1</b> in any book in the series) with a new character.
+	</p>
+</section>

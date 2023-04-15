@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="735">
+	<tick codeword="6.735.1" hidden="t"/>
+	You arrive at the Chu River, a fast-flowing torrent flecked with
+	white froth between banks of sharp black rock.
+	<group>
+		<text>Make a SCOUTING roll at Difficulty 13</text>
+		<lose codeword="6.735.1"/>
+		<difficulty ability="scouting" level="13"/>
+	</group>
+	if you try to cross it, and
+	<failure>
+		if you fail the roll you must turn back after
+		<lose stamina="1">losing 1 Stamina point</lose>.
+		<tick codeword="6.735.1" hidden="t"/>
+	</failure>
+	<choices>
+		<choice box="6.735.1" section="97">Turn back</choice>
+		<success section="378">Get across</success>
+	</choices>
+</section>

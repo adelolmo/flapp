@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="557">
+	<p>
+		Unicorns are suspicious creatures, but you have gained this one's trust. It gently nuzzles your forehead before taking its leave and bounding away across the rocks. Such beauty cannot be tamed.
+	</p>
+	<p>
+		<tick codeword="Exultant">Gain the codeword Exultant</tick>, and <goto section="307"/>.
+	</p>
+</section>

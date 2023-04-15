@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="289">
+	Something odd is up with the people of the city today. You learn that it is a special day of religious significance, a day sacred to Ebron. You are stopped by a Soulwatch patrol and several Expungers, the &#233;lite guards of Aku. <if item="spotted scarf">If you have a <b>spotted scarf</b>, <goto section="381"/>.</if> If not, <goto section="656"/>.
+</section>

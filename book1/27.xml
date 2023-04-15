@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="27">
+	Either you are recklessly brave, or very foolish to visit the palace where you assassinated the governor, Provost Marshal Royzer has established new security procedures, and it is impossible for you to see him. <tick codeword="StillInYellowport" hidden="t"/><goto section="10">Return to 10</goto>.
+</section>

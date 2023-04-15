@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="370">
+	<p>
+		A tall intense man with a piercing gaze, Captain Numachino might seem intimidating to some but your natural charm soon wins him round. He invites you to his cabin where he tells you about Akatsurai over a cup or two of hot rice wine.
+	</p>
+	<p>
+		&#8216;We are living in interesting times,&#8217; he says. &#8216;That is considered a curse among my people, though for an adventurer like yourself it opens up a world of opportunities.&#8217;
+	</p>
+	<p>&#8216;Such as?&#8217;</p>
+	<p>
+		&#8216;You might consider becoming a mercenary. Traditionally the country has been ruled by the Imperial Sovereign, usually with the guiding advice of the Wistaria Clan, but for the past twenty years real power has been in the hands of the Starburst Clan - specifically Lord Kiyomori. The Sovereign is a young man, not in the best of health, and as he weakens so does the legitimacy of the Starburst government. In the east a new power is ascending: the Moonrise Clan. Their leader, Yoritomo, has proclaimed himself Shogun and intends to sweep away the Starburst Clan by main force.&#8217;
+	</p>
+	<p>
+		You roll your eyes. &#8216;Interesting times, you say? Confusing, certainly!&#8217;
+	</p>
+	<p>
+		He laughs. &#8216;Well, if politics does not interest you, what about trade? It is easy to get rich when a country is making itself ready for war. But I must warn you there is a certain stigma attached to being a merchant, at least as far as the ruling classes are concerned.&#8217;
+	</p>
+	<p>&#8216;Is there no career without such drawbacks?&#8217;</p>
+	<p>
+		&#8216;The career of a wanderer. In that way you can win both riches and honour, for the wild places of Akatsurai abound with monsters, magic and ancient treasure.&#8217;
+	</p>
+	<p><goto section="389"/>.</p>
+</section>

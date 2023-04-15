@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="330">
+	<p>
+		You must have <i>Cities of Gold and Glory</i> before you can travel to Wishport.
+		<if not="t" book="2">
+			<goto section="65">Turn back to 65</goto> and choose again if you do not have this book.
+		</if>
+		Otherwise, read on.
+	</p>
+	<p>
+		You step through the archway. Immediately the symbols on the stone begin to glow with red-hot energy; your hair stands on end and your body tingles. A crackling nimbus of blue-white force engulfs you, the sky darkens and rumbles, thunder and lightning crash and leap across the heavens. Suddenly, your vision fades, and everything goes black.
+	</p>
+	<p>
+		When your sight returns, moments later, you find yourself at the gates of Wishport. You join the throng of merchants and peasants making their way into the city. <goto book="2" section="217">Turn to 217 in <i>Cities of Gold and Glory</i></goto>.
+	</p>
+</section>

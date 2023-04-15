@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="337">
+	<p>&#8216;The Sea of Hydras,&#8217; the navigator says, pointing to the east.</p>
+	<p>&#8216;Why is it so called?&#8217; asks the cabin boy in a tone of wonder.</p>
+	<p>The navigator gives a derisive snort of laughter. &#8216;Need you ask?&#8217;</p>
+	<p><random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-6" section="538">A ship from distant lands</outcome>
+		<outcome range="7-9" section="3">An uneventful day&#8217;s sailing</outcome>
+		<outcome range="10-12" section="556">An emergency arises</outcome>
+	</outcomes>
+</section>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="189">
+	<p>
+		The corpse is lying on a satchel. Gingerly, you heave the body over with a foot, and take the satchel. Inside, you find the
+		<group>
+			<text><b>mirror of the Sun Goddess</b></text>
+			<item name="mirror of the Sun Goddess" hidden="t"/>
+			<tick codeword="GoddessMirror"/>
+		</group>.
+	</p>
+	<p>
+		The high priestess at the temple of Nisoderu in Yarimura asked you to retrieve the mirror. Nisoderu must have guided you to the mirror after she cursed the poor wretch who stole it. Looking at his corpse, the eyes pecked clean by birds, you muse on the dangers of incurring the wrath of gods.
+	</p>
+	<p><goto section="698"/>.</p>
+</section>

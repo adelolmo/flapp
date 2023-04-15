@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="17">
+	You are crossing the windswept northern steppes. It is bitterly cold. <random type="travel"/>.
+	<outcomes>
+		<outcome range="2-5" section="525">A voice on the wind</outcome>
+		<outcome range="6-7" section="65">No event</outcome>
+		<outcome range="8-12" section="647">A band of nomads</outcome>
+	</outcomes>
+</section>

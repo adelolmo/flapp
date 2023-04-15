@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="360" boxes="1" image="360.jpg">
+	<p>
+		<if ticks="1">
+			If there is a tick in the box, <goto section="593"/> immediately.
+		</if>
+		If not, <tick/>, and read on.
+	</p>
+	<p>
+		You come to a door of solid basalt. In front of it sits a shadowy shape, with eyes of ruby red. It stands up on four black legs, and growls a throaty, booming growl, baring rows of razorsharp teeth. It is a faery hound, a trau guard-dog, and it looks about to pounce.
+	</p>
+	<p>
+		You have heard stories that these black hounds can be soothed to sleep with beautiful music or song.
+	</p>
+	<choices>
+		<choice section="269">Try to sing it to sleep</choice>
+		<choice section="62">Fight it</choice>
+	</choices>
+</section>

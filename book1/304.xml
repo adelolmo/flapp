@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="304">
+	He spots you before you can get the jump on him. &#8216;Stinking assassin!&#8217; he yells, drawing his sword. You must fight him.
+	<fight name="Man with eyepatch" combat="5" defence="8" stamina="12"/>
+	If you win, <goto section="92"/>. If you lose, he kills you, and your adventuring days are over, unless you have a <resurrection>resurrection deal</resurrection>.
+</section>

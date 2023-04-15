@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="164">
+	You arrive at the top of cliffs bordering the Great Steppes. It is a sheer drop of a thousand feet to the ground. Looking north, you see monstrous snow-clad peaks sloping up to the black vault of the sky.
+	<choices>
+		<choice section="221">Descend the cliffs</choice>
+		<choice section="264">Head into the mountains</choice>
+	</choices>
+</section>

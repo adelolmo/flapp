@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="535">
+	<p>
+		Targdaz teaches you an ancient word of the Shadar tongue that is full of magical power.
+	</p>
+	<p>
+		'You have only to speak that word in any temple in the world, no matter how far distant,' he says, 'and the tutelary spirits of the ancient Shadar will bring news of it to me. But make use of the word only when you are in the gravest danger.'
+	</p>
+	<p>
+		You can call on Targdaz when you are in any temple. When you do so, turn to <b>14</b> in this book. Note
+		<extrachoice key="TargdazRecall" text="Targdaz's Recall Spell" tag="temple" book="5" section="14">
+			Targdaz's Recall Spell, Temples Only, <i>Court of Hidden Faces</i> <b>14</b>
+		</extrachoice> on your Adventure Sheet.
+	</p>
+	<p>
+		Targdaz intends to stay on in the castle as your personal sorcerer and to continue with his arcane research. <goto section="245"/>.
+	</p>
+</section>

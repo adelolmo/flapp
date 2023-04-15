@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="546">
+	<p>
+		The innkeeper tells you about a hideous monster that terrorises the local populace. It is called Grindel, and it has its lair deep in the swamp. At night it carries off its victims, and devours them, as human flesh is its favourite food. Bylewyn Buskle and the locals have put up a reward of 300 Shards for the hero that slays this vile creature.
+	</p>
+	<p>
+		'My pot-boy, Misgee, can guide you to its lair,' explains Buskle, pointing to a thin, sallow-faced young lad working out back. 'He's spent all his life around these parts.'
+	</p>
+	<choices>
+		<choice section="604">Go with Misgee into the Mixen Sumps</choice>
+		<choice section="690">Talk to the adventurers</choice>
+		<choice section="349">Talk to the farmers</choice>
+		<choice section="11">Leave the Hall of Heroes</choice>
+	</choices>
+</section>

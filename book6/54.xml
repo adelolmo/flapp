@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="54">
+	A long road stretches through gently rolling countryside. Few
+	travellers take this route. Those who go east are thought of as
+	effete courtiers; those who go west are considered uncouth
+	provincials.
+	<choices>
+		<choice section="178">Go east into Mukogawa</choice>
+		<choice section="124">Go west towards Shingen</choice>
+		<choice section="444">Leave the road and go north</choice>
+		<choice section="220">Leave the road going south</choice>
+	</choices>
+</section>

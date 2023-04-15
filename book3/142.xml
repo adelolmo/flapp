@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="142">
+	This will be a test of your ingenuity, leadership and survival skills.
+	<if profession="wayfarer" not="t">
+		<random dice="1">
+			<adjust ability="rank"/>
+		</random>
+	</if>
+	(<else>
+		<random dice="2">
+			two dice<adjust ability="rank"/>
+		</random> if you are a Wayfarer
+	</else>)
+	and add your Rank.
+	<outcomes>
+		<outcome range="2-7" section="123">Overcome by thirst</outcome>
+		<outcome range="8+" section="152">You reach Dweomer</outcome>
+	</outcomes>
+</section>

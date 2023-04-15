@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="563">
+	Choppy seas throw up fountains of white spume from the
+	treacherous offshore rocks. Somewhere amid the hundreds of
+	islands is the place where the Reavers keep their spoils - but it
+	would take a master mariner to find it.
+	<difficulty ability="scouting" level="15">
+		Try a SCOUTING roll at a Difficulty of l5
+	</difficulty>.
+	<outcomes>
+		<success section="653"/>
+		<failure section="671"/>
+	</outcomes>
+</section>

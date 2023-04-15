@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="709">
+	To qualify for a boon you must either
+	<if title="Paladin of Ravayne">
+		<tick codeword="2.709" hidden="t"/>
+		have the title Paladin of Ravayne
+	</if>
+	<else>
+		<lose codeword="2.709" hidden="t"/>
+		or succeed at a
+		<difficulty ability="charisma" level="16">
+			CHARISMA roll at a Difficulty of 16
+		</difficulty>.
+		<success><tick codeword="2.709" hidden="t"/></success>
+	</else>
+	<choices>
+		<choice box="2.709" section="591">Request granted</choice>
+		<choice section="342">Request refused</choice>
+	</choices>
+</section>

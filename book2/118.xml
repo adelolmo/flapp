@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="118">
+	You can travel south towards the coast, or venture into the
+	heartland of Golnir. Journeying by river costs 5 Shards.
+	<choices>
+		<choice section="304">Take the road north</choice>
+		<choice section="26">Take the road south</choice>
+		<choice section="98">Go east across open country</choice>
+		<choice book="5" section="222">Go west across the River Rese</choice>
+		<choice section="75">Follow the riverbank north</choice>
+		<choice section="281" shards="5">Sail upriver</choice>
+		<choice section="2" shards="5">Sail downriver</choice>
+	</choices>
+</section>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="71" image="71.jpg">
+	<p>
+		Wheatfields is in the very heart of the fertile countryside of Golnir, and forms the hub of trade to the hinterland.
+	</p>
+	<p>
+		<if not="t" codeword="2.71.1">
+			You can buy a town house here for 100 Shards. If you decide to do that,
+			<lose shards="100" price="x">cross off the money</lose> and
+			<tick codeword="2.71.1" flag="x">put a tick in the box</tick>
+			by the town house option.
+		</if>
+	</p>
+	<choices>
+		<choice section="165">Visit the market</choice>
+		<choice section="188">Visit the merchants&#8217; guild</choice>
+		<choice section="211" box="2.71.1">Visit your town house {box} (if box ticked)</choice>
+		<choice section="234">Visit the temple of Maka</choice>
+		<choice section="257">Visit the temple of Nagil</choice>
+		<choice section="286">Leave the town</choice>
+	</choices>
+</section>

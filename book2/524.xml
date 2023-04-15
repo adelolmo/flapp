@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="524">
+	<p>
+		The merchants have plenty of goods to trade. Items without a buying price listed are not stocked, but you can still sell such a thing if you have it.
+	</p>
+	<market>
+		<header type="armour"/>
+		<armour name="leather" bonus="1" buy="45" sell="45"/>
+		<armour name="ring mail" bonus="2" buy="95" sell="90"/>
+		<armour name="chain mail" bonus="3" sell="180"/>
+
+		<header type="weapon"/>
+		<weapon bonus="0" buy="40" sell="35"/>
+		<weapon bonus="1" sell="180"/>
+
+		<header type="other"/>
+		<tool name="amber wand" ability="magic" bonus="1" sell="400"/>
+		<tool name="lockpicks" ability="thievery" bonus="1" buy="300" sell="270"/>
+		<tool name="compass" ability="scouting" bonus="1" buy="500" sell="450"/>
+		<item name="parchment" buy="2" sell="1"/>
+	</market>
+	<p>
+		After finishing your business with the merchants, <goto section="287"/>.
+	</p>
+</section>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="362">
+	The Blender of Spices asks if you have the abzu plant he asked for. <if item="abzu plant">If you have an <b>abzu plant</b>, <goto section="408"/>.</if> If not, <goto section="515"/>.
+</section>

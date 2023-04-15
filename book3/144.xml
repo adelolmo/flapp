@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="144">
+	A new dawn brings another chance of rescue. <random/>.
+	<outcomes>
+		<outcome range="2-9" section="177">An empty horizon</outcome>
+		<outcome range="10" section="198">A merchantman</outcome>
+		<outcome range="11-12" section="218">Pirates</outcome>
+	</outcomes>
+</section>

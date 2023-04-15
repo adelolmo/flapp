@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="50">
+	&#8216;The unknown lands,&#8217; replies your first mate when you ask him
+	what lies south of here. &#8216;Ankon-Konu.&#8217;
+	<choices>
+		<choice section="630">Head south</choice>
+		<choice section="301">Head north</choice>
+		<choice section="9">Head west</choice>
+		<choice section="205">Head east</choice>
+	</choices>
+</section>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="260">
+	You are in the central Grumes.
+	<choices>
+		<choice section="569">West across open country</choice>
+		<choice section="621">South into the southern Grumes</choice>
+		<choice section="487">North into the northern Grumes</choice>
+		<choice section="126">South-east into the Crags of the Long Homes</choice>
+		<choice section="176">East into the countryside</choice>
+	</choices>
+</section>

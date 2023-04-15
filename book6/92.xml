@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="92" boxes="1">
+	<p>
+		The man is standing stock-still with his back to you under the ivy-strewn eaves of the hall. He has adopted a curious pose, balanced on one leg with his left arm stretched out to the side and his right folded in front of him. The dawn light, slanting over his shoulder, picks out a glint of metal in the shadow filled interior of the hall.
+	</p>
+	<p>
+		<if ticks="0">
+			If the box above is empty,
+			<tick>put a tick in it</tick> and <goto section="188"/>.
+		</if>
+		If it was already ticked, <goto section="213"/>.
+	</p>
+</section>

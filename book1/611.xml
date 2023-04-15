@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="611">
+	<p>
+		<if codeword="Anvil">
+			If you have the codeword Anvil, <goto section="130"/> immediately.
+		</if>
+		If not, read on.
+	</p>
+	<p>
+		As you draw nearer, you see that the pennants all represent different coloured dragons - the red dragon, black dragon, green dragon and so on. Outside the gates, a jousting list has been set up, and a few warriors are trying their hand against some knights who have dragon symbols on their shields.
+	</p>
+	<p>
+		A knight, in full plate armour, rides up and says, &#8216;Welcome to the Castle of the Dragon Knights. It is our custom to joust against all who would come here - for a wager, of course.&#8217;
+	</p>
+	<p>
+		He explains that you must bet the weapon and the suit of armour that you will use for the joust. If you lose, you forfeit the weapon and armour. If you win, you get the armour and weapon of the knight you defeat. Most of your potential opponents, you note, would be using a sword and plate armour.
+	</p>
+	<p>
+		<if codeword="Axe">
+			If you have the codeword Axe, <goto section="521"/> immediately.
+		</if>
+		Otherwise, you can leave, <goto section="276" force="f"/>,
+		<if weapon="?"><if armour="?">
+				or take the wager and joust,
+				<goto section="297"/>
+		</if></if>
+		- you must have a weapon and at least leather armour.
+	</p>
+</section>

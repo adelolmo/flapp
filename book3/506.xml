@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="506">
+	<p>
+		You step softly across the cavern floor. A hiss and spit makes you jump and look over your shoulder, but it is only a damp log gleaming sullenly in the embers of the hearth.
+	</p>
+	<p>
+		You look back at the beds. With a thrill of alarm you see they are now empty.
+	</p>
+	<p><goto section="121"/>.</p>
+</section>

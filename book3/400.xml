@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="400">
+	<p>
+		The Reaver King regards you with a baleful half-smile. &#8216;How proudly you stand there before me. Are you not aware that I hold your fate in my hands?&#8217;
+	</p>
+	<p>
+		He steps forward as though to embrace you, then suddenly brings his fist up in a vicious punch to the gut. You double up, gasping for breath.
+		<lose stamina="1">Lose 1 Stamina point</lose>.
+		If still alive, you hear him say: &#8216;The only question is whether to kill you at once or have a little fun first.&#8217;
+	</p>
+	<p>
+		<if item="silver medallion">
+			If you have a <b>silver medallion</b>, <goto section="363"/>.
+		</if>
+		If not, <goto section="638"/>.
+	</p>
+</section>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="76">
+	<p>
+		The captain of a Sokaran vessel gives you a friendly word of advice: &#8216;The Akatsurese have old-fashioned ideas about trade.&#8217;
+	</p>
+	<p>&#8216;Old-fashioned in what sense?&#8217;</p>
+	<p>
+		&#8216;They don&#8217;t think it&#8217;s at all respectable. Once they&#8217;ve got you pegged as a merchant, you&#8217;ll find it devilish hard to break into high society.&#8217;
+	</p>
+	<p>
+		Think about it. If it matters to you that you are regarded as a member of the nobility, you&#8217;d better give up any idea of making trade deals here in Chambara. But if you&#8217;re not bothered about that, the Sokaran captain can put you in touch with the local merchants.
+	</p>
+	<choices>
+		<choice section="79">Decide against trading here</choice>
+		<choice section="104">Ask him to introduce you</choice>
+	</choices>
+</section>

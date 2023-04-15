@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="383" image="383.jpg">
+	The monastery is a centre of learning dedicated to the arts and
+	sciences. You can rest here for a while if you are in need of the
+	monks&#8217; healing skills.
+	<rest stamina="1d">Recover 1-6 Stamina points</rest> if injured.
+	<choices>
+		<choice section="211">Resume your travels</choice>
+		<choice section="234">Train as a monk</choice>
+	</choices>
+</section>

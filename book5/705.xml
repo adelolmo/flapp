@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="705">
+	<p>
+		That was tactless. Gnomes are very sensitive about their appearance.
+	</p>
+	<p>
+		The man's face contorts with rage and he waves his hands about in an arcane manner. An ancient gnomic curse, perhaps?
+	</p>
+	<p>
+		Your nose starts to grow, warts erupt inside your nostrils, your eyebrows vanish and your lower lip turns green and ulcerous. Your face is now even more ugly than his.
+	</p>
+	<p>
+		Your CHARISMA falls to 1 and will not recover unless the curse is lifted. Note that you are under a
+		<curse name="Curse of Ugliness">
+			<effect ability="charisma" target="1"/>
+		</curse>.
+	</p>
+	<p>The gnome runs off into the hills, laughing.</p>
+	<p>
+		There is little else for you to do but travel on. <goto section="307"/>.
+	</p>
+</section>

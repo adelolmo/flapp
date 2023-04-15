@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="662">
+	<p>
+		You raise your arms, and call upon the power of the gods to dispel this travesty of life, this evil ship of ghosts. Unfortunately, your efforts have no effect whatsoever. In fact, the spectral sailors seem more determined than ever to plunder your ship.
+	</p>
+	<p>
+		A wave of fear seems to emanate from the ghost ship, terrifying you and your crew. Without waiting for your orders, your men take the ship about and flee.
+	</p>
+	<p><goto section="492"/>.</p>
+</section>

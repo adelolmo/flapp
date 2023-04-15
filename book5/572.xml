@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="572">
+	<p>
+		You come to a farmer's cottage. <if codeword="Eclipse">If you have the codeword Eclipse, <goto section="369"/> immediately.</if> If not, read on.
+	</p>
+	<p>
+		The farmer hurries out to greet you. 'Help me, mighty adventurer,' he cries, pointing to the roof of his cottage.
+	</p>
+	<p>
+		You see several small, spindly figures laughing and playing on his thatched roof, tearing up the thatch, and pulling out the wooden slats. They are spriggans, mischievous little sprites.
+	</p>
+	<choices>
+		<choice section="710">Climb up and attack them</choice>
+		<choice item="faery mead" section="676">Lay out a jug of <b>faery mead</b> if you have some</choice>
+		<choice section="240">Ignore the farmer and carry on</choice>
+	</choices>
+</section>

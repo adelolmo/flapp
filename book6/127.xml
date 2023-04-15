@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="127" dock="Chambara">
+	<p>
+		&#8216;No doubt you will buy the goods that are cheap and plentiful in Akatsurai and transport them to foreign lands where you can sell at an indecent profit!&#8217; says Ko-ishi with a broad grin.
+	</p>
+	<p>
+		The prices he quotes are for entire Cargo Units. Any cargo you buy will be delivered to your ship in the harbour, and you should therefore note it on the Ship&#8217;s Manifest.
+	</p>
+	<market>
+		<header type="cargo"/>
+		<trade cargo="furs" buy="250" sell="160"/>
+		<trade cargo="grain" buy="80" sell="60"/>
+		<trade cargo="metals" buy="700" sell="550"/>
+		<trade cargo="minerals" buy="550" sell="500"/>
+		<trade cargo="spices" buy="600" sell="500"/>
+		<trade cargo="textiles" buy="180" sell="150"/>
+		<trade cargo="timber" buy="200" sell="150"/>
+	</market>
+	<p>When you have completed your business, <goto section="79"/>.</p>
+</section>

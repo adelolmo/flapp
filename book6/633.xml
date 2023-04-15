@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="633">
+	This is wild cloud-swept moorland where the trees grow bent,
+	like old man pushing wearily into a strong wind. <random type="travel"/>.
+	<outcomes>
+		<outcome range="2-8" section="298">Nothing in sight</outcome>
+		<outcome range="9-12" section="287">A woman in white</outcome>
+	</outcomes>
+</section>

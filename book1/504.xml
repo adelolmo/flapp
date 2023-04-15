@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="504" boxes="1">
+	<p>
+		<if ticks="1">
+			If there is a tick in the box, <goto section="345"/> immediately.
+		</if>
+		If not, <tick/>, and read on.
+	</p>
+	<p>
+		The lookout spots a ship, its back broken on some rocks near the shore. The vessel will not last long before it is washed away.
+	</p>
+	<choices>
+		<choice section="209">Ignore it</choice>
+		<choice section="39">Explore the wreck</choice>
+	</choices>
+</section>

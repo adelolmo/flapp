@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="581">
+	<p>
+		<lose codeword="2.581.1" hidden="t"/>
+		An elfin lady encased in elegant silver armour leaps forward from the undergrowth. Smiling sweetly, but without speaking a word, she levels her longsword and lunges at you.
+	</p>
+	<fight name="Elf Lady" combat="7" defence="10" stamina="7"/>
+	<p>
+		You doubt if she&#8217;d accept your surrender.
+		<flee>
+			If you turn and run, she will get one final swipe at your undefended back and you must
+			<lose stamina="1d">lose 1-6 Stamina points</lose>.
+			<tick codeword="2.581.1" hidden="t"/>
+		</flee>
+	</p>
+	<choices>
+		<choice section="605">Fight and defeat her</choice>
+		<choice section="22" box="2.581.1">Run off</choice>
+	</choices>
+</section>

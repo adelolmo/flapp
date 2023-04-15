@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="597">
+	<p>
+		One of the men gets behind you and gives you a &#8216;Ringhorn love tap&#8217; on the back of the head with his cudgel. You sigh and swoon.
+	</p>
+	<p>
+		You wake up in the bilges of a ship.
+		<lose item="*" shards="*">
+			Your possessions and money are gone
+		</lose>. Also <lose ship="t">cross off your ship</lose>
+		if you had one; you will not see your faithful crew again. You have been enslaved by smugglers from Uttaku.
+	</p>
+	<choices>
+		<choice section="158">Leap overboard</choice>
+		<choice book="5" section="321">Stay on the ship</choice>
+	</choices>
+</section>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="606">
+	You set off in search of a glissith lizard.
+	<rankcheck add="1">Roll one die and add 1</rankcheck>.
+	<success>If you score less than or equal to your Rank,
+		<goto section="442"/>.</success>
+	<failure>If you score greater than your Rank, <goto section="511"/>.</failure>
+</section>

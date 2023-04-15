@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="336">
+	<p>
+		Beyond the wheat fields, the terrain rises into a desolate range of gently undulating moorland. Thickets of pampas grass stir fretfully in the breeze, as though spirits were passing just outside your range of vision.
+	</p>
+	<p><random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-9" section="357">Not a soul in sight</outcome>
+		<outcome range="10-12" section="106">A solitary traveller</outcome>
+	</outcomes>
+</section>

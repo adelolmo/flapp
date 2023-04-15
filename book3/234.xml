@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="234">
+	<p>
+		A figure composed of glittering green light appears in the air in front of you. Your crewmen fall on their faces in abject fear. You are not so easily cowed, but none the less you make a respectful bow,
+	</p>
+	<p>
+		&#8216;I recognize you as a worshipper of the Lord and Lady of the Sea,&#8217; says the spectral figure. &#8216;One boon shall I grant you. Choose whether it is life, strength or ease that is your heart&#8217;s desire.&#8217;
+	</p>
+	<choices>
+		<choice section="289">Choose life</choice>
+		<choice section="309">Choose strength</choice>
+		<choice section="327">Choose ease</choice>
+	</choices>
+</section>

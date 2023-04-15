@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="315" dock="Mukogawa">
+	Karamochi, the chief of naval strategy, offers the following prices for second-hand ships:
+	<market>
+		<header type="shipsale"/>
+		<trade ship="barque" sell="240"/>
+		<trade ship="brigantine" sell="500"/>
+		<trade ship="galleon" sell="900"/>
+	</market>
+	You cannot back out of the sale now that Karamochi has made an offer - you must sell him your ship. Cross it off the Ship&#8217;s Manifest, add the money to your Adventure Sheet, and <goto section="178"/>.
+</section>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="309">
+	<p>
+		&#8216;Sail away from dusk and death,&#8217; says the glowing image. &#8216;Long before you reach the place of many-headed ones you will encounter a grim stranger. Unarmed you must struggle with him, and three times cast him to the deck; then you can demand your boon.&#8217;
+	</p>
+	<p>
+		The figure vanishes in a spray of wispy green lights.
+		<tick codeword="Certain">
+			Get the codeword Certain
+		</tick> and <goto section="252"/>.
+	</p>
+</section>

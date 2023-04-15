@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="528">
+	<!-- 'cheat' - we just reuse the cache key at 586 to access items -->
+	<p>
+		When you fit the key into the hole, it is sucked in with a hiss, and disappears. Cross the <lose item="pyramid key"/> off your Adventure Sheet.
+	</p>
+	<p>
+		<tick special="unlock" cache="4.586" hidden="t"/>
+		The stone slab retracts upward with a rumble. The chamber beyond is still crawling with stag beetles but the walls have lost their yellow glow. Any equipment that you had to leave here the last time is still there. You can reclaim your gear. Simply transfer all the stuff you want from below to your Adventure Sheet. <i>[Through the magic of computers, all the items you left at <b>586</b> are now at this section --Ed]</i>
+	</p>
+	<itemcache name="4.586" text="Items left behind"/>
+	<p>
+		When you are ready to leave, the slab slams down again, and with the pyramid key gone, seals the chamber once and for all. <goto section="472"/>.
+	</p>
+</section>

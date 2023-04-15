@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="471">
+	You sit down to rest on an old tree stump. Water has collected
+	in a hollow in the side. Idly delving into the puddle, your fingers
+	touch a hard metal object. You clean off the muck and find that
+	you now have a <item name="key of stars"/>.
+	<choices>
+		<choice section="94">Go east</choice>
+		<choice section="193">Go west</choice>
+		<choice section="54">Go south</choice>
+		<choice section="195">Go north</choice>
+	</choices>
+</section>

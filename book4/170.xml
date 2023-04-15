@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="170">
+	<p><gain codeword="Dotage">Record the codeword Dotage</gain>.</p>
+	<p>
+		She falls at your feet. You release the prisoners, who cannot believe their good fortune. Among them you find Alissia, the daughter of the fort commander. She tells you the woman was Chizoka, from some strange sect called the Black Pagoda in Akatsurai.
+	</p>
+	<p>
+		You can take Chizoka's spear. It is a <weapon name="naginata" bonus="1"/>. You also find a seal she is carrying. Note the <item name="seal of the Black Pagoda"/> on your Adventure Sheet.
+	</p>
+	<p>
+		Now that Chizoka is dead, the rest of the manbeasts don't know what to do. They mill around aimlessly.
+	</p>
+	<p>
+		You lead Alissia and the others to safety. They return to their homes, and you take Alissia to Fort Estgard in Sokara.
+	</p>
+	<p>Turn to <goto book="1" section="667"/>.</p>
+</section>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="521">
+	<p><tick codeword="Elephant"/>.</p>
+	<p>
+		You fail to convince them of the truth. You are set upon by nine or ten of them, and there are just too many for you to defend yourself. They beat you into unconsciousness, take all your cash and dump you outside on the road. <lose staminato="1">Reduce your Stamina to 1</lose> and <lose shards="*">cross off all your money</lose>, though they do not take any of your equipment. <goto section="11"/>.
+	</p>
+</section>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="538">
+	A young princess enjoys your stories so much that she grows very fond of you. Eventually, she has you freed from slavery, and gives you <gain shards="300"/> and a <tool name="cross-staff" ability="scouting" bonus="2"/>. You are released into the city. <goto section="444"/>.
+</section>

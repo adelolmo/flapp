@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="122">
+	<p>
+		<if codeword="Acid">
+			If you have the codeword Acid, <goto section="543"/> immediately.
+		</if>
+		<if item="copper amulet">
+			If not, but you have a <b>copper amulet</b>, <goto section="384"/> immediately.
+		</if>
+		Otherwise, read on.
+	</p>
+	<p>
+		Guildmaster Vernon of Yellowport is surprisingly eager to see you. He is a hugely fat and bejewelled merchant, and he tells you that a group of ratmen have made a base in the sewers beneath the city. They come out at night to raid the warehouses and homes of the merchants of Yellowport.
+	</p>
+	<p>
+		&#8216;We need an adventurer like yourself to destroy their king,&#8217; explains the guildmaster. &#8216;Without him, the ratmen wouldn&#8217;t be able to organize a feast in a larder. We will pay you 450 Shards if you succeed.&#8217;
+	</p>
+	<p>
+		Vernon tells you that the sewers can be entered via an old disused well in the poor quarter.
+	</p>
+	<p>
+		<tick codeword="StillInYellowport" hidden="t"/>
+		Whenever you are ready to enter the sewers, and you are in Yellowport, turn to <b>460</b>. <extrachoice atbook="1" atsection="10" book="1" section="460" text="Enter the sewers" key="YellowportSewers">Note this option</extrachoice> on your Adventure Sheet. Now you can return to the city centre, <goto section="10" force="f"/>, or <goto section="460">go down the sewers straight away</goto>.
+	</p>
+</section>

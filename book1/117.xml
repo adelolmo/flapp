@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="117">
+	There are several people with eyepatches but none with a velvet one. You ask around among the taverns and bars of the rougher areas in Caran Baru. <difficulty ability="charisma" level="11"/>.
+	<outcomes>
+		<success section="149"/>
+		<failure section="468"/>
+	</outcomes>
+</section>

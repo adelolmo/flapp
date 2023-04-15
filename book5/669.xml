@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="669">
+	It takes all your skill to stay on firm ground, but you are unable to find your way out of the swamp. You wander for days amid the blackened trees, and stagnant waters. There is nothing to eat, and worst of all, no drinkable water. Eventually you find a way out, but you are half-starved and mad with thirst. <lose staminato="1">Reduce your Stamina to 1 point</lose> and <goto section="371"/>.
+</section>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="505">
+	The runes above the arch glow ominously as you walk through. You have incurred a curse. Note you have the
+	<curse name="Curse of the Shadar">
+		<effect ability="magic" bonus="-1"/>
+		<effect ability="combat" bonus="-1"/>
+	</curse>, and subtract one from your MAGIC and COMBAT abilities until you can find a way to lift the curse. <goto section="290"/>.
+</section>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="145">
+	<p>
+		King Skabb gives a cry of anger, and leaps at you in desperation, swinging a spiked mace in his hand. You must fight him, adding 3 if you have some <b>rat poison</b> to put on your weapon.
+		<if item="rat poison">
+			If you use the poison,
+			<group>
+				<text>cross it off</text>
+				<lose item="rat poison"/>
+				<tick special="attack" bonus="3"/>
+			</group>
+			your Adventure Sheet.
+		</if>
+	</p>
+	<fight name="King Skabb" combat="5" defence="7" stamina="10"/>
+	<p>
+		<if dead="t">
+			If you lose, your adventuring career will be over, unless you have a <resurrection>resurrection deal</resurrection>.
+		</if>
+		If you win, <goto section="554"/>.
+	</p>
+</section>

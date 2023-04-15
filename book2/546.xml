@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="546">
+	<p>
+		You come across a goblin crouched on a toadstool. It is chewing a dead rat.
+	</p>
+	<p>
+		The blood dribbles down its chin as it looks at you, grins and says: &#8216;She works hard to fill her larder. Her mother dined after killing father.&#8217;
+	</p>
+	<p>&#8216;What&#8217;s that?&#8217;</p>
+	<p>
+		The goblin gobbles up the last bit of the rat. &#8216;Answer that riddle, and you&#8217;ll know the safe door to take in the old fort on the coast.&#8217;
+	</p>
+	<choices>
+		<choice section="496">Go east</choice>
+		<choice section="595">Go west</choice>
+		<choice section="124">Go south</choice>
+		<choice section="521">Go north</choice>
+	</choices>
+</section>

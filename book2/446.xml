@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="446">
+	The Whistling Heath is covered by the shadows of low clouds as
+	they go flitting by, under the overcast glare of the sun.
+	<choices>
+		<choice section="762">Go north</choice>
+		<choice section="496">Go south</choice>
+		<choice section="521">Go east</choice>
+		<choice section="546">Go west</choice>
+	</choices>
+</section>

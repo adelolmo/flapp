@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="536">
+	<p>
+		You help yourself to the pirates&#8217; treasure, which amounts to
+		<gain shards="500"/>.
+		Record it on your Adventure Sheet. Their hold contains
+		<buy cargo="furs" shards="0" quantity="1">
+			1 Cargo Unit of furs
+		</buy>,
+		which you can add to your own cargo if you have room for it. Your mate advises taking the
+		<item name="pirate captain's head">
+			<b>pirate captain&#8217;s head</b>
+		</item>.
+		&#8216;A grisly trophy, perhaps, but often there&#8217;s a reward if you have proof you&#8217;ve slain such a devil.&#8217;
+	</p>
+	<p>
+		<set var="r" value="rank" modifier="natural"/>
+		You also get a chance to increase in Rank after your stirring leadership in battle.
+		<random dice="2" var="roll"/>,
+		<if var="roll" greaterthan="r">
+			and if the result is greater than your current Rank then you
+			<tick ability="rank" amount="1">gain a Rank</tick>.
+			You also
+			<tick ability="stamina" amount="1d">
+				gain 1-6 Stamina points permanently
+			</tick>:
+			increase your normal (unwounded) Stamina score by the roll of one die. Remember that going up a Rank increases your Defence.
+		</if>
+	</p>
+	<p><goto section="14"/>.</p>
+</section>

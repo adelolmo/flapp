@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="48">
+	<p>
+		You sail away from the strange artificial island. &#8216;Mark it on the charts, mister,&#8217; you tell the navigator.
+	</p>
+	<p>
+		<if codeword="Callid">
+			If you have the codeword Callid,
+			<lose codeword="Callid">lose it</lose> and
+			<goto section="717"/>.
+		</if>
+		Otherwise, choose your next heading.
+	</p>
+	<choices>
+		<choice book="7" section="100">Go south</choice>
+		<choice section="227">Go east</choice>
+		<choice section="630">Go north</choice>
+		<choice section="153">Go west</choice>
+	</choices>
+</section>

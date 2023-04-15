@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="223">
+	<p>
+		<tick codeword="BladeSeven" hidden="true"/>
+		As you take hold of the weapon, the gloomy hall spins around you. You are bathed in fire and smothered in ice and stone, battered with wood and metal, drowned and revived by the wind before your senses finally return to normal.
+	</p>
+	<p>
+		You are lying on a rocky beach. Red mountains tower above you and at your feet is a lake. Protruding from the lake are seven fingers of smooth-carved rock, resembling exactly the model you saw in the barrow. You are at the Lake of the Seven Needles, many leagues from where you were moments ago.
+	</p>
+	<p><goto section="268"/>.</p>
+</section>

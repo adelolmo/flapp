@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="106">
+	You are in the shallow coastal waters between Ringhorn and
+	Metriciens. <random type="travel"/>.
+	<outcomes>
+		<outcome range="2-4" section="607">Storm</outcome>
+		<outcome range="5-7" section="463">Pirates</outcome>
+		<outcome range="8-12" section="221">An uneventful journey</outcome>
+	</outcomes>
+</section>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="173">
+	<p>
+		The road runs from Chambara, the capital, to the town of Shingen where the Lord Chancellor has his private residence. It would be a daring highwayman indeed who tried to ply his trade along this heavily-patrolled route.
+	</p>
+	<p><random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-8" section="196">A quiet journey</outcome>
+		<outcome range="9-12" section="505">A military patrol</outcome>
+	</outcomes>
+</section>

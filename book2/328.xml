@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="328">
+	<p>
+		The Endless Plains are &#8216;the Breadbasket of Golnir&#8217; - a vast rolling expanse of fields that gleam in summer like quilts of gold. Pretty whitewashed villages nestle beside lazy streams. The farms are filled with plump livestock. Danger is unknown to the inhabitants of this idyllic landscape.
+	</p>
+	<p>
+		When you are ready to head on towards fresh pastures, <goto section="77"/>.
+	</p>
+</section>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="455">
+	<p>
+		The tavern is a shambles. Several of your men lie dead in the wreckage. The first mate staggers over and you are horrified to see that one of his eyes has been gouged out in the fighting.
+	</p>
+	<p>&#8216;Yeah, but you should see the other bloke,&#8217; he quips gamely.</p>
+	<p>
+		<set var="r" value="rank" modifier="natural"/>
+		You have the chance to gain a Rank now. You need to
+		<random dice="1" var="roll">roll higher</random>
+		than your current Rank on one die to do so.
+		<if var="roll" greaterthan="r">
+			If you do
+			<gain ability="rank" amount="1">go up a Rank</gain>,
+			permanently
+			<gain ability="stamina" amount="1d">
+				increase your Stamina by 1-6 points
+			</gain>
+			(the score of one die) and remember that your Defence score will increase by 1.
+		</if>
+	</p>
+	<p>
+		Your men are in no shape to tackle the Reavers now. &#8216;He who fights and runs away, skipper...&#8217; urges the bosun.
+	</p>
+	<p>
+		You nod in agreement. &#8216;Get back aboard, you swabs. We&#8217;re setting sail!&#8217;
+	</p>
+	<p><goto section="164"/>.</p>
+</section>

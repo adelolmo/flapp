@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="46">
+	'Bah, you are too greedy! The sum laid down in the holy texts is 100 Shards. Still, I cannot refuse a request for money,' says the Uttakin lord unhappily. He signals to a servant, and you are handed <gain shards="100"/>. Note it on your Adventure Sheet. When you are ready, you go back to the cathedral. <goto section="94"/>.
+</section>

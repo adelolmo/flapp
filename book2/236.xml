@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="236">
+	This is bleak country in the shadow of the northern foothills.
+	Beyond rise the jagged snow-peaked mountains known as the
+	Spine of Harkun.
+	<choices>
+		<choice section="282">Head north towards the mountains</choice>
+		<choice section="259">Go east</choice>
+		<choice section="52">Go south</choice>
+		<choice section="167">Head for the town of Marmorek</choice>
+	</choices>
+</section>

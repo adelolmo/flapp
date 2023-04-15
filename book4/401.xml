@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="401">
+	<p>
+		You feel as if the helm were trying to seize control of your mind, but you manage to overcome the insidious enchantment, and the pain dies away to a nagging itch.
+	</p>
+	<p>
+		<training ability="magic" dice="1" add="2"/>
+		and add 2. If the result is more than your MAGIC rating, you can increase it by one permanently.
+	</p>
+	<p>
+		Looking through the eyeholes of the helm you see that the manbeasts are ignoring you - plainly they are too stupid to realize you are not one of them.
+	</p>
+	<p>
+		The tall hill turns out to be the lair of the manbeasts. It is honeycombed with caves, and you wander through them, unmolested. You come to a large cavern. At the far end, about twenty people are locked up behind a steel portcullis. One of the prisoners has been strapped to a table, and a woman dressed in black and yellow silken robes is fastening a dog-shaped beast helmet over his head, oblivious to her victim&#8217;s cries for mercy. As the helmet slides into place, he begins to shudder. To your disgust, his limbs contort and twist, and grey fur begins to sprout all over him. Soon he will have become a mindless manbeast, his mind destroyed and his body enslaved.
+	</p>
+	<p><goto section="352"/>.</p>
+</section>

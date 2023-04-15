@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="706">
+	In a hole under an oak tree you find an old <item name="copper pot"/>,
+	which you may take if you wish. Then <goto section="349"/>.
+</section>

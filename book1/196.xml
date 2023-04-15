@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="196">
+	<if codeword="GhoulBitten">
+		<lose codeword="GhoulBitten" hidden="t"/>
+		If you were wounded by the ghoul you have been infected with a disease (<disease name="Ghoulbite">
+			<effect ability="sanctity" bonus="-1"/>
+			<effect ability="combat" bonus="-1"/>
+			<effect ability="charisma" bonus="-1"/>
+		</disease>).
+		Note that, until you can find a cure, you must subtract one from your SANCTITY, COMBAT and CHARISMA abilities (no ability can drop below one). If you were already suffering from Ghoulbite, there are no further effects.
+	</if>
+	In any case, you hack off the hideous head and leave. Note you have a <item name="ghoul's head"/> and <goto section="100"/>.
+</section>

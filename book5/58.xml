@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="58">
+	<p>
+		'Look!' screams one, pointing at you. 'An Exalted One! One of the chosen of Ebron!'
+	</p>
+	<p>
+		They fall to their knees and beg you to give them a blessing - they believe that the masked nobles and blue-skinned aristocrats of Uttaku are the descendant of Ebron himself. You find yourself surrounded by zealots, and have little choice but to attempt a blessing.
+	</p>
+	<p>
+		<difficulty ability="sanctity" level="13">
+			<adjust god="Ebron" value="1"/>
+		</difficulty>. If you are a member of the Church of Ebron,
+		you can add one to the roll.
+	</p>
+	<outcomes>
+		<success section="89"/>
+		<failure section="426"/>
+	</outcomes>
+</section>

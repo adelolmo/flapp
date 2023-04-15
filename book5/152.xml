@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="152">
+	<p>
+		For each curse you want lifted, Holyamu asks for
+		<lose price="curse1" shards="200"/>
+		or <lose price="curse1" item="?" bonus="1+">
+			any object with a +1 or greater bonus
+		</lose>. The curses he can lift include the
+		<lose flag="curse1" curse="Curse of Vulnerability"/>,
+		<lose flag="curse1" curse="Tyrnai's Curse"/>, the
+		<lose flag="curse1" curse="Curse of the Shadar"/>, the
+		<lose flag="curse1" curse="Curse of Ugliness"/>, the
+		<lose flag="curse1" curse="Curse of Ebron"/>, a
+		<lose flag="curse1" curse="Curse of Donkey's Ears"/>, or the
+		<lose flag="curse1" curse="Curse of Blighted Magic"/>
+		(discard the <b>stone bracelet</b> if you have the last one lifted.
+	</p>
+	<p>
+		<if codeword="Ectoplasm">
+			If you have the codeword Ectoplasm, he can also lift the Curse of the Hangman of the Shadar, but this will cost
+			<lose price="curse2" shards="400"/>
+			or <lose price="curse2" item="?" bonus="2+">
+				an object with a bonus of +2 or more
+			</lose>.
+			<lose flag="curse2" codeword="Ectoplasm"/> if you do this.
+		</if>
+	</p>
+	<p>When you are finished you can:</p>
+	<choices>
+		<choice section="19">Attack Holyamu</choice>
+		<choice section="54">Leave</choice>
+	</choices>
+</section>

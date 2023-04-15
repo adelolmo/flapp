@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="440" boxes="3">
+	<p>
+		<if ticks="3">
+			If there is a tick in all three boxes, <goto section="183"/> immediately.
+		</if>
+		If not, <tick>put a tick in an empty box</tick>, and read on.
+	</p>
+	<p>
+		Since the ice melted, operations at the mine have all but ceased. A miserable looking Jalalul, the overseer of the mine, sits inside the main building. He has lost much weight, but he&#8217;s not out of business yet. The stores of ice stockpiled in the warehouse will take months to melt, and, since it is the only rime ice left, he can command a good price for it. A satchel of <buy item="rime ice" shards="150" quantity="2"/> costs 150 Shards. You cannot carry more than two satchels. If you buy any, cross off the money and add the rime ice to your Adventure Sheet.
+		<!-- can we think of a way to stop the player returning and buying more ice? -->
+	</p>
+	<p>There is nothing else here, so you leave.</p>
+	<p><goto section="687"/>.</p>
+</section>

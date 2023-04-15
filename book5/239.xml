@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="239" boxes="1">
+	<p>
+		<if ticks="1">If there is a tick in the box, <goto section="184"/> immediately.</if> If not, <tick/>, and read on.
+	</p>
+	<p>
+		You preach with such zeal and theological accuracy that you win the approval of the Soulwatch. They decide to initiate you into the Church of Ebron immediately (you cannot refuse!).
+		<if not="t" god="Ebron">
+			Delete whatever god you had in your God box on your Adventure Sheet (if any) and <tick god="Ebron">replace it with Ebron</tick>.
+			<if title="Chosen One of Nagil">
+				<i>[Also, <lose title="Chosen One of Nagil">lose the title</lose> Chosen One of Nagil if you had it]</i>.
+			</if>
+		</if>
+		<else>
+			If you already had Ebron in your God box, you are presented with a <weapon name="spear of retribution" bonus="4"/>.
+		</else>
+	</p>
+	<p>
+		Lose the codewords
+		<lose codeword="Erebus">Erebus</lose> and
+		<lose codeword="Evade">Evade</lose> if you had them.
+	</p>
+	<p>
+		When you are ready, you return to the city centre. <goto section="444"/>.
+	</p>
+</section>

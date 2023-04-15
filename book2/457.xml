@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="457">
+	<p>
+		You find yourself lying on a carpet of rustling leaves. Sitting up with a wince, you look around the glade. In place of the banqueting table there is just a fallen tree trunk. There are no high-backed chairs, only a ring of toadstools. Where you thought there had been a group of fur-robed lords and ladies, there are only several watchful owls sitting on a high branch.
+	</p>
+	<p>
+		You were nearly trapped by the elves&#8217; glamour. Luckily you shrugged off their spell in time.
+		<training ability="magic"/>, and if the total is higher than your MAGIC score then you gain 1 point of MAGIC. Once you have done that, you can return along the path. <goto section="22"/>.
+	</p>
+</section>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="774">
+	He takes his leave of you the next day, saying that he must make
+	his way back towards the river to meet a friend. An hour after
+	he has gone, you become suspicious. Checking your money
+	pouch, you discover that he has stolen all your cash.
+	<lose shards="*">Cross it off</lose> your Adventure Sheet and
+	<goto section="349"/>.
+</section>

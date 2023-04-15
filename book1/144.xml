@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="144">
+	You call on the powers of the gods, to banish this foul, blasphemous travesty of life. The Ghoul shrinks back for a moment, snarling. <difficulty ability="sanctity" level="10"/>.
+	<outcomes>
+		<success section="223"/>
+		<failure section="289"/>
+	</outcomes>
+</section>

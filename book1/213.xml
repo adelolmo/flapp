@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="213">
+	Each creature bursts open in death, spilling a black empty cloud into the water. The sac in which this ink is kept falls free from its body. You can take the
+	<buy item="ink sac" quantity="3"><b>ink sacs</b></buy> if you wish - note up to three of them on your Adventure Sheet. You also find coral jewellery worth about <gain shards="45"/> that you can take as cash. You swim down and take the <item name="golden net"/> (note it on your Adventure Sheet) and swim for the Shadar Tor as fast as you can.
+	<choices>
+		<choice section="602">Take the road to Trefoille</choice>
+		<choice section="166">Take the road to Marlock City</choice>
+	</choices>
+</section>

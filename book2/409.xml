@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="409">
+	A troop of militiamen comes marching along the road. A knight
+	wearing the black lion of Ravayne on his tabard and shield rides
+	at the head of the column.
+	<if codeword="Bullion">
+		If you have the codeword Bullion, <goto section="588"/>.
+	</if>
+	<else>
+		If not, <goto section="353"/>.
+	</else>
+</section>

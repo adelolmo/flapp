@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="87">
+	You are roughly on a latitude with Chompo, capital of the
+	Wistaria Clan. &#8216;Where now, skipper?&#8217; asks the helmsman.
+	<choices>
+		<choice section="745">Steer south</choice>
+		<choice section="161">Steer north</choice>
+	</choices>
+</section>

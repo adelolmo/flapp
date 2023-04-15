@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="294">
+	<p>
+		&#8216;This one&#8217;ll do nicely,&#8217; says one of the dark figures and they reach for you with coal-black hands.
+	</p>
+	<p>
+		More trau boil up out of the ground behind you, and you are seized, trussed up, and dragged underground before you can say &#8216;By Elnir&#8217;s Thunder!&#8217;
+	</p>
+	<p>
+		<if ability="rank" greaterthan="7"><if book="12">
+				If you are 8th Rank or higher, turn to <goto section="50" book="12"/>.
+		</if></if>
+	</p>
+	<p>
+		If you are of lower Rank, or if you don&#8217;t have <i>Into the Underworld</i>, <goto section="607"/>.
+	</p>
+</section>

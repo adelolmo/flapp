@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="427">
+	<p>
+		He is still alive, although highwaymen have stolen all his money. You help him to a roadside inn where you learn that he is a member of the prestigious Wistaria Clan.
+	</p>
+	<p>
+		&#8216;These are troubled times and evil men abound in the land,&#8217; he says. &#8216;It is heartening to meet a good person like yourself.&#8217;
+	</p>
+	<p>
+		You are always assured of a warm welcome in Chompo.
+		<tick codeword="Fuchsia">
+			Get the codeword Fuchsia
+		</tick>
+		if you didn&#8217;t already have it, then <goto section="671"/>.
+	</p>
+</section>

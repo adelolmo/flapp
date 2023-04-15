@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="602" boxes="1">
+	<p>
+		<if ticks="1">If there is a tick in the box, <goto section="641"/> immediately.</if> If not, <tick>put a tick there now</tick>, and read on.
+	</p>
+	<p>
+		The Master of Nightingales is looking for an unusual addition to the Garden of Exotic Fragrances. The silver nightingale is said to have the sweetest song in all the world, and the master wants one to show off to the king and the courtiers.
+	</p>
+	<p>
+		'Bring me a silver nightingale. It is said they can be found in the Singing Forest, in the eastern regions of Old Harkuna. Naturally, I have others on this quest, but the first to return with one of these birds will be the one I reward.'
+	</p>
+	<p><tick codeword="Elegant">Tick the codeword Elegant</tick>.</p>
+	<p>You return to the audience chamber. <goto section="401"/>.</p>
+</section>

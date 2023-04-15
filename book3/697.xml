@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="697">
+	The bark of the trees has a deep indigo colour, and the leaves
+	sparkle with azure light. Things slither amid the shadows, elusive
+	as memories of old dreams.
+	<choices>
+		<choice section="388">Search for a way out</choice>
+		<choice section="408">Press on deeper into the wood</choice>
+	</choices>
+</section>

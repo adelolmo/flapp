@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="226">
+	<p>
+		A blur of movement to one side gives you the briefest warning of what is about to happen to you.
+	</p>
+	<p>
+		<difficulty ability="scouting|combat" level="14">Make a SCOUTING or a COMBAT roll</difficulty> (your choice) at Difficulty 14.
+	</p>
+	<outcomes>
+		<success section="713"/>
+		<failure section="218"/>
+	</outcomes>
+</section>

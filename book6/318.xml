@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="318">
+	<p>
+		It starts to get dark. You soon lose sight of land in the gathering murk. The boat speeds on all night and all the next day with open sea on all sides, until finally you reach a verdant island where bubbling brooks pour through leafy glades. Slender men and women in gorgeous silks come down to the beach to offer you wine and crystallized fruits.
+	</p>
+	<p>
+		<rest>Restore your Stamina to its normal score</rest>
+		if you were injured. After a couple of days, your hosts point you in the direction of the mainland. On the way back, the little girl announces that the island must have been Horai, the home of the sea elves. Whether this is so or not, the fisherman is delighted to have his children back safe and sound. He cannot thank you enough.
+	</p>
+	<p>
+		<tick codeword="Fire">Get the codeword Fire</tick>
+		and <goto section="514"/>.
+	</p>
+</section>

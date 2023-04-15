@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="462">
+	<p>
+		<transfer weapon="*" to="2.462" hidden="t"/>
+		<transfer armour="*" to="2.462" hidden="t"/>
+		You must fight the vampire without the benefit of armour or weaponry.
+	</p>
+	<fight name="Vampire" combat="7" defence="9" stamina="14"/>
+	<p>
+		It&#8217;s too late to flee now.
+		<if dead="f">
+			<transfer item="*" from="2.462" hidden="t"/>
+			If you defeat the vampire, he turns into a grey mist and you can have his
+			<item name="scarab amulet"/> and
+			<weapon name="tarnished sword" bonus="1"/>.
+			Then <goto section="385"/>.
+		</if>
+	</p>
+</section>

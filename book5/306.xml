@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="306">
+	<lose item="blue potion" hidden="t"/>
+	You take a slug of the blue potion. It burns down your throat like liquid fire, and sears your gut. Your worst fears are confirmed, for it is poisonous. You
+	<poison name="Poison">
+		lose 6 points of Stamina permanently
+		<effect ability="stamina" bonus="-6"/>
+	</poison>
+	from your total, until you can find a cure for poison. If you have a blessing of Immunity to Disease/Poison, you can use that up and avoid the effect. When you are ready, <return>turn back</return> to the paragraph you noted.
+</section>

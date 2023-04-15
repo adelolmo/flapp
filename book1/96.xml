@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="96">
+	One of the militiamen kicks over a table, blocking your escape. You set your back to a corner of the room and grimly prepare to fight for your life. Fight them one at a time:
+	<fight name="First Militiaman" combat="4" defence="7" stamina="5"/>
+	<fight name="Second Militiaman" combat="4" defence="7" stamina="4"/>
+	<fight name="Third Militiaman" combat="4" defence="7" stamina="5"/>
+	If you win, <goto section="432"/>.
+	<flee>
+		If you surrender, <goto section="218"/>.
+	</flee>
+</section>

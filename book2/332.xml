@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="332">
+	<p>
+		A rugged track winds off through pasture land. A few rough looking types watch you askance as you pass them on the road.
+	</p>
+	<p><random type="travel"/> for encounters:</p>
+	<outcomes>
+		<outcome range="2-6" section="525">Devout priests</outcome>
+		<outcome range="7-8" section="58">An uneventful journey</outcome>
+		<outcome range="9-12" section="550">Coarse ruffians</outcome>
+	</outcomes>
+</section>

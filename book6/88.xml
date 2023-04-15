@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="88">
+	<p>
+		You search for the rock face where you found silver on your last trip. It is not easy to find. The snow smothers most features, and one mountainside is much like another.
+	</p>
+	<p>
+		<difficulty ability="scouting" level="16">
+			Make a SCOUTING roll at a Difficulty of 16
+		</difficulty>.
+	</p>
+	<outcomes>
+		<success section="257"/>
+		<failure section="307"/>
+	</outcomes>
+</section>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="541">
+	<p>
+		<if title="blue skin|Masked Lord|Masked Lady">If you have blue skin or the title Masked Lord or Masked Lady, <goto section="297"/>.</if> If not, read on.
+	</p>
+	<p>
+		You clear a space, and put yourself forward as a wrestler, prepared to take on anyone. A group of masked lords and ladies strolls past, and a young masked courtier, intent on impressing his lady friend, takes up your challenge. He slams down a bag of 100 Shards as prize-money.
+	</p>
+	<p>
+		The Uttakin have a long and hallowed tradition of wrestling. Wrestling is one of the few occasions during which an Uttakin can remove his mask without embarassment. Indeed, it is the only time a commoner, or an outlander can even touch a masked Uttakin. As the challenger, you are also expected to put up 100 Shards should you lose.
+	</p>
+	<choices>
+		<choice section="134">Can't afford the 100 Shards</choice>
+		<choice section="335" shards="100" pay="f">Accept the fight</choice>
+	</choices>
+</section>

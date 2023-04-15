@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="350">
+	<p>
+		The boat wends its way sluggishly upriver against the current. The rich fields gradually give way to grazing land and rugged heath. One evening at dusk you see a pallid green light flickering far off in the east, across the desolate countryside. The sailors tell you the light shines from the top of the Tower of Despair. &#8216;A haunted place where an ogre king once dwelt,&#8217; adds the captain in a hushed voice.
+	</p>
+	<p>
+		The next day you arrive at Marmorek. This is as far as the boat is going. If you want to return south with them, you must pay another 5 Shards for your fare.
+	</p>
+	<choices>
+		<choice section="167">Stop off at Marmorek</choice>
+		<choice shards="5" section="144">Sail back downriver</choice>
+	</choices>
+</section>

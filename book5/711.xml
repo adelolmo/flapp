@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="711">
+	<p>You are travelling through Old Harkuna.</p>
+	<p><random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-5" section="338">A flying visit</outcome>
+		<outcome range="6-7" section="168">No event</outcome>
+		<outcome range="8-12" section="262">Uttakin mercenaries</outcome>
+	</outcomes>
+</section>

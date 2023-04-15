@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="204">
+	<p>
+		By night you dream of a frightful fiend with flesh the colour of cold clay, only to wake with a shiver and find it was no dream. The fiend holds aside the curtain of your bunk in one taloned hand, leaning forward with black mouth agape. You can smell its seaweed breath; its eyes are like dull pearls in the candlelight.
+	</p>
+	<p>
+		<if codeword="Cull">
+			If you have the codeword Cull, <goto section="223"/>.
+		</if>
+		Otherwise, <goto section="241"/>.
+	</p>
+</section>

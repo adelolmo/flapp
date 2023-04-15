@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="423">
+	<p>
+		With a heart full of sadness, you watch your ship drop out of sight beyond the horizon. <lose ship="t">Cross her details off</lose> your Ship&#8217;s Manifest.
+	</p>
+	<p>
+		Rowing on with dogged perseverance, you wait for the Three Fortunes to deal you another hand. <random type="travel" dice="1"/>.
+	</p>
+	<outcomes>
+		<outcome range="1-2" section="505">Wrecked on a beach</outcome>
+		<outcome range="3-4" section="472">Picked up by pirates</outcome>
+		<outcome range="5-6" section="430">Reach the mainland</outcome>
+	</outcomes>
+</section>

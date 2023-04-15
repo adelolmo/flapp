@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="18">
+	<tick codeword="StillInYellowport" hidden="t"/>
+	You spin them a tale about how your poor brother, a mercenary in Grieve Marlock&#8217;s personal guard, lost his legs in the fight to overthrow the old king, and that you have spent all your money on looking after him. Several of the militia are brought to tears by your eloquent speech - they end up having a whip-round among themselves for your brother, and they give you <gain shards="15"/>! Chuckling to yourself, you return to the city centre. <goto section="10"/>.
+</section>

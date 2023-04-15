@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="216" boxes="1">
+	<p>
+		You present the <b>sea-green lens</b> to the door panel and it slides up. Beyond is a circular courtyard open to the sky with a marble fountain in the middle.
+	</p>
+	<p>
+		&#8216;Blow me if we aren&#8217;t smack in the bloomin&#8217; middle of the place!&#8217; says the master at arms.
+	</p>
+	<p>
+		<if ticks="0">
+			If the box above is empty,
+			<tick>put a tick in it</tick> and <goto section="270"/>.
+		</if>
+		If it was already ticked, <goto section="252"/>.
+	</p>
+</section>

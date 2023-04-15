@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="141" dock="Yarimura">
+	<p>
+		The Sea Barrier is a great wall built across the entrance to the harbour. It is operated by huge winches, driven by hundreds of slaves. The barrier usually remains open, but in times of danger, it can be closed, making it impossible for ships to reach the port itself. It makes Yarimura well-nigh impregnable against naval assault.
+	</p>
+	<p>
+		All shipping in and out of Yarimura must come through the offices of the harbourmaster. Here you can buy passage to far lands, or even a ship of your own, to fill with cargo and crew.
+	</p>
+	<p>
+		You can buy one-way passage on a ship to the following destinations:
+	</p>
+	<choices>
+		<choice section="531" shards="65" pay="f">Yellowport, cost 65 Shards</choice>
+		<choice section="205" shards="65" pay="f">Chambara, cost 65 Shards</choice>
+	</choices>
+	<p>
+		If you buy a ship, you are the captain, and can take it wherever you wish, exploring or trading. You also get to name it. Three types of ship are available.
+	</p>
+	<market>
+		<header type="ship"/>
+		<trade ship="barque" initialCrew="poor" buy="250"/>
+		<trade ship="brig" initialCrew="poor" buy="450"/>
+		<trade ship="gall" initialCrew="poor" buy="900"/>
+	</market>
+	<p>
+		If you purchase a ship, add it to your Ship's Manifest, and name it as you wish. The quality of the ship's crew is poor unless you pay to upgrade it. If you already own a ship, you can sell it back to the harbourmaster at half the above prices.
+	</p>
+	<p>
+		It costs <buy crew="average" shards="50"/> to upgrade a poor crew to average and <buy crew="good" shards="100"/> to upgrade an average crew to good. Excellent crews are not available in Yarimura.
+	</p>
+	<p>
+		Cargo for your ship can be bought at the Silk Market, and sold at other ports for profit.
+	</p>
+	<choices>
+		<choice section="201" sail="t">Put to sea</choice>
+		<choice section="252">Go to the Silk Market</choice>
+		<choice section="10">Return to the city centre</choice>
+	</choices>
+</section>

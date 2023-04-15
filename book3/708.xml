@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="708">
+	The mixture explodes in your face.
+	<lose item="selenium ore">Cross the <b>selenium ore</b> off</lose>
+	your list of possessions, then <random dice="1"/>.
+	<outcomes>
+		<outcome range="1">
+			You are killed;
+			<goto section="123"/>
+		</outcome>
+		<outcome range="2-3">
+			The hull is breached;
+			<goto section="486"/>
+		</outcome>
+		<outcome range="4">
+			<lose ability="magic" amount="1">
+				Lose 1 from your MAGIC score
+			</lose>; <goto section="262"/>
+		</outcome>
+		<outcome range="5-6">
+			<lose stamina="1d">Lose 1-6 Stamina</lose>;
+			<goto section="262"/> if still alive
+		</outcome>
+	</outcomes>
+</section>

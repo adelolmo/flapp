@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="141">
+	The crew welcomes you aboard your vessel with a rousing
+	cheer. &#8216;All&#8217;s ship-shape, Cap&#8217;n!&#8217; declares the first mate.
+	<choices>
+		<choice section="2">Go ashore</choice>
+		<choice section="187">Set sail</choice>
+	</choices>
+</section>

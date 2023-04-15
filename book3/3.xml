@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="3">
+	You are sailing a little way south-east of Starspike Island, on the
+	edge of the Sea of Hydras.
+	<choices>
+		<choice section="172">Go north</choice>
+		<choice book="7" section="300">Go south</choice>
+		<choice section="136">Go east</choice>
+		<choice section="302">Go west</choice>
+		<choice section="192">To Starspike Island</choice>
+	</choices>
+</section>

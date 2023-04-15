@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="311">
+	It was a mistake to come here. Several of the patrons recognise you as the one who betrayed Luroc Bans to Avar Hordeth. You turn to leave, but a trio of thugs are barring your exit. You are set upon by several of Luroc&#8217;s friends at once. Treat them as a single opponent.
+	<fight name="Three Thugs" combat="10" defence="7" stamina="19"/>
+	If you win, <goto section="430"/>.
+	If you lose, <goto section="169" dead="t"/>.
+</section>

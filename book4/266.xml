@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="266" image="266.jpg">
+	<p>
+		You are travelling across the southern steppes. To the south, the Spine of Harkun marches across the sky. To the north, endless grasslands stretch away. You come to a desolate ruin. Its cyclopean outer walls, crumbling now, tell of a once great city.
+	</p>
+	<choices>
+		<choice section="118">Go north</choice>
+		<choice section="643">Go west</choice>
+		<choice section="668">Go east</choice>
+		<choice section="54">Explore the City of Ruins</choice>
+		<choice section="200">Go south into the mountains</choice>
+	</choices>
+</section>

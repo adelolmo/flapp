@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="492">
+	<p>
+		The animal swoops off into the woods. It was the kirin, the celestial stag that roams the world meting out justice.
+		<if profession="troubadour">
+			If you are a Troubadour you might be able to make up an impressive song about this encounter:
+			<training ability="charisma" dice="2"/>
+			and if you get higher than your CHARISMA score you can increase it by 1.
+		</if>
+	</p>
+	<p><goto section="379"/>.</p>
+</section>

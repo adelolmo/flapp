@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="577">
+	<p>
+		Your prow drives into the Uttakin ship on its port side. The impact smashes its paddles, leaving the slavers unable to pursue as you sail away.
+	</p>
+	<p><goto section="300"/>.</p>
+</section>

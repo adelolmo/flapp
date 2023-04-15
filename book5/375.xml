@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="375">
+	<p>
+		'Wait!' you cry. 'Surely the word of an Uttakin noble is worth more than this? Where is your honour?'
+	</p>
+	<p><difficulty ability="charisma" level="13"/>.</p>
+	<outcomes>
+		<success section="253"/>
+		<failure section="399"/>
+	</outcomes>
+</section>

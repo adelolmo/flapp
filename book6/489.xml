@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="489">
+	You can help yourself to the pick of Lord Morituri&#8217;s funerary
+	treasures - not only the spear that you already have, but a
+	<tool name="hyperium wand" ability="magic" bonus="6"/>
+	and <gain shards="2500"/> in bizarrely shaped antique coinage.
+	Note it all on your Adventure Sheet and then <goto section="583"/>.
+</section>

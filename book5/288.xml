@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="288">
+	<p>
+		You remain as still as a stone for many hours. Throughout the day, the screams of the dying fill the air as the alalakh plants indulge in their frenzied blood-lust. At last the sun sets, closing another page on this seemingly endless book of horror. Night falls - never before have you so welcomed the drawing of the dark. The plants cease all activity. The flesh and bones of the day's victims have been consumed, but some of their belongings still remain.
+	</p>
+	<p><random dice="1"/> to determine what you find.</p>
+	<outcomes>
+		<outcome range="1,2"><gain shards="50"/></outcome>
+		<outcome range="3,4"><item name="spotted scarf"/></outcome>
+		<outcome range="5,6"><tool name="magic lockpicks" ability="thievery" bonus="2"/></outcome>
+	</outcomes>
+	<p>
+		When you are ready, you climb up the dormant vines and over the fence, losing yourself in the anonymous streets of Aku. <goto section="444"/>.
+	</p>
+</section>

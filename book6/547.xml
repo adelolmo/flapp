@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="547">
+	<if item="crimson arrow">
+		If you have a <b>crimson arrow</b>, <goto section="564"/>.
+	</if>
+	Otherwise, <goto section="481"/>.
+</section>

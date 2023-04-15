@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="416">
+	You are crossing the northern reaches of Oni Province, a place
+	of baleful repute.
+	<choices>
+		<choice section="493">Strike out east towards Narai</choice>
+		<choice section="356">Go south</choice>
+		<choice section="97">Cross the Gai River to the south-east</choice>
+	</choices>
+</section>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="278">
+	<p>
+		The sun glances low across a cliff sheathed in frost, casting little light and less warmth. You are in the regions of the Long Night. North of here stand the mountains that mark the limit of the mundane world. Beyond, it is said, lies the sea of eternity.
+	</p>
+	<p>
+		You pass close by a low, snow-packed mound. A tunnel bores into it, deep and lifeless as the eye socket of a skull.
+	</p>
+	<choices>
+		<choice section="405">Investigate</choice>
+		<choice section="226">Continue on your way</choice>
+	</choices>
+</section>

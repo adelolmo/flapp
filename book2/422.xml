@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="422">
+	Your prayer is heard by Molhern, who responds by telling you
+	to travel to far lands in search of lost knowledge. You resolve to
+	set out for the coast at once, there to take ship for foreign parts.
+	<goto section="74"/>.
+</section>

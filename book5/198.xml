@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="198">
+	<p>
+		<tick codeword="5.Tomb" hidden="t"/>
+		You enter the largest of the burial mounds. Inside a large seven-sided chamber is a similarly-shaped plinth, on which seven swords are arranged like spokes, their thin, needle-like blades shining in the darkness. Each sword glows a different colour and seems made of a different material. In the centre of the plinth is a model of seven obelisks.
+	</p>
+	<p>
+		As you step forward, a voice rings in your head: 'I am the champion of the Seven Lords of the Shadar. You are a defiler of their resting place.'
+	</p>
+	<p>
+		Suddenly you are gripped with a raging fever and the strength seems to ebb from your limbs. Some foul sorcery is being used here! Even as you gather yourself to resist, a tall figure steps into view.
+	</p>
+	<p>
+		<difficulty ability="magic" level="13"/>.
+		<failure>
+			If you fail, you must fight the champion at
+			<curse name="Champion's Curse">
+				half your COMBAT score
+				<effect ability="combat" divide="2"/>
+			</curse>
+			(round up).
+		</failure>
+		<success>
+			If you succeed you throw off his curse and may fight normally.
+		</success>
+	</p>
+	<fight name="The Champion" combat="8" defence="15" stamina="12"/>
+	<p>
+		If you lose, <goto section="7" dead="t"/>. If you win, read on.
+	</p>
+	<p>
+		If you were cursed, the
+		<lose curse="Champion's Curse">curse is lifted</lose>.
+		Return your COMBAT score to normal.
+	</p>
+	<p>
+		You look more carefully at the swords. They seem to represent the elements of some arcane philosophy. They are: the sword of ice, the sword of fire, the sword of stone, the sword of air, the sword of wood, the sword of metal, and the sword of water.
+	</p>
+	<choices>
+		<choice section="223">Take one of the swords (note which one)</choice>
+		<choice section="635">Take more than one (note the first one)</choice>
+		<choice section="471">Leave without taking a sword</choice>
+	</choices>
+</section>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="463">
+	You remember the words of the old man you shared a prison cell with. This must be the lair of the gorlock that is said to have backward-pointing feet, so that the tracks it leaves will always show the opposite direction of travel! You realize that this means the gorlock is inside the cave.
+	<choices>
+		<choice section="174">Challenge the beast to combat</choice>
+		<choice section="287">Wait for it to leave the cave and sneak in</choice>
+	</choices>
+</section>

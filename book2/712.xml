@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="712">
+	East of here, the mountains become a sheer column of rock
+	reaching up to the edge of heaven. Westwards stretches the
+	Spine of Harkun, said to be the vestiges of a fallen god of ancient
+	times.
+	<choices>
+		<choice section="282">Go west</choice>
+		<choice book="4" section="300">Go east</choice>
+		<choice section="372">Go south</choice>
+		<choice book="4" section="200">Go north</choice>
+	</choices>
+</section>

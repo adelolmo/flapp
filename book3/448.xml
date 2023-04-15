@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="448">
+	One of the sailors comes over drenched in blood and hands you
+	a trophy that he hacked from one of the creatures&#8217; maws. It is a
+	<item name="hydra's tooth"><b>hydra&#8217;s tooth</b></item>.
+	Note it on your list of possessions before
+	<goto section="118">turning to 118</goto>.
+</section>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="424">
+	You need <i>The Isle of a Thousand Spires</i> to travel to Mithdrak. If you haven't got it,
+	<if codeword="5.Aku.leaving">
+		<goto section="225" force="f">turn back to 225</goto> (if in Aku)
+	</if>
+	or
+	<if codeword="5.Kunrir.leaving">
+		<goto section="145" force="f">145</goto> (if in Kunrir)
+	</if>
+	and choose again.
+	<if book="9"><if shards="45">If you have, <lose shards="45">cross off the 45 Shards</lose> and turn to <goto book="9" section="8"/>.</if></if>
+</section>

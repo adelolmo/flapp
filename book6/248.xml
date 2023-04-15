@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="248">
+	<p>
+		He tells a story about the mujina; a creature that lurks on lonely backroads at dusk. &#8216;Its face is completely blank, and that&#8217;s quite a shock when it just spins round to you and goes BOO!&#8217; he says, specifically addressing the smallest children sitting in front of him. They look as if they&#8217;d like to run and hide under the bedclothes but are now so scared they can only huddle together.
+	</p>
+	<p>
+		&#8216;But that&#8217;s not the worst bit,&#8217; he goes on. &#8216;Oh no. You see, the mujina is envious of people&#8217;s faces so it just rips them off and keeps them in a sack on its back. Think of all those stolen faces, wriggling and squirming and muttering to themselves in the dark. Creepy, eh?&#8217;
+	</p>
+	<p>
+		One of the children starts to cry. As he is taken off to bed, you put some questions to the storyteller. &#8216;Is it true? Where does the mujina live?&#8217;
+	</p>
+	<p>
+		&#8216;As to where it lives: in Kwaidan Forest, I&#8217;m told. But is it true? That I cannot say.&#8217;
+	</p>
+	<p>
+		<tick codeword="Fist">Get the codeword Fist</tick>
+		and <goto section="611"/>.
+	</p>
+</section>

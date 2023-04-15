@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="604">
+	<p>
+		He tosses a globe of magical fire at your back.
+		<lose stamina="3d">Lose 3-18 Stamina points</lose>.
+		It would have been worse if not for the mist, which helped stifle the flames.
+	</p>
+	<p>
+		If still alive, you manage to escape from Talanexor down a narrow alley, but now you have lost sight of Lauria.
+	</p>
+	<p><goto section="571"/>.</p>
+</section>

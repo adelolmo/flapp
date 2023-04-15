@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="60">
+	You are crossing the wild country of north-east Sokara. <random type="travel" dice="1"/>.
+	<outcomes>
+		<outcome range="1,2">
+			Caught in an animal trap! <lose stamina="2">Lose 2 Stamina</lose>
+		</outcome>
+		<outcome range="3,4">Nothing happens</outcome>
+		<outcome range="5,6">
+			Attacked by a wolf, and must fight.
+			<fight name="Wolf" combat="3" defence="5" stamina="7"/>
+			If you win, you get a <item name="wolf pelt"/>.
+		</outcome>
+	</outcomes>
+	When you are ready, you can go:
+	<choices>
+		<choice section="518">North</choice>
+		<choice section="458">South</choice>
+		<choice section="201">West</choice>
+	</choices>
+</section>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="591" dock="Inn of Perfect Contentment">
+	You are outside the quaintly named Inn of Perfect Contentment
+	on the road between Shingen and Hidari. If you have a ship
+	moored here you can set sail; otherwise you must continue your
+	journey on foot.
+	<choices>
+		<choice sail="t" section="350">Put to sea (if ship here)</choice>
+		<choice section="125">Take the Shingen road</choice>
+		<choice section="673">Take the Hidari road</choice>
+		<choice section="653">Head due east</choice>
+	</choices>
+</section>

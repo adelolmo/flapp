@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="101" image="101.jpg">
+	<p>
+		The daimyo's palace rises up from the centre of Yarimura, straddling it like a colossus, lord of its domain. It is built in the Akatsurai style, with massive walls and towers - more a fort than a palace.
+	</p>
+	<p>
+		<if not="t" title="Nightstalker"><if codeword="Dare">
+				If you have the codeword Dare and do not have the title Nightstalker, <goto section="354"/>.
+		</if></if>
+		Otherwise, <goto section="665"/>.
+	</p>
+</section>

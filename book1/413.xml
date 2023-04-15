@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="413">
+	<p>
+		You are so devout that the king&#8217;s spell cannot affect you for more than a few seconds. The queen, recognizing your faith in the gods, thanks you for entertaining them.
+	</p>
+	<p>
+		You wake up in the cabin aboard your ship. You are musing about the strange nature of your dream when you realize that you have something in your hand. It is a <tool name="silver flute" ability="charisma" bonus="2" sell="500"/>. While you have the flute, it adds 2 to your CHARISMA. Note that it is worth 500 Shards, and you can sell it at any market if you like. <goto section="507"/>.
+	</p>
+</section>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="615">
+	<p>
+		Checking the crates, you discover bottles of Harkunan brandy wine. Obviously the men were smugglers, and the note about spectral hauntings was just a ploy to scare the miners away from where they kept their contraband.
+	</p>
+	<p>
+		You can take a <item name="bottle of wine"/>, a <item name="deck of marked cards"/>, four <weapon name="cudgel" quantity="4"><b>cudgels</b></weapon> and the <gain shards="117"/> the smugglers had on them. Then you return to the surface; <goto section="25"/>.
+	</p>
+</section>

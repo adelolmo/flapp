@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="13">
+	<p>
+		There are no more bouts, as no contestants have enrolled for battle.
+	</p>
+	<p>
+		'Perhaps in a few weeks, someone will turn up,' comments a passing mage.
+	</p>
+	<p>
+		It is quite common for the arena to be dormant for days on end, yet sometimes there are bouts every day for weeks. The coveted title of Arena Champion, and the rewards that go with it always draw someone. Only those that are mages by profession may enter the contest.
+	</p>
+	<choices>
+		<choice profession="mage" section="214">Fight in the arena (Mages only)</choice>
+		<choice section="111">Visit the market</choice>
+		<choice section="637">Go to the temple of Molhern</choice>
+		<choice section="455">Go to the White Warlock Tavern</choice>
+		<choice section="403">Visit the chief mage</choice>
+		<choice section="90">Leave the City of Mystery</choice>
+	</choices>
+</section>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="214">
+	<p>
+		You close with the pirate vessel. At close quarters you see the attackers waiting with drawn swords at the rail. They are an odd mix of tall Uttakin, velvet-coated Golnirans, Sokarans with broad pale faces and savage natives of the Feathered Lands. All are alike in one respect, however: the naked hate that shines from their eyes. As the ships come together, they leap aboard with a wild battle-cry.
+	</p>
+	<p>
+		<if profession="warrior" not="t">
+			<random dice="2">
+				<adjust ability="rank"/>
+				<adjust crew="poor" amount="-2"/>
+				<adjust crew="good" amount="2"/>
+				<adjust crew="excellent" amount="3"/>
+			</random>
+		</if>
+		<else>
+			<text/>(<random dice="3">
+				three dice<adjust ability="rank"/>
+				<adjust crew="poor" amount="-2"/>
+				<adjust crew="good" amount="2"/>
+				<adjust crew="excellent" amount="3"/>
+			</random> if you&#8217;re a Warrior)
+		</else>
+		and add your Rank. Then, if your crew is poor quality, subtract 2 from the total. If the crew is good, add 2. If the crew is excellent, add 3.
+	</p>
+	<outcomes>
+		<outcome range="0-3" section="123">Calamity; you are killed</outcome>
+		<outcome range="4-8" section="140">
+			Crushing defeat;
+			<lose stamina="2d">lose 2-12 Stamina</lose>
+		</outcome>
+		<outcome range="9-12" section="250">
+			Forced to give in;
+			<lose stamina="1d">lose 1-6 Stamina</lose>
+		</outcome>
+		<outcome range="13-16" section="245">The pirates withdraw</outcome>
+		<outcome range="17+" section="232">Outright victory</outcome>
+	</outcomes>
+</section>

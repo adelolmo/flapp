@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="385" image="385.jpg">
+	<p>
+		You manage to convince the hero that it would be unwise to confront the gods. &#8216;Men have been stricken with madness for such prideful folly,&#8217; you remind him.
+	</p>
+	<p>
+		He agrees at last. &#8216;In that case I must return to the enchantress who lent me this marvellous steed, back in Atticala. Do you wish to join me?&#8217;
+	</p>
+	<p>&#8216;What of my ship?&#8217;</p>
+	<p>
+		&#8216;You go ahead and enjoy yourself, skipper,&#8217; says the first mate. &#8216;We&#8217;ll meet up with you in Port Skios.&#8217;
+	</p>
+	<choices>
+		<choice book="10" section="66">Go with the horseman</choice>
+		<choice section="135">Decline his offer</choice>
+	</choices>
+</section>

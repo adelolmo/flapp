@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="293">
+	You leave the wizard's house. If you want to wait until nightfall, and try to sneak in and rob Hammuwas Tamalkaya, <goto section="179" force="false"/>. Otherwise you leave: <goto section="443"/>.
+</section>

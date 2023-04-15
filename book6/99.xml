@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="99">
+	<p>
+		You go ashore to discover a terrifying vista of wind-blasted crags and smoking vents. Sinuous grey dragons crawl along the high ridges, pelting each other with jets of fire and acid. Their ferocious screeches echo across the barren landscape.
+	</p>
+	<p>
+		<difficulty ability="magic" level="20">
+			Make a MAGIC roll at a Difficulty of 20
+		</difficulty>.
+	</p>
+	<outcomes>
+		<success section="466"/>
+		<failure section="468"/>
+	</outcomes>
+</section>

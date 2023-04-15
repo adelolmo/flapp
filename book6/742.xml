@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="742">
+	<p>
+		<set var="d" value="-defence"/>	
+		You might have expected unstinting gratitude for releasing him, but Morituri apparently refuses to be reasonable. You will have to fight here or else make a retreat to more favourable ground.
+	</p>
+	<fight name="Dawatsu Morituri" combat="15" defence="25" stamina="38" staminaLost="MorDamage"/>
+	<p>
+		<flee>
+			If you retreat, Morituri will get
+			<lose stamina="2d">
+				one free strike<adjust amount="15"/>
+				<adjust amount="d"/>
+			</lose>
+			at you before you reach the open air. (If you do opt to do this, make a note of any wounds you have already inflicted on him before turning to <b>460</b>.)
+		</flee>
+	</p>
+	<choices>
+		<choice flee="t" section="460">Back out of the sepulchre</choice>
+		<choice section="489">Fight on and win</choice>
+	</choices>
+</section>

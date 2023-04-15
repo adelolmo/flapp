@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="402">
+	<p>
+		A cloud of plague spores rises up the moment you lift the lid. Choking, you retreat to the open. The spores are germinating inside your lungs.
+		<if not="t" blessing="disease">
+			<lose ability="stamina" amount="1d">
+				Permanently reduce your Stamina by 1-6
+			</lose>
+			(the roll of one die) unless you have a blessing of Immunity to Disease/Poison.
+		</if>
+		<else>
+			If you did have a blessing, remember it is now
+			<lose blessing="disease">used up</lose>.
+		</else>
+	</p>
+	<p>After amending your Adventure Sheet, <goto section="716"/>.</p>
+</section>

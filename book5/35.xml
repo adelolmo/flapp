@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="35">
+	<p>
+		You come to a pass through the great mountains known as the Spine of Harkun. To the west, the mountains become impassable.
+	</p>
+	<choices>
+		<choice book="4" section="320">North to Lake Rimewater</choice>
+		<choice section="487">South into the Grumes</choice>
+		<choice section="159">East along the Spine of Harkun</choice>
+		<choice section="217">South-west into the Icicle Woods</choice>
+		<choice section="328">South-east into Old Harkuna</choice>
+	</choices>
+</section>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="360">
+	<p>
+		By the time the ship has reversed course, the poor surgeon is no longer in sight. &#8216;He&#8217;s been swept away to the sea gods&#8217; hall,&#8217; says the bosun in a voice of great lament.
+	</p>
+	<p>
+		&#8216;What will we do without a surgeon?&#8217; says the second mate. &#8216;Now I&#8217;ll have to wait till we get to Dweomer to get my hair cut.&#8217;
+	</p>
+	<p>
+		Your confidence in your sailing skills has been badly shaken.
+		<lose ability="scouting" amount="1">
+			Lose 1 from your SCOUTING score
+		</lose>
+		and <goto section="22"/>.
+	</p>
+</section>

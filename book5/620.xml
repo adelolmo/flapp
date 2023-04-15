@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="620">
+	<p>
+		Unfortunately, you have been infected with a disease from an insect bite. Note that you have the
+		<disease name="Red Ague">
+			<effect ability="combat" bonus="-1"/>
+			<effect ability="charisma" bonus="-1"/>
+		</disease> (causing a blotchy rash that itches like the devil). Reduce your COMBAT and CHARISMA by one until you can find a cure. Ignore this if you have a blessing of Immunity from Disease/Poison (but don't forget to cross off the blessing).
+	</p>
+	<p>You struggle to dig out the idol. <goto section="280"/>.</p>
+</section>

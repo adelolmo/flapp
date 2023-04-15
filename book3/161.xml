@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="161">
+	<p>
+		Fiddler&#8217;s Green is an isle of perfect peace and contentment, where brooks gurgle through delightful woodland and there are wide lawns where you can bask all day in the sun.
+	</p>
+	<p>
+		If you are injured,
+		<rest>restore your Stamina</rest>
+		to its normal (unwounded) score. Also, if your crew is of poor quality then the stay here
+		<if crew="poor">
+			<buy crew="average" shards="0">upgrades them</buy>
+		</if>
+		to average quality.
+	</p>
+	<p>When you are ready to be on your way, <goto section="125"/>.</p>
+</section>

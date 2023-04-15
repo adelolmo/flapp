@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="657">
+	A huge shaggy warhorse with a coat of kelp and eyes like
+	phosphor comes galloping out of the deeps to attack you. There
+	is no point in running - it would soon outdistance you. You
+	must fight.
+	<fight name="Ekushka" combat="6" defence="7" stamina="10"/>
+	If you win, <goto section="705"/>.
+</section>

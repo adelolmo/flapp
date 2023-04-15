@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="682" image="682.jpg">
+	<p>
+		You manage to reach a ledge half-way up the mountain where you pause to rest. Suddenly, you are struck by a shower of pebbles. A dozen winged creatures are hovering in the air above you, pelting you with small rocks. They are like little purple-furred monkeys, with leathery bat-like wings - Mannekyn People. They wear simple strips of leather, and wield small javelins.
+	</p>
+	<p>&#8216;Get away, you big ox!&#8217; shrills one of them.</p>
+	<p>
+		<if codeword="Altruist">
+			If you have the codeword Altruist, <goto section="368"/>.
+		</if>
+		Otherwise, <goto section="445"/>.
+	</p>
+</section>

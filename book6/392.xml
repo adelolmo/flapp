@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="392">
+	<if weapon="?" bonus="1+" cache="6.310">
+		If you gave him a weapon (a <b>sword</b>, for example) with a COMBAT bonus of at least +1, <goto section="413"/>.
+	</if>
+	If you gave anything else, <goto section="373"/>.
+</section>

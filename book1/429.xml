@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="429">
+	The gloomy wreck is filled with coral-encrusted skeletons of its drowned crew. You find the captain&#8217;s cabin. Inside, a figure still sits in a chair, a chest of gems at its feet. With a thrill of horror, you realize it is a ghost, an undead remnant of a pirate captain, steeped in evil, its nacreous, fish-gnawed flesh still pulsing with a kind of half-life.
+	<choices>
+		<choice section="89">Swim straight in and grab the chest</choice>
+		<choice section="363">Try to steal it without being seen</choice>
+	</choices>
+</section>

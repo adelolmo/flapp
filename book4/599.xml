@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="599">
+	You manage to keep a close tab on the rivers, and navigate your way across the plain.
+	<choices>
+		<choice section="669">Head west to Tigre Bay</choice>
+		<choice section="472">Head north-east to the pyramid</choice>
+		<choice section="320">Go south to the Rimewater</choice>
+		<choice section="281">Head east into the plains</choice>
+		<choice section="29">Go south-east into the plains</choice>
+	</choices>
+</section>

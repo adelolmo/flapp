@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="273">
+	<p>
+		You come to a dead end. In the flickering light, which reflects off the frosty walls in a kaleidoscope of blue flashes, you see a panel of ice blocking your way. You hammer at it, but it will not break.
+	</p>
+	<p>There is a cough behind you.</p>
+	<p>
+		Wheeling round, you come face to face with a huge, heavyset miner, his face hidden by a blue-hooded cloak. At least you think it&#8217;s a miner - his feet are bare, and they are covered in thick black hair.
+	</p>
+	<p>It growls in a guttural voice, &#8216;Long time since...&#8217;</p>
+	<p>&#8216;Since what?&#8217;</p>
+	<p>
+		&#8216;Long, long time. I not see a manthing for long time. I used to dig for them. Smash the ice!&#8217; The creature chuckles and hefts a heavy pickaxe in its hands. &#8216;They loved old Blue Cap, they did. Yes. Good worker, they said.&#8217;
+	</p>
+	<choices>
+		<choice section="155">Ask Blue Cap to smash the panel</choice>
+		<choice section="590">Wait</choice>
+	</choices>
+</section>

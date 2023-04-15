@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="421">
+	<p>
+		<if title="Protector of Sokara" item="officer's pass">
+			If you have the title Protector of Sokara or an <b>officer&#8217;s pass</b>, the knights greet you civilly, and escort you into the citadel - <goto section="295"/>.
+		</if>
+	</p>
+	<p>
+		If not, they surround you, and demand to know what you are doing here.
+	</p>
+	<p><difficulty ability="charisma" level="15"/>.</p>
+	<outcomes>
+		<success section="356"/>
+		<failure section="232"/>
+	</outcomes>
+</section>

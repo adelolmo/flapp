@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="253" boxes="1">
+	<p>
+		At the top of the staircase you come to a belfry filled with roosting vampire bats that hang like sacks of dun-coloured leather around a vast iron bell. A loathsome trickle of fleas and lice falls constantly from the bats&#8217; fur.
+	</p>
+	<p>
+		<if ticks="0">
+			If the box above is not ticked,
+			<tick>tick it now</tick> and
+			<goto section="276"/>.
+		</if>
+		If the box is already ticked, <goto section="299"/>.
+	</p>
+</section>

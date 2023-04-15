@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="115">
+	<p>
+		The portrait is of your old foe Kaschuf the Deathless. He&#8217;ll have to choose another soubriquet now you&#8217;ve found and released his soul from the magic locket in which he kept it secure.
+	</p>
+	<p>
+		The first mate calls to tell you the supplies are stowed aboard. It is time to set sail. <goto section="171"/>.
+	</p>
+</section>

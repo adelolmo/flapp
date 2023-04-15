@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="480">
+	<p>
+		The sun flares cold and crimson behind a bank of cloud. The gloom helps your task as you slowly work your way closer across the bone-cold ground. Now you can hear the captive&#8217;s whimpered cries as the crows peck at his limbs.
+	</p>
+	<p><difficulty ability="thievery" level="12"/>.</p>
+	<outcomes>
+		<success section="364"/>
+		<failure section="515"/>
+	</outcomes>
+</section>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="360">
+	<p>
+		You try for several days to master the doctrine of the Sage of Peace, but it proves too much for you. In your despondency you succumb to material pleasures, seeking solace in wine and wild living. The abbot sees that you are not yet ready to achieve enlightenment, and tells you to come back when you have gained more wisdom.
+	</p>
+	<p>
+		<lose ability="sanctity" amount="1">
+			Lose a point of SANCTITY
+		</lose>
+		and <goto section="79"/>.
+	</p>
+</section>

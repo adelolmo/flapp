@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="644">
+	The Akatsurese name for hell is <i>ne no kuni</i>, which means &#8216;the
+	Land of Roots&#8217;. You could easily believe that is where you are
+	now. <difficulty ability="scouting" level="14"/>.
+	<outcomes>
+		<success section="665"/>
+		<failure section="603"/>
+	</outcomes>
+</section>

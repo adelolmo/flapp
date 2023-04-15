@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="128" image="128.jpg">
+	<p>
+		The wizard Targdaz comes soaring down from the sky on a burning carpet. As he skids in for a landing, he leaps off and flaps at the flames with his long sleeves.
+	</p>
+	<p>
+		'My beautiful carpet!' he cries disconsolately. 'I should not have flown so close to Danuo while he was practising with his volcanic sword.'
+	</p>
+	<p>'What brings you here?' you ask him.</p>
+	<p>
+		'Ah ...' He looks around. 'To see you, in fact. Has it occurred to you how useful a castle like this would be?'
+	</p>
+	<p>
+		You glower at the old fort. The walls are ivy-strewn; the portcullis is a web of rust. 'Useful? For what?'
+	</p>
+	<p>
+		'For living in! A hero like yourself could soon draw a garrison of followers.'
+	</p>
+	<p>
+		He throws back his sleeve, chants a spell, and the ivy falls from the walls. Dirt sloughs away to show gleaming yellow stone. Hard steel takes the place of crumbling rust. Within minutes it is as though the castle had just been built.
+	</p>
+	<p>
+		Sure enough, once news of the miracle spreads, men-at-arms come from far and wide. They have heard the tales of your renown and pledge to serve you at your castle.
+	</p>
+	<p>
+		<lose codeword="Dragon">Erase the codeword Dragon</lose> and <tick codeword="Edifice">gain the codeword Edifice</tick> in its place. You now have a castle. It is the unnamed castle marked on the map close to Castle Ravayne in Golnir.
+	</p>
+	<p><goto section="535"/>.</p>
+</section>

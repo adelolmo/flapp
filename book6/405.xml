@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="405">
+	The monk offers to preach the sermon of the Thunder Peak,
+	which he says will give you protection from danger.
+	<choices>
+		<choice section="619">Listen to his sermon</choice>
+		<choice section="639">Attack him</choice>
+		<choice section="610">Go to bed</choice>
+	</choices>
+</section>

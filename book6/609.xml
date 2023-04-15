@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="609">
+	<p>
+		This is a picturesque region of sugarloaf hills, translucent clouds and ferns gently ruffled by the wind.
+	</p>
+	<p><random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-4" section="589">Bad omens</outcome>
+		<outcome range="5-9" section="630">Nothing of note</outcome>
+		<outcome range="10-12" section="402">The monastery</outcome>
+	</outcomes>
+</section>

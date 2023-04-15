@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="571">
+	You are lucky enough to find a
+	<item name="four-leaf clover"/>. Surely this is a good omen.
+	<choices>
+		<choice section="496">Go east</choice>
+		<choice section="396">Go west</choice>
+		<choice section="124">Go south</choice>
+		<choice section="195">Go north</choice>
+	</choices>
+</section>

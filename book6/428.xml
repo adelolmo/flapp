@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="428">
+	<p>
+		Your aerial journey gives you a marvellous opportunity to study the lay of the land, but it is hard to drink in all the details.
+	</p>
+	<p>
+		<training ability="scouting" dice="2"/>,
+		and if you get higher than your SCOUTING score you can increase it by 1.
+	</p>
+	<p>
+		&#8216;An extraordinary craft,&#8217; you say to the wizard. &#8216;How do you steer it?&#8217;
+	</p>
+	<p>
+		&#8216;You have put your finger on the one aspect of the design that I have yet to perfect. For the nonce we must rely on fate, prayer, chance and wishful thinking.&#8217;
+	</p>
+	<p>
+		Eventually the balloon comes to rest in the upper branches of a tree and you hastily disembark.
+	</p>
+	<p><random dice="2"/> to see where you are.</p>
+	<outcomes>
+		<outcome range="2-4" section="632"/>
+		<outcome range="5-6" section="298"/>
+		<outcome range="7" section="609"/>
+		<outcome range="8-9" section="296"/>
+		<outcome range="10-12" section="44"/>
+	</outcomes>
+</section>

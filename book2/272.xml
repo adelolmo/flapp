@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="272">
+	<p>
+		A gaunt woman accosts you in the nave of the temple and says: &#8216;If only I had such a collection of lucky charms as you&#8217;ve got there.&#8217;
+	</p>
+	<p>
+		If you decide to give her your <b>four-leaf clover</b>, <b>silver horseshoe</b> and <b>rabbit&#8217;s foot charm</b>, remember to
+		<group>
+			<text>cross them off</text>
+			<lose item="four-leaf clover"/>
+			<lose item="silver horseshoe"/>
+			<lose item="rabbit's foot charm"/>
+			<tick codeword="2.272"/>
+		</group>
+		your Adventure Sheet.
+	</p>
+	<choices>
+		<choice section="295" box="2.272">Give her the three items</choice>
+		<choice section="318">Keep them</choice>
+	</choices>
+</section>
+

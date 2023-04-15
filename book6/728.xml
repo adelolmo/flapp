@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="728">
+	You still have the other guards to deal with, but their shock at
+	seeing Tadachika defeated buys you a few seconds. In a quick
+	glance around the hall you count ten guards - too many to fight.
+	What now?
+	<choices>
+		<choice section="83">Pick up Tadachika&#8217;s sword</choice>
+		<choice section="456">Run past the guards to the back of the villa</choice>
+		<choice section="696">Turn and flee back to the town</choice>
+	</choices>
+</section>

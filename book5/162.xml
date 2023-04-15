@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="162">
+	<p>
+		You pull out your weapon and attack. No archers react - it's just between the two of you. You must fight.
+	</p>
+	<fight name="Bandit" combat="6" defence="10" stamina="13"/>
+	<p>
+		If you lose, <goto section="7" dead="t"/>. If you win, you find <gain shards="15"/> and a set of <tool name="magic lockpicks" ability="thievery" bonus="2"/>.
+	</p>
+	<p>You journey on. <goto section="358"/>.</p>
+</section>

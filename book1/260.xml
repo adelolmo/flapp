@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="260">
+	You are shocked to find that you cannot damage the tomb guardian at all! You have no choice but to run for the door.
+	<rankcheck dice="1">Roll one die</rankcheck>
+	-
+	<success>
+		if the result is less than or equal to your Rank, you make it back out into the Forest - <goto section="47"/>.
+	</success>
+	<failure>
+		Otherwise, the whirlwind guardian catches you, and buffets you against the stone walls until you are dead - your adventures are over unless you have a <resurrection>resurrection deal</resurrection>.
+	</failure>
+</section>

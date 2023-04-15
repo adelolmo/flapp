@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="558">
+	You are at the base of the mountains of the Spine of Harkun, west of the Pass of Eagles. The mountains rise up before you, an impassable barrier. You find a small cave mouth in a cleft of rock.
+	<choices>
+		<choice section="35">Enter the cave</choice>
+		<choice section="145">Leave</choice>
+	</choices>
+</section>

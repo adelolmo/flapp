@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="282">
+	<p>You are sailing in warm tropical waters the colour of ink.</p>
+	<p>
+		<if codeword="Coracle">
+			If you have the codeword Coracle, <goto section="341"/>.
+		</if>
+		<if codeword="Certain">
+			If you have the codeword Certain, <goto section="87"/>.
+		</if>
+		<if codeword="Covet">
+			If you have the codeword Covet, <goto section="107"/>.
+		</if>
+	</p>
+	<p>If you have none of those, <goto section="125"/>.</p>
+</section>

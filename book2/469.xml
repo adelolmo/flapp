@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="469">
+	A long serpentine shape emerges from the cave, unfolds wings
+	like sheets of bronze, and flies at you spitting fire.
+	<fight name="Dragon" combat="9" defence="11" stamina="20"/>
+	No retreat or surrender is possible.
+	<if dead="f">
+		If you win, you can take the
+		<item name="dragon's head"><b>dragon&#8217;s head</b></item>
+		as a trophy, then <goto section="172"/>.
+	</if>
+</section>

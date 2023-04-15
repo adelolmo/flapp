@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="180">
+	<p>
+		The raft finally breaks apart, but not before it has carried you to a stretch of shoreline. You have no idea where you might be, but at least you have reached the mainland. Or have you?
+	</p>
+	<p><random dice="1"/>.</p>
+	<outcomes>
+		<outcome range="1-2" section="26"/>
+		<outcome range="3" section="505"/>
+		<outcome range="4-5" section="238"/>
+		<outcome range="6" section="313"/>
+	</outcomes>
+</section>

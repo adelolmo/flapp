@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="549">
+	A group of travellers from Sokara rein in as they see you go by.
+	<if title="King's Champion">
+		If you have the title King&#8217;s Champion, <goto section="401"/>.
+	</if>
+	<elseif title="Protector of Sokara">
+		If you have the title Protector of Sokara, <goto section="426"/>.
+	</elseif>
+	<else>
+		Otherwise <goto section="287"/>.
+	</else>
+</section>

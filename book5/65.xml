@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="65">
+	<p>
+		The Uttakin soldiers include three of the Soulwatch, the secret police. They are remorseless in their pursuit of fugitives. You are recognised as an escaped slave from Aku, and they move to arrest you! You decide to make yourself scarce.
+	</p>
+	<p>
+		<rankcheck add="1">Roll one die and add one</rankcheck>.
+		<failure>
+			If you score greater than your Rank,
+			<goto section="82"/>.
+		</failure>
+		<success>
+			If you score less than or equal to your Rank,
+			<goto section="455"/>.
+		</success>
+	</p>
+</section>

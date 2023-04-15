@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="277">
+	You are relieved to find your own face among the ones the
+	woman buried. Just as you are about to put it back on, you
+	notice a particularly beautiful face that stands out among the rest.
+	It has a smooth complexion, clear grey eyes, strong countenance
+	and hair the colour of honey. It is the face of a prince or an
+	angel.
+	<choices>
+		<choice section="353">Put on your original face</choice>
+		<choice section="332">Take the other face instead</choice>
+	</choices>
+</section>

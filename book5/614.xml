@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="614">
+	<p>
+		You are caught red-handed with the jewellery box in your hand. The masked lord calls for his retainers, and you are seized by many armed men.
+	</p>
+	<p>
+		<difficulty ability="charisma" level="15"/>.
+		<success>
+			If you succeed, you end up thrown into the dungeons of Aku -
+			<goto section="350"/>.
+		</success>
+		<failure>
+			If you fail, you are sold into slavery in Aku -
+			<goto section="321"/>.
+		</failure>
+	</p>
+</section>

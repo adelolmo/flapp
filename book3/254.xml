@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="254">
+	<p>
+		You confound the witches by cancelling the spell that keeps their coracles afloat. Your crewmen laugh in relief as they watch the flotilla of vile women sink below the surging grey swell.
+	</p>
+	<p>
+		The leader of the coven manages to hold her head above water long enough to plead for you to haul her out.
+	</p>
+	<choices>
+		<choice section="291">Drop her a line</choice>
+		<choice section="39">Let her drown</choice>
+	</choices>
+</section>

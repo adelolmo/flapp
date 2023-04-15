@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="359" image="359.jpg">
+	<p>
+		You ascend the Urushi Mountains through thick pine forests and alpine meadows where the air is clean and scented with heather. Streams splash and gurgle down steep rocky slopes and, when you stop to drink, you find the water is ice cold.
+	</p>
+	<p><random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-8" section="379">Alone in the mountains</outcome>
+		<outcome range="9-12" section="415">A magnificent beast</outcome>
+	</outcomes>
+</section>

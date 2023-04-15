@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="706">
+	You arrive at a high bronze double door set in sheer cliffs.
+	<if codeword="Duress">
+		If you have the codeword Duress, <goto section="343"/>.
+	</if>
+	If not, <goto section="609"/>.
+</section>

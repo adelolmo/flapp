@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="731">
+	<p>
+		<lose codeword="6.731" hidden="t"/>
+		The shrine stands beside a lake where willows dip their boughs in crystal water. Here you can pay your respects to the thousand gods of Akatsurai.
+	</p>
+	<p>
+		If you want to obtain a boon, leave a donation of
+		<lose shards="100" price="x"/> and
+		<difficulty ability="charisma" level="18" flag="x">
+			make a CHARISMA roll of Difficulty 18<adjust name="6.731"/>
+		</difficulty>.
+		You can
+		<tick name="6.731" amount="1" flag="y">reduce the Difficulty of the roll by 1</tick>
+		for each additional
+		<lose shards="100" price="y"/> that you offer up.
+	</p>
+	<field name="6.731" text="Donation bonus"/>
+	<p>
+		<success>
+			If you succeed in the CHARISMA roll,
+			<random dice="1" var="z">roll a die</random>
+			to see what the gods give you:
+		</success>
+	</p>
+	<outcomes var="z">
+		<outcome range="1" var="z">
+			<tick weapon="?" addbonus="1">Increase the COMBAT bonus of one weapon by +1</tick>
+			<lose codeword="6.731" hidden="t"/>
+		</outcome>
+		<outcome range="2" var="z">
+			Gain a blessing of
+			<tick blessing="disease"/>
+			<lose codeword="6.731" hidden="t"/>
+		</outcome>
+		<outcome range="3" var="z">
+			<gain ability="stamina" amount="1">Gain 1 Stamina point</gain> permanently
+			<lose codeword="6.731" hidden="t"/>
+		</outcome>
+		<outcome range="4" var="z">
+			Gain a blessing of <gain blessing="storm"/>
+			<lose codeword="6.731" hidden="t"/>
+		</outcome>
+		<outcome range="5" var="z">
+			Change your profession to Priest
+			<lose codeword="6.731" hidden="t"/>
+		</outcome>
+		<outcome range="6" var="z">
+			The gods are annoyed;
+			<lose ability="rank" amount="1">
+				reduce your Rank by 1
+			</lose>
+			<lose codeword="6.731" hidden="t"/>
+		</outcome>
+	</outcomes>
+	<p>When you are ready to resume your journey, <goto section="147"/>.</p>
+</section>

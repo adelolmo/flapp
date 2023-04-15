@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="345">
+	<lose codeword="4457" hidden="t"/>
+	He can tell you about:
+	<choices>
+		<choice section="671">Surviving on the steppes</choice>
+		<choice section="433">The Ruby Citadel</choice>
+		<choice section="649">The City of Ruins</choice>
+		<choice section="612">The Fane of the Four Winds</choice>
+	</choices>
+</section>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="86">
+	<p>
+		Little light finds its way to the bottom of the valley, and still less into this dark hole. A shape emerges from the blackness - a translucent grey figure, hooded and cloaked.
+	</p>
+	<p>
+		'My friend, you are the first in many lifetimes to find me. I was unjustly murdered by the servants of King Elhonar Shadar in this remote cave, and my soul cannot rest. Bring to me the gossamer net from the Long Home of King Elhonar Shadar and I shall be freed. Only return straightway here - do not stop for anything or I shall roam eternally, a lost soul. Take what you find in that tomb, and I will show you how to resist the curse that falls on tomb-robbers.'
+	</p>
+	<choices>
+		<choice section="282">Refuse</choice>
+		<choice section="388">Aid the shade</choice>
+	</choices>
+</section>

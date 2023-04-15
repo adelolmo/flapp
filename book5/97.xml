@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="97">
+	<p>
+		'Whoa there, whoa!' yells the troll, putting up his club. 'OK, you win.' He jabs his thumb at the bridge, indicating you are free to pass.
+	</p>
+	<p>From here you can go:</p>
+	<choices>
+		<choice section="176">West to the countryside</choice>
+		<choice section="653">East towards the High King's Seat</choice>
+		<choice section="317">South along the river</choice>
+		<choice section="487">North along the river into the Grumes</choice>
+	</choices>
+</section>

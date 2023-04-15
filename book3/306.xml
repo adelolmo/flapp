@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="306">
+	The pirates pull alongside and cast grappling hooks to seize your
+	vessel. Within moments they are swarming aboard. You offer
+	them you goods, but plead for the freedom of your crew.
+	<difficulty ability="charisma" level="15">
+		Make a CHARISMA roll at a Difficulty of 15
+	</difficulty>.
+	<outcomes>
+		<success section="416"/>
+		<failure section="435"/>
+	</outcomes>
+</section>

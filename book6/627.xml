@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="627" dock="Hagashin">
+	You have a contact in the Autumn Moon clan who makes sure
+	that you get a good deal. &#8216;May I point out that Hagashin is
+	famous for its textile industry?&#8217; he says.
+	<market>
+		<header type="cargo"/>
+		<trade cargo="furs" buy="250" sell="175"/>
+		<trade cargo="grain" buy="120" sell="80"/>
+		<trade cargo="metals" buy="680" sell="600"/>
+		<trade cargo="minerals" buy="550" sell="500"/>
+		<trade cargo="spices" buy="550" sell="500"/>
+		<trade cargo="textiles" buy="150" sell="100"/>
+		<trade cargo="timber" buy="180" sell="140"/>
+	</market>
+	<p>
+		When you have made all your business arrangements, <goto section="302"/>.
+	</p>
+</section>

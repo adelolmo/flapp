@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="28">
+	You jump into the air, and hit the ground rolling. You come up, bruised but alive, in time to see the horses ride straight into the rocky wall of a low hill! To your amazement, they pass straight through the rock and disappear. Silence falls across the land like a blanket. There is no sign of them, not even tracks. You camp for the night and the next day set off once more.
+	<choices>
+		<choice section="560">North across country</choice>
+		<choice section="588">East to the road</choice>
+		<choice section="250">To Trefoille</choice>
+		<choice section="100">To Marlock City</choice>
+		<choice section="99">West towards the River Grimm</choice>
+	</choices>
+</section>

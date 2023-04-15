@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="696">
+	<p>
+		&#8216;It&#8217;s good to see you remember to turn up at lectures once in a while,&#8217; remarks the senior mage drily as you sidle in at the back of the hall.
+	</p>
+	<p>
+		<set var="m" value="magic" modifier="natural"/>
+		<if shards="200">
+			You must pay
+			<lose shards="200"/> in tutorial fees, then
+			<random dice="2" var="roll"/>.
+			<if var="roll" equals="2"><set var="fail" value="1"/></if>
+			<else><set var="fail" value="0"/></else>
+			<if not="t" var="fail" equals="1">
+				<if var="roll" greaterthan="m">
+					If you get higher than your current MAGIC score, <gain ability="magic" amount="1">increase it by 1</gain>.<text/>
+				</if>
+			</if>
+			<if var="fail" equals="1">
+				However, if you roll a 2 then you have got things so badly wrong that you <lose ability="magic" amount="1">lose 1 point of MAGIC</lose>.
+			</if>
+		</if>
+	</p>
+	<p>That done, <goto section="607"/>.</p>
+</section>

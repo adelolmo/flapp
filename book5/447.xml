@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="447" dock="Kunrir">
+	<p>
+		You have made a deal with a gnome who owns a mine in the Grumes. If you have a ship docked in Kunrir, you can transport Cargo Units of minerals from the mine to your ship. It costs you <buy cargo="mineral" shards="350"/> for every such Cargo Unit. Simply write them on the Ship's Manifest, and deduct the money from your Adventure Sheet.
+	</p>
+	<p>When you are finished here, <goto section="145"/>.</p>
+</section>

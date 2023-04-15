@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="25">
+	<p>
+		The fisherman drops you off on the coastline outside the city of Yarimura - he refuses to take you into the harbour.
+	</p>
+	<p>'I'll not pay their damned harbour tax!' he growls.</p>
+	<p><goto section="280"/>.</p>
+</section>

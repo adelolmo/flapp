@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="520">
+	<p>
+		You hold up your arms and utter the mightiest prayer that you know. It has no effect.
+	</p>
+	<p>
+		The three white figures pelt you with a barrage of plates and knives. Something heavy hits you on the side of the head and you fall with a groan. The ghosts take advantage of this to snatch up the casket of silver and run off. <lose stamina="2">Lose 2 Stamina points</lose>.
+	</p>
+	<p>
+		If you still live, you recover your wits to find that the three figures have vanished. But you are sure now that they were not ghosts.
+	</p>
+	<choices>
+		<choice section="541">Try to track them down</choice>
+		<choice section="576">Follow the river north</choice>
+		<choice section="82">Follow the river south</choice>
+		<choice section="278">Head east into the countryside</choice>
+		<choice section="558">West to the main road</choice>
+	</choices>
+</section>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="48">
+	<p>
+		You have made a theological error. The Soulwatch moves in instantly, and arrests you for lesser heresy. You are hauled off to prison to await judgement. <goto section="350">Turn to 350</goto>.
+	</p>
+</section>

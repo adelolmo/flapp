@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="375">
+	<p><tick codeword="Deliver">Gain the codeword Deliver</tick>.</p>
+	<p>
+		Beladai&#8217;s men are fighting their way into the courtyard, but resistance is stiff as the garrison rapidly reinforces the gate. A dozen soldiers rush up the stairs of the winch-house to try to close the gates. You hold them off long enough for Beladai&#8217;s army to get into the citadel but you take a mortal sword thrust in the process. The citadel will fall to the Northern Alliance, but you will not live to see the victory celebrations.
+	</p>
+	<p><goto section="7"/>.</p>
+</section>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="130">
+	<p>
+		You sit down and start drinking with them. Your aim is to lull their suspicions until they are soundly drunk and then make a reckoning for their crime.
+	</p>
+	<p>
+		To succeed, you must
+		<difficulty ability="charisma" level="11">
+			make a CHARISMA roll at a Difficulty of 11
+		</difficulty>; failure means they take offence.
+	</p>
+	<outcomes>
+		<success section="148"/>
+		<failure section="73"/>
+	</outcomes>
+</section>

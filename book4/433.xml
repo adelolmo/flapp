@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="433">
+	<p>
+		You learn that a great wizard called Targdaz the Magnificent is imprisoned within the citadel. A necromancer called Shazir from &#8216;the lands of the southern devils&#8217;, as the shaman puts it, inhabits the citadel now. He forces Targdaz to do his bidding.
+	</p>
+	<p>
+		&#8216;It is known that Targdaz has promised a great reward to any who can free him,&#8217; says the shaman. With that he falls silent, indicating that the audience is at an end.
+	</p>
+	<p><goto section="33"/>.</p>
+</section>

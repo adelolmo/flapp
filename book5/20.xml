@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="20">
+	<p>You arrive outside the gates of an old Shadar castle.</p>
+	<p>
+		<if codeword="Extinguish">If you have the codeword Extinguish, immediately <goto section="214"/>.</if>
+		<if codeword="Dragon">If not, but you have the codeward Dragon, <goto section="128"/>;</if>
+		<if codeword="Edifice">if you have the codeword Edifice, <goto section="70"/>.</if>
+		Otherwise, <goto section="166"/>.
+	</p>
+</section>

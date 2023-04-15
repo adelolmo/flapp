@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="120">
+	<p>
+		You are sailing around the tip of Nerech. Out to sea, a great cloud of rolling fog, tinged with an eerie greenish glow, surrounds a mountain that climbs out of the mist.
+	</p>
+	<p>
+		'That's the Isle of Mystery,' says the first mate. He spits and makes a sign against evil.
+	</p>
+	<p>The men mutter among themselves; they are afraid of the misty isle.</p>
+	<p><random dice="2" type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-4" section="161">Storm</outcome>
+		<outcome range="5-7" section="296">An uneventful voyage</outcome>
+		<outcome range="8-12" section="443">Spectral pirates</outcome>
+	</outcomes>
+</section>

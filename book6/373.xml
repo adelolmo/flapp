@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="373">
+	<p>
+		The Tao master takes out a fan and waves it at you. &#8216;You are beginning to irritate me,&#8217; he says. &#8216;Get you gone.&#8217;
+	</p>
+	<p>
+		The first wave of the fan creates a breeze, the second brings a gale, and the third sends you sailing high into the air and over the treetops. Although you hold on tight to your possessions, 1-6 of them are torn away by the raging wind.
+		(<random dice="1" var="x">Roll one die</random>;
+		you decide
+		<lose item="?" multiple="x">which possessions to lose</lose>.)
+	</p>
+	<p>At last the wind abates. <random/> to see where you land.</p>
+	<outcomes>
+		<outcome range="2-5" section="79">The capital</outcome>
+		<outcome range="6-7" section="275">Up in the mountains</outcome>
+		<outcome range="8-9" section="674">Wild countryside</outcome>
+		<outcome range="10-12" section="500">A lonely road</outcome>
+	</outcomes>
+</section>

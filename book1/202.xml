@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="202" image="202.jpg">
+	<p>
+		Gingerly, you open the door. It leads to a curtained alcove, through which you observe the room beyond. It is a long, low hall - clearly an ancient Uttakin temple, from a time when the Masked Lords of Uttaku ruled all of Harkuna, but now part of the sewers of Yellowport.
+	</p>
+	<p>
+		A cheap wooden chair has been placed on the altar to act as a throne. On it sits a large and extremely ugly ratman. He has a tacky amulet around his neck, and a rusty iron hoop for a crown. About four ratmen are kneeling before him, engaged in conversation.
+	</p>
+	<p>
+		&#8216;But, Skabb...&#8217; one of the rat men is saying.</p>
+	<p>
+		&#8216;That&#8217;s Great King Skabb to you, dung-breath!!&#8217; bellows the rat on the throne.
+	</p>
+	<choices>
+		<choice section="428">Charge in to the attack</choice>
+		<choice section="595">Sneak in to assassinate the king</choice>
+		<choice section="24">Use sorcery to get close to Skabb</choice>
+		<choice section="336">Bluff your way in</choice>
+	</choices>
+</section>

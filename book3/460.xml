@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="460">
+	The lookout reports seeing a meteor plunge out of the sky a few
+	leagues to southward. The first mate thinks it might be worth
+	investigating, but it is not as easy as he thinks. You will have to
+	calculate how far the ship has gone since the meteor fell and
+	then plot a course back. This requires
+	<difficulty ability="scouting" level="16">
+		a SCOUTING roll at a Difficulty of 16
+	</difficulty>.
+	<outcomes>
+		<success section="409"/>
+		<failure section="262"/>
+	</outcomes>
+</section>

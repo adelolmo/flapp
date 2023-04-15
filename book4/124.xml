@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="124">
+	The manbeast collapses. Its body begins to smoke and burn, and then suddenly vaporizes in a flash of incandescent flame. All that is left is its bird-helm.
+	<choices>
+		<choice section="219">Put the helmet on</choice>
+		<choice section="627">Leave it and press on</choice>
+	</choices>
+</section>

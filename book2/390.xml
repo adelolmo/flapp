@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="390">
+	<p>
+		&#8216;I have neither the time nor the patience to teach you any more of my secrets,&#8217; says Estragon. &#8216;Musty libraries and dingy laboratories are not the best places to seek knowledge in any case. Go out into the world; look around you. Nature is the book in which all mysteries are revealed.&#8217;
+	</p>
+	<p>
+		He turns away, leaving you to find your own way back up to the castle.
+	</p>
+	<p><goto section="342"/>.</p>
+</section>

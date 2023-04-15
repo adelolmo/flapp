@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="492">
+	You are on a rough track that runs between Venefax and the territories of the scorpion men, slogging your way through hot, dry scrubland. A hawk circles overhead, cawing harshly.
+	<choices>
+		<choice section="427">Go north to Venefax</choice>
+		<choice section="318">Go south into Scorpion Bight</choice>
+	</choices>
+</section>

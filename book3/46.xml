@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="46">
+	The vampire stands crouched over the body of your poor dead
+	crewman. As the sunlight drains away, it gives an exultant peal
+	of laughter and cries: &#8216;The cooling balm of night anoints the
+	world!&#8217;
+	<choices>
+		<choice section="85">Attack the fiend</choice>
+		<choice section="141">Drive it off with holy words</choice>
+	</choices>
+</section>

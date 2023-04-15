@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="30">
+	<p>
+		Not many travellers use the lonely Northern Coastal Road. For company you have the sea breeze and the song of skylarks in the trees.
+	</p>
+	<p><random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-9" section="53">The days pass uneventfully</outcome>
+		<outcome range="10-12" section="328">Unexpected hospitality</outcome>
+	</outcomes>
+</section>

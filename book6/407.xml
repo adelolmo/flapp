@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="407">
+	Nothing you say can patch up this argument. Kiyomori calls for
+	his manservant and has you all but thrown into the street.
+	<lose codeword="Fleet">
+		Lose the codeword Fleet
+	</lose> and <goto section="79"/>.
+</section>

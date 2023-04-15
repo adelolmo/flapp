@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="483">
+	<p>
+		Silent as a shadow, you slip over the stockade wall. You crawl through the night towards a large purple pavilion of silk. It is the largest, so you reckon it must be Beladai&#8217;s tent. Still unseen, you make it to within a few feet of the tent.
+	</p>
+	<p><difficulty ability="magic" level="14"/>.</p>
+	<outcomes>
+		<success section="306"/>
+		<failure section="638"/>
+	</outcomes>
+</section>

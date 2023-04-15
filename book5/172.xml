@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="172">
+	<p>
+		You spend several months in the Hall of Never-Ending Toil. The experience toughens you up. <training ability="COMBAT"/>. If you score higher than your COMBAT rating, you may add one to that rating.
+	</p>
+	<p>
+		You get quite friendly with Isputakhsus. He used to be a masked lord, though he has now forfeited his right to wear a mask.
+		<tick title="bokh" titlePattern="Circle {0} Master of bokh" titleValue="1" titleAdjust="1">
+			He teaches you about bokh
+		</tick>, an ancient and revered strategy game, like chess, played by the masked lords of Uttaku. Note that you have gained one additional circle of bokh mastery; if you have no skill in bokh, note that you are now a 1st Circle Master of bokh. Trial by bokh is an old custom of the Uttakin. A plaintiff or defendant can always choose trial by bokh to resolve his case - so it is always important to make sure you can play the game well!
+	</p>
+	<p>
+		One day, a masked Uttakin known as the Master of Minions comes to select several slaves for service on the surface. You are among those chosen. <random dice="1"/>.
+	</p>
+	<outcomes>
+		<outcome range="1" section="32"/>
+		<outcome range="2" section="197"/>
+		<outcome range="3" section="283"/>
+		<outcome range="4" section="387"/>
+		<outcome range="5" section="462"/>
+		<outcome range="6" section="668"/>
+	</outcomes>
+</section>

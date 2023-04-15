@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="343">
+	<p>
+		The Grand Vizier grunts with irritation, but he must accept your challenge, according to ancient tradition.
+	</p>
+	<p>
+		Bokh is a board-game similar to chess.
+		<random dice="1" var="bokh">
+			<adjust titleVal="bokh" default="-1"/>
+		</random>, and add any circles of bokh mastery you may have
+		(.e. if you are a 1st Circle Master, add one). If you have no circles of bokh mastery, subtract 1 from the roll.
+	</p>
+	<p>
+		<if var="bokh" greaterthan="4">
+			If you score greater than 4, <goto section="423"/>.
+		</if> Otherwise, <goto section="174"/>.
+	</p>
+</section>

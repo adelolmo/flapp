@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="232">
+	<p>
+		You tell them you are out scouting for the Sokaran army but they ask you detailed questions you are unable to answer. You are arrested, and taken into the citadel for interrogation.
+	</p>
+	<p>
+		<if codeword="Drizzle|Assault">
+			If you have the codeword Drizzle or Assault, <goto section="661"/>.
+		</if>
+		If you have neither codeword, read on.
+	</p>
+	<p>
+		The Sokarans are suspicious, and they torture you during interrogation. <lose stamina="1d">Lose 1-6 Stamina points</lose> (the roll of one die). If you still live, you have nothing to tell them so eventually they release you.
+	</p>
+	<p><goto section="145"/>.</p>
+</section>

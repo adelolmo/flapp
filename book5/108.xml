@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="108">
+	<p><tick codeword="Epistle">Tick the codeword Epistle</tick>.</p>
+	<p>The master returns from the Grand Telling.</p>
+	<p>
+		'I won!' he exclaims. 'That last story about the adventure you had while you were writing the book tipped the balance!'
+	</p>
+	<p>
+		The Master of the Documents of Fable allows you to read one of the training manuals in the secret archives. Choose the ability of your choice (ie. COMBAT, CHARISMA and so on), <training>roll two dice</training>, and if the result is higher than that ability, you can add one to it permanently. He also tells you that you are welcome to use the archives at any time.
+	</p>
+	<p>
+		Your fame has grown among the courtiers who listened to the master reading your story. Turn to <b>401</b> and <tick name="UttakuStatus" count="2">add 2 to your Status total</tick> in the box provided. When you have done that you can consult the archives by <goto section="30" force="f">turning to 30</goto> or choose another option from the audience chamber <goto section="401">at 401</goto>.
+	</p>
+</section>

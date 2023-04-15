@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="94">
+	<p>
+		At last, the golem is defeated. You manage to get into the temple without being noticed by anyone else. Inside, it is cool and dark, filled with an unearthly stillness. You reach forward to strip the armour off the idol of Tyrnai.
+	</p>
+	<p><difficulty ability="thievery" level="12"/>.</p>
+	<outcomes>
+		<success section="509"/>
+		<failure section="228"/>
+	</outcomes>
+</section>

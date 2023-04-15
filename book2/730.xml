@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="730">
+	You sneak on to the ship, tiptoe into the captain&#8217;s cabin while
+	he&#8217;s sleeping off a rum-soaked evening, and steal the gem. The
+	next day you fence it for <gain shards="400"/>. Add this to your money
+	and then <goto section="48"/>.
+</section>

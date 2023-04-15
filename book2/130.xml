@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="130">
+	Here on the flat country of south-east Golnir, the River Grimm
+	meanders before sluggishly debouching into the swampy delta of
+	the Magwort Fens.
+	<choices>
+		<choice section="168">Go upriver to Conflass</choice>
+		<choice book="1" section="99">Go over the border into Sokara</choice>
+		<choice section="306">Go west</choice>
+		<choice section="219">Go south into the fens</choice>
+	</choices>
+</section>

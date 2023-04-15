@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="534">
+	<p>
+		A long time passes. After a while, you risk calling up to Lauria in a whisper. Your voice sounds thick, rasping - choked with growing fear. Lauria does not reply.
+	</p>
+	<p>
+		Each second you remain in the house increases the risk of discovery.
+		<tick codeword="StillInYellowport" hidden="t"/>
+	</p>
+	<choices>
+		<choice section="119">Wait a little longer</choice>
+		<choice section="386">Go upstairs to find Lauria</choice>
+		<choice section="10">Leave at once</choice>
+	</choices>
+</section>

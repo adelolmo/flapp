@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="190">
+	<p>
+		Ringed about with desolate shores, the sea keeps up its eternal whisperings. It puts the mate, who is normally an irascible redfaced drunkard, in wistful mood. &#8216;Often when at home,&#8217; he says, &#8216;tiring of laughter and song, I take myself to a deserted bay and listen for the sea-nymphs&#8217; flutes that herald the tide.&#8217;
+	</p>
+	<p>&#8216;You&#8217;re a poet!&#8217; says the navigator admiringly.</p>
+	<p>
+		The mate glares at him, jerked back to his usual foul mood. &#8216;There&#8217;s no call for insults, mister!&#8217; Look alive - we need a new course, you swab.&#8217;
+	</p>
+	<choices>
+		<choice book="6" section="90">Go east</choice>
+		<choice section="156">Go west</choice>
+		<choice section="173">Go north</choice>
+		<choice section="337">Go south</choice>
+	</choices>
+</section>

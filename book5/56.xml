@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="56">
+	<p>
+		One of the Soulwatch hisses in a voice resonant with rage, 'Why are you not wearing your striped scarf, you evil blaspheming devil? You have committed a crime of lesser heresy. Everyone must wear a striped scarf on the day of the Burning of the Heretics in Hell. You must pay a fine of 75 Shards.'
+	</p>
+	<choices>
+		<choice section="124">Can't or won't pay</choice>
+		<choice section="72" shards="75">Pay the fine</choice>
+	</choices>
+</section>

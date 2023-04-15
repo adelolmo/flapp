@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="361" boxes="1">
+	<p>
+		<if ticks="1">
+			If there is a tick in the box, <goto section="55"/> immediately.
+		</if>
+		If not, <tick/>, and read on.
+	</p>
+	<p>
+		You find a huddled, moaning figure on the ground. As you approach, a net is thrown over you from behind. You glimpse a face painted with white bone dust and big red circles around the eyes just before a terrific blow on the back of your head slams you into unconsciousness. <goto section="508"/>.
+	</p>
+</section>

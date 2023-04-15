@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="272">
+	<p>
+		Make sure you know the number of the entry you were just reading; this entry will not guide you back there.
+	</p>
+	<p>
+		To your horror the box turns out to be full of gouged-out human eyes! What a gruesome gift. For breaking your word not to look inside the box, you are cursed and must permanently
+		<lose ability="*" amount="1">
+			lose 1 point from each of your abilities
+		</lose>
+		(CHARISMA, etc). When you have amended your ability scores,
+		<return>turn back</return>
+		to the entry you were reading previously.
+	</p>
+</section>

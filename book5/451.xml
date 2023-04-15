@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="451">
+	<p>
+		Reverently, you lay the money at the feet of the idol. <lose shards="25">Cross it off</lose> your Adventure Sheet.
+	</p>
+	<p>
+		The god rewards you with a blessing. Write <tick blessing="magic"/> in the Blessings box on your Adventure Sheet. The blessing works by allowing you to try again when you fail a MAGIC roll. It is good for only one reroll. When you use the blessing, cross it off your Adventure Sheet. You can have only one MAGIC blessing at any one time.
+	</p>
+	<p>You take your leave of the primordial sun-god.</p>
+	<choices>
+		<choice section="213">North to the Hall of Heroes</choice>
+		<choice section="12">East</choice>
+		<choice section="438">West</choice>
+	</choices>
+</section>

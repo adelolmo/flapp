@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="370">
+	<p>
+		From Ringhorn, you have the option to put to sea, travel upriver, or journey overland. The fare to travel upriver is 5 Shards.
+	</p>
+	<p>
+		To travel by sea, you must either possess a ship which is docked in the harbour (check the Ship&#8217;s Manifest) or find a captain who is willing to take you as a passenger.
+	</p>
+	<choices>
+		<choice section="255">Go to the harbour</choice>
+		<choice shards="5" section="264">Travel upriver (pay 5 Shards)</choice>
+		<choice section="26">Take the road north</choice>
+		<choice section="140">Take the coast road east</choice>
+		<choice book="5" section="150">Take the coast road west</choice>
+	</choices>
+</section>

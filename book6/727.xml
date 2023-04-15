@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="727">
+	A comical little man leaps out at you brandishing a kitchen
+	knife. As you watch him strike one absurd fencing pose after
+	another, the main danger is that you might die laughing.
+	<choices>
+		<choice section="316">Ignore him and walk off</choice>
+		<choice section="490">Fight him</choice>
+	</choices>
+</section>

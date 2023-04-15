@@ -1,0 +1,16 @@
+<section name="Ilak the Swordsman" profession="Warrior">
+	<p>
+		Ilak hopes to write his name in blood across the pages of history and to be remembered in epic fireside tales as the greatest swordsman that ever lived. He travels from place to place, searching for adventure, and an opportunity to hone his deadly art. He has heard of an unkillable warrior called Kaschuf, and Ilak has a mind to try his mettle.
+	</p>
+	<p>
+		You can play as Ilak, or as a warrior with a different name (enter it in the 'Name' field). To begin your adventure, <goto section="1" force="f"/>.
+	</p>
+	<p>For another profession, choose from the following:</p>
+	<choices>
+		<choice section="Kitunai">Priest</choice>
+		<choice section="Arabel">Mage</choice>
+		<choice section="Vilss">Rogue</choice>
+		<choice section="Charyss">Troubadour</choice>
+		<choice section="Dilmun">Wayfarer</choice>
+	</choices>
+</section>

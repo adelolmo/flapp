@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="677">
+	<p>
+		You try to wrest it off your head, but the cursed thing has attached itself to you somehow. Tendrils of something horrible extrude themselves from the inside of the helmet and bore through your skull into your brain.
+	</p>
+	<p>Everything goes dark. <goto section="7"/>.</p>
+</section>

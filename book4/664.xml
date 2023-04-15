@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="664">
+	<p>
+		<set var="armour" value="-armour"/>
+		The nomads hastily string their bows and have a little sport. There is little or no cover on the barren plain, and you are punctured by several arrows before you are out of range.
+		<random dice="4" var="x">
+			<adjust amount="armour"/>
+		</random>
+		and subtract your armour&#8217;s Defence bonus (if you have any armour); the total is the
+		<lose stamina="x">number of Stamina points you lose</lose>.
+	</p>
+	<p><goto section="52"/>.</p>
+</section>

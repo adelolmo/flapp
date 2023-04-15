@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="558">
+	You find the Master of Shung-bat holding a lesson with a few courtiers. He wears a mask covered in strange symbols. You immediately realise that Shung-bat is of no practical use in combat whatsoever, and is almost entirely ceremonial. Courtiers duel with peacock feathers in one hand, and an inkwell in the other! The idea is to use the peacock feather to draw a sigil of defeat on the enemy's forehead! Points are awarded for the calligraphy and style of a sigil, if successfully drawn. Unusually, duellists remove their masks for the purposes of this fight.
+	<choices>
+		<choice section="622">Learn Shung-bat</choice>
+		<choice section="401">Leave</choice>
+	</choices>
+</section>

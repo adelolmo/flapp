@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="496">
+	<set var="tenth" value="(shards+9)/10"/>
+	The priests will accept a donation of 10% of your cash and any
+	one possession listed on your Adventure Sheet. If you refuse to
+	hand these over, <goto section="291" force="f"/>.
+	If you agree, decide which item
+	you are handing over,
+	<group force="t">
+		<text>cross it off along with the money</text>
+		<lose item="?"/>
+		<adjustmoney cache="6.496.1" multiply="0"/>
+		<transfer shards="tenth" to="6.496.1"/>
+	</group>,
+	and <goto section="149"/>.
+</section>

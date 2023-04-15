@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="499">
+	<p>
+		You approach a patrol. Its members are dressed in long, flowing black robnes emblazoned with an arcane symbol. They were lacquered masks of black and purple, fashioned to resemble terrible demons of the dark, the spawn of Ebron. They carry batons in each hand, tipped with a glowing purple gem. You explain how you were robbed.
+	</p>
+	<p>
+		<if title="Masked Lord|Masked Lady|blue skin">If you have the title Masked Lord or Masked Lady, or if you have blue skin, <goto section="571"/> immediately.</if> Otherwise, <goto section="55"/>.
+	</p>
+</section>

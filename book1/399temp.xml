@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="399">
+	<p>
+		You were asked by the Governor of Yellowport to assassinate Nergan Corin. It is a good time to make the attempt. If you want to have a go,
+		<difficulty ability="combat|thievery" level="12" force="f">
+			make a COMBAT or a THIEVERY roll at Difficulty 12
+		</difficulty>.
+		<success>
+			If you succeed, <goto section="385"/>.
+		</success>
+		<failure>
+			If you fail, <goto section="581"/>.
+		</failure>
+	</p>
+	<p>
+		If you would rather join the rebels and kill the governor instead, <tick codeword="Ambuscade">record the codeword Ambuscade</tick>. If you join the rebels, when you are ready, the king wishes you well, and you are led out of the stockade and back down to the foothills of the Coldbleak Mountains. <goto section="474"/>.
+	</p>
+</section>

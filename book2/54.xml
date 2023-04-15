@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="54">
+	The country bordering the Whistling Heath is a place of
+	undulating downs where blustery winds ruffle the treetops.
+	<random type="travel"/>:
+	<outcomes>
+		<outcome range="2-6" section="623">An execution</outcome>
+		<outcome range="7" section="223">An uneventful journey</outcome>
+		<outcome range="8-12" section="671">A small stranger</outcome>
+	</outcomes>
+</section>

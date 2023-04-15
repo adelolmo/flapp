@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="44" boxes="1">
+	<p>
+		<if ticks="1">If there is a tick in the box, <goto section="177"/> immediately.</if> If not, <tick>put a tick there now</tick>, and read on.
+	</p>
+	<p>
+		You are passing by a large house when a masked Uttakin leans over the gate to address you. 'Hi - you there,' he says. 'You look a likely adventurer to me...'
+	</p>
+	<p>
+		He tells you his name is Urhi-Akhad, the Scholar of Kunrir. He is interested in the nomad tribes of the steppes, specifically the Wingless Hawk tribe of the Horde of the Thundering Skies. He wants any information you might have to give on the subject.
+	</p>
+	<p>
+		<if codeword="Drifter">If you have the codeword Drifter, <goto section="652"/>.</if> If not, read on.
+	</p>
+	<p>
+		He says you'll reward you if find out anything about them on your travels. <tick codeword="Energy">Tick the codeword Energy</tick>. He wishes you good luck, and you move on. <goto section="100"/>.
+	</p>
+</section>

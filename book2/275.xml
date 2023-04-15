@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="275">
+	<p>
+		The corpse reaches out its skeletal hands, clutching your throat in a grip like a noose of ice. You struggle to break free, but your limbs have lost their strength. A ghastly chuckling pounds in your ears as the corpse feasts on your soul.
+	</p>
+	<p>
+		<difficulty ability="sanctity" level="15">
+			Attempt a SANCTITY roll at a Difficulty of 15
+		</difficulty>.
+		<success>
+			If the roll is successful, your spirit is too pure for the fiend to ingest: you are hurled out of the tomb with the <lose stamina="3d">loss of 3-18 Stamina</lose> (roll three dice). If you survive, <goto section="22"/>.
+		</success>
+		<failure>
+			If you fail the SANCTITY roll then even resurrection cannot save you from being utterly destroyed by the vampire knight.
+		</failure>
+	</p>
+</section>

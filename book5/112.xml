@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="112">
+	<p>
+		The castle and its amenities are open to you as the High King's champion.
+	</p>
+	<choices>
+		<choice section="526">Visit the chapel to Tyrnai, god of war</choice>
+		<choice section="446">Talk to the High King</choice>
+		<choice section="187">Practice with the High King's knights</choice>
+		<choice section="486">Stay a while and recuperate</choice>
+		<choice section="574">Leave the castle</choice>
+	</choices>
+</section>

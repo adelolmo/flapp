@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="638">
+	<p>
+		&#8216;This chart will be useful to our soldiers if there should be any danger from the nomad hordes of the deep north,&#8217; says Vanna. &#8216;You have served me well.&#8217;
+	</p>
+	<p>
+		<training ability="scouting" dice="2"/>,
+		and if the total is higher than your SCOUTING score then increase it by 1. Vanna also orders her seneschal to reward you with <gain shards="50"/> out of the castle treasury.
+	</p>
+	<p>
+		<lose item="map of the mountains">
+			Cross the <b>map of the mountains</b> off
+		</lose>
+		your Adventure Sheet and <goto section="342"/>.
+	</p>
+</section>

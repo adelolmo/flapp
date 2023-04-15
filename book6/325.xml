@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="325">
+	She rants and lays curses in a terrifying voice until you are forced
+	to run off with your hands over your ears. The experience has
+	unnerved you more than you might care to admit.
+	<lose ability="combat" amount="1">
+		Reduce your COMBAT score by 1
+	</lose>
+	and then <goto section="298"/>.
+</section>

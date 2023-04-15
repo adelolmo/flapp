@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="640">
+	<p>
+		<if shards="1">
+			The scholars demand
+			<adjustmoney multiply="0.5">half of any cash</adjustmoney>
+			you&#8217;re carrying.
+		</if>
+		<else>
+			(If you have no cash they will
+			<lose item="?" multiple="2">take the first two possessions</lose> listed on your Adventure Sheet.)
+		</else>
+		They euphemistically describe this as moonlight tax, even though mist or drizzle mean that it is rarely possible to see the moon in Dweomer.
+	</p>
+	<p>Now <goto section="571"/>.</p>
+</section>

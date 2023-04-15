@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="248">
+	<!-- is the pickaxe a weapon or just an item? -->
+	<p>
+		Blue Cap falls dead. You can take his <weapon name="pickaxe"/> if you want.
+	</p>
+	<p>
+		You press on down the tunnel. After a while, you come to a large round chamber of dressed stone, hung with banners. Flat stone slabs are arranged around its edge. Upon them rest warriors, wearing golden armour and clasping long, two-handed swords in gauntleted hands. They appear to be asleep.
+	</p>
+	<p><goto section="75"/>.</p>
+</section>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="194">
+	<p>
+		One of the Soulwatch hisses in a voice resonant with rage, 'Why are you not wearing your scarf, you evil blaspheming devil?'
+	</p>
+	<p>'But I have a scarf,' you protest, showing them your spotted scarf.</p>
+	<p>
+		'Aargh! You compound your foul crime by wearing a spotted scarf! On the day of the Burning of the Heretics in Hell you must wear a striped scarf! You have committed a crime of lesser heresy. You must pay a fine of 75 Shards.'
+	</p>
+	<choices>
+		<choice section="124">Can't or won't pay</choice>
+		<choice section="72" shards="75">Pay the fine</choice>
+	</choices>
+</section>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="180">
+	The goblins are cowed by your war-like manner. In return for sparing their lives, they leave a jug of <item name="faery mead"/> and a
+	<item name="potion of restoration">
+		<effect type="use" uses="1" verb="Drink">
+			<rest/>
+			<lose disease="*"/>
+		</effect>
+	</item>.
+	The potion can be used once only to restore all lost Stamina points and cure you of any diseases. Note them on your Adventure Sheet.
+	<choices>
+		<choice section="385">Demand more from the goblins</choice>
+		<choice section="206">Leave</choice>
+	</choices>
+</section>

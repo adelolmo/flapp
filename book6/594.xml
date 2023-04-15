@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="594">
+	A long wooden bridge supported by heavy wooden pilings
+	stretches across the Chu River. A woman in warrior&#8217;s garb
+	awaits you at the halfway point, announcing herself as the
+	daughter of Lord Chudaifu of the Black Swan Clan. Apparently
+	she wishes to test her martial prowess against you - she has
+	drawn her sword and stepped out to block your path.
+	<choices>
+		<choice section="614">Accept her challenge</choice>
+		<choice section="522">Go back the way you came</choice>
+		<choice section="485" item="agate swan">
+			Show her an <b>agate swan</b> if you have one
+		</choice>
+	</choices>
+</section>

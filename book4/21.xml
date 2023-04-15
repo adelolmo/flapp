@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="21" image="21.jpg">
+	<p>
+		The open gateway is flanked by two stone idols, man-like but with the heads of jackals. Their jewelled eyes gaze impassively at you. You are not sure, but you think their eyes are following your movements.
+	</p>
+	<p>
+		<if codeword="Cheops">If you have the codeword Cheops,
+			<goto section="689"/>.
+		</if>
+		If not, read on.
+	</p>
+	<choices>
+		<choice section="472">Leave</choice>
+		<choice section="49">Walk past the idols</choice>
+	</choices>
+</section>

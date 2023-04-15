@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="512">
+	<p>
+		Ladies-in-waiting come to your room with little trays of spiced nut cakes, rice, pickled squid, roast pheasant, carrot and garlic salad, and various fruits mixed with liana syrup and shaved ice. After a hot bath, a good meal and a massage you soon begin to feel in the pink. <rest>Restore your Stamina</rest> to its normal unwounded score.
+	</p>
+	<p>
+		Your room contains a lacquer cabinet where you can store up to 5000 Shards and six possessions. To leave something here, just cross it off your Adventure Sheet and note it in the Cabinet box below. It will be here when you return. When you are ready to leave, <goto section="565"/>.
+	</p>
+	<itemcache name="6.512" text="Cabinet" itemlimit="6" max="5000"/>
+</section>

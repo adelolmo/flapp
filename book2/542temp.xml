@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="542" boxes="3">
+	<p>
+		&#8216;I have been waiting for you,&#8217; Estragon says. &#8216;There is a task you can perform, and in return I&#8217;ll teach you a little sorcery.&#8217;
+	</p>
+	<p>
+		<if not="t" ticks="3">
+			<tick>Put a tick in the first empty box</tick>.
+			<if ticks="1">
+				If this is your first visit,
+				<goto section="490"/>.
+			</if>
+			<elseif ticks="2">
+				If this is your second visit,
+				<goto section="565"/>.
+			</elseif>
+			<else>
+				If this is your third,
+				<goto section="613"/>.
+			</else>
+		</if>
+	</p>
+	<p>
+		If all the boxes were already ticked,
+		<goto section="390"/>.
+	</p>
+</section>

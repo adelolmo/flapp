@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="595">
+	You flee, and the mercenaries give chase venting their joy in the hunt with cries of blood-lust. You dart into a large warehouse used by a local merchant to dye clothes.
+	<choices>
+		<choice section="661">Hide in a barrel</choice>
+		<choice section="637">Run on</choice>
+	</choices>
+</section>

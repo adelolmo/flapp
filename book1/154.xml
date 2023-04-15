@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="154" tag="temple">
+	<p>
+		The temple of Alvir and Valmir, Divine Rulers of the House of the Sea, is right on the teeming harbour of Marlock City. Its sea-green marbled porticos are draped in a hundred silver nets. Brother and sister, Alvir and Valmir rule below the waves. Alvir brings the souls of the drowned in his nets before his sister, Valmir, for judgement.
+	</p>
+	<p>
+		A swaggering ship&#8217;s captain emerges from the temple, saying to you in passing, &#8216;Never, I mean never go to sea without paying your respects to the twin gods - unless ye want to sail through a world of storms!&#8217;
+	</p>
+	<choices>
+		<choice section="343">Become an initiate</choice>
+		<choice section="68">Renounce their worship</choice>
+		<choice section="275">Seek a blessing</choice>
+		<choice section="100">Leave the temple</choice>
+	</choices>
+</section>

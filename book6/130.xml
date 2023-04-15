@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="130" dock="Shingen">
+	Shingen lies on the Western Coastal Road from Chambara to
+	Hidari. Sometimes pilgrims pass through here on their way up to
+	Noboro Monastery.
+	<choices>
+		<choice section="173">Take the road north</choice>
+		<choice section="125">Take the road south</choice>
+		<choice section="195">Take the road east</choice>
+		<choice section="359">Follow the river</choice>
+		<choice section="200" sail="t">Set sail (if ship docked here)</choice>
+	</choices>
+</section>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="200">
+	You find a goat track leading up through the mountains.
+	<choices>
+		<choice section="266">Go north into the steppes</choice>
+		<choice book="2" section="351">South into the mountains</choice>
+	</choices>
+</section>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="324">
+	<p>
+		You realise this is an ancient temple, sacred to gods as old as the hills. Stepping into the circle, you recite the proper mantra so well that you receive a Blessing. Mark <tick blessing="combat">COMBAT</tick> in the Blessings box on your Adventure Sheet. The blessing works by allowing you to try again when you fail a COMBAT roll. It is good for only one reroll. When you use the blessing, cross it off your Adventure Sheet. You can have only one COMBAT blessing at any one time.
+	</p>
+	<p>
+		<if codeword="Draw">
+			If you have the codeword Draw, <goto section="572"/>.
+		</if>
+		If not, you leave. <goto section="224"/>.
+	</p>
+</section>

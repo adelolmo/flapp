@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="472">
+	You are crossing the frozen northern steppes. Snow carpets the ground. Rising up out of the white wastes, a great pyramid stands. It is panelled with a strange, yellowish marble, and an ornately carved gateway is set into one of its faces, flanked by two idols. Curiously, it is untouched by the snow, and when you draw nearer you realize it is giving off a faint warmth, enough to melt any ice or snow that falls upon it. Steps cut into the sides of the pyramid lead up to its flat top. Beyond the pyramid are the Peaks at the Edge of the World, massive mountains of mind-boggling size.
+	<choices>
+		<choice section="21">Approach the gates</choice>
+		<choice section="271">Go north to the peaks</choice>
+		<choice section="91">Go west to the River of Destiny</choice>
+		<choice section="630">Go east</choice>
+		<choice section="281">Go south</choice>
+	</choices>
+</section>

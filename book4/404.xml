@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="404">
+	Tambu is pleased. Cross off the item from your Adventure Sheet. He bestows upon you a Blessing. <tick blessing="scouting">Mark SCOUTING</tick> in the Blessings box on your Adventure Sheet. The blessing works by allowing you to try again when you fail a SCOUTING roll. It is good for only one reroll. When you use the blessing, cross it off your Adventure Sheet. You can have only one SCOUTING blessing at any one time, so if you already have one, you don&#8217;t get another. Also, you are cured of any effects of <lose disease="*">poison or disease</lose> (such as the Blight of Nagil) that you may be suffering from, and <lose curse="*">any curses</lose> you are under (such as a Shadar curse) are lifted.
+	<choices>
+		<choice section="456">Make another offering</choice>
+		<choice section="118">Leave</choice>
+	</choices>
+</section>

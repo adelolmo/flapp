@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="405">
+	<p>Targdaz&#8217;s horse flies you back to your castle in a matter of hours.</p>
+	<p>
+		&#8216;I didn&#8217;t want to waste the spell,&#8217; he says as it flies off. &#8216;Each time I summon that steed it costs a year of my life.&#8217;
+	</p>
+	<p>
+		You are more concerned about your ship and crew.
+		<difficulty ability="charisma" level="13">
+			Make a CHARISMA roll at a Difficulty of 13
+		</difficulty>.
+		<success>
+			Success means that the crew followed your orders and you can note that the ship is now docked at the port of your choice.
+			<i>
+				[Choose from
+				<set force="f" dock="Aku">Aku</set>,
+				<set force="f" dock="Copper Island">Copper Island</set>,
+				<set force="f" dock="Dweomer">Dweomer</set>,
+				<set force="f" dock="Isle of Druids">the Isle of Druids</set>,
+				<set force="f" dock="Kunrir">Kunrir</set>,
+				<set force="f" dock="Marlock City">Marlock City</set>,
+				<set force="f" dock="Metriciens">Metriciens</set>,
+				<set force="f" dock="Ringhorn">Ringhorn</set>,
+				<set force="f" dock="Smogmaw">Smogmaw</set>,
+				<set force="f" dock="Wishport">Wishport</set>,
+				<set force="f" dock="Yarimura">Yarimura</set>, or
+				<set force="f" dock="Yellowport">Yellowport</set>
+				--Ed]
+			</i>
+		</success>
+		<failure>
+			Failure means that they sailed off and you must
+			<lose ship="t">cross the vessel&#8217;s details off</lose>
+			your Ship&#8217;s Manifest.
+		</failure>
+	</p>
+	<p>
+		Now <goto book="5" section="20">turn to 20</goto>
+		in <i>The Court of the Hidden Faces</i>.
+	</p>
+</section>

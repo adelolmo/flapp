@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="266">
+	<p>
+		You sail out of Wishport towards Marlock City. Only a few days out, the crew begins to succumb to fever. Soon the ship is drifting unmanned while most of the sailors lie groaning below deck.
+		<if not="t" blessing="disease">
+			You catch the fever yourself and must permanently
+			<random dice="1" var="x">lose 1-3 Stamina points</random>
+			<set var="y" value="(x+1)/2"/>
+			(roll one die and
+			<lose ability="stamina" amount="y">halve the result</lose>,
+			rounding fractions up).
+		</if>
+		<else>
+			If you have the blessing of Immunity to Disease/Poison you can ignore this. Remember that the blessing is then <lose blessing="disease">used up</lose>.
+		</else>
+	</p>
+	<p>
+		If you survive, eventually enough crewmen recover to sail the ship on to its destination. <goto book="1" section="240">Turn to 240</goto> in <i>The War-Torn Kingdom</i>.
+	</p>
+</section>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="514">
+	You are travelling in north-west Akatsurai, in a district that the
+	locals tell you is called Satsu Province. &#8216;West lies Oni Province,&#8217;
+	a young woodcutter tells you. &#8216;It is the home of bone-eating
+	demons!&#8217;
+	<choices>
+		<choice section="155">Go east to Narai</choice>
+		<choice section="395">Go west to Oni Province</choice>
+		<choice section="609">Go south</choice>
+	</choices>
+</section>

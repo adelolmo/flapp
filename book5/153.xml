@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="153" boxes="1">
+	<p><if ticks="1">If there is a tick in the box, <goto section="302"/> immediately.</if> If not, <tick>put a tick there now</tick>, and read on.</p>
+	<p>
+		You are already a member of the Brotherhood of the Night. The Master of Shadows, here in Aku, is the supreme head of the brotherhood. He tells you to take a message to Lochos Veshtu, master of the brotherhood in Yarimura. He makes you memorize a coded message that only Lochos will understand.
+	</p>
+	<p>
+		'Lochos will reward you when you deliver the message,' adds the Master of Shadows.
+	</p>
+	<p><tick codeword="East">Tick the codeword East</tick> and <goto section="302"/>.</p>
+</section>

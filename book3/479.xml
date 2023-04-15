@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="479">
+	You sail away from the Island of Fire. The first mate comes
+	to your cabin to discuss the course you wish to steer.
+	<choices>
+		<choice section="246">Go north</choice>
+		<choice section="192">Go south</choice>
+		<choice section="210">Go east</choice>
+		<choice section="303">Go west</choice>
+	</choices>
+</section>

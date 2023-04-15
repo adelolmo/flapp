@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="553" dock="Copper Island">
+	Note that your ship is now docked at Copper Island and then
+	<goto section="99"/>.
+</section>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="39">
+	It is late afternoon when you arrive at the heavily fortified manse
+	of Lord Kiyomori, Patriarch of the Starburst Clan and
+	Chancellor of Akatsurai. Dozens of soldiers patrol the estate
+	behind his white walls capped with iron spikes.
+	<choices>
+		<choice section="205">Sneak inside</choice>
+		<choice section="60">Go up to the gate</choice>
+	</choices>
+</section>

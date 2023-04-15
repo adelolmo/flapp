@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="153">
+	<p>
+		By day you sail on lavender waves under a vault of azure and gold. By night the sails gleam dazzlingly white in the rays of the moon, and each star finds its twin in the dark ocean depths.
+	</p>
+	<p>
+		<rest stamina="1">Recover 1 Stamina point</rest> if injured,
+		and then <random type="travel"/>.
+	</p>
+	<outcomes>
+		<outcome range="2-5" section="239">A flock of birds</outcome>
+		<outcome range="6" section="171">An uneventful journey</outcome>
+		<outcome range="7-12" section="57">Landfall</outcome>
+	</outcomes>
+</section>

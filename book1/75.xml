@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="75">
+	<p>The high priest takes you to a private chamber.</p>
+	<p>
+		&#8216;You may be just what the temple needs,&#8217; he says, &#8216;a good, old-fashioned thief! There is a suit of armour made entirely of gold - ceremonial only of course. Nevertheless, we would like to, er, have it donated to us.&#8217;
+	</p>
+	<p>&#8216;I see,&#8217; you reply, &#8216;and where is the armour?&#8217;</p>
+	<p>
+		&#8216;Well that&#8217;s the tricky part - it&#8217;s in the Temple of Tyrnai, in Caran Baru. In fact, it&#8217;s worn by the idol of Tyrnai himself in the temple! Can you bring us the gold chain mail of Tyrnai? In return, we will instruct you in the roguish arts.&#8217;
+	</p>
+	<p>
+		If you want to take up the mission for the Temple of Sig, <tick codeword="Armour" force="f">record the codeword Armour</tick>. <goto section="235"/>.
+	</p>
+</section>

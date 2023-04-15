@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="243">
+	<p>
+		<if god="Alvir and Valmir"><set var="cost" value="5"/></if>
+		<else><set var="cost" value="20"/></else>
+		If you are an initiate it costs only 5 Shards to gain the blessing of the twin gods of the sea. A non-initiate must pay 20 Shards.
+		<lose shards="cost" price="x">Cross off the money</lose> and
+		<tick blessing="storm" flag="x">write Safety from Storms</tick>
+		in the Blessings box on your Adventure Sheet. The blessing works by allowing you to ignore any one storm at sea. When you use the blessing, cross it off your Adventure Sheet.
+	</p>
+	<p>
+		You can only have one Safety from Storms blessing at any one time. Once it is used up, you can return to any branch of the temple of Alvir and Valmir to buy a new one.
+	</p>
+	<p>When you are finished here, <goto section="2"/>.</p>
+</section>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="34">
+	An eerie glimmer shines between the trees that overhang the
+	road a little way ahead. Venturing a little further, you see in the
+	gathering darkness that an old iron gibbet is set on one side of
+	the road. The glowing light hangs around it like a bubble of
+	marsh gas.
+	<choices>
+		<choice section="57">Go closer to investigate</choice>
+		<choice section="11">Back off and wait till morning</choice>
+	</choices>
+</section>

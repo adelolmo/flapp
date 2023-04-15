@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="154">
+	You are crossing the Sea of Hydras, a stretch of water with a
+	baleful reputation. The crewmen go about their tasks in uneasy
+	silence, hardly daring to draw breath lest they attract calamitous
+	misfortune.
+	<choices>
+		<choice section="23">Go south</choice>
+		<choice book="6" section="202">Go north-east</choice>
+		<choice book="6" section="309">Go north</choice>
+		<choice section="98">Go south-east</choice>
+		<choice section="337">Go west</choice>
+	</choices>
+</section>

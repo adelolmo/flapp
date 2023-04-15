@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="378">
+	<p>'Well, what are you doing here, then?'</p>
+	<p>
+		You ask if he has any more information about the pink rice grain or the Black Pagoda.
+	</p>
+	<p>
+		'You might try the archives - if you can persuade the Master of the Documents of Fable to let you browse.'
+	</p>
+	<p><goto section="401"/>.</p>
+</section>

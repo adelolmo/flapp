@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="152">
+	There is nothing else to do here but leave.
+	<choices>
+		<choice section="145">North to the steppes</choice>
+		<choice section="400">South into Sokara</choice>
+	</choices>
+</section>

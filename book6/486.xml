@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="486">
+	<p>
+		You duck out of sight just seconds before the person with the lamp arrives at the far end of the corridor.
+	</p>
+	<p>
+		<difficulty ability="thievery" level="14">Make a THIEVERY roll at a Difficulty of 14</difficulty>.
+	</p>
+	<outcomes>
+		<success section="449"/>
+		<failure section="722"/>
+	</outcomes>
+</section>

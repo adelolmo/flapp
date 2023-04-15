@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="625">
+	You have gathered several handfuls of silver, worth a total of
+	between 10 and 60 Shards
+	(<random dice="1" var="x"/>,
+	<set var="s" value="x*10"/>
+	<gain shards="s" hidden="t"/>
+	when a sudden gust of icy wind extinguishes your light. You are plunged into utter blackness. Then you hear a soft sigh of laughter that can only bode evil, and you start groping your way hurriedly back towards the exit. <goto section="584"/>.
+</section>

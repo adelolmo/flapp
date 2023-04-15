@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="340">
+	<p>
+		A masked priest of the Chosen of Ebron informs you of the result of the rite of the reading of the runes.
+	</p>
+	<p>
+		'Ebron has decided that your soul will be purged through humility - you are to be sold into slavery.' <goto section="321"/>.
+	</p>
+</section>

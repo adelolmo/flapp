@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="174">
+	<p>
+		You advance, weapon at the ready. As you draw closer, something rushes out of the cave with a shrieking cry. It is the gorlock, a beast with legs like a bird, a body like a reptile, with two short forelimbs and a beaked, lizard-like head. Its two legs do indeed have backward-pointing feet. You&#8217;ll have to fight.
+	</p>
+	<fight name="Gorlock" combat="4" defence="6" stamina="7"/>
+	<p>
+		If you win, <goto section="315"/>. If you lose, your bones will join the others at the entrance of the cave, unless you have a <resurrection>resurrection deal</resurrection>.
+	</p>
+</section>

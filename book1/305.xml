@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="305" boxes="1">
+	<p>
+		<if ticks="1">
+			If there is a tick in the box, <goto section="367"/> immediately.
+		</if>
+		If not, <tick/>, and read on.
+	</p>
+	<p><difficulty ability="magic" level="11"/>.</p>
+	<outcomes>
+		<success section="609"/>
+		<failure section="528"/>
+	</outcomes>
+</section>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="114">
+	<p>
+		You are known as the priest who outwitted the storm demons to save Sul Veneris. You are shown in to see the chief administrator, who welcomes you freely. He can <rest>heal you of all lost Stamina points</rest> and cure you of a <lose disease="*">disease or poison</lose> free of charge. He cannot, however, lift a curse.
+	</p>
+	<p>&#8216;Whenever you need help, come to me!&#8217; he says.</p>
+	<p>When you are ready, <goto section="100"/>.</p>
+</section>

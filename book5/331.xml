@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="331">
+	<p>
+		You have encountered an ice ghoul, a fearsome frost spirit that haunts travellers. The ice ghoul is an invisible ghostly presence that likes to attach itself to the mind of its victim. It is unrelenting and will not leave until it has drained the mind of all sanity. If it can be made visible, however, it can be banished with the appropriate rites.
+	</p>
+	<p>
+		<difficulty ability="magic" level="11">Make another MAGIC roll at Difficulty 11</difficulty> as you try to force it into the material world.
+	</p>
+	<outcomes>
+		<success section="475"/>
+		<failure section="397"/>
+	</outcomes>
+</section>

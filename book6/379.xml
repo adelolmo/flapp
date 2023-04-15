@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="379">
+	<if title="Initiate of the Sage of Peace">
+		If you are an initiate of the Sage of Peace, <goto section="363"/>.
+	</if>
+	If not, <goto section="211"/>.
+</section>

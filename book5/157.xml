@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="157">
+	<p>You scurry along the path with reckless haste.</p>
+	<p><difficulty ability="scouting" level="10"/>.</p>
+	<p>
+		<success>If you make the roll, you find a low overhang of rock, under which you hide until the threat has gone - <goto section="53"/>.</success> <failure>If you fail the roll, you tread on a loose rock, and feel it slip from under you - <goto section="104"/>.</failure>
+	</p>
+</section>

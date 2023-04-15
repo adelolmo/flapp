@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="610">
+	You swim to the needle that matches the sword you carry and touch the ancient blade to the stone. A bell sounds in your head, a perfect note. The sword in your hand seems to sing in joy. Which blade do you have?
+	<choices>
+		<choice section="497"><b>sword of fire</b></choice>
+		<choice section="466"><b>sword of ice</b></choice>
+		<choice section="102"><b>sword of stone</b></choice>
+		<choice section="380"><b>sword of air</b></choice>
+		<choice section="670"><b>sword of wood</b></choice>
+		<choice section="309"><b>sword of metal</b></choice>
+		<choice section="524"><b>sword of water</b></choice>
+	</choices>
+</section>

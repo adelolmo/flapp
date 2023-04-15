@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="617">
+	<p>
+		<lose item="*" shards="*" cache="2.617" hidden="t"/>
+		Decide which item you are leaving here.
+		(It must be either a weapon or a suit of armour.)
+		You also have to leave a sum of money to pay the god for his services; decide how much.
+	</p>
+	<itemcache name="2.617" itemlimit="1" text="Molhern's Smithy">
+		<include weapon="?"/>
+		<include armour="?"/>
+		<exclude item="?" tags="Molherned" reason="Molhern has already worked on this item!"/>
+		<exclude item="?" bonus="6+" reason="This item is good enough already!"/>
+	</itemcache>
+	<p>
+		You camp out for the night not far away. Sometime after midnight you are woken by a hammering sound from the other side of the trees.
+	</p>
+	<choices>
+		<choice section="641">Investigate</choice>
+		<choice section="665">Go back to sleep</choice>
+	</choices>
+</section>

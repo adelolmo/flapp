@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="434">
+	<p>
+		&#8216;The merchant houses keep their doors closed to outsiders,&#8217; a Sokaran spice trader tells you. &#8216;You need a letter of introduction to show that you&#8217;re trustworthy.&#8217;
+	</p>
+	<p>&#8216;Where can I get one?&#8217;</p>
+	<p>He shakes his head. &#8216;Not here. Try asking in Chambara.&#8217;</p>
+	<p><goto section="8"/>.</p>
+</section>

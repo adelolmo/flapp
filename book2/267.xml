@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="267">
+	<!-- Test is for 'cutting' weapons. Should we include scimitars? -->
+	<if weapon="*sword*|*axe*|*katana*|*scimitar*" using="t">
+		If you are fighting with a sword, axe, katana or scimitar, <goto section="313"/>.
+	</if>
+	Otherwise <goto section="152"/>.
+</section>

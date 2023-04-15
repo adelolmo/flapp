@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="441">
+	<p>
+		Earlier in the day you had to order a lashing for one of the crew because of insubordination. Having escaped from the brig, the wretch comes stealing in on you in the night. If not for a creaky floorboard he would have cut your throat while you slept. As it is, he gets first blow <i>and</i> you must fight him without the benefit of weapon or armour.
+		<transfer weapon="*" to="3.441.temp" hidden="t"/>
+		<transfer armour="*" to="3.441.temp" hidden="t"/>
+	</p>
+	<fight name="Resentful Sailor" combat="5" defence="6" stamina="3" playerFirst="f"/>
+	<p>
+		<transfer item="*" from="3.441.temp" hidden="t"/>
+		If you manage to overcome him, <goto section="262"/>.
+	</p>
+</section>

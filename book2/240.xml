@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="240">
+	You are travelling on the stretch of road between Conflass and
+	the remote Monastery of Molhern.
+	<choices>
+		<choice section="94">Go west to the monastery</choice>
+		<choice section="168">Go east to Conflass</choice>
+		<choice section="123">Leave the road and travel north</choice>
+		<choice section="306">Strike off to the south</choice>
+	</choices>
+</section>

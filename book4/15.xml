@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="15">
+	Ice and snow cover the northern steppes, which stretch away to the south and west as far as the eye can see. To the north, the snow-covered peaks mark the edge of the known world. You can see a sheer cliff-face, with something indistinct at its base.
+	<choices>
+		<choice section="706">Investigate the cliff</choice>
+		<choice section="398">East</choice>
+		<choice section="535">West</choice>
+		<choice section="442">South</choice>
+	</choices>
+</section>

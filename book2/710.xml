@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="710" boxes="1">
+	<if ticks="0">
+		If the box here is not ticked,
+		<tick>put a tick in it now</tick> and then
+		<goto section="758"/>.
+	</if>
+	If it is ticked already, <goto section="734"/>.
+</section>

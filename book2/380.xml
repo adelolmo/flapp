@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="380">
+	You strike out from the path, forcing your way through the
+	entangling undergrowth. Ferns sway off to one side, revealing a
+	set of sparkling eyes in the gloom. Strange mutterings come
+	from up in the branches. The eerie reputation of this forest is
+	well deserved. <random type="travel"/>:
+	<outcomes>
+		<outcome range="2-5" section="248">Elfin pranks</outcome>
+		<outcome range="6-7" section="93">The denizens leave you alone</outcome>
+		<outcome range="8-9" section="47">A voice calls out to you</outcome>
+		<outcome range="10-12" section="70">Attacked by a wereboar</outcome>
+	</outcomes>
+</section>

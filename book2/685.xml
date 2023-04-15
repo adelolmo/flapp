@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="685">
+	<p>
+		Without warning, you lunge at the baroness&#8217;s throat. Her nearest sentries dash forward to grab you, but they may already be too late.
+		<difficulty ability="combat" level="16">
+			Make a COMBAT roll at a Difficulty of 16
+		</difficulty>.
+		<success>
+			If successful, you managed to snap Vanna&#8217;s neck before the sentries could stop you.
+		</success>
+		<failure>
+			A failed COMBAT roll means they drag you off before you can complete the deed.
+		</failure>
+	</p>
+	<p>
+		Either way, your life is forfeit. Sir Debrumas draws his knife and plunges it into your heart. Your head will adorn the spiked gateway outside the castle as a warning to all assassins, and Estragon the wizard will see to it that you are never restored to life.
+	</p>
+</section>

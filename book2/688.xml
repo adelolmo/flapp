@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="688">
+	<p>
+		A group of Mannekyn People flit down from the crags to speak with you. They look like monkeys with mauve velvety fur and bat-like wings. They ask if you know one of their species by the name of Tekshin. &#8216;He left us to make a living in the lands of men, after losing his wings to Pogreta the witch in a foolish gambling game.&#8217;
+	</p>
+	<p>
+		<tick codeword="Bullseye">
+			Get the codeword Bullseye
+		</tick>
+		and <goto section="640"/>.
+	</p>
+</section>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="664">
+	Fresh roasted sea-fowl makes a welcome supplement to your
+	customary diet of gruel, ship&#8217;s biscuit and weevils.
+	<rest stamina="1d">Recover 1-6 Stamina points</rest> if injured
+	(the score of one die) and then <goto section="283"/>.
+</section>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="620">
+	Some local militiamen approach you with ill intent, presumably with a view to extorting a few Shards. They recognize you as a favourite of General Marlock, however, and leave you well alone, bowing and scraping to avoid your anger. Nothing else occurs this night. <goto section="100"/>.
+</section>

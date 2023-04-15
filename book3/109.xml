@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="109">
+	<p>
+		An unexplained waterspout erupts from the surface of the sea, carrying your vessel high up into the sky. The sailors cringe in dismay and cling to the rigging for safety.
+	</p>
+	<p>
+		&#8216;Gods above!&#8217; cries the cook as he sees the clouds go past. &#8216;We&#8217;re airborne!&#8217;
+	</p>
+	<p>
+		The mate clutches his throat. &#8216;It&#8217;s getting hard to breathe...&#8217; he says before slumping to the deck.
+	</p>
+	<p>
+		<if codeword="Calcium">
+			If you have the codeword Calcium you are not affected:
+			<goto section="127"/>.
+		</if>
+		Otherwise <goto section="123"/>.
+	</p>
+</section>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="653">
+	<p>
+		You have incurred the displeasure of Tambu, for it is his decree that only the dead shall pass through the arch.
+		<lose title="Blessed of Tambu">
+			Erase the title Blessed of Tambu
+		</lose>
+		from the Titles box.
+	</p>
+	<p>
+		You descend stairs of shining black marble that lead down to a platform below.
+	</p>
+	<p>
+		Behind you, the stairs retract into the sheer surface of the Peaks at the Edge of the World as you descend, cutting off your route back.
+	</p>
+	<p><goto section="195"/>.</p>
+</section>

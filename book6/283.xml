@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="283">
+	You stumble while climbing, twisting your ankle painfully.
+	<lose stamina="1">Lose 1 Stamina point</lose>,
+	then (if still alive) <goto section="245"/>.
+</section>

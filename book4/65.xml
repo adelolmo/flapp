@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="65">
+	<p>
+		Another day dawns on the freezing steppes.
+		<if item="wolf pelt|fur cloak">
+			If you have a <b>wolf pelt</b> or <b>fur cloak</b>,
+			the fur helps to keep you warm.
+		</if>
+		<else>
+			If you do not, <lose stamina="1">lose 1 Stamina</lose>
+			from the cold.
+		</else>
+	</p>
+	<p>According to your map, you are somewhere south of the Ruby Citadel.</p>
+	<choices>
+		<choice section="535">North</choice>
+		<choice section="383">West</choice>
+		<choice section="44">South</choice>
+		<choice section="442">East</choice>
+	</choices>
+</section>

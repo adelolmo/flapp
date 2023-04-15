@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="8">
+	The main streets of the outer town are channels of churned-up
+	mud and dung. It is best to keep to the boardwalks on either
+	side.
+	<choices>
+		<choice section="313">Visit the market</choice>
+		<choice section="613">Seek admittance to the inner keep</choice>
+		<choice section="607">Find a temple</choice>
+		<choice section="628">Look for a tavern</choice>
+		<choice section="634">Leave the city</choice>
+	</choices>
+</section>

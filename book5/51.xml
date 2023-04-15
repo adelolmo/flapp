@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="51">
+	<p>
+		You heave aside the heavy stone block that serves as the door, and step into a dark and shadowy antechamber. Ahead, a thin tunnel descends into the black depths of the unknown. Carefully, you edge your way forward. Suddenly, a ghostly apparition hurtles toward you out of the blackness, a glowing mask of ravening hatred, screaming like a banshee.
+	</p>
+	<p>
+		<if god="Ebron">If you have Ebron written in your God box, <goto section="332"/>.</if> If not, <goto section="489"/>
+	</p>
+</section>

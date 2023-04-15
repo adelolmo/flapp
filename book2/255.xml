@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="255" dock="Ringhorn" image="255.jpg">
+	<p>
+		At the harbour of Ringhorn you can buy a ship - or put to sea, if you already have a ship docked at this location.
+	</p>
+	<p>
+		While you are here it is also possible to visit the warehouses lining the waterfront, where goods from afar are bought and sold in quantity.
+	</p>
+	<choices>
+		<choice section="192">Buy a ship</choice>
+		<choice section="284">Sell a ship</choice>
+		<choice section="141" sail="t">Go aboard your ship</choice>
+		<choice section="330">Hire crew for your ship</choice>
+		<choice section="169">Pay for passage on a ship</choice>
+		<choice section="146">Visit the warehouses</choice>
+		<choice section="2">Return to the city centre</choice>
+	</choices>
+</section>

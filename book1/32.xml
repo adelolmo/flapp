@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="32">
+	You head across the hot, dusty and sparsely vegetated land. Vultures circle overhead - presumably they think you&#8217;re going to die. You wander on, until you come to a ridge. Down below, in a shallow valley, is a great mound of earth. Scorpion men crawl in and out of the many burrows that riddle the earth. The number of scorpion men in the valley makes your heart quail; unless you have the codeword <i>Artefact</i>, the place is too deadly to enter.
+	<if codeword="Artefact">
+		If you have the codeword Artefact, <goto section="406"/>.
+	</if>
+	Otherwise, <goto section="492"/>.
+</section>

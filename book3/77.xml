@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="77">
+	The crewmen seem nervous. The Kingdom of the Reavers is
+	not many leagues to the south-west, and as a consequence
+	pirates abound in these waters. <random type="travel"/>.
+	<outcomes>
+		<outcome range="2-6" section="268">Pirates as feared</outcome>
+		<outcome range="7-8" section="322">Luck is with you</outcome>
+		<outcome range="9-12" section="437">Something worse</outcome>
+	</outcomes>
+</section>

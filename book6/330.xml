@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="330">
+	The stream emerges from a cleft in the rocks ahead, forming a
+	little waterfall that catches the green light like handfuls of
+	scattered emeralds. Not far off stands a hollow oak whose
+	twisted boughs are so swollen and heavy that they barely clear
+	the ground.
+	<choices>
+		<choice section="509">Go towards the oak</choice>
+		<choice section="412">Climb the ridge above the waterfall</choice>
+	</choices>
+</section>

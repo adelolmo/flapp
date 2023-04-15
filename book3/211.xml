@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="211">
+	<p>
+		<tick codeword="3.211.flee" hidden="t"/>
+		The serpent raises its heavy head and gives vent to a sibilant snarl. Acid drips from its fangs as it snaps at you.
+	</p>
+	<fight name="Serpent" combat="7" defence="8" stamina="10"/>
+	<p>
+		<lose codeword="3.211.flee" hidden="t"/>
+		Lying in the shade has left it quite torpid, so you could easily run off rather than fight it.
+	</p>
+	<choices>
+		<choice box="3.211.flee" section="125">Run back to the ship</choice>
+		<choice section="12">Kill the creature</choice>
+	</choices>
+</section>

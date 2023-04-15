@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="716">
+	<p>
+		You push up, dislodging the iron cover which falls aside with a clang. Emerging, you find yourself on a mist-swaddled street where high-towered edifices loom on all sides like phantom titans.
+	</p>
+	<p>
+		At the end of the alley you come across a man in a thick fur cape who is locking up his shop for the night. When you say you are lost, he points along the street to where a large latticed window gleams with mist-blurred lamplight. &#8216;This is Dweomer. Yonder is the west window of Maudlin College.&#8217;
+	</p>
+	<p><goto section="508"/>.</p>
+</section>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="397">
+	You are travelling through the rice paddies of Midwest
+	Akatsurai. North of here lies the immense Kwaidan Forest.
+	<choices>
+		<choice section="707">Head west over the Chu River</choice>
+		<choice section="337">Go further east</choice>
+		<choice section="522">Make for Sakkaku</choice>
+		<choice section="500">Journey south</choice>
+		<choice section="398">Venture into the forest</choice>
+	</choices>
+</section>

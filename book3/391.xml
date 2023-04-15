@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="391">
+	Sailors believe that at times like this it is possible to whistle up a
+	wind.
+	<difficulty ability="magic" level="14">
+		Make a MAGIC roll at a Difficulty of 14<adjust god="Alvir and Valmir" amount="2"/>
+	</difficulty>
+	(Difficulty 12 if you are an initiate of Alvir and Valmir) to see if you have the knack.
+	<outcomes>
+		<success section="155"/>
+		<failure section="624"/>
+	</outcomes>
+</section>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="296">
+	<p>
+		&#8216;How can I offer blessing and the like?&#8217; laments the priest, a stooped little man with a bald pate and, appropriately enough, a hooked beak of a nose.
+	</p>
+	<p>&#8216;What&#8217;s the problem?&#8217;</p>
+	<p>
+		&#8216;The idol of the god was stolen by unscrupulous people of the Macaw Tribe. Until it is returned, there is no divine power here.&#8217;
+	</p>
+	<p>
+		<if item="winged idol">
+			If you have a <b>winged idol</b>, <goto section="316"/>.
+		</if>
+		If not, <goto section="44"/>.
+	</p>
+</section>

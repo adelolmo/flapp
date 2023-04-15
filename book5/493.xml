@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="493" boxes="1" image="493.jpg">
+	<p>
+		<if ticks="1">If there is a tick in the box, <goto section="266"/> immediately.</if>
+		If not, <tick>put a tick there now</tick>, and read on.
+	</p>
+	<p>
+		You step into a chamber called the Hall of Blandishments. The Conjuror of Amusements is standing in the middle of the hall practising some kind of magical light show - blasts of fiery energy and coruscating wheels of blue fire dance and spin around his hands. Yellow and green balls of sorcerous flame describe intricate patterns through the air around his head.
+	</p>
+	<p>
+		He ceases his magical mummery when you enter. It seems the conjuror, an accomplished prestidigitator, requires your services in the re-enactment of an epic of old Uttaku, to be performed before the court. The story involves the victory of an ancient Uttakin hero called the Grand High Inquisitor over the bogeyman of Uttakin history, the Disseminator of Heresies. You are to play the role of the Disseminator of Heresies; he is to play the Grand High Inquisitor. The problem is that the inquisitor defeated his foe by engulfing him in a blast of sorcerous flame and the conjuror wants to recreate the event with accuracy. He needs someone who is magically skilled enough to resist the blast of energy he will use.
+	</p>
+	<choices>
+		<choice section="175">Agree to play the part</choice>
+		<choice section="504">Decline the invitation</choice>
+	</choices>
+</section>

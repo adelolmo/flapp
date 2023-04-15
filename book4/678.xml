@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="678">
+	<p>
+		The rukh is defeated at last. Inside the nest, you see the remains of a previous victim. In a satchel, you find a
+		<tool name="silver flute" ability="charisma" bonus="2"/>, and
+		<tick shards="100"/>.
+		There are also several rukh eggs, but they are too large to carry.
+	</p>
+	<p>
+		You now have the problem of getting back to earth from this remote peak.
+		<if item="rope">
+			If you have some <b>rope</b>, <goto section="620"/>.
+		</if>
+		If not, you realize you are trapped, for the nest is set at the top of a pinnacle of rock. You will starve to death here - <goto section="7"/>.
+	</p>
+</section>

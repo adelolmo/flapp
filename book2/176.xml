@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="176">
+	You reach a road running from east to west. A passing pedlar
+	tells you that it is the road to Conflass.
+	<choices>
+		<choice section="214">Follow the road</choice>
+		<choice section="123">Go north</choice>
+		<choice section="306">Go south</choice>
+	</choices>
+</section>

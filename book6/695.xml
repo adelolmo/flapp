@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="695" dock="Mukogawa">
+	&#8216;I&#8217;m for setting sail without delay, captain,&#8217; advises the mate. &#8216;If
+	we stay here too long I reckon those Moonrise Clan officials will
+	take our vessel for their navy.&#8217;
+	<choices>
+		<choice section="745" sail="t">Give the order to sail</choice>
+		<choice section="281">Go ashore</choice>
+	</choices>
+</section>

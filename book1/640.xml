@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="640">
+	<p>
+		You are restored to life at the war god&#8217;s temple in Caran Baru. Your Stamina is back to its normal score. The possessions and cash you were carrying at the time of your death are lost. <lose item="*" shards="*">Cross them off</lose> your Adventure Sheet. Also remember to delete the entry in the Resurrection box now it has been used.
+	</p>
+	<p>
+		The high priest, sweating from the effort of the ceremony of resurrection, says, &#8216;Tyrnai has brought you back - honour him by the upholding the code of the warrior and by sending many the souls of those slain in the battle to him.&#8217;
+	</p>
+	<p><goto section="282"/>.</p>
+</section>

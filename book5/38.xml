@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="38">
+	<p>
+		You receive a crippling wound during a bout.
+		<lose ability="combat" amount="1">
+			Lose 1 from your COMBAT rating
+		</lose> permanently.
+	</p>
+	<p>
+		Your gladiator days are over, and the Superintendent of Gladiators hands you back to the Master of Minions. He finds you another job.
+		<random dice="1"/>.
+	</p>
+	<outcomes>
+		<outcome range="1" section="32"/>
+		<outcome range="2" section="197"/>
+		<outcome range="3" section="462"/>
+		<outcome range="4" section="668"/>
+		<outcome range="5,6"><reroll>Roll again</reroll></outcome>
+	</outcomes>
+</section>

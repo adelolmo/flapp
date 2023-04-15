@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="187">
+	<p>
+		You join the younger knights for a spot of combat practice. These are friendly bouts, but the occasional injury is unavoidable. <lose stamina="1D">Roll one die</lose>; this is the number of Stamina points you lose.
+	</p>
+	<p>
+		Assuming you survive, you can now try to increase your COMBAT score. <training ability="combat" dice="1">Roll one die</training> and if you score higher than your COMBAT, add 1 to it.
+	</p>
+	<p>When you are done, <goto section="112"/>.</p>
+</section>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="28" tag="temple">
+	Here you can rest and recuperate if injured, join in the
+	devotional rituals, or simply travel on to your next destination.
+	<choices>
+		<choice section="739">Recuperate from wounds</choice>
+		<choice section="763">Study at the monastery</choice>
+		<choice section="780">Pray to Molhern</choice>
+		<choice section="126">Talk to the abbot</choice>
+		<choice section="74">Travel on from here</choice>
+	</choices>
+</section>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="37">
+	You summon a wall of water 20 feet high and send it gushing toward your opponent. The druidess unleashes a bristling hedge of thorns and brambles, dense and thick, that rushes headlong to meet your wall of water. To your horror, the thorns break the water into rivulets and streams that dissipate over the floor of the arena and then grind on toward you. You only have the barest moment to dive aside. <lose stamina="2d">Roll two dice</lose>, and lose that many Stamina points, as the thorns rip you in passing.
+	<choices>
+		<choice section="7" dead="t">Down to zero Stamina</choice>
+		<choice section="81">Still alive</choice>
+	</choices>
+</section>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="184">
+	<p>
+		The Blue Griffon Tavern is frequented by soldiers and mercenaries. The tavern costs you 1 Shard a day. <rest shards="1" stamina="1">Each day you spend here</rest>, you can recover 1 Stamina point if injured, up to the limit of your normal unwounded Stamina score.
+	</p>
+	<p>
+		<if codeword="Axe" item="black dragon shield">
+			If you have the codeword Axe or if you have a <b>black dragon shield</b>, and want to find Yanryt the Son, <goto section="451" force="f"/>.
+		</if>
+	</p>
+	<p>
+		<if shards="3">
+			If not, but you want to spend a further 3 Shards buying drinks all round at the bar, and listen for rumours,
+			<group>
+				<text>turn to <b>341</b></text>
+				<lose shards="3"/>
+				<goto section="341"/>
+			</group>.
+		</if>
+		Or you can return to the town centre - <goto section="400"/>.
+	</p>
+</section>

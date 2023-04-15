@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="589">
+	From here you can journey:
+	<choices>
+		<choice section="100">North to Kunrir</choice>
+		<choice section="444">South-east to Aku</choice>
+		<choice section="621">North-east into the southern Grumes</choice>
+	</choices>
+</section>

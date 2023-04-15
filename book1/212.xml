@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="212">
+	You are dissolved in the acid, until all that is left of you is a pile of yellow dust. Vayss scoops you up and puts you into a bottle on his shelf.
+	<lose item="*" shards="*">
+		Cross off <i>all</i> the possessions and money
+	</lose> you were carrying, and <goto section="31"/>.
+</section>

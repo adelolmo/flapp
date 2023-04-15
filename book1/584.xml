@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="584">
+	<p>
+		&#8216;How can I come out to you? I would drown in the sea - is that what you plan?&#8217; you ask angrily.
+	</p>
+	<p>
+		&#8216;Don&#8217;t you know?&#8217; sighs one of them. &#8216;The kiss of the merfolk gives the power to breathe the waters to one of your kind for a short time!&#8217;
+	</p>
+	<p>The others laugh mischieveously.</p>
+	<choices>
+		<choice section="254">Be kissed by the merfolk</choice>
+		<choice section="35">Return to the clifftop tor</choice>
+	</choices>
+</section>

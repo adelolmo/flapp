@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="616">
+	<lose codeword="Buzz">
+		Lose the codeword Buzz
+	</lose>. You are determined to finish your map.
+	<difficulty ability="scouting" level="15">
+		Make a SCOUTING roll at a Difficulty of 15
+	</difficulty>.
+	<outcomes>
+		<success section="736"/>
+		<failure section="712"/>
+	</outcomes>
+</section>

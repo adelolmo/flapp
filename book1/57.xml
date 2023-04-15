@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="57">
+	<tick codeword="StillInYellowport" hidden="t"/>
+	You manage to lose them amid the backstreets of Yellowport. Once the heat is off, you return to the city centre. <goto section="10"/>.
+</section>

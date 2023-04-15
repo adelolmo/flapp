@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="539">
+	<p>
+		You roll across the eaves of the gate and reach down to pull the plug on the other golem in one deft movement. It ceases to function before it can give the alarm. It is an easy matter to get into the temple from the roof.
+	</p>
+	<p>
+		Inside, it is cool and dark, filled with an unearthly stillness. You reach forward to strip the armour off the idol of Tyrnai.
+	</p>
+	<p><difficulty ability="thievery" level="12"/>.</p>
+	<outcomes>
+		<success section="509"/>
+		<failure section="228"/>
+	</outcomes>
+</section>

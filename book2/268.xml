@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="268">
+	You are on the headland that stretches out to Knucklebones
+	Point.
+	<choices>
+		<choice section="291">Go south to the coast</choice>
+		<choice section="48">Go west to Metriciens</choice>
+		<choice section="217">Go east to Wishport</choice>
+		<choice section="150">Go north to Haggart&#8217;s Corner</choice>
+	</choices>
+</section>

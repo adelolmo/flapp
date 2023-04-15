@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="644">
+	<p>
+		You tell Orin Telana about the tunnels you have mapped that lead through the Spine of Harkun, thus outflanking the Pass of Eagles. He is amazed at the news. He decides to send troops through the tunnels, to ambush Beladai&#8217;s army in the flank.
+	</p>
+	<p>
+		&#8216;As soon as we hear that you have killed Beladai, we will attack. Not only will we catch them by surprise, and leaderless, but our assault will give you a chance to escape.&#8217;
+	</p>
+	<p>
+		<lose codeword="Deep">Erase the codeword Deep</lose> and
+		<tick codeword="Dim">gain the codeword Dim</tick> instead.
+		Now <goto section="152"/>.
+	</p>
+</section>

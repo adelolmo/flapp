@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="8" image="8.jpg">
+	<p>
+		The sun is setting by the time you retrace the priest&#8217;s tracks to a dank cave. A figure in grey robes waits for you. The jewelled rings on his long fingers only serve to make his flesh look still more like ivory.
+	</p>
+	<p>
+		&#8216;I welcome all who land upon my shore,&#8217; he says in an eerie drone. &#8216;It matters not to me what port&#8217;s your home, since now you&#8217;ll dwell here too for evermore, and feed my veins with blood I&#8217;ll call my own.&#8217;
+	</p>
+	<p>
+		Panic and anger send one of the crew mad. He charges up the cave brandishing his knife. He is only a little fat fellow, and you never thought to hear him utter such screams of hatred. The vampire disembowels him at one stroke, laying him open from gorge to groin. Yellow fat spills out with blood and bile and half-digested breakfast. The vampire laps it all up.
+	</p>
+	<p>
+		<difficulty ability="magic" level="14">
+			Make a MAGIC roll at a Difficulty of 14
+		</difficulty>.
+	</p>
+	<outcomes>
+		<success section="28"/>
+		<failure section="46"/>
+	</outcomes>
+</section>

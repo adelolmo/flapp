@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="229">
+	<p>
+		The guide&#8217;s name is Akoboshi. Cross off his fee of
+		<lose shards="10"/> if you haven&#8217;t already done so.
+		When you ask him what game there is hereabouts, he replies: &#8216;Well, there are foxes, badgers and wild boar, but it&#8217;s risky to bother creatures like those. They often live to a ripe old age, you see, and learn many magical tricks. It&#8217;s safer if we just hunt deer.&#8217;
+	</p>
+	<p>
+		At the end of a long day you return to the lodge weary and footsore. <lose stamina="1">Lose 1 Stamina point</lose>. You never got a glimpse of a deer, but Akoboshi has given you a few hunter&#8217;s tips. <training ability="scouting" dice="1"/>, and if you get more than your SCOUTING score you can increase it by 1.
+	</p>
+	<p><goto section="610"/>.</p>
+</section>

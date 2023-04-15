@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="273">
+	<p>
+		You wake up. Something is amiss, It takes you a while to realize that you are no longer at sea. In fact, you are not even aboard a ship. Instead you are lying in a bed in one of the rooms at Chard&#8217;s Inn.
+	</p>
+	<p>
+		How did you get here? It is a complete mystery. When you ask someone the date, you discover that six months are missing out of your life!
+		<lose ship="t">Cross off your ship and crew</lose> - they are lost. Also
+		<group force="t">
+			<text>lose the first 1-6 possessions</text>
+			<random dice="1" var="x"/>
+			<lose item="?" multiple="x"/>
+		</group>
+		written on your Adventure Sheet.
+		<lose shards="*">Your money is gone</lose> too.
+		However, you have an
+		<gain ability="scouting" amount="1">additional point on your SCOUTING score</gain>
+		that you picked up from somewhere,
+		and if you were injured then
+		<rest>your Stamina is now back</rest>
+		to its normal score.
+	</p>
+	<p>
+		<tick codeword="Clutch">Get the codeword Clutch</tick> and
+		<goto book="2" section="120">turn to 120</goto> in
+		<i>Cities of Gold and Glory</i>.
+	</p>
+</section>

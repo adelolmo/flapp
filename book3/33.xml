@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="33">
+	<p>
+		The crew falls ill.
+		<if blessing="disease">
+			If you have a blessing of Immunity to Disease/Poison,
+			<lose blessing="disease">cross it off</lose> and
+			<goto section="116"/>.
+		</if>
+	</p>
+	<p>
+		Otherwise, the ship drifts untended until you are well enough to handle it - by which time you are in unknown waters.
+	</p>
+	<p><random var="x"/>.</p>
+	<outcomes>
+		<outcome var="x" range="2-4" section="58"/>
+		<outcome var="x" range="5-6" section="170"/>
+		<outcome var="x" range="7" book="9" section="84"/>
+		<outcome var="x" range="8-9" section="370"/>
+		<outcome var="x" range="10-12" section="40"/>
+	</outcomes>
+	<if var="x" equals="7"><if not="t" book="9">
+			If you roll a 7 and are missing book 9, <reroll>roll again</reroll>.
+	</if></if>
+</section>

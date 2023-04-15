@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="772">
+	<p>
+		&#8216;Turn back,&#8217; warns a voice from nowhere. &#8216;It isn&#8217;t safe to stray down this path.&#8217;
+	</p>
+	<p>
+		You look around, but can see no one. Perhaps the voice was only a trick of your overwrought imagination?
+	</p>
+	<choices>
+		<choice section="22">Turn back</choice>
+		<choice section="382">Continue along the path</choice>
+	</choices>
+</section>

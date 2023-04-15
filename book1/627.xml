@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="627">
+	<tick codeword="StillInYellowport" hidden="t"/>
+	A bard in the tavern recites an epic tale of ancient legend. He
+speaks of Xinoc the Priest King, the ruler of a mighty nation in
+the distant steppes, far to the north. A thousand years ago his
+empire flourished, and his wealth was enormous. He was buried
+in a great pyramid tomb, along with his riches. It is said the
+Pyramid of Xinoc lies beyond the Spine of Harkun, and beyond
+the Great Steppes, in the foothills of the Peaks at the Edge of the
+World. You question him further, but that is all he knows. You
+leave the tavern. <goto section="10"/>.
+</section>

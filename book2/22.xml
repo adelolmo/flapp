@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="22">
+	You make your way along the woodland trail. At the point
+	where three paths converge, an iron gibbet hangs between two
+	oaks.
+	<choices>
+		<choice section="45">Go south (towards the edge of the woods)</choice>
+		<choice section="367">Go west</choice>
+		<choice section="117">Go east</choice>
+		<choice section="380">Leave the path</choice>
+	</choices>
+</section>

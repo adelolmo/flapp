@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="641">
+	<p>
+		Night falls, the moon comes up, and the sky looks like ink against the polished slate of the sea.
+	</p>
+	<p><random type="travel"/>.</p>
+	<outcomes>
+		<outcome range="2-9" section="662">An untroubled journey</outcome>
+		<outcome range="10-12" section="145">Attacked by pirates</outcome>
+	</outcomes>
+</section>

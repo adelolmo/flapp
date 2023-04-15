@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="14">
+	<p>
+		The bosun points out a bay fringed with white sand and palm trees. Above, on a wooded hillside overlooking the sea, there is a country inn amid a blaze of irises.
+	</p>
+	<p>&#8216;Let&#8217;s stop over for a few days, skipper!&#8217; the crew urge you.</p>
+	<choices>
+		<choice section="556">Put into the bay</choice>
+		<choice section="524">Sail on</choice>
+	</choices>
+</section>

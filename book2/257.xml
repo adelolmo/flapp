@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="257" tag="temple">
+	The temple of Nagil here in Wheatfields is decorated with wall
+	carvings showing sheafs of fresh corn. &#8216;Most think of Nagil as
+	the death god,&#8217; explains a priest, &#8216;but of course he is more than
+	that. In nature, where can there be rebirth and growth without
+	death?&#8217;
+	<choices>
+		<choice section="362">Become an initiate of Nagil</choice>
+		<choice section="18">Renounce his worship</choice>
+		<choice section="41">Make resurrection arrangements</choice>
+		<choice section="71">Leave the temple</choice>
+	</choices>
+</section>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="110">
+	You are walking through Bronze Hills. Virtually the whole area has been given over to mining. Everywhere, quarries and mineshafts abound. It is a horrible expanse of torn-up earth - hardly any areas of green are left. Great heaps of excavated rock, leeched of their useful minerals, mar the landscape. You find a quarry that is open to the public. That is to say, if you pay 50 Shards, you can dig for an hour in a silver mine.
+	<choices>
+		<choice section="668" shards="50">Pay 50 Shards and mine for silver</choice>
+		<choice section="400">Go to Caran Baru</choice>
+		<choice section="47">South into the Forest of Larun</choice>
+		<choice section="333">West to the River Grimm</choice>
+		<choice section="276">North west to the Western Wilderness</choice>
+	</choices>
+</section>

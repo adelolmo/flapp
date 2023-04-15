@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="149">
+	<p><if codeword="Exorcise">If you have the codeword Exorcise, <goto section="633"/> immediately.</if> If not, read on.</p>
+	<p>
+		You begin to sense that something is watching you. You can't see anything when you stop and look but you can feel a presence. It grows even stronger, as if someone or something were walking right behind you, almost touching but not quite. You walk a little faster.
+	</p>
+	<p><difficulty ability="magic" level="11"/>.</p>
+	<outcomes>
+		<success section="331"/>
+		<failure section="397"/>
+	</outcomes>
+</section>

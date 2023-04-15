@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="319" image="319.jpg">
+	<p>The scholar comes back, and you are forced to return his map.</p>
+	<p><tick name="EpistleWeeks" count="2">Add 2 to the running total of weeks</tick> spent on your book.
+	</p>
+	<p>
+		One day, you are taking a well-earned break in the Garden of Exotic Fragrances when a strange, glowing ball of energy appears in the air. It opens out into an inter-dimensional doorway between the many planes of existence. Out of it step three figures: a bald man with mad, staring eyes, wearing a suit of steel armour and a belt hung with many magical items; a hawk-nosed wizard in red robes, with a pet demon; and a huge, hulking warrior holding a sword that burns with crimson fire.
+	</p>
+	<p>'This isn't right,' says the wizard looking around. The bald man raises his eyes to the heavens and mutters something unintelligible. The warrior just grunts and starts talking to his sword. They turn around, step back through the magic portal and disappear. But the portal remains hanging in the air. Looking through, you can see a dark chamber on the other side, heaped with chests of coins and gems, suits of armour, swords and all manner of magical weapons.
+	</p>
+	<choices>
+		<choice section="205">Take a chance and leap through</choice>
+		<choice section="249">Return to the archive and write</choice>
+	</choices>
+</section>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="470">
+	You go out the next day, and the next. Sometimes you find a
+	tiny bit of gold, More often you come back to town emptyhanded,
+	and each day you swear that unless you strike it rich on
+	the morrow you are going to give up looking. But it is too late
+	-you have gold fever. You spend all your money on gadgets
+	that are supposed to help with prospecting: copper sieves,
+	dowsing rods, gold-sensitive ferrets and so on. After six weeks
+	you have nothing to show for it.
+	<lose shards="*">You are flat broke</lose>, and the
+	gadgets you bought are worse than useless. Sourly, you pack up
+	and leave town, vowing never to return. <goto section="104"/>.
+</section>

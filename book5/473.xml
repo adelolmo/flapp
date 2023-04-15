@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="473">
+	<p>
+		You enter the Grand Hall of the Lord of All. The Faceless King welcomes you to the court. He has no more missions for you, so you step aside to mingle with the other courtiers. There isn't much to do, save get involved in the petty intrigues of the Court of Hidden Faces. Eventually you get bored, and leave to find some real adventure.
+	</p>
+	<p><goto section="224"/>.</p>
+</section>

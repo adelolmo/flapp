@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="439">
+	Your ship is sailing in the coastal waters beside Yellowport.
+	<lose codeword="StillInYellowport" hidden="t"/>
+	<choices>
+		<choice section="555">Sail into Yellowport Harbour</choice>
+		<choice section="430">Sail north east towards Scorpion Bight</choice>
+		<choice section="120">Sail south west along the coast</choice>
+		<choice section="366">Sail south into the Violet Ocean</choice>
+	</choices>
+</section>

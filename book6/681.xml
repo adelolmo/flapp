@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="681">
+	<p>
+		Akugenda&#8217;s spell carries both of you aloft. Kiyomori sends for his archers, but by the time they get up to the cliff top you are out of range. The breeze bears you steadily southwards.
+	</p>
+	<p>
+		&#8216;I expect you&#8217;re wondering why the chancellor was going to have me executed,&#8217; says Akugenda.
+	</p>
+	<p>&#8216;Actually I&#8217;m wondered how we&#8217;re going to get down.&#8217;</p>
+	<p>&#8216;Oh, I&#8217;ll drop you off right here,&#8217; he says laughing.</p>
+	<p>
+		A kick sends you plummeting down into the sea. You swim ashore in time to see Akugenda drifting off into the sunset. You doubt if you&#8217;ve seen the last of him.
+		<tick codeword="Fern">Get the codeword Fern</tick>
+		and <goto section="733"/>.
+	</p>
+</section>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="44" image="44.jpg">
+	<p>
+		Smogmaw is a ramshackle town populated by a human stew of traders, thieves, adventurers, pirates, and fierce natives from upriver. All are drawn here by one common motive - greed. They hope that by trade or crime they will become rich at the expense of others.
+	</p>
+	<p>
+		<if not="t" codeword="3.44.1"><if shards="20">
+			You can buy a shack here for 20 Shards.
+			If you do,
+			<group>
+				<text>cross off the money and put a tick in the box</text>
+				<lose shards="20"/>
+				<tick codeword="3.44.1"/>
+			</group>
+			next to the shack option.
+		</if></if>
+	</p>
+	<choices>
+		<choice section="86">Visit the market</choice>
+		<choice section="54">Buy or sell cargo</choice>
+		<choice section="71">Go to the quayside</choice>
+		<choice section="314">Enter a tavern</choice>
+		<choice section="74" box="3.44.1">Return to your shack {box} (if box ticked)</choice>
+		<choice section="258">Explore the town</choice>
+		<choice section="128">Look for a temple</choice>
+		<choice section="134">Leave Smogmaw</choice>
+	</choices>
+</section>

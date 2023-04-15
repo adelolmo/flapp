@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="25" image="25.jpg">
+	The white turrets of Castle Ravayne rise above the treetops.
+	From the topmost tower flutters the black lion banner of the
+	Ravayne clan. This is the stronghold of Vanna, Baroness of
+	Ravayne.
+	<choices>
+		<choice section="95">Enter the castle</choice>
+		<choice section="118">Travel on further</choice>
+	</choices>
+</section>

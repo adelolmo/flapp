@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="530">
+	Sir Debrumas visits you in your cell. Pressing a perfumed scarf to
+	his face to cover the overpowering stench, he says: &#8216;The
+	Baroness designs to grant you freedom if you will pay a ransom
+	of 300 Shards.&#8217;
+	<lose codeword="2.289.r" hidden="t"/>
+	<tick codeword="2.530.r" hidden="t"/>
+	<lose codeword="2.564.r" hidden="t"/>
+	<lose codeword="3.157.r" hidden="t"/>
+	<lose codeword="3.218.r" hidden="t"/>
+	<choices>
+		<choice section="229">Agree to pay 300 Shards</choice>
+		<choice section="555">Refuse</choice>
+	</choices>
+</section>

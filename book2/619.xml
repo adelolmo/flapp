@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="619">
+	The next morning, your 50 Shards has gone but in its place you
+	find a jar of <item name="faery mead"/>.
+	Add this to your list of possessions and
+	<goto section="349"/>.
+</section>

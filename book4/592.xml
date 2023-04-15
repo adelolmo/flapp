@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="592">
+	<p>
+		You remember the request made of you by the spectre of Tayang Khan, one fearful night at sea on the Violet Ocean. You shout to the four winds that Tayang Khan was foully slain at sea.
+	</p>
+	<p>
+		An eerie silence falls for a brief moment, and you fancy to hear faint laughter on the wind.
+	</p>
+	<p>
+		<lose codeword="Cull">Erase the codeword Cull</lose> and <goto section="683"/>.
+	</p>
+</section>

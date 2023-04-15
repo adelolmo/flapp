@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="234">
+	You need <i>Over the Blood-Dark Sea</i> to travel to Dweomer. If you haven't got it,
+	<if codeword="5.Aku.leaving">
+		<goto section="225" force="f">turn back to 225</goto> (if in Aku)
+	</if>
+	or
+	<if codeword="5.Kunrir.leaving">
+		<goto section="145" force="f">145</goto> (if in Kunrir)
+	</if>
+	and choose again.
+	<if book="3"><if shards="30">If you have, <lose shards="30">cross off the 30 Shards</lose> and turn to <goto book="3" section="100"/>.</if></if>
+</section>

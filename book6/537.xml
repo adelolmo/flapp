@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="537">
+	<p>
+		There are sentries at the gate leading to the inner keep. They draw their swords as you approach and regard you with scowls of derision. &#8216;Dog of a merchant, your presence would defile the House of Wistaria.&#8217;
+	</p>
+	<p>You must remain in the outer town. <goto section="8"/>.</p>
+</section>

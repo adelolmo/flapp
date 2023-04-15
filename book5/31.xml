@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="31">
+	<p>You have entered the thick woodland of the Singing Forest, which is vibrant with the sounds of birds and animals.</p>
+	<p><random type="travel">Roll two dice</random>.</p>
+	<outcomes>
+		<outcome range="2-5" section="534">Crashing in the trees</outcome>
+		<outcome range="6-7" section="206">No event</outcome>
+		<outcome range="8-12" section="117">Something is watching you</outcome>
+	</outcomes>
+</section>

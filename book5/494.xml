@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="494">
+	<p>
+		<if god="Maka">
+			<set var="cost" value="10"/>
+			If you are an initiate it costs only 10 Shards to purchase Maka's blessing.
+		</if>
+		<else>
+			<set var="cost" value="20"/>
+			A non-initiate must pay 20 Shards.
+		</else>
+		<lose shards="cost" price="x">Cross off the money</lose>
+		and mark
+		<tick blessing="disease" flag="x">Immunity to Disease/Poison</tick>
+		in the Blessings box on your Adventure Sheet.
+	</p>
+	<p>
+		The blessing works by allowing you to ignore any one occasion when you would normally suffer from disease or poison, for instance, the venomous bite of a snake. When you use the blessing, cross it off your Adventure Sheet. You can have only one Immunity to Disease/Poison blessing at any one time. Once it is used up, you can return to any temple of Maka to buy a new one. <goto section="142"/>.
+	</p>
+</section>

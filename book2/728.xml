@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="728" boxes="1">
+	The distant lilt of strange music echoes eerily through the dusk
+	from beyond a thick copse of trees.
+	<if ticks="0">
+		If the box above is not ticked, <tick>tick it now</tick> and
+		<goto section="704"/>.
+	</if>
+	If it is ticked already, <goto section="486"/>.
+</section>

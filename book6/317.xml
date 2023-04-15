@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="317">
+	Guards in scarlet and grey surcoats stand at the gate ready to bar your path. Check your Titles box.
+	<if title="Junior Court Rank">
+		If you have the tide Junior Court Rank, <goto section="244"/>.
+	</if>
+	<if title="Senior Court Rank">
+		If you have Senior Court Rank, <goto section="539"/>.
+	</if>
+	If you have neither, <goto section="377"/>.
+</section>
+

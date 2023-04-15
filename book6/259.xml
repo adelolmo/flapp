@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="259">
+	The tengu king cannot teach you anything more at this time.
+	He gives orders for his elite guard, the Leaflet Knights, to escort
+	you safely to the edge of his domain. Though reaching the
+	centre of the forest took days, the return journey is completed in
+	the space of seven wingbeats. As you turn to thank your escort,
+	you see only seven big black crows flapping off into the woods.
+	<goto section="420"/>.
+</section>

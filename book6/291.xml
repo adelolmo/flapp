@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="291">
+	<p>
+		The crewmen who came ashore with you are too superstitious to join in the fight. You have to fight the priests alone. Each time you hit one of them, all three will get to strike back at you.
+	</p>
+	<fight name="First Shrine Warden" combat="9" defence="15" stamina="22" group="p"/>
+	<fight name="Second Shrine Warden" combat="9" defence="15" stamina="21" group="p"/>
+	<fight name="Third Shrine Warden" combat="9" defence="15" stamina="20" group="p"/>
+	<p>
+		<flee>
+			If you flee back to your ship and sail off, <goto section="745"/>.
+		</flee>
+		If you defeat the three priests, <goto section="499"/>.
+	</p>
+</section>

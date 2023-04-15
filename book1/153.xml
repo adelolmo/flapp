@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="153">
+	<p>
+		You and your men are forced to surrender. The Sokarans take
+		<lose shards="*" cargo="*">all your money and cargo</lose>, if you have any.
+	</p>
+	<p>
+		&#8216;Count yourself lucky I haven&#8217;t decided to call you rebels and sell the lot of you into slavery!&#8217; says the captain.
+	</p>
+	<p>
+		They depart, leaving you and your crew with the bitter taste of defeat. Disconsolately, you sail on. <goto section="439"/>.
+	</p>
+</section>
