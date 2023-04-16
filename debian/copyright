@@ -1,0 +1,8 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: hse
+Source: https://github.com/adelolmo/heroscribe
+
+Files: *
+Copyright: 2002-2004 Flavio Chierichetti and Valerio Chierichetti <derfel@heroscribe.org>
+Author: Flavio Chierichetti and Valerio Chierichetti <derfel@heroscribe.org>
+License: GPL-2

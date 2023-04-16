@@ -1,0 +1,36 @@
+#!/usr/bin/make -f
+
+export DH_VERBOSE=1
+
+DESTDIR=debian/flands
+TARGETDIR=/usr/share/flands
+JAR=flands.jar
+
+%:
+	dh $@
+
+override_dh_strip_nondeterminism:
+	true
+
+override_dh_clean:
+	dh_clean
+	rm -f flands/*.class flands/resources/*.class book*.zip
+
+override_dh_auto_build:
+	javac flands/*.*
+	jar cfm0 flands.jar MANIFEST.MF flands/*.class flands/resources/*.class flands/resources/*.properties
+	zip -j book1.zip book1/*
+	zip -j book2.zip book2/*
+	zip -j book3.zip book3/*
+	zip -j book4.zip book4/*
+	zip -j book5.zip book5/*
+	zip -j book6.zip book6/*
+	#java Pack.java d all.zip
+	#jar uf all.zip flands/*.java flands/resources/*.java flands/resources/*.properties Pack.java XmlConverter.java PackSource.bat Pack.bat MANIFEST.MF original.user.ini dirbooks.ini zipbooks.ini
+
+override_dh_install:
+	dh_install
+	mv $(DESTDIR)/var/lib/flands/original.user.ini $(DESTDIR)/var/lib/flands/user.ini
+	echo "SaveDir=/var/lib/flands/savegames" >> $(DESTDIR)/var/lib/flands/user.ini
+	mv $(DESTDIR)$(TARGETDIR)/zipbooks.ini $(DESTDIR)$(TARGETDIR)/books.ini
+	mv $(DESTDIR)/usr/bin/flands.sh $(DESTDIR)/usr/bin/flands

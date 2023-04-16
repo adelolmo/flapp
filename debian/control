@@ -1,0 +1,17 @@
+Source: flands
+Section: games
+Priority: optional
+Maintainer: Andoni del olmo <andoni.delolmo@gmail.com>
+Build-Depends: debhelper (>= 9), devscripts, default-jdk-headless
+Standards-Version: 4.3.0
+Homepage: https://github.com/adelolmo/heroscribe
+
+Package: flands
+Architecture: all
+Priority: optional
+Section: java
+Depends: ${misc:Depends}, default-jre-headless, ghostscript
+Description: Easily produce typographic quality HeroQuest© maps
+ Its main output format is EPS, the de-facto standard in the printing industry;
+ EPS files can be opened by almost any CG application (GNU Ghostscript is
+ recommended); maps can also be exported in PNG and PDF formats.

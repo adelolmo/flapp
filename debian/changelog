@@ -1,0 +1,9 @@
+flands (1.0.6) unstable; urgency=medium
+
+  * Add correct copyright to files
+  * Log ghostcript command
+  * Fix bug exporting pdf with ghostscript for non EN locales
+
+ -- Andoni del Olmo <andoni.delolmo@gmail.com>  Wed, 14 Dec 2022 22:03:39 +0100
+
+

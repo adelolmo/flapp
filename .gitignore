@@ -1,5 +1,11 @@
 .svn
 .idea
+*.iml
+
+flands.jar
+all.zip
+book*.zip
+*.class
 
 debian/files
 debian/flands.debhelper.log

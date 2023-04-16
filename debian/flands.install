@@ -1,0 +1,16 @@
+debian/flands.sh      usr/bin/
+debian/flands.desktop usr/share/applications
+icon.jpg              usr/share/pixmaps/flands/
+zipbooks.ini          usr/share/flands/
+flands.jar            usr/share/flands/
+global.jpg            usr/share/flands/
+jafl.ico              usr/share/flands/
+QuickRules.xml        usr/share/flands/
+Rules.xml             usr/share/flands/
+book1.zip             usr/share/flands/
+book2.zip             usr/share/flands/
+book3.zip             usr/share/flands/
+book4.zip             usr/share/flands/
+book5.zip             usr/share/flands/
+book6.zip             usr/share/flands/
+original.user.ini     var/lib/flands/

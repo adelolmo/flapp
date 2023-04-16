@@ -1,0 +1,19 @@
+#! /bin/sh
+
+set -e
+
+case "$1" in
+  configure)
+    chmod 777 /var/lib/flands/user.ini
+    chmod -R 777 /var/lib/flands/savegames
+	  ;;
+  abort-upgrade|abort-remove|abort-deconfigure)
+	  ;;
+  *)
+	  echo "postinst called with unknown argument \`$1'" >&2
+	  exit 1
+	  ;;
+esac
+
+
+#DEBHELPER#
