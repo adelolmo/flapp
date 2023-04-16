@@ -4,7 +4,7 @@
 
 flands.jar
 all.zip
-book*.zip
+*.zip
 *.class
 
 debian/files
