@@ -11,7 +11,8 @@ Architecture: all
 Priority: optional
 Section: java
 Depends: ${misc:Depends}, default-jre-headless, ghostscript
-Description: Easily produce typographic quality HeroQuest© maps
- Its main output format is EPS, the de-facto standard in the printing industry;
- EPS files can be opened by almost any CG application (GNU Ghostscript is
- recommended); maps can also be exported in PNG and PDF formats.
+Description: An adaptation of the Fabled Lands gamebook series
+ The Fabled Lands – a vast world of unlimited adventure, full of strange places,
+ curious creatures and exotic cultures. There are no limits or linearity and you
+ may choose to follow any of the hundreds of quests – some short, some long – or
+ simply explore the world, trading goods from port to port.
