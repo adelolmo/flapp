@@ -19,15 +19,15 @@ override_dh_clean:
 override_dh_auto_build:
 	javac flands/*.*
 	jar cfm0 flands.jar MANIFEST.MF flands/*.class flands/resources/*.class flands/resources/*.properties
-	zip -j book1.zip book1/*
-	zip -j book2.zip book2/*
-	zip -j book3.zip book3/*
-	zip -j book4.zip book4/*
-	zip -j book5.zip book5/*
-	zip -j book6.zip book6/*
+	for i in 1 2 3 4 5 6; do zip -j book$$i.zip book$$i/*; done
 
 override_dh_install:
 	dh_install
+	for i in 1 2 3 4 5 6; do \
+		install -Dm644 book$$i.zip $(DESTDIR)$(TARGETDIR)/book$$i.zip; \
+		install -Dm644 illus$$i.zip $(DESTDIR)$(TARGETDIR)/illus$$i.zip; \
+	done
+
 	mv $(DESTDIR)/var/lib/flands/original.user.ini $(DESTDIR)/var/lib/flands/user.ini
 	echo "SaveDir=/var/lib/flands/savegames" >> $(DESTDIR)/var/lib/flands/user.ini
 	mv $(DESTDIR)$(TARGETDIR)/zipbooks.ini $(DESTDIR)$(TARGETDIR)/books.ini
