@@ -4,25 +4,9 @@ export DH_VERBOSE=1
 
 DESTDIR=debian/flands
 TARGETDIR=/usr/share/flands
-JAR=flands.jar
 
 %:
 	dh $@
-
-override_dh_strip_nondeterminism:
-	true
-
-override_dh_clean:
-	dh_clean
-	rm -f flands/*.class flands/resources/*.class *.zip
-
-override_dh_auto_build:
-	javac flands/*.*
-	jar cfm0 flands.jar MANIFEST.MF flands/*.class flands/resources/*.class flands/resources/*.properties
-	for i in 1 2 3 4 5 6; do \
-		zip -j book$$i.zip book$$i/*; \
-		zip -j illus$$i.zip illus$$i/*; \
-	done
 
 override_dh_install:
 	dh_install
