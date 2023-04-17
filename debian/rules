@@ -14,7 +14,7 @@ override_dh_strip_nondeterminism:
 
 override_dh_clean:
 	dh_clean
-	rm -f flands/*.class flands/resources/*.class book*.zip
+	rm -f flands/*.class flands/resources/*.class *.zip
 
 override_dh_auto_build:
 	javac flands/*.*
