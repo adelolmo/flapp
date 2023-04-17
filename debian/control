@@ -10,7 +10,7 @@ Package: flands
 Architecture: all
 Priority: optional
 Section: java
-Depends: ${misc:Depends}, default-jre-headless, ghostscript
+Depends: ${misc:Depends}, default-jre-headless
 Description: An adaptation of the Fabled Lands gamebook series
  The Fabled Lands – a vast world of unlimited adventure, full of strange places,
  curious creatures and exotic cultures. There are no limits or linearity and you
