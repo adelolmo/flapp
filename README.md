@@ -94,11 +94,16 @@ The main 'book' font can be changed via the 'Windows->Choose Font...' menu item.
 # Credits
 
 All source code is by Jonathan Mann.
+
 Book text copyright Dave Morris & Jamie Thomson, 1996.
+
 Illustrations copyright Russ Nicholson.
+
 Thanks to Andy for creating PDFs of the books. Book 5 was typed up personally, but the
 others could be converted far more quickly via cut and paste.
+
 Thanks to Andy and Simon for scanning the book illustrations (I lack scanner-fu).
+
 Thanks to all the bug-finders for improving the game and keeping me honest!
 
 # Bugs
