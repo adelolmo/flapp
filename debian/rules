@@ -10,10 +10,6 @@ TARGETDIR=/usr/share/flands
 
 override_dh_install:
 	dh_install
-	for i in 1 2 3 4 5 6; do \
-		install -Dm644 book$$i.zip $(DESTDIR)$(TARGETDIR)/book$$i.zip; \
-		install -Dm644 illus$$i.zip $(DESTDIR)$(TARGETDIR)/illus$$i.zip; \
-	done
 	mv $(DESTDIR)/var/lib/flands/original.user.ini $(DESTDIR)/var/lib/flands/user.ini
 	echo "SaveDir=/var/lib/flands/savegames" >> $(DESTDIR)/var/lib/flands/user.ini
 	mv $(DESTDIR)$(TARGETDIR)/zipbooks.ini $(DESTDIR)$(TARGETDIR)/books.ini
