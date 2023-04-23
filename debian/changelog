@@ -1,3 +1,11 @@
+flands (1.0.6~ado2) unstable; urgency=medium
+
+  * move build to Makefile
+  * makefile extract books to variable
+  * update homepage in control
+
+ -- Andoni del Olmo <andoni.delolmo@gmail.com>  Sun, 23 Apr 2023 21:06:20 +0200
+
 flands (1.0.6~ado1) unstable; urgency=medium
 
   * Debian package with illustrations included
