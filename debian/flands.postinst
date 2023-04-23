@@ -5,7 +5,7 @@ set -e
 case "$1" in
   configure)
     chmod 777 /var/lib/flands/user.ini
-    chmod -R 777 /var/lib/flands/savegames
+    chmod 777 /var/lib/flands/savegames
 	  ;;
   abort-upgrade|abort-remove|abort-deconfigure)
 	  ;;
