@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: Andoni del olmo <andoni.delolmo@gmail.com>
 Build-Depends: debhelper (>= 9), devscripts, default-jdk-headless
 Standards-Version: 4.3.0
-Homepage: https://github.com/adelolmo/heroscribe
+Homepage: https://github.com/adelolmo/flapp
 
 Package: flands
 Architecture: all
