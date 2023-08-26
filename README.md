@@ -15,6 +15,7 @@ https://sourceforge.net/projects/flapp/
 Use `make` to build the java application. It requires java installed in you computer.  
 Once the .jar file is created you can execute it with this command:
 
+    make
     java -jar flands.jar
 
 ## Build the debian package
