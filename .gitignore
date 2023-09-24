@@ -5,7 +5,7 @@
 flands.jar
 all.zip
 *.zip
-*.class
+**/*.class
 
 debian/files
 debian/flands.debhelper.log
