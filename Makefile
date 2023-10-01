@@ -14,4 +14,4 @@ flands.jar:
 	zip -jq $@ $(subst .zip,/*,$@)
 
 clean:
-	rm -f flands.jar **/**/*.class *.zip
+	rm -f flands.jar **/*.class flands/resources/*.class *.zip
