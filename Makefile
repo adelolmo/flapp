@@ -1,10 +1,10 @@
-booknumbers := 1 2 3 4 5 6
-books := $(foreach num,$(booknumbers),book$(num).zip)
-illus := $(foreach num,$(booknumbers),illus$(num).zip)
+books := 1 2 3 4 5 6
+bookZips := $(foreach num,$(books),book$(num).zip)
+illuZips := $(foreach num,$(books),illus$(num).zip)
 
 .PHONY: build clean
 
-build: flands.jar $(books) $(illus)
+build: flands.jar $(bookZips) $(illuZips)
 
 flands.jar:
 	javac flands/*.java
@@ -14,4 +14,4 @@ flands.jar:
 	zip -jq $@ $(subst .zip,/*,$@)
 
 clean:
-	rm -f flands.jar **/*.class flands/resources/*.class *.zip
+	rm -f flands.jar **/**/*.class *.zip
